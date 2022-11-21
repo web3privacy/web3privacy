@@ -37,6 +37,8 @@
 - [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets.
 - [Beam](https://beam.mw) - Best in class privacy coin and confidential DeFi platform.
 - [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps.
+- [PART](https://particl.io/coin) - A modern digital currency that respects your rights.
+- [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support.
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
@@ -79,6 +81,7 @@
 - [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum.
 - [Dero](https://dero.io) - A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy.
 - [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets. 
+- [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -133,6 +136,7 @@
 - [Dmail Network](https://dmail.ai) - Construct DID in Web3.0, Not Just an Email.
 - [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity.
 - [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data.
+- [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3.
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
@@ -154,6 +158,7 @@
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
 - [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
+- [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
@@ -163,9 +168,12 @@
 - [2FA Guru](https://www.2fa.guru) - a simple solution to interact with DApps by enforcing an additional signature check before each transaction.
 - [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes.
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage.
-- 
+
+## OS
+- [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility.
 
 ## Other
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
+- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce. 
