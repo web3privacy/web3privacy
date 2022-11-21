@@ -39,6 +39,8 @@
 - [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps.
 - [PART](https://particl.io/coin) - A modern digital currency that respects your rights.
 - [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support.
+- [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features.
+- [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation.
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
@@ -82,6 +84,9 @@
 - [Dero](https://dero.io) - A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy.
 - [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets. 
 - [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.
+- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online.
+- [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol. 
+- [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices.
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -93,6 +98,7 @@
 - [Zecrey Wallet](https://chrome.google.com/webstore/detail/zecrey/ojbpcbinjmochkhelkflddfnmcceomdi) - Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet. 
 - [Railway](https://railway.xyz) - DeFi privacy wallet.
 - [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet.
+- [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises.
 
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
