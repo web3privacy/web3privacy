@@ -32,6 +32,11 @@
 - [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
 - [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.
 - [SILK](https://github.com/scrtlabs/Grants/issues/22) - Private Algorithmic Stable Coin
+- [Decred](https://decred.org) - A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development.
+- [Firo](https://firo.org) - A privacy preserving cryptocurrency and ecosystem.
+- [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets.
+- [Beam](https://beam.mw) - Best in class privacy coin and confidential DeFi platform.
+- [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps.
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
@@ -70,6 +75,10 @@
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
 - [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
 - [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security.
+- [iExec](https://iex.ec) - The Web3 Marketplace.
+- [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum.
+- [Dero](https://dero.io) - A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy.
+- [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets. 
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -93,6 +102,7 @@
 - [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
 - [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service.
+- [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises
@@ -122,6 +132,7 @@
 - [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services.
 - [Dmail Network](https://dmail.ai) - Construct DID in Web3.0, Not Just an Email.
 - [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity.
+- [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data.
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
@@ -136,6 +147,12 @@
 - [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
 - [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network.
 - [ALTER](https://altermail.co) - Private & Secure Communication App Utilizing Secret Nework's secret contract technology.
+- [Session](https://getsession.org) - An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
+
+## Browser
+- [Lokinet](https://lokinet.org) - Lokinet is powered by a decentralised network of staked nodes. Nobody can shut it down. Nobody can spy on you.
+- [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
+- [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
