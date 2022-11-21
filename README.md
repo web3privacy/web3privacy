@@ -13,3 +13,11 @@
 - [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.
 - [Offshift](https://www.offshift.io) - Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics.
 - [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum
+
+## Currency
+- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
+- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure.
+- [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3.
+- [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast. 
+- [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions.
+- [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
