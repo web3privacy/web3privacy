@@ -153,6 +153,7 @@
 - [Lokinet](https://lokinet.org) - Lokinet is powered by a decentralised network of staked nodes. Nobody can shut it down. Nobody can spy on you.
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
 - [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
+- [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
