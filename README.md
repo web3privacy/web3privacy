@@ -41,6 +41,7 @@
 - [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support.
 - [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features.
 - [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation.
+- [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network.
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
