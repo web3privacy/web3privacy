@@ -149,3 +149,4 @@
 ## Other
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
+- [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
