@@ -1,5 +1,5 @@
 # web3privacy
-Web3privacy - a research project aimed to discover, highlight &amp; analyze privacy-preservation services and startups within the Web3 space.
+**Web3privacy** - a research project aimed to discover, highlight &amp; analyze privacy-preservation services and startups within the Web3 space.
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Logo.png?raw=true)
 
