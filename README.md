@@ -17,6 +17,8 @@
 - [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.
 - [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.
 - [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge.
+- [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi.
+- [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
@@ -26,10 +28,13 @@
 - [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions.
 - [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
 - [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.
+- [SILK](https://github.com/scrtlabs/Grants/issues/22) - Private Algorithmic Stable Coin
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
 - [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more.
+- [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.
+- [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
 - [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
 - [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
@@ -59,6 +64,8 @@
 - [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem.
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
+- [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
+- [Auth3](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -67,6 +74,9 @@
 - [Wasabi Wallet](https://wasabiwallet.io) - Open-source, non-custodial Bitcoin Wallet for desktop.
 - [Samourai Wallet](https://samouraiwallet.com) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
 - [Fedi](https://www.fedi.xyz) - Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
+- [Zecrey Wallet](https://chrome.google.com/webstore/detail/zecrey/ojbpcbinjmochkhelkflddfnmcceomdi) - Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet. 
+- [Railway](https://railway.xyz) - DeFi privacy wallet.
+- [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet.
 
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
@@ -76,4 +86,39 @@
 - [0xTIP](https://0xmonero.com/mixer) - 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. 
 - [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
 - [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform.
+- [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.
 
+## Layer 2
+- [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises
+- [Zecrey](https://polygon.technology/solutions/polygon-nightfall) - zkRollup basedLayer 2 protocol featuring privacy and scalability.
+- [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy.
+- [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
+
+## Smart contracts
+- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC
+
+## Hardware
+- [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
+- [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card)
+
+## VPN
+- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana.
+
+## Marketplace
+- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client. 
+
+## DID
+- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
+- [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure
+
+## Bridge
+- [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network
+- [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK.
+
+## Messaging
+- [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales.
+- [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
+- [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network.
+
+## KYC
+- [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
