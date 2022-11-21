@@ -69,6 +69,7 @@
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
 - [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
+- [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security.
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
