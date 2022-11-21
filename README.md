@@ -15,6 +15,8 @@
 - [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum
 - [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework.
 - [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.
+- [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.
+- [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge.
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
@@ -27,6 +29,7 @@
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
+- [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more.
 - [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
 - [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
@@ -55,3 +58,22 @@
 - [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data. 
 - [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem.
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
+- [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
+
+## Wallets
+- [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
+- [Treasure Chest](https://pirate.black/wallets/treasure-chest/) -  Treasure Chest is the main full node wallet for the ARRR cryptocurrency. 
+- [Edge](https://edge.app) - The most secure way to buy, store & trade crypto under your control.
+- [Wasabi Wallet](https://wasabiwallet.io) - Open-source, non-custodial Bitcoin Wallet for desktop.
+- [Samourai Wallet](https://samouraiwallet.com) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
+- [Fedi](https://www.fedi.xyz) - Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
+
+## Mixing services
+- [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
+- [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
+- [Coinomize](https://coinomize.biz) - Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you.
+- [Mix BTC](https://mixbtc.online) - bitcoin mixer.
+- [0xTIP](https://0xmonero.com/mixer) - 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. 
+- [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
+- [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform.
+
