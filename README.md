@@ -13,6 +13,7 @@
 - [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.
 - [Offshift](https://www.offshift.io) - Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics.
 - [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum
+- [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework.
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
@@ -21,3 +22,21 @@
 - [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast. 
 - [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions.
 - [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
+- [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.
+
+## Infrastructure
+- [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
+- [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
+- [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
+- [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
+- [NuCypher](https://www.nucypher.com) - Cryptographic Infrastructure for Privacy-Preserving Applications
+- [Anoma](https://anoma.net) - An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement.
+- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality.
+- [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain.
+- [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities.
+- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc.
+- [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world.
+- [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata.
+- [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions. 
+- [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.
+- 
