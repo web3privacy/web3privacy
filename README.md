@@ -152,6 +152,7 @@
 ## Bridge
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK.
+- [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys.
 
 ## Messaging
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales.
