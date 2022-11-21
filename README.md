@@ -19,6 +19,9 @@
 - [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge.
 - [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi.
 - [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.
+- [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum.
+- [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.
+- [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems.
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
@@ -65,7 +68,7 @@
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
-- [Auth3](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
+- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
 
 ## Wallets
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -87,6 +90,8 @@
 - [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
 - [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform.
 - [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.
+- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
+- [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service.
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises
@@ -100,6 +105,7 @@
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
 - [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card)
+- [RoninDojo Tanto](https://samouraiwallet.com/ronin) - Fully validating Bitcoin full node. Served over a Tor hidden service.
 
 ## VPN
 - [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana.
@@ -110,6 +116,15 @@
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
 - [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure
+- [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3
+- [Anonybit](https://www.anonybit.io) - Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)
+- [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services.
+- [Dmail Network](https://dmail.ai) - Construct DID in Web3.0, Not Just an Email.
+- [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity.
+
+## DAO
+- [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
+
 
 ## Bridge
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network
@@ -119,6 +134,18 @@
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales.
 - [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
 - [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network.
+- [ALTER](https://altermail.co) - Private & Secure Communication App Utilizing Secret Nework's secret contract technology.
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
+
+## dApps
+- [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs
+- [2FA Guru](https://www.2fa.guru) - a simple solution to interact with DApps by enforcing an additional signature check before each transaction.
+- [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes.
+- [Skiff Drive](https://skiff.com/drive) - Secure file storage.
+- 
+
+## Other
+- [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay
+- [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
