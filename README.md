@@ -109,6 +109,7 @@
 - [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online.
 - [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol. 
 - [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices.
+- [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web. 
 
 ## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
@@ -145,9 +146,11 @@
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
 - [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card)
 - [RoninDojo Tanto](https://samouraiwallet.com/ronin) - Fully validating Bitcoin full node. Served over a Tor hidden service.
+- [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process.
 
 ## VPN
-- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana.
+- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana. 
+- [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet.
 
 ## Marketplace
 - [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client. 
