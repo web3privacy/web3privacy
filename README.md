@@ -5,6 +5,8 @@
 
 ⚠️ **Note!** Highlighted projects facilitate a different approach to privacy. Their solutions maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
+Feel free to update the list!
+
 ## Contents
 - [DeFi](#DeFi)
 - [Currency](#Currency)
