@@ -42,6 +42,7 @@
 - [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features.
 - [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation.
 - [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network.
+- [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW.
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
@@ -148,7 +149,6 @@
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
 
-
 ## Bridge
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK.
@@ -160,6 +160,8 @@
 - [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network.
 - [ALTER](https://altermail.co) - Private & Secure Communication App Utilizing Secret Nework's secret contract technology.
 - [Session](https://getsession.org) - An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
+- [BCchat](https://bchat.beldex.io) - A decentralized, privacy messenger built over the Beldex blockchain. 
+- [Crypviser Secure Messenger](https://crypviser.network/) - The most private messaging app, based on Blockchain technology.
 
 ## Browser
 - [Lokinet](https://lokinet.org) - Lokinet is powered by a decentralised network of staked nodes. Nobody can shut it down. Nobody can spy on you.
