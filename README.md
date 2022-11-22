@@ -139,7 +139,7 @@
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises
-- [Zecrey](https://polygon.technology/solutions/polygon-nightfall) - zkRollup basedLayer 2 protocol featuring privacy and scalability.
+- [Zecrey](https://www.zecrey.com) - zkRollup basedLayer 2 protocol featuring privacy and scalability.
 - [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy.
 - [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
 - [StarkEX](https://starkware.co/starkex/) - A Layer-2 scalability engine, live on Ethereum Mainnet.
