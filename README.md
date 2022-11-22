@@ -151,7 +151,8 @@
 - [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana. 
 - [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet.
 - [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client.
-- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/ ) - A decentralized VPN Client utilizing the Sentinel Blockchain
+- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain.
+- [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
@@ -187,6 +188,7 @@
 - [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
 - [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
+- [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value.
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
