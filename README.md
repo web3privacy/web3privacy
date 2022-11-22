@@ -23,6 +23,7 @@
 - [dApps](#dApps) 
 - [OS](#OS)
 - [Other](#Other)
+- [Alliances](#Alliances)
 
 ## DeFi
 - [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network.
@@ -208,3 +209,7 @@
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
 - [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce.
 - [Spinner](https://spinner.cash) - Private transactions for ICP and BTC 
+
+## Alliances
+- [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
+- [Universal Privacy Alliance](https://privacyalliance.com) - The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies.
