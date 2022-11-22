@@ -14,7 +14,6 @@
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
 - [VPN](#VPN) 
-- [Marketplace](#Marketplace)
 - [DID](#DID)
 - [DAO](#DAO)
 - [Bridge](#Bridge)
@@ -151,9 +150,8 @@
 ## VPN
 - [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana. 
 - [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet.
-
-## Marketplace
-- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client. 
+- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client.
+- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/ ) - A decentralized VPN Client utilizing the Sentinel Blockchain
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
