@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
 
-⚠️ **Note!** Highlighted projects facilitate a different approach to privacy. Their solutions are at various stages of development from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why Web3Privacy Now is ongoing research: aggregation (we are here now) - audit - scoring.
+⚠️ **Note!** Highlighted projects facilitate a different approach to privacy. Their solutions maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
 ## Contents
 - [DeFi](#DeFi)
