@@ -69,6 +69,7 @@
 - [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more.
 - [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.
 - [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
+- [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve.
 - [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
 - [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
@@ -141,6 +142,7 @@
 - [Zecrey](https://polygon.technology/solutions/polygon-nightfall) - zkRollup basedLayer 2 protocol featuring privacy and scalability.
 - [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy.
 - [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
+- [StarkEX](https://starkware.co/starkex/) - A Layer-2 scalability engine, live on Ethereum Mainnet.
 
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
@@ -208,7 +210,11 @@
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
 - [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce.
-- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC 
+- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC.
+- [Incognito](https://incognito.org) - The privacy marketplace for crypto assets.
+- [SkyNet](https://skynetlabs.com) - Skynet is an open protocol for hosting data and web applications on the decentralized web using Sia.
+- [VUP](https://vup.app) - Private and decentralized cloud storage.
+- [Sia](https://sia.tech) - Decentralized data storage.
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
