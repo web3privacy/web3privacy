@@ -7,6 +7,23 @@
 
 ## Contents
 - [DeFi](#DeFi)
+- [Currency](#Currency)
+- [Infrastructure](#Infrastructure)
+- [Wallet](#Wallet)
+- [Mixing services](#Mixing services)
+- [Layer 2](#Layer 2)
+- [Hardware](#Hardware)
+- [VPN](#VPN) 
+- [Marketplace](#Marketplace)
+- [DID](#DID)
+- [DAO](#DAO)
+- [Bridge](#Bridge)
+- [Messaging](#Messaging)
+- [Browser](#Browser)
+- [KYC](#KYC)
+- [dApps](#dApps) 
+- [OS](#OS)
+- [Other](#Other)
 
 ## DeFi
 - [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network.
@@ -93,7 +110,7 @@
 - [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol. 
 - [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices.
 
-## Wallets
+## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
 - [Treasure Chest](https://pirate.black/wallets/treasure-chest/) -  Treasure Chest is the main full node wallet for the ARRR cryptocurrency. 
 - [Edge](https://edge.app) - The most secure way to buy, store & trade crypto under your control.
@@ -123,9 +140,6 @@
 - [Zecrey](https://polygon.technology/solutions/polygon-nightfall) - zkRollup basedLayer 2 protocol featuring privacy and scalability.
 - [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy.
 - [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
-
-## Smart contracts
-- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC
 
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
@@ -189,4 +203,5 @@
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
-- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce. 
+- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce.
+- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC 
