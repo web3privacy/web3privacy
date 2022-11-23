@@ -196,6 +196,9 @@ Feel free to update the list!
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
 
+## NFT
+- [Stashh](https://stashh.io) - Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. ([GitHub](https://github.com/stashh-labs))
+
 ## Other
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
