@@ -95,14 +95,14 @@ Feel free to update the list!
 - [Omnia](https://omniatech.io) - Secure blockchain node infrastructure ([GitHub](https://github.com/omniaprotocol)) 
 - [Unova](https://unova.io) - The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases.
 - [Light Protocol](https://www.lightprotocol.com) - The Privacy Layer for Solana ([Docs](https://docs.lightprotocol.com)) 
-- [Verida](https://www.verida.io) - A multi-chain protocol for interoperable database storage and messaging built on decentralized identity.
-- [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization.
-- [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data. 
+- [Verida](https://www.verida.io) - A multi-chain protocol for interoperable database storage and messaging built on decentralized identity ([GitHub](https://github.com/verida/)) 
+- [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization ([Docs](https://partisiablockchain.gitlab.io/documentation/index.html)) 
+- [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data ([GitHub](https://github.com/integritee-network))
 - [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem.
-- [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
-- [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
+- [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy ([GitHub](https://github.com/fedimint))
+- [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
-- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.✨️**ZK**
+- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** https://github.com/AleoHQ
 - [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security.
 - [iExec](https://iex.ec) - The Web3 Marketplace.
 - [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum.
