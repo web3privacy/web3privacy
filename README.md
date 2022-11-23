@@ -46,25 +46,25 @@ Feel free to update the list!
 - [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems ✨️**ZK**
 
 ## Currency
-- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
-- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-- [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3.
-- [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast. 
-- [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions.
+- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
+- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure ([GitHub](https://github.com/monero-ecosystem)) 
+- [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3 ([GitHub](https://github.com/iron-fish)) 
+- [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast ([GitHub](https://github.com/mobilecoinofficial))  
+- [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions ([GitHub](https://github.com/mimblewimble/grin))
 - [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
-- [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.
+- [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.([GitHub](https://github.com/PirateNetwork))
 - [SILK](https://github.com/scrtlabs/Grants/issues/22) - Private Algorithmic Stable Coin
-- [Decred](https://decred.org) - A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development.
-- [Firo](https://firo.org) - A privacy preserving cryptocurrency and ecosystem.
-- [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets.
-- [Beam](https://beam.mw) - Best in class privacy coin and confidential DeFi platform.
-- [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps.
-- [PART](https://particl.io/coin) - A modern digital currency that respects your rights.
-- [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support.
-- [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features.
-- [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation.
-- [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network.
-- [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW.
+- [Decred](https://decred.org) - A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development ([Docs](https://docs.decred.org)) 
+- [Firo](https://firo.org) - A privacy preserving cryptocurrency and ecosystem ([GitHub](https://github.com/firoorg/firo)) 
+- [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets ([GitHub](https://github.com/PIVX-Project/PIVX/)) 
+- [Beam](https://beam.mw) - Best in class privacy coin and confidential DeFi platform ([GitHub](https://github.com/BeamMW/beam)) 
+- [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps ([GitHub](https://github.com/oxen-io)) 
+- [PART](https://particl.io/coin) - A modern digital currency that respects your rights ([GitHub](https://github.com/particl)) 
+- [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support ([GitHub](https://github.com/hyle-team/zano))
+- [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features ([GitHub](https://github.com/navcoin))
+- [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation ([GitHub](https://github.com/ColossusCoinXT))
+- [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network ([GitHub](https://github.com/deeponion/deeponion/))
+- [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW ([GitHub](https://github.com/Beldex-Coin))
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
