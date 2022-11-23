@@ -100,7 +100,7 @@ Feel free to update the list!
 - [Verida](https://www.verida.io) - A multi-chain protocol for interoperable database storage and messaging built on decentralized identity ([GitHub](https://github.com/verida/)) 
 - [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization ([Docs](https://partisiablockchain.gitlab.io/documentation/index.html)) 
 - [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data ([GitHub](https://github.com/integritee-network))
-- [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem.
+- [XX network](https://xx.network) -  the first and only quantum-resistant and privacy-focused blockchain ecosystem ([GitLab](https://git.xx.network/explore))
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy ([GitHub](https://github.com/fedimint))
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
@@ -175,14 +175,14 @@ Feel free to update the list!
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
 
 ## Bridge
-- [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network
-- [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK.
-- [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys.
+- [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network ([GitHub](https://github.com/shinobi-protocol)) 
+- [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK ([GitHub](https://github.com/critesjosh/aztec-sdk-starter))
+- [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys ([GitHub](https://docs.chainport.io))
 
 ## Messaging
-- [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales.
-- [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
-- [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network.
+- [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
+- [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology ([GitHub](https://github.com/status-im/)) 
+- [xx messenger](https://elixxir.io) - An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network ([GitHub](https://git.xx.network/elixxir/client-android)) 
 - [ALTER](https://altermail.co) - Private & Secure Communication App Utilizing Secret Nework's secret contract technology.
 - [Session](https://getsession.org) - An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 - [BCchat](https://bchat.beldex.io) - A decentralized, privacy messenger built over the Beldex blockchain. 
