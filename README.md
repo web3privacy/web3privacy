@@ -125,6 +125,7 @@ Feel free to update the list!
 - [Railway](https://railway.xyz) - DeFi privacy wallet 
 - [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet ([GitHub](https://github.com/brave/brave-wallet-docs))
 - [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises ([GitHub](https://github.com/block-wallet))
+- [Starshell](https://starshell.net) - A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem. ([GitHub](https://github.com/SolarRepublic))
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
