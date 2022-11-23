@@ -30,20 +30,20 @@ Feel free to update the list!
 ## DeFi
 - [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network ([GitHub](https://github.com/securesecrets/shade))
 - [Silent protocol](https://www.silentprotocol.org) - Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.
-- [XATA](https://www.xata.fi) - A MEV Minimization solution to survive the Dark Forest
-- [Sienna Network](https://sienna.network) - Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent.
-- [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana.
-- [Offshift](https://www.offshift.io) - Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics.
-- [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum
-- [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework.
-- [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.
-- [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**
-- [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge.
-- [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi.
-- [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.✨️**ZK**
-- [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum.
-- [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.
-- [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems.
+- [XATA](https://www.xata.fi) - A MEV Minimization solution to survive the Dark Forest ([Docs](https://docs.xata.fi))
+- [Sienna Network](https://sienna.network) - Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent ([GitHub](https://github.com/SiennaNetwork))
+- [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana. ([GitHub](https://github.com/elusiv-privacy))
+- [Offshift](https://www.offshift.io) - Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics ([GitLab](https://open.offshift.io/offshiftXFT))
+- [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum ([GitHub](https://github.com/EspressoSystems/cape))
+- [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. ([GitHub](https://github.com/Evanesco-Labs))
+- [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.([GitHub](https://github.com/dusk-network))
+- [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK** ([GitHub](https://github.com/Manta-Network))
+- [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge ✨️**ZK** ([GitHub](https://github.com/webb-tools))
+- [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK**([GitHub](https://github.com/pantherprotocol)) 
+- [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.✨️**ZK** ([Docs](https://docs.aztec.network/zk-money/userguide))
+- [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum ([GitHub](https://github.com/ScopeLift/umbra-protocol))
+- [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.([Docs](https://docs.lightprotocol.com))
+- [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems ✨️**ZK**
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees.
