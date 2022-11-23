@@ -37,10 +37,10 @@ Feel free to update the list!
 - [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum
 - [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework.
 - [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.
-- [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.
+- [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**
 - [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge.
 - [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi.
-- [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.
+- [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.✨️**ZK**
 - [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum.
 - [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.
 - [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems.
@@ -71,7 +71,7 @@ Feel free to update the list!
 - [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more. ✨️**ZK**
 - [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.
 - [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
-- [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve.
+- [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve.✨️**ZK**
 - [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
 - [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
@@ -85,9 +85,9 @@ Feel free to update the list!
 - [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata.
 - [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions. 
 - [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol
-- [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains
+- [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK**
 - [Parami](https://parami.io) - Parami is short for para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service.
-- [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer
+- [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK**
 - [Nulink](https://www.nulink.org) - Privacy-preserving technology for decentralized applications
 - [RUBY](https://www.ruby.xyz) - The Decentralized Privacy-Centric Protocol for Web3
 - [Raze Network](https://www.raze.network) - Raze Network is a EVM-compatible Privacy Layer on Multichains
@@ -102,7 +102,7 @@ Feel free to update the list!
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy.
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases.
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
-- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.
+- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs.✨️**ZK**
 - [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security.
 - [iExec](https://iex.ec) - The Web3 Marketplace.
 - [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum.
@@ -196,7 +196,7 @@ Feel free to update the list!
 - [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value.
 
 ## KYC
-- [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.
+- [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK**
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs
