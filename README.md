@@ -158,6 +158,7 @@ Feel free to update the list!
 - [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client.
 - [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain.
 - [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
+- [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport 
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
@@ -188,7 +189,6 @@ Feel free to update the list!
 - [Crypviser Secure Messenger](https://crypviser.network/) - The most private messaging app, based on Blockchain technology.
 
 ## Browser
-- [Lokinet](https://lokinet.org) - Lokinet is powered by a decentralised network of staked nodes. Nobody can shut it down. Nobody can spy on you.
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
 - [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
