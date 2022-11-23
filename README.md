@@ -39,7 +39,7 @@ Feel free to update the list!
 - [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.([GitHub](https://github.com/dusk-network))
 - [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge ✨️**ZK** ([GitHub](https://github.com/webb-tools))
-- [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK**([GitHub](https://github.com/pantherprotocol)) 
+- [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** ([GitHub](https://github.com/pantherprotocol)) 
 - [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.✨️**ZK** ([Docs](https://docs.aztec.network/zk-money/userguide))
 - [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum ([GitHub](https://github.com/ScopeLift/umbra-protocol))
 - [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.([Docs](https://docs.lightprotocol.com))
