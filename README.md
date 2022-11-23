@@ -218,6 +218,7 @@ Feel free to update the list!
 - [VUP](https://vup.app) - Private and decentralized cloud storage.
 - [Sia](https://sia.tech) - Decentralized data storage.
 - [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox.
+- [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
