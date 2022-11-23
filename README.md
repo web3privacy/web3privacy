@@ -133,10 +133,10 @@ Feel free to update the list!
 - [Mix BTC](https://mixbtc.online) - bitcoin mixer.
 - [0xTIP](https://0xmonero.com/mixer) - 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. 
 - [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
-- [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform.
-- [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.
+- [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform. ([Docs](https://docs.samourai.io/en/whirlpool))
+- [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses ([Docs](https://github.com/cycloneprotocol/cyclone-contracts))  
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
-- [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service.
+- [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
 - [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
 
 ## Layer 2
