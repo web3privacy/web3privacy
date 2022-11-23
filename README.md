@@ -161,18 +161,19 @@ Feel free to update the list!
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport 
 
 ## DID
-- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers
-- [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure
-- [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3
+- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://gitlab.demlabs.net/cellframe/cellframe-sdk))
+- [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) 
+- [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3  
 - [Anonybit](https://www.anonybit.io) - Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)
-- [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services.
+- [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** ([GitHub](https://github.com/0xPolygonID)) 
 - [Dmail Network](https://dmail.ai) - Construct DID in Web3.0, Not Just an Email.
-- [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity.
-- [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data.
-- [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3.
+- [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity  ([GitHub](https://github.com/litentry)) 
+- [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data ([GitHub](https://github.com/VerusCoin)) 
+- [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3 ([GitHub](https://github.com/findoranetwork))
+- [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
 
 ## DAO
-- [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting 
+- [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
 
 ## Bridge
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network ([GitHub](https://github.com/shinobi-protocol)) 
