@@ -12,7 +12,6 @@ Feel free to update the list!
 - [Currency](#Currency)
 - [Infrastructure](#Infrastructure)
 - [Wallet](#Wallet)
-- [Mixing services](#Mixing-services)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
 - [VPN](#VPN) 
@@ -26,6 +25,7 @@ Feel free to update the list!
 - [OS](#OS)
 - [Other](#Other)
 - [Alliances](#Alliances)
+- [Mixing services](#Mixing-services)
 
 ## DeFi
 - [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network ([GitHub](https://github.com/securesecrets/shade))
@@ -126,19 +126,6 @@ Feel free to update the list!
 - [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet ([GitHub](https://github.com/brave/brave-wallet-docs))
 - [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises ([GitHub](https://github.com/block-wallet))
 
-## Mixing services
-- [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
-- [TC](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
-- [Coinomize](https://coinomize.biz) - Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you.
-- [Mix BTC](https://mixbtc.online) - bitcoin mixer.
-- [0xTIP](https://0xmonero.com/mixer) - 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. 
-- [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
-- [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform. ([Docs](https://docs.samourai.io/en/whirlpool))
-- [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses ([Docs](https://github.com/cycloneprotocol/cyclone-contracts))  
-- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
-- [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
-- [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
-
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
 - [Zecrey](https://www.zecrey.com) - zkRollup basedLayer 2 protocol featuring privacy and scalability ([GitHub](https://github.com/Zecrey-Labs)) 
@@ -224,3 +211,16 @@ Feel free to update the list!
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
 - [Universal Privacy Alliance](https://privacyalliance.com) - The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies.
+
+## Mixing services
+- [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
+- [TC](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
+- [Coinomize](https://coinomize.biz) - Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you.
+- [Mix BTC](https://mixbtc.online) - bitcoin mixer.
+- [0xTIP](https://0xmonero.com/mixer) - 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. 
+- [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) - Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions.
+- [Whirlpool](https://samouraiwallet.com/whirlpool) - Break the link your coins leave behind with built in CoinJoin available on any platform. ([Docs](https://docs.samourai.io/en/whirlpool))
+- [Cyclone](https://cyclone.xyz) - Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses ([Docs](https://github.com/cycloneprotocol/cyclone-contracts))  
+- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
+- [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
+- [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
