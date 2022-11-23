@@ -205,19 +205,19 @@ Feel free to update the list!
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage.
 
 ## OS
-- [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility.
+- [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
 
 ## Other
-- [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay
-- [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain.
-- [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution).
-- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce.
-- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC.
-- [Incognito](https://incognito.org) - The privacy marketplace for crypto assets.
-- [SkyNet](https://skynetlabs.com) - Skynet is an open protocol for hosting data and web applications on the decentralized web using Sia.
-- [VUP](https://vup.app) - Private and decentralized cloud storage.
-- [Sia](https://sia.tech) - Decentralized data storage.
-- [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox.
+- [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
+- [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
+- [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution) ([GitHub](https://github.com/automata-network/conveyor-sdk))
+- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce ([GitHub](https://github.com/particl))
+- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC ([GitHub](https://github.com/spinner-cash))
+- [Incognito](https://incognito.org) - The privacy marketplace for crypto assets ([GitHub](https://github.com/incognitochain))
+- [SkyNet](https://skynetlabs.com) - Skynet is an open protocol for hosting data and web applications on the decentralized web using Sia ([GitHub](https://github.com/SkynetLabs)) 
+- [VUP](https://vup.app) - Private and decentralized cloud storage ([GitHub](https://github.com/redsolver/vup)) 
+- [Sia](https://sia.tech) - Decentralized data storage ([GitHub](https://github.com/SiaFoundation)) 
+- [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox
 - [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
 
 ## Alliances
