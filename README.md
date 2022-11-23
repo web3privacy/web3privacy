@@ -65,6 +65,8 @@ Feel free to update the list!
 - [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation ([GitHub](https://github.com/ColossusCoinXT))
 - [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network ([GitHub](https://github.com/deeponion/deeponion/))
 - [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW ([GitHub](https://github.com/Beldex-Coin))
+- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online [GitHub](https://github.com/ghost-coin))  
+- [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol [GitHub](https://github.com/BlackHatCoin)) 
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application ([GitHub](https://github.com/darkrenaissance/darkfi))
@@ -102,17 +104,15 @@ Feel free to update the list!
 - [Fedimint](https://fedimint.org) -  An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy ([GitHub](https://github.com/fedimint))
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Auth3](https://auth3.network) -  Authentic Privacy Computing Network into Web 3.0
-- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** https://github.com/AleoHQ
-- [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security.
-- [iExec](https://iex.ec) - The Web3 Marketplace.
-- [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum.
-- [Dero](https://dero.io) - A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy.
-- [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets. 
-- [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.
-- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online.
-- [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol. 
-- [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices.
-- [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web. 
+- [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** ([GitHub](https://github.com/AleoHQ)) 
+- [Automata Network](https://docs.ata.network) - Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security [GitHub](https://github.com/automata-network)) 
+- [iExec](https://iex.ec) - The Web3 Marketplace [GitHub](https://github.com/iExecBlockchainComputing)) 
+- [Keep](https://keep.network/info) - The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum [GitHub](https://github.com/keep-network/)) 
+- [Dero](https://dero.io) - A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy [Docs](https://docs.dero.io)) 
+- [Haven Protocol](https://havenprotocol.org) - Haven Protocol is the world’s only network of private stable assets [GitHub](https://github.com/haven-protocol-org))  
+- [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  
+- [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices [GitHub](https://github.com/scala-network/))  
+- [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web [GitHub](https://github.com/MysteriumNetwork))   
 
 ## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
