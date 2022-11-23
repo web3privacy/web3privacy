@@ -67,18 +67,18 @@ Feel free to update the list!
 - [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW ([GitHub](https://github.com/Beldex-Coin))
 
 ## Infrastructure
-- [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
-- [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more. ✨️**ZK**
-- [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.
-- [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
-- [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve.✨️**ZK**
-- [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy.
-- [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence.
-- [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world.
-- [NuCypher](https://www.nucypher.com) - Cryptographic Infrastructure for Privacy-Preserving Applications
-- [Anoma](https://anoma.net) - An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement.
-- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality.
-- [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain.
+- [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application ([GitHub](https://github.com/darkrenaissance/darkfi))
+- [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more ✨️**ZK** ([GitHub](https://github.com/manta-network))
+- [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers ([GitHub](https://github.com/nymtech))
+- [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 ([GitHub](https://github.com/scrtlabs/SecretNetwork))
+- [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** ([GitHub](https://github.com/MinaProtocol/mina))
+- [Oasis Network](https://oasisprotocol.org) - The Oasis Network is a privacy-enabled blockchain platform for open finance and a responsible data economy ([GitHub](https://github.com/oasisprotocol))
+- [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence ([GitHub](https://github.com/PlatONnetwork))
+- [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world ([GitHub](https://github.com/penumbra-zone))
+- [NuCypher](https://www.nucypher.com) - Cryptographic Infrastructure for Privacy-Preserving Applications ([GitHub](https://github.com/nucypher/))
+- [Anoma](https://anoma.net) - An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement ([GitHub](https://github.com/anoma))
+- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
+- [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain ([GitHub](https://github.com/EspressoSystems/))
 - [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities.
 - [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc.
 - [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world.
