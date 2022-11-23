@@ -23,6 +23,7 @@ Feel free to update the list!
 - [KYC](#KYC)
 - [dApps](#dApps) 
 - [OS](#OS)
+- [NFT](#NFT)
 - [Other](#Other)
 - [Alliances](#Alliances)
 - [Mixing services](#Mixing-services)
