@@ -113,6 +113,7 @@ Feel free to update the list!
 - [Utopia](https://u.is/en/) - All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  
 - [Scala](https://scalaproject.io) - Scala is an open-source cryptocurrency. Distributed wealth for all devices ([GitHub](https://github.com/scala-network/))  
 - [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web ([GitHub](https://github.com/MysteriumNetwork))   
+- [Arcana](https://arcana.network) - Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform. Takes minutes to integrate ([Docs](https://docs.beta.arcana.network))  
 
 ## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension))
