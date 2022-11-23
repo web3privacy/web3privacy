@@ -148,20 +148,20 @@ Feel free to update the list!
 
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
-- [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card)
+- [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card) ([GitHub](https://github.com/boringprotocol/motherbored))
 - [RoninDojo Tanto](https://samouraiwallet.com/ronin) - Fully validating Bitcoin full node. Served over a Tor hidden service.
-- [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process.
+- [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server))
 
 ## VPN
-- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana. 
-- [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet.
-- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client.
-- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain.
+- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana ([Docs](https://docs.boringprotocol.io/bop/information/boring-protocol)) 
+- [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet ([GitHub](https://github.com/mysteriumnetwork/node)) 
+- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client  ([GitHub](https://github.com/OrchidTechnologies)) 
+- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain ([GitHub](https://github.com/MathNodes)) 
 - [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport 
 
 ## DID
-- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://gitlab.demlabs.net/cellframe/cellframe-sdk))
+- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
 - [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) 
 - [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3  
 - [Anonybit](https://www.anonybit.io) - Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)
