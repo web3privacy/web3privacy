@@ -203,6 +203,7 @@ Feel free to update the list!
 - [Stashh](https://stashh.io) - Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. ([GitHub](https://github.com/stashh-labs))
 - [Legendao](https://legendao.io) - The play-to-mint NFT platform, powered by Secret Network, that enables top artists, brands, and NFT creators to launch their NFT projects in a unique, gamified way.
 - [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) - new supported format by Arcana preserving privacy within NFT minting ([Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/)) 
+- [Paras](https://eprint.iacr.org/2022/976.pdf) - a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances (concept by Vanishree Rao)
 
 ## Other
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
