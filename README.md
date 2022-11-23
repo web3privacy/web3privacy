@@ -196,13 +196,13 @@ Feel free to update the list!
 - [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value.
 
 ## KYC
-- [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK**
+- [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
 
 ## dApps
-- [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs
-- [2FA Guru](https://www.2fa.guru) - a simple solution to interact with DApps by enforcing an additional signature check before each transaction.
-- [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes.
-- [Skiff Drive](https://skiff.com/drive) - Secure file storage.
+- [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
+- [2FA Guru](https://www.2fa.guru) - a simple solution to interact with DApps by enforcing an additional signature check before each transaction ([GitHub](https://github.com/skiff-org/skiff-mail))
+- [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes ([GitHub](https://github.com/skiff-org))
+- [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
