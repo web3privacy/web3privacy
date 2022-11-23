@@ -79,22 +79,22 @@ Feel free to update the list!
 - [Anoma](https://anoma.net) - An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement ([GitHub](https://github.com/anoma))
 - [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
 - [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain ([GitHub](https://github.com/EspressoSystems/))
-- [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities.
-- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc.
-- [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world.
-- [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata.
-- [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions. 
-- [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol
-- [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK**
+- [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities ([GitHub](https://github.com/findoranetwork))
+- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
+- [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world ([GitHub](https://github.com/suterusu-team))
+- [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata ([GitHub](https://github.com/hoprnet))
+- [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions ([GitHub](https://github.com/Concordium))
+- [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
+- [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** ([GitHub](https://github.com/horizenofficial))
 - [Parami](https://parami.io) - Parami is short for para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service.
-- [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK**
-- [Nulink](https://www.nulink.org) - Privacy-preserving technology for decentralized applications
-- [RUBY](https://www.ruby.xyz) - The Decentralized Privacy-Centric Protocol for Web3
-- [Raze Network](https://www.raze.network) - Raze Network is a EVM-compatible Privacy Layer on Multichains
+- [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** ([GitHub](https://github.com/mystikonetwork)) 
+- [Nulink](https://www.nulink.org) - Privacy-preserving technology for decentralized applications ([GitHub](https://github.com/NuLink-network)) 
+- [RUBY](https://www.ruby.xyz) - The Decentralized Privacy-Centric Protocol for Web3 ([GitHub](https://github.com/Ruby-Protocol)) 
+- [Raze Network](https://www.raze.network) - Raze Network is a EVM-compatible Privacy Layer on Multichains ([GitHub](https://github.com/Raze-Net)) 
 - [Privatixy](https://privatixy.io) - Privatixy Protocol is an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. 
-- [Omnia](https://omniatech.io) - Secure blockchain node infrastructure
+- [Omnia](https://omniatech.io) - Secure blockchain node infrastructure ([GitHub](https://github.com/omniaprotocol)) 
 - [Unova](https://unova.io) - The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases.
-- [Light Protocol](https://www.lightprotocol.com) - The Privacy Layer for Solana
+- [Light Protocol](https://www.lightprotocol.com) - The Privacy Layer for Solana ([Docs](https://docs.lightprotocol.com)) 
 - [Verida](https://www.verida.io) - A multi-chain protocol for interoperable database storage and messaging built on decentralized identity.
 - [Partisia blockchain](https://partisiablockchain.com) - Partisia Blockchain is built for trust, transparency, privacy, and speed of light finalization.
 - [Integritee](https://integritee.network) - Integritee is the most scalable public blockchain solution for securely processing sensitive business or personal data. 
