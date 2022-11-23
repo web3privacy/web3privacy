@@ -68,7 +68,7 @@ Feel free to update the list!
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application.
-- [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more.
+- [Manta Network](https://www.manta.network) - On-Chain Privacy for Web 3, DeFi and more. ✨️**ZK**
 - [NYM](https://nymtech.net) - Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.
 - [Secret Network](https://scrt.network) - Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
 - [Mina](https://minaprotocol.com) - The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve.
