@@ -115,16 +115,16 @@ Feel free to update the list!
 - [Mysterium](https://www.mysterium.network) - An open-source ecosystem of tools and infrastructure to liberate the web [GitHub](https://github.com/MysteriumNetwork))   
 
 ## Wallet
-- [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services.
-- [Treasure Chest](https://pirate.black/wallets/treasure-chest/) -  Treasure Chest is the main full node wallet for the ARRR cryptocurrency. 
-- [Edge](https://edge.app) - The most secure way to buy, store & trade crypto under your control.
-- [Wasabi Wallet](https://wasabiwallet.io) - Open-source, non-custodial Bitcoin Wallet for desktop.
-- [Samourai Wallet](https://samouraiwallet.com) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured.
-- [Fedi](https://www.fedi.xyz) - Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
-- [Zecrey Wallet](https://chrome.google.com/webstore/detail/zecrey/ojbpcbinjmochkhelkflddfnmcceomdi) - Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet. 
-- [Railway](https://railway.xyz) - DeFi privacy wallet.
-- [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet.
-- [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises.
+- [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension))
+- [Treasure Chest](https://pirate.black/wallets/treasure-chest/) -  Treasure Chest is the main full node wallet for the ARRR cryptocurrency ([GitHub](https://github.com/PirateNetwork/PirateWallet-Lite)) 
+- [Edge](https://edge.app) - The most secure way to buy, store & trade crypto under your control ([GitHub](https://github.com/EdgeApp))
+- [Wasabi Wallet](https://wasabiwallet.io) - Open-source, non-custodial Bitcoin Wallet for desktop ([GitHub](https://github.com/zkSNACKs/WalletWasabi))
+- [Samourai Wallet](https://samouraiwallet.com) - A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured ([Docs](https://docs.samourai.io/wallet/start))
+- [Fedi](https://www.fedi.xyz) - Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively 
+- [Zecrey Wallet](https://chrome.google.com/webstore/detail/zecrey/ojbpcbinjmochkhelkflddfnmcceomdi) - Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet ([GitHub](https://github.com/Zecrey-Labs))
+- [Railway](https://railway.xyz) - DeFi privacy wallet 
+- [Brave Wallet](https://brave.com/wallet/) - The secure multi-chain crypto wallet ([GitHub](https://github.com/brave/brave-wallet-docs))
+- [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises ([GitHub](https://github.com/block-wallet))
 
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
