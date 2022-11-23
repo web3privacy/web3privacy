@@ -219,6 +219,7 @@ Feel free to update the list!
 - [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox
 - [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
 - [Meson](https://mesonmix.net) - a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions ([GitHub](https://github.com/hashcloak/Meson))
+- [Lava](https://lavanet.xyz) - Lava pairs Providers with Applications for scalable, private and uncensored access to Web3.
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
