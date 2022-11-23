@@ -28,7 +28,7 @@ Feel free to update the list!
 - [Alliances](#Alliances)
 
 ## DeFi
-- [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network. [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][https://github.com/securesecrets/shade]
+- [Shade](https://shadeprotocol.io) - Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network.
 - [Silent protocol](https://www.silentprotocol.org) - Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.
 - [XATA](https://www.xata.fi) - A MEV Minimization solution to survive the Dark Forest
 - [Sienna Network](https://sienna.network) - Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent.
