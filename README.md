@@ -158,7 +158,7 @@ Feel free to update the list!
 - [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client  ([GitHub](https://github.com/OrchidTechnologies)) 
 - [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain ([GitHub](https://github.com/MathNodes)) 
 - [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
-- [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport 
+- [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
