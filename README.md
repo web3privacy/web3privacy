@@ -32,7 +32,7 @@ Feel free to update the list!
 - [Silent protocol](https://www.silentprotocol.org) - Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.
 - [XATA](https://www.xata.fi) - A MEV Minimization solution to survive the Dark Forest ([Docs](https://docs.xata.fi))
 - [Sienna Network](https://sienna.network) - Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent ([GitHub](https://github.com/SiennaNetwork))
-- [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana. ([GitHub](https://github.com/elusiv-privacy))
+- [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana ✨️**ZK** ([GitHub](https://github.com/elusiv-privacy))
 - [Offshift](https://www.offshift.io) - Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics ([GitLab](https://open.offshift.io/offshiftXFT))
 - [CAPE](https://www.espressosys.com/product) - Configurable Asset Privacy for Ethereum ([GitHub](https://github.com/EspressoSystems/cape))
 - [Evanesco](https://evanesco.org) - A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. ([GitHub](https://github.com/Evanesco-Labs))
