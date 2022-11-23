@@ -190,10 +190,10 @@ Feel free to update the list!
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
-- [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech.
+- [Brave](http://brave.com) - Browse privately. Search privately. And ditch Big Tech ([GitHub](https://github.com/brave/brave-browser))
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
 - [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
-- [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value.
+- [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value ([GitHub](https://github.com/Decentr-net))
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
