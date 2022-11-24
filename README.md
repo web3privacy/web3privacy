@@ -45,6 +45,8 @@ Feel free to update the list!
 - [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum ([GitHub](https://github.com/ScopeLift/umbra-protocol))
 - [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.([Docs](https://docs.lightprotocol.com))
 - [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems ✨️**ZK**
+- [ZKValidator](https://zkvalidator.com) - Earn staking rewards, and join us on our mission to accelerate bringing Privacy to web3 and blockchain.
+- [Diva](https://www.diva.exchange/en/) - Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE ([GitHub](https://github.com/diva-exchange))
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
@@ -122,6 +124,8 @@ Feel free to update the list!
 - [burstIQ](https://burstiq.com) - Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences.
 - [Lit](https://litprotocol.com) - Lit is Decentralized Cryptography for Access Control, Compute, and Encryption ([Docs](https://developer.litprotocol.com))
 - [Onino](https://www.onino.io) - A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability. Built with a Unique DAG-Based Consensus Protocol to Provide Scalability for Large-Scale Use Cases.
+- [Masq](https://masq.ai) - Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private ([GitHub](https://github.com/MASQ-Project))
+- [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 
 ## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension))
@@ -137,6 +141,7 @@ Feel free to update the list!
 - [Starshell](https://starshell.net) - A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem. ([GitHub](https://github.com/SolarRepublic))
 - [Frame](https://frame.sh) - A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux ([GitHub](https://github.com/floating/frame))
 - [Sons of Crypto](https://sonsofcrypto.com) - web3 wallet by degens for degens ([GitHub](https://github.com/sonsofcrypto))
+- [Sparrow](https://sparrowwallet.com) - A Bitcoin wallet for those who value financial self sovereignty ([GitHub](https://github.com/sparrowwallet/sparrow)]
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
@@ -150,6 +155,7 @@ Feel free to update the list!
 - [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card) ([GitHub](https://github.com/boringprotocol/motherbored))
 - [RoninDojo Tanto](https://samouraiwallet.com/ronin) - Fully validating Bitcoin full node. Served over a Tor hidden service.
 - [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server))
+- [Foundation](https://foundationdevices.com) - The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app ([GitHub](https://github.com/Foundation-Devices))
 
 ## VPN
 - [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana ([Docs](https://docs.boringprotocol.io/bop/information/boring-protocol)) 
@@ -158,6 +164,7 @@ Feel free to update the list!
 - [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain ([GitHub](https://github.com/MathNodes)) 
 - [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
+- [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
@@ -171,6 +178,7 @@ Feel free to update the list!
 - [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3 ([GitHub](https://github.com/findoranetwork))
 - [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
 - [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/opscientia))
+- [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
@@ -191,6 +199,7 @@ Feel free to update the list!
 - [Crypviser Secure Messenger](https://crypviser.network/) - The most private messaging app, based on Blockchain technology.
 - [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) - Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app))
 - [Senging.me](https://sending.me) - open-source communication & social platform.
+- [Zion](https://www.zion.fyi) - The safest way to join, chat and send ([GitHub](https://github.com/getzion/))
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
@@ -208,6 +217,7 @@ Feel free to update the list!
 - [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes ([GitHub](https://github.com/skiff-org))
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
 - [Mask](https://mask.io) - Mask Network brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension ([GitHub](https://github.com/DimensionDev/Maskbook))
+- [ZkMaps](https://gitcoin.co/grants/5781/zkmaps-proof-of-location) - Protecting users location with ZK proofs ([GitHub](https://github.com/zkMaps))
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
@@ -217,6 +227,7 @@ Feel free to update the list!
 - [Legendao](https://legendao.io) - The play-to-mint NFT platform, powered by Secret Network, that enables top artists, brands, and NFT creators to launch their NFT projects in a unique, gamified way.
 - [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) - new supported format by Arcana preserving privacy within NFT minting ([Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/)) 
 - [Paras](https://eprint.iacr.org/2022/976.pdf) - a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances (concept by Vanishree Rao)
+- [NFT Fair](https://www.nftfair.app) - The do-good NFT launch platform
 
 ## Other
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
@@ -236,6 +247,7 @@ Feel free to update the list!
 - [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) - Foundations of Private Smart Contracts (predecessor to IOG's Midnight)
 - [Beetroot](https://www.beetroot.world) - BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat.
 - [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
+- [Ronin DOJO software stack](https://ronindojo.io/en/roninui) - Manage your bitcoin privacy and sovereignty with ease ([GitLab](https://code.samourai.io/ronindojo))
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
