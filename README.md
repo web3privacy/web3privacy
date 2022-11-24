@@ -118,6 +118,10 @@ Feel free to update the list!
 - [Arcana](https://arcana.network) - Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform. Takes minutes to integrate ([Docs](https://docs.beta.arcana.network))
 - [Namada](https://namada.net) - Interchain Privacy ([Specs](https://specs.namada.net))  
 - [Highline](https://highline.dev) - Highline is an execution layer for Ethereum ([Docs](https://highline.dev/docs/))
+- [TomoChainP](https://tomochain.com/tomop) - TomoP is a privacy protocols developed on TomoChain and designed to create safe and untraceable transactions ([GitHub](https://github.com/tomochain/tomop))
+- [burstIQ](https://burstiq.com) - Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences.
+- [Lit](https://litprotocol.com) - Lit is Decentralized Cryptography for Access Control, Compute, and Encryption ([Docs](https://developer.litprotocol.com))
+- [Onino](https://www.onino.io) - A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability. Built with a Unique DAG-Based Consensus Protocol to Provide Scalability for Large-Scale Use Cases.
 
 ## Wallet
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension))
@@ -132,6 +136,7 @@ Feel free to update the list!
 - [BlockWallet](https://blockwallet.io) - The first crypto wallet protecting you on Web3 without any compromises ([GitHub](https://github.com/block-wallet))
 - [Starshell](https://starshell.net) - A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem. ([GitHub](https://github.com/SolarRepublic))
 - [Frame](https://frame.sh) - A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux ([GitHub](https://github.com/floating/frame))
+- [Sons of Crypto](https://sonsofcrypto.com) - web3 wallet by degens for degens ([GitHub](https://github.com/sonsofcrypto))
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
@@ -174,6 +179,7 @@ Feel free to update the list!
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network ([GitHub](https://github.com/shinobi-protocol)) 
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK ([GitHub](https://github.com/critesjosh/aztec-sdk-starter))
 - [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys ([GitHub](https://docs.chainport.io))
+- [Blockbend](https://blockblend.io) - Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service.
 
 ## Messaging
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
@@ -183,6 +189,8 @@ Feel free to update the list!
 - [Session](https://getsession.org) - An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 - [BCchat](https://bchat.beldex.io) - A decentralized, privacy messenger built over the Beldex blockchain. 
 - [Crypviser Secure Messenger](https://crypviser.network/) - The most private messaging app, based on Blockchain technology.
+- [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) - Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app))
+- [Senging.me](https://sending.me) - open-source communication & social platform.
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
@@ -199,6 +207,7 @@ Feel free to update the list!
 - [2FA Guru](https://www.2fa.guru) - a simple solution to interact with DApps by enforcing an additional signature check before each transaction ([GitHub](https://github.com/skiff-org/skiff-mail))
 - [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes ([GitHub](https://github.com/skiff-org))
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
+- [Mask](https://mask.io) - Mask Network brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension ([GitHub](https://github.com/DimensionDev/Maskbook))
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
@@ -224,6 +233,9 @@ Feel free to update the list!
 - [Meson](https://mesonmix.net) - a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions ([GitHub](https://github.com/hashcloak/Meson))
 - [Lava](https://lavanet.xyz) - Lava pairs Providers with Applications for scalable, private and uncensored access to Web3.
 - [rotki](https://rotki.com) - rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy ([GitHub](https://github.com/rotki))
+- [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) - Foundations of Private Smart Contracts (predecessor to IOG's Midnight)
+- [Beetroot](https://www.beetroot.world) - BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat.
+- [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
