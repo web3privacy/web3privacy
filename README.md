@@ -142,6 +142,7 @@ Feel free to update the list!
 - [Frame](https://frame.sh) - A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux ([GitHub](https://github.com/floating/frame))
 - [Sons of Crypto](https://sonsofcrypto.com) - web3 wallet by degens for degens ([GitHub](https://github.com/sonsofcrypto))
 - [Sparrow](https://sparrowwallet.com) - A Bitcoin wallet for those who value financial self sovereignty ([GitHub](https://github.com/sparrowwallet/sparrow)]
+- [YWallet](https://ywallet.app) - YWallet is a privacy oriented wallet and messenger for Ycash and Zcash. 
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
