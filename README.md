@@ -179,6 +179,7 @@ Feel free to update the list!
 - [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
 - [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/opscientia))
 - [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
+- [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
