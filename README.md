@@ -222,6 +222,7 @@ Feel free to update the list!
 - [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
 - [Meson](https://mesonmix.net) - a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions ([GitHub](https://github.com/hashcloak/Meson))
 - [Lava](https://lavanet.xyz) - Lava pairs Providers with Applications for scalable, private and uncensored access to Web3.
+- [rotki](https://rotki.com) - rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy ([GitHub](https://github.com/rotki))
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
