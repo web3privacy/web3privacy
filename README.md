@@ -132,7 +132,7 @@ Feel free to update the list!
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 
 ## Wallet
-- [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet))
+- [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))
 - [Sporran](https://www.sporran.org) -  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension))
 - [Treasure Chest](https://pirate.black/wallets/treasure-chest/) -  Treasure Chest is the main full node wallet for the ARRR cryptocurrency ([GitHub](https://github.com/PirateNetwork/PirateWallet-Lite)) 
 - [Edge](https://edge.app) - The most secure way to buy, store & trade crypto under your control ([GitHub](https://github.com/EdgeApp))
