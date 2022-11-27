@@ -259,6 +259,7 @@ Feel free to update the list!
 - [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) - Foundations of Private Smart Contracts (predecessor to IOG's Midnight)
 - [Beetroot](https://www.beetroot.world) - BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat.
 - [Ronin DOJO software stack](https://ronindojo.io/en/roninui) - Manage your bitcoin privacy and sovereignty with ease ([GitLab](https://code.samourai.io/ronindojo))
+[Semaphore Protocol](http://semaphore.appliedzkp.org) - Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** ([GitHub](https://github.com/semaphore-protocol/semaphore))
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
