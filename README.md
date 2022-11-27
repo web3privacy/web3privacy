@@ -207,6 +207,7 @@ Feel free to update the list!
 - [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) - Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app))
 - [Senging.me](https://sending.me) - open-source communication & social platform.
 - [Zion](https://www.zion.fyi) - The safest way to join, chat and send ([GitHub](https://github.com/getzion/))
+- [RLN Anonymous Chat](https://github.com/njofce/zk-chat) - A spam resistant instant messaging application for private and anonymous communication.
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
