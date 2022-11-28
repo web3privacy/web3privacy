@@ -235,6 +235,7 @@ Feel free to update the list!
 - [Skiff Pages](https://skiff.com/pages) - Private, End-to-End Encrypted Notes ([GitHub](https://github.com/skiff-org))
 - [Mask](https://mask.io) - Mask Network brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension ([GitHub](https://github.com/DimensionDev/Maskbook))
 - [ZkMaps](https://gitcoin.co/grants/5781/zkmaps-proof-of-location) - Protecting users location with ZK proofs ([GitHub](https://github.com/zkMaps))
+- [Telios](https://www.telios.io) - Secure Communication with Encrypted Data and Email ([GitHub](https://github.com/Telios-org))
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
