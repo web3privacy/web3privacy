@@ -87,14 +87,11 @@ Feel free to update the list!
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world ([GitHub](https://github.com/penumbra-zone))
 - [NuCypher](https://www.nucypher.com) - Cryptographic Infrastructure for Privacy-Preserving Applications ([GitHub](https://github.com/nucypher/))
 - [Anoma](https://anoma.net) - An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement ([GitHub](https://github.com/anoma))
-- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
 - [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain ([GitHub](https://github.com/EspressoSystems/))
 - [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities ([GitHub](https://github.com/findoranetwork))
-- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
 - [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world ([GitHub](https://github.com/suterusu-team))
 - [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata ([GitHub](https://github.com/hoprnet))
 - [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions ([GitHub](https://github.com/Concordium))
-- [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
 - [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** ([GitHub](https://github.com/horizenofficial))
 - [Parami](https://parami.io) - Parami is short for para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service.
 - [Mystiko.Network](https://mystiko.network) - The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** ([GitHub](https://github.com/mystikonetwork)) 
@@ -129,7 +126,6 @@ Feel free to update the list!
 - [Lit](https://litprotocol.com) - Lit is Decentralized Cryptography for Access Control, Compute, and Encryption ([Docs](https://developer.litprotocol.com))
 - [Onino](https://www.onino.io) - A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability. Built with a Unique DAG-Based Consensus Protocol to Provide Scalability for Large-Scale Use Cases.
 - [Masq](https://masq.ai) - Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private ([GitHub](https://github.com/MASQ-Project))
-- [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 - [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 
 ## Wallet
@@ -149,6 +145,13 @@ Feel free to update the list!
 - [Sons of Crypto](https://sonsofcrypto.com) - web3 wallet by degens for degens ([GitHub](https://github.com/sonsofcrypto))
 - [Sparrow](https://sparrowwallet.com) - A Bitcoin wallet for those who value financial self sovereignty ([GitHub](https://github.com/sparrowwallet/sparrow)]
 - [YWallet](https://ywallet.app) - YWallet is a privacy oriented wallet and messenger for Ycash and Zcash. 
+
+## Computing network
+- [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
+- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
+- [Findora](https://findora.org) - a decentralized, privacy-preserving smart contract platform. ([GitHub](https://github.com/findoranetwork))
+- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
+- [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
