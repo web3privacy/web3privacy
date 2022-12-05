@@ -239,6 +239,7 @@ Feel free to update the list!
 - [VUP](https://vup.app) - Private and decentralized cloud storage ([GitHub](https://github.com/redsolver/vup)) 
 - [Sia](https://sia.tech) - Decentralized data storage ([GitHub](https://github.com/SiaFoundation)) 
 - [vult](https://lp.zus.network/vult) - Your private cloud
+- [Züs](https://zus.network) - a high performance storage network powering limitless applications. Its a new way to earn a passive income from storage ([GitHub](https://github.com/0chain))  
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
