@@ -238,6 +238,7 @@ Feel free to update the list!
 - [SkyNet](https://skynetlabs.com) - Skynet is an open protocol for hosting data and web applications on the decentralized web using Sia ([GitHub](https://github.com/SkynetLabs)) 
 - [VUP](https://vup.app) - Private and decentralized cloud storage ([GitHub](https://github.com/redsolver/vup)) 
 - [Sia](https://sia.tech) - Decentralized data storage ([GitHub](https://github.com/SiaFoundation)) 
+- [vult](https://lp.zus.network/vult) - Your private cloud
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
