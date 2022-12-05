@@ -130,6 +130,7 @@ Feel free to update the list!
 - [Onino](https://www.onino.io) - A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability. Built with a Unique DAG-Based Consensus Protocol to Provide Scalability for Large-Scale Use Cases.
 - [Masq](https://masq.ai) - Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private ([GitHub](https://github.com/MASQ-Project))
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
+- [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 
 ## Wallet
 - [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))
@@ -171,6 +172,8 @@ Feel free to update the list!
 - [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
 - [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
+- [IVPN](https://www.ivpn.net/) - IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. ([GitHub](https://github.com/ivpn))
+- [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage (see main product Proton.me) ([GitHub](https://github.com/ProtonVPN
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
@@ -186,6 +189,7 @@ Feel free to update the list!
 - [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/opscientia))
 - [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
 - [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
+- [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
@@ -218,6 +222,7 @@ Feel free to update the list!
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
+- [KYC not me](https://kycnot.me/) -  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. ([Codeberg repo](https://codeberg.org/pluja/kycnot.me))
 
 ## RPC
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
@@ -239,6 +244,11 @@ Feel free to update the list!
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
+- [CalyxOS](https://calyxos.org/) - Android mobile operating system that puts privacy and security into the hands of everyday users. ([GitLab](https://gitlab.com/CalyxOS))
+- [Whonix](https://www.whonix.org/) - Whonix™ is software designed to preserve privacy and anonymity by helping users run applications anonymously. Whonix™ can be installed on Windows, macOS, Linux and Qubes. ([GitHub](https://github.com/Whonix))
+- [Qubes OS](https://www.qubes-os.org) - Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. ([GitHub](https://github.com/QubesOS))
+- [TAILS OS](https://tails.boum.org) - Tails is a portable operating system that protects your privacy and helps you avoid censorship. ([GitLab](https://gitlab.tails.boum.org/tails/tails))
+
 
 ## NFT
 - [Stashh](https://stashh.io) - Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. ([GitHub](https://github.com/stashh-labs))
