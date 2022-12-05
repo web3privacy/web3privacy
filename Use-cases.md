@@ -19,3 +19,5 @@
 | Private NFT   | [Evanesco](https://evanesco.org)    |
 | Bridge   | [Webb](https://app.webb.tools/#/bridge)    |
 | Permissioned Pools   | [Panther](https://www.pantherprotocol.io)    |
+
+Other areas of the use-case research covers priate currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, Messagers, Browsers & many more.
