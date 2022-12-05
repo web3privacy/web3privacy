@@ -5,11 +5,11 @@
 | Asset Management   | [SiennaSwap](https://sienna.network/swap/) |
 | Swap   | [SiennaSwap](https://sienna.network/swap/) |
 | Trade    | [Shade](https://app.shadeprotocol.io/portfolio)     |
-| Mint    | |[CAPE](https://www.espressosys.com/product)     |
-| Wrap    | |[CAPE](https://www.espressosys.com/product)     |
-| Stake    | |[Zk.money](https://zk.money)     |
-| Lend    | |[SiennaSwap](https://sienna.network/swap/)     |
-| Bond    | |[SiennaSwap](https://sienna.network/swap/)     |
+| Mint    | [CAPE](https://www.espressosys.com/product)     |
+| Wrap    | [CAPE](https://www.espressosys.com/product)     |
+| Stake    | [Zk.money](https://zk.money)     |
+| Lend    | [SiennaSwap](https://sienna.network/swap/)     |
+| Bond    | [SiennaSwap](https://sienna.network/swap/)     |
 | Front-Running Resistant    | |[SiennaSwap](https://sienna.network/swap/)     |
 | Transaction ordering    | [Xata](https://www.xata.fi)     |
 | Private balance   | [Elusiv](https://elusiv.io/compliance)     |
