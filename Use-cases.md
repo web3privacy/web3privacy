@@ -1,13 +1,13 @@
 *DeFi*
 | Use case | Example |
 | :---         |     :---:      |
-| Pay   | [MantaPay](https://app.manta.network/dolphin/transact) |
+| Pay   | [MantaPay](https://app.manta.network/dolphin/transact) + [Light Shield](https://shield.lightprotocol.com)  | 
 | Asset Management   | [SiennaSwap](https://sienna.network/swap/) |
 | Swap   | [SiennaSwap](https://sienna.network/swap/) |
 | Trade    | [Shade](https://app.shadeprotocol.io/portfolio)     |
 | Mint    | [CAPE](https://www.espressosys.com/product)     |
 | Wrap    | [CAPE](https://www.espressosys.com/product)     |
-| Stake    | [Zk.money](https://zk.money)     |
+| Stake    | [Zk.money](https://zk.money) + [ZKValidator](https://zkvalidator.com)     |
 | Lend    | [SiennaSwap](https://sienna.network/swap/)     |
 | Bond    | [SiennaSwap](https://sienna.network/swap/)     |
 | Front-Running Resistant    | [SiennaSwap](https://sienna.network/swap/)     |
