@@ -14,7 +14,7 @@ Feel free to update the list!
 - [Currency](#Currency)
 - [Infrastructure](#Infrastructure)
 - [Wallet](#Wallet)
-- [Computing network] (#Computing network)
+- [Computing network](#Computing network)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
 - [VPN](#VPN) 
