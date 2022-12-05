@@ -6,7 +6,7 @@
 | Swap   | [SiennaSwap](https://sienna.network/swap/) |
 | Trade    | [Shade](https://app.shadeprotocol.io/portfolio)     |
 | Mint    | [CAPE](https://www.espressosys.com/product)     |
-| Wrap    | [CAPE](https://www.espressosys.com/product)     |
+| Wrap    | [Webb](https://app.webb.tools/#/wrap-unwrap)     |
 | Stake    | [Zk.money](https://zk.money) + [ZKValidator](https://zkvalidator.com)     |
 | Lend    | [SiennaSwap](https://sienna.network/swap/)     |
 | Bond    | [SiennaSwap](https://sienna.network/swap/)     |
