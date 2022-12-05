@@ -2,7 +2,7 @@
 | Use case | Example |
 | :---         |     :---:      |
 | Pay   | [MantaPay](https://app.manta.network/dolphin/transact) + [Light Shield](https://shield.lightprotocol.com)  | 
-| Asset Management   | [SiennaSwap](https://sienna.network/swap/) |
+| Asset Management   | [Shade protocol](https://app.shadeprotocol.io/portfolio) |
 | Swap   | [SiennaSwap](https://sienna.network/swap/) |
 | Trade    | [Shade](https://app.shadeprotocol.io/portfolio)     |
 | Mint    | [CAPE](https://www.espressosys.com/product)     |
