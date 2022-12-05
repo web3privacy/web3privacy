@@ -14,7 +14,7 @@
 | Private balance   | [Elusiv](https://elusiv.io/compliance)     |
 | Compliance   | [Elusiv](https://elusiv.io/compliance) + [Elusiv](https://elusiv.io/compliance)    |
 | Malicious actors blocklist   | [Elusiv](https://elusiv.io/compliance)    |
-| Trusted Third Party configurable privacy   | [Elusiv](https://elusiv.io/compliance)    |
+| Trusted Third Party configurable privacy   | [Elusiv](https://elusiv.io/compliance) + [CAPE](https://www.espressosys.com/product)    |
 | Anti Rug-Pulling   | [OffShift](https://www.offshift.io)    |
 | Private NFT   | [Evanesco](https://evanesco.org)    |
 | Bridge   | [Webb](https://app.webb.tools/#/bridge)    |
