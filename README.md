@@ -231,6 +231,7 @@ Feel free to update the list!
 ## RPC
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
 - [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
+- [D.E.R.P](https://derp.hoprnet.org) - Dumb Ethereum RPC provider
 
 ## Storage
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
