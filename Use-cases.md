@@ -1,3 +1,5 @@
+**Use cases unlock Web3 privacy potential. They help developers code human-centric privacy-preservation dApps or develop complex network-level architecture. Privacy use-cases research helps to foster innovation & save time on further research for hundreds of projects. **
+
 *DeFi*
 | Use case | Example |
 | :---         |     :---:      |
@@ -20,4 +22,4 @@
 | Bridge   | [Webb](https://app.webb.tools/#/bridge)    |
 | Permissioned Pools   | [Panther](https://www.pantherprotocol.io)    |
 
-Other areas of the use-case research covers priate currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, Messagers, Browsers & many more.
+_Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
