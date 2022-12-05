@@ -1,7 +1,7 @@
 *DeFi*
 | Use case | Example |
 | :---         |     :---:      |
-| Pay   | [SiennaSwap](https://sienna.network/swap/) |
+| Pay   | [MantaPay](https://app.manta.network/dolphin/transact) |
 | Asset Management   | [SiennaSwap](https://sienna.network/swap/) |
 | Swap   | [SiennaSwap](https://sienna.network/swap/) |
 | Trade    | [Shade](https://app.shadeprotocol.io/portfolio)     |
