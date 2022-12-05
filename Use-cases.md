@@ -1,4 +1,4 @@
-**Use cases unlock Web3 privacy potential. They help developers code human-centric privacy-preservation dApps or develop complex network-level architecture. Privacy use-cases research helps to foster innovation & save time on further research for hundreds of projects. **
+_Use cases unlock Web3 privacy potential. They help developers code human-centric privacy-preservation dApps or develop complex network-level architecture. Privacy use-cases research helps to foster innovation & save time on further research for hundreds of projects. _
 
 *DeFi*
 | Use case | Example |
