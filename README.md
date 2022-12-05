@@ -218,6 +218,7 @@ Feel free to update the list!
 - [Senging.me](https://sending.me) - open-source communication & social platform.
 - [Zion](https://www.zion.fyi) - The safest way to join, chat and send ([GitHub](https://github.com/getzion/))
 - [RLN Anonymous Chat](https://github.com/njofce/zk-chat) - A spam resistant instant messaging application for private and anonymous communication.
+- [Beepo](https://beepoapp.net/#features) - a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts ([GitHub](https://github.com/beepo-app))
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
