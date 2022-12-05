@@ -286,6 +286,10 @@ Feel free to update the list!
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
 - [Universal Privacy Alliance](https://privacyalliance.com) - The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies.
 
+## Node
+- [nodl One](https://www.nodl.eu/products/nodl-one/) - a full Bitcoin and Lightning Network node.
+- [nodl Dojo](https://www.nodl.eu/products/nodl-dojo/) - a collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node.
+
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
 - [TC](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
