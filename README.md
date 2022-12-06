@@ -148,6 +148,9 @@ Feel free to update the list!
 - [Sparrow](https://sparrowwallet.com) - A Bitcoin wallet for those who value financial self sovereignty ([GitHub](https://github.com/sparrowwallet/sparrow)]
 - [YWallet](https://ywallet.app) - YWallet is a privacy oriented wallet and messenger for Ycash and Zcash. 
 - [Blockstream Green](https://blockstream.com/green/) - A multi-platform, feature-rich Bitcoin and Liquid wallet ([GitHub](https://github.com/Blockstream/green_android)]
+- [Specter-DIY] - DIY airgapped hardware wallet that uses QR codes for communication with the host ([GitHub](https://github.com/cryptoadvance/specter-diy/))
+- [SeedSigner](https://seedsigner.com) - Air-gapped DIY Bitcoin Signing Device ([GitHub](https://github.com/SeedSigner/seedsigner))
+- [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin 
 
 ## Computing network
 - [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
