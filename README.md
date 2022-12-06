@@ -273,6 +273,7 @@ Feel free to update the list!
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
 - [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution) ([GitHub](https://github.com/automata-network/conveyor-sdk))
 - [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce ([GitHub](https://github.com/particl))
+- [Pastenym](https://pastenym.ch) - Privacy oriented and anon pastebin like with end2end encryption and running on Nym's mixnet
 - [Spinner](https://spinner.cash) - Private transactions for ICP and BTC ([GitHub](https://github.com/spinner-cash))
 - [Incognito](https://incognito.org) - The privacy marketplace for crypto assets ([GitHub](https://github.com/incognitochain))
 - [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox
