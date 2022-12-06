@@ -296,6 +296,9 @@ Feel free to update the list!
 ## Node
 - [nodl One](https://www.nodl.eu/products/nodl-one/) - a full Bitcoin and Lightning Network node.
 - [nodl Dojo](https://www.nodl.eu/products/nodl-dojo/) - a collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node.
+- [RaspiBlitz](https://raspiblitz.org) - DIY Bitcoin & Lightning Node on a RaspberryPi
+- [Start9](https://start9.com) - Sovereign computing for a free future ([GitHub](https://github.com/Start9Labs))
+- [myNode](https://mynodebtc.com) - The easiest, most powerful way to run a Bitcoin and Lightning node ([GitHub](https://github.com/mynodebtc/mynode))
 
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
