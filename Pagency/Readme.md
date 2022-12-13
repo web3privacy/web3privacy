@@ -109,7 +109,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 ## Challenge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Challenge%20title.png?raw=true) 
 
-- _What are the main barriers on your way?_
+-_ What are the main barriers on your way?_
 - _How do they compromise the person, you, industry?_
 
 **Write down a list of challenges that stand between humans & your idea.**
