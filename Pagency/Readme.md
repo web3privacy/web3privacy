@@ -35,6 +35,7 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - [Partners](#Partners)
 - [Resources](#Resources)
 - [Success metrics](#Success-metrics)
+- [Implementation](#Implementation)
 
 ## Humans 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Humans%20title.png?raw=true) 
@@ -266,6 +267,8 @@ Write down a list of metrics that define the success of the product.
 
 **Hint**: always separate product performance metrics from the financial side
 
+## Implementation
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20template.png?raw=true)
 
@@ -311,6 +314,29 @@ Write down a list of metrics that define the success of the product.
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework%20template.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Brave%20case%20study%20example.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Lunar%20wallet%20case%20example.png?raw=true)
+
+## Resources
+
+**Lectures**
+Kurt Opsahl “The value of cryptocurrencies in supporting of human rights”: [watch](https://www.youtube.com/watch?v=zZybrj8vTNc)
+Jaya Brekke (CSO, NYM) “Privacy, the big picture”: [watch](https://www.youtube.com/watch?v=7KVLGIukBEA)
+
+**Web3 privacy-enhancing projects**
+Web3privacy now database: [explore](https://github.com/Msiusko/web3privacy)
+Web3 privacy landscape [map](https://github.com/Msiusko/web3privacy/blob/main/Web3privacy landscape now.png)
+
+**Books**
+Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
+Rebecca Giblin and Cory Doctorow “Chokepoint Capitalism”: [buy](https://chokepointcapitalism.com)
+
+**Hackathons**
+ETH Brno [privacy & security edition](https://ethbrno.cz) + [Devfolio](https://ethbrno.devfolio.co)
+
+**Press**
+Coindesk Privacy week [materials](https://www.coindesk.com/layer2/privacyweek/)
+
+**Movies**
+[The Social Dilemma](https://www.humanetech.com/the-social-dilemma) 
 
 **Check PDF version** [here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
 
