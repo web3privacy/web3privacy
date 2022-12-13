@@ -42,8 +42,8 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 ## Humans 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Humans%20title.png?raw=true) 
 
-_Who are you building for?
-Why should they care?_
+- _Who are you building for?
+- Why should they care?_
 
 **Create in-depth human-personas based on interviews or research.**
 **
