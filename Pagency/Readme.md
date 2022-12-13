@@ -339,5 +339,6 @@ Coindesk Privacy week [materials](https://www.coindesk.com/layer2/privacyweek/)
 **Movies**
 [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) 
 
-**Check PDF version** [here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
+## **PDF version** 
+[Available here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
 
