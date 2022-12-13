@@ -91,6 +91,14 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 - Data brokers [Description](https://en.wikipedia.org/wiki/Data_broker)
 - Facebook-Cambridge Analytica [Case](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal)
 
+**Suggestions**
+- Explore how Data flows within the internet.
+- Explore how Data brokers collect & sell sensitive data.
+- Explore how Web2 & Web3 data correspond with each other.
+- Analyse how much Data you share with third parties daily.
+
+**Hint**: think of both on-chain & off-chain data when you are doing research.
+
 ## Challenge
 ## Threat Actors
 ## Privacy layers
