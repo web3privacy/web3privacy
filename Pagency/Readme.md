@@ -260,6 +260,10 @@ Write down a list of metrics that define the success of the product.
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20template.png?raw=true)
 
-Principles of privacy-enhancing development
+**Principles of privacy-enhancing development**
 
-
+**Human centered** > Place humans in the centre of your idea. Care about his/her/theirs emotions, crypto & privacy literacy.
+**Solve an actual privacy-specific problem** > Empower humans with practical privacy solutions that could be used here & now.
+**Accessible to the future Web3 audience** > Think about newcomers using your services in forthcoming years.
+**Ethical** > Don’t build services for money laundering, criminal activities or violating human rights.
+**Open-source** > Make your idea accessible to the world via GitHub, Devfolio, GitLab.
