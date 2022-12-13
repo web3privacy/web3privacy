@@ -6,5 +6,7 @@
 *Web3 tech stack could empower human privacy*
 
 **Raise awareness** about the necessity of privacy protection.
+
 **Build tools** to enhance privacy.
+
 **Advocate** for the following business models not based on surveillance capitalism. 
