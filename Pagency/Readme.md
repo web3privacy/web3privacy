@@ -303,3 +303,5 @@ Write down a list of metrics that define the success of the product.
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Brave%20case%20study%20example.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Lunar%20wallet%20case%20example.png?raw=true)
 
+**Check PDF version** [here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
+
