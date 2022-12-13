@@ -23,6 +23,8 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20vision.png?raw=true)
 
+**Check PDF version** [here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
+
 ## Contents
 - [Humans](#Humans)
 - [Data](#Data)
