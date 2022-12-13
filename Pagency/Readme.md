@@ -21,3 +21,4 @@ _**Audiences**_
 - **educators** > Advocate for privacy using a practical tool
 
 The more use-cases would be shipped -> the better Web3-privacy would progress as a habit, lifestyle & basic human right.
+
