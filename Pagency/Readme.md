@@ -74,8 +74,8 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 ## Data 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Data%20title.png?raw=true) 
 
-- What kind of data are you protecting?
-- Why does this data matter?
+- _What kind of data are you protecting?_
+- _Why does this data matter?_
 
 **Write down a list of sensitive data you aim to protect or re-design business model.**
 
@@ -109,7 +109,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 ## Challenge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Challenge%20title.png?raw=true) 
 
--_ What are the main barriers on your way?_
+- _What are the main barriers on your way?_
 - _How do they compromise the person, you, industry?_
 
 **Write down a list of challenges that stand between humans & your idea.**
@@ -251,7 +251,7 @@ How Rotki is [trying](https://twitter.com/LefterisJP/status/1595827264956289024)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Success%20metrics%20title.png?raw=true) 
 
 - _How would you measure success?_
--_ What is the one ultimate metric to track?_
+- _What is the one ultimate metric to track?_
 
 Write down a list of metrics that define the success of the product.
 
