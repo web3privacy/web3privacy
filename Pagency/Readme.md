@@ -33,8 +33,8 @@ Why should they care?_
 **Create in-depth human-personas based on interviews or research.**
 **
 Web3 services usage**
-What kind of web3 services this human uses?
-What are the data breaches in those services?
+- What kind of web3 services this human uses?
+- What are the data breaches in those services?
 
 **Privacy**
 - How aware is a person of the necessity for privacy protection?
@@ -43,15 +43,15 @@ What are the data breaches in those services?
 - What would happen with a human without additional privacy?
 
 **Personal data literacy**
-Does a person know how his/her/theirs data has been abused?
-Does a person know how to protect himself/herself/themselves? 
-What kind of privacy-enhancing solutions does a person use?
+- Does a person know how his/her/theirs data has been abused?
+- Does a person know how to protect himself/herself/themselves? 
+- What kind of privacy-enhancing solutions does a person use?
 
 **Empathy**
 Try to talk with some of those people. Talk broadly about their internet rights, privacy, web3 services, and security. Make products for them & not just for yourself.
 
 **Suggestions**
-Web2 users - help them to convert to Web3
-Web3 users - empower their existing services
+- Web2 users - help them to convert to Web3
+- Web3 users - empower their existing services
 
 **Hint**: focus on humans as communities, not just individuals.
