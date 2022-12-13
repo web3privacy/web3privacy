@@ -66,4 +66,34 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 
 **Hint**: focus on humans as communities, not just individuals.
 
+## Data 
 
+- What kind of data are you protecting?
+- Why does this data matter?
+
+**Write down a list of sensitive data you aim to protect or re-design business model.**
+
+
+Data is the fuel of blockchain & surveillance capitalism. It’s regularly exploited & used by third parties without your consent. Not just Google or Facebook, but also Web3-services from wallets to CEXs collect personal data.
+
+_Exploited data could be presented in different forms_:
+- transactional data
+- IP addresses
+- name
+- age
+- geo 
+- wallet address etc
+
+**Example**
+Google services track your online behaviour, make look-alike modelling & sell your profile to advertisers. So you become “a product”.
+
+**References**
+- Data brokers [Description](https://en.wikipedia.org/wiki/Data_broker)
+- Facebook-Cambridge Analytica [Case](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal)
+
+## Challenge
+## Threat Actors
+## Privacy layers
+## Partners
+## Resources
+## Success metrics
