@@ -270,7 +270,7 @@ Write down a list of metrics that define the success of the product.
 
 **Hint**: always separate product performance metrics from the financial side
 
-## Examples
+## Implementation
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20template.png?raw=true)
@@ -313,6 +313,8 @@ Write down a list of metrics that define the success of the product.
 
 **Community contribution** 
 > re-usability, compostability
+
+## Examples
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework%20template.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Brave%20case%20study%20example.png?raw=true)
