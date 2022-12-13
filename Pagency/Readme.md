@@ -271,3 +271,25 @@ Write down a list of metrics that define the success of the product.
 **Ethical** > Don’t build services for money laundering, criminal activities or violating human rights.
 
 **Open-source** > Make your idea accessible to the world via GitHub, Devfolio, GitLab.
+
+## **Idea valuation**
+
+**Default state**: Decentralisation ethos sync  - it redistributes power from centralised actors back to humans.
+
+**Problem Importance**
+How important is the problem being solved? (10: extremely important)
+
+**Privacy-solution impact** (addressable market) 
+> thousands, millions of humans
+
+**Ease of implementation** 
+How complex is the implementation: budget, team, processes > from 1 to 10
+
+**Effectiveness** 
+How effectively does the idea address the referenced problem? (10: ultimate effectiveness)
+
+**Product-market-Fit** 
+time vs efficiency
+
+**Community contribution** 
+re-usability, compostability
