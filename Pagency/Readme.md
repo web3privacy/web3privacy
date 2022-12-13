@@ -37,6 +37,7 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - [Success metrics](#Success-metrics)
 
 ## Humans 
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Humans%20title.png?raw=true) 
 
 _Who are you building for?
 Why should they care?_
