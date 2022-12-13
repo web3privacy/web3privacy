@@ -131,7 +131,7 @@ Analyse the Tornado Cash case from open-source development & DAO governance pers
 ## Threat Actors
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Threat%20actors%20title.png?raw=true) 
 
--_ Who is threatening privacy-balance?_
+- _Who is threatening privacy-balance?_
 - _How do these bad actors use personal data?_
 
 **Write down a list of multiple actors challenging web3 privacy from the data-analytics companies to marketing agencies. **
