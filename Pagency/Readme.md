@@ -136,7 +136,7 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 - **Corporations** - Google is at the heart of surveillance capitalism, selling humans’ data to advertisers.
 - **Hackers** - exploit vulnerabilities in tech, sell databases with personal data.
 - **Scammers** - malicious actors behind stolen funds.
-- **Governments** - think of the [NSA](https://www.eff.org/nsa-spying) or [Pegasus](https://en.wikipedia.org/wiki/Pegasus_(spyware))cases dealing with gov surveillance apparatus.
+- **Governments** - think of the [NSA](https://www.eff.org/nsa-spying) or [Pegasus](https://en.wikipedia.org/wiki/Pegasus_(spyware)) cases dealing with gov surveillance apparatus.
 - **Data brokers** - specialises in collecting personal data or data about companies, mostly from public records but sometimes sourced privately, and selling or licensing such information (Experian, Equifax, Acxiom).
 
 **References**
@@ -147,6 +147,44 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 **Hint**: actors could be both web2 or web3 native.
 
 ## Privacy layers
+
+- What privacy layer are you contributing to?
+- What’s a trade-off compared to other layers?
+
+**Choose one of the different approaches to the web3 privacy-enhancing: from embedded to total anonymity. The approach depends on compliance-readiness & moral beliefs.  **
+
+
+**Definitions**
+- **Embedded** - network-level privacy that allows seamlessly deploy privacy within dApps. Privacy by default. Example: Manta Network
+- **Configurable** - is a configurable approach to privacy that lets humans disclose their transactions to third parties. Example: Aztec
+- **Enterprise ready** - enterprise grade & government compliant privacy protection standard. Example: NYM
+- **Total anonymity** - human-centric privacy without compliance compromises & invisible to law enforcement units. Example: DarkFi
+
+**Resource**: Web3 privacy layers overview from embedded to total anonymity [article](https://medium.com/p/4ddf8e7c3b4d)
+ 
+**Hint**: think of a privacy implication complexity: KYC+AML could be great for accountability in the USA, but it means the death penalty in Iran
+
 ## Partners
+
+- How your idea empower humans?
+- How sustainable is your solution in 1-3-5 years?
+
+**Brainstorm the bravest ideas without the limits. Then, visualise them using traditional or digital surfaces.**
+
+Apply the following filters to choose idea you like the most: 
+
+Privacy-first: it’s in line with privacy-enhancement
+**Usable**: it’s easy to use &/or implement
+**Empowering**: it empowers humans’ lives
+**Impactful**: it shapes existing surveillance vs privacy balance
+**Feasible**: it’s possible to develop an idea from tech, open-source & economic points
+
+**Examples (web3-native) **
+- dVPN hides your actual IP address from third party websites & apps
+- Messengers protect your private communication from exploitation
+- Private currencies could protect human identity in front of oppressive government
+
+**Hint**: lots of web3 solutions complement each other - an ecosystem-centric approach simplifies ideation/development  
+
 ## Resources
 ## Success metrics
