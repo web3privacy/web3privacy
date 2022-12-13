@@ -342,3 +342,4 @@ Coindesk Privacy week [materials](https://www.coindesk.com/layer2/privacyweek/)
 ## **PDF version** 
 [Available here](https://github.com/Msiusko/web3privacy/blob/main/Pagency/Pagency%20framework%20v1.0.pdf)
 
+_Part of the Web3privacy now research project_
