@@ -277,19 +277,19 @@ Write down a list of metrics that define the success of the product.
 **Default state**: Decentralisation ethos sync  - it redistributes power from centralised actors back to humans.
 
 **Problem Importance**
-How important is the problem being solved? (10: extremely important)
+> How important is the problem being solved? (10: extremely important)
 
 **Privacy-solution impact** (addressable market) 
 > thousands, millions of humans
 
 **Ease of implementation** 
-How complex is the implementation: budget, team, processes > from 1 to 10
+> How complex is the implementation: budget, team, processes > from 1 to 10
 
 **Effectiveness** 
-How effectively does the idea address the referenced problem? (10: ultimate effectiveness)
+> How effectively does the idea address the referenced problem? (10: ultimate effectiveness)
 
 **Product-market-Fit** 
-time vs efficiency
+> time vs efficiency
 
 **Community contribution** 
-re-usability, compostability
+> re-usability, compostability
