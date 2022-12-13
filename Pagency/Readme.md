@@ -100,7 +100,52 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 **Hint**: think of both on-chain & off-chain data when you are doing research.
 
 ## Challenge
+
+- What are the main barriers on your way?
+- How do they compromise the person, you, industry?
+
+**Write down a list of challenges that stand between humans & your idea.**
+
+Web3 isn’t a transparent or regulated market. That’s why it’s easier to spy on humans. At the same time, humans don’t know how to choose the correct privacy-enhancing service.
+
+
+**Examples**
+- unregulated blockchain-data aggregation
+- third party surveillance
+- lack of privacy literacy
+- “fake privacy” within existing solutions
+- existing architecture allows third parties to spy on personal data
+
+**Suggestion**
+Analyse the Tornado Cash case from open-source development & DAO governance perspectives.
+
+**Hint**: think of the ZK market that solves the challenge of preserving sensitive data while validating parts from KYC to age verification.
+
 ## Threat Actors
+
+- Who is threatening privacy-balance?
+- How do these bad actors use personal data?
+
+**Write down a list of multiple actors challenging web3 privacy from the data-analytics companies to marketing agencies. **
+
+Specify what threats these actors cause: selling, spying, stealing data etc.
+
+
+**Examples**
+
+- **Corporations** - Google is at the heart of surveillance capitalism, selling humans’ data to advertisers.
+- **Hackers** - exploit vulnerabilities in tech, sell databases with personal data.
+- **Scammers** - malicious actors behind stolen funds.
+- **Governments** - think of the [NSA](https://www.eff.org/nsa-spying) or [Pegasus](https://en.wikipedia.org/wiki/Pegasus_(spyware))cases dealing with gov surveillance apparatus.
+- **Data brokers** - specialises in collecting personal data or data about companies, mostly from public records but sometimes sourced privately, and selling or licensing such information (Experian, Equifax, Acxiom).
+
+**References**
+- Chainalysis used the block explorer website to collect wallets & other data: [click](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
+- ConsenSys revealed that it collects user data: [click](https://www.coindesk.com/tech/2022/11/24/ethereum-software-firm-consensys-reveals-it-collects-user-data/)
+
+
+**Hint**: actors could be both web2 or web3 native.
+
 ## Privacy layers
 ## Partners
 ## Resources
