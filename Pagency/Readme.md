@@ -31,6 +31,7 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - [Challenge](#Challenge)
 - [Threat Actors](#Threat-actors)
 - [Privacy layers](#Privacy-layers)
+- [Solution](#Solution)
 - [Partners](#Partners)
 - [Resources](#Resources)
 - [Success metrics](#Success-metrics)
@@ -161,10 +162,10 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 - **Total anonymity** - human-centric privacy without compliance compromises & invisible to law enforcement units. Example: DarkFi
 
 **Resource**: Web3 privacy layers overview from embedded to total anonymity [article](https://medium.com/p/4ddf8e7c3b4d)
- 
+
 **Hint**: think of a privacy implication complexity: KYC+AML could be great for accountability in the USA, but it means the death penalty in Iran
 
-## Partners
+## Solution
 
 - How your idea empower humans?
 - How sustainable is your solution in 1-3-5 years?
@@ -179,12 +180,79 @@ Privacy-first: it’s in line with privacy-enhancement
 **Impactful**: it shapes existing surveillance vs privacy balance
 **Feasible**: it’s possible to develop an idea from tech, open-source & economic points
 
-**Examples (web3-native) **
+**Examples (web3-native)**
 - dVPN hides your actual IP address from third party websites & apps
 - Messengers protect your private communication from exploitation
 - Private currencies could protect human identity in front of oppressive government
 
 **Hint**: lots of web3 solutions complement each other - an ecosystem-centric approach simplifies ideation/development  
 
+## Partners
+
+- What partners could scale your idea?
+- What kind of value do these partners add?
+
+**Write down actors that could help you to activate or scale the solution.**
+
+**Make reverse engineering**: imagine a time when your solution has been implemented on a broader scale. 
+What kind of partners do you need to make this happen? 
+
+**Examples**
+
+**Investors** - cover development & marketing costs, scale up market delivery
+**Developers** - implement & adapt the solution to speed up Product-market-Fit
+**Institutions** - could advocate & adopt solutions (think of messenger like Signal here).
+**Journalists** - they could become ambassadors of your solution
+**Opinion Leaders** - both traditional or web3’s best actors preaching for change (from Vitalik to Shoshana Zuboff) 
+
+**Hint**: partners should unlock value for you
+
 ## Resources
+
+- What resources do you need for a start?
+- What resources do you need to sustain your idea (1-3 years)?
+
+**Write down all potential resources you need to launch your idea & sustain it.**
+
+**Split idea implementation into phases**: _MVP, Product-market-Fit, Scaling_.
+Each phase requires a different amount of resources.
+
+**Examples**
+- Financial expenses
+- Human resources
+- Partners
+- Legal support
+- Investments
+- Community
+- Governance
+
+**Study**
+How Rotki is [trying](https://twitter.com/LefterisJP/status/1595827264956289024) to find the Product-Market-Fit being open-source + [Gitcoin](https://gitcoin.co/grants/149/rotki)
+
+**Suggestions** 
+- Think broadly about missing skills from the team (example: developer doing investment relations).
+- Think about the potential business model (grants, sponsorships, subscriptions, fees etc)
+
+**Hint**: resource management could come in handy, helping to understand feasibility of idea for yourself & wider audiences (from hackathon jury to investors) 
+
 ## Success metrics
+
+- How would you measure success?
+- What is the one ultimate metric to track?
+
+Write down a list of metrics that define the success of the product.
+
+**Think broadly about metrics**: what would they be for humans, partners or hackathon organisers?
+**Play with the future vision**: how metrics would change from MVP to ultimate Product-Market-Fit?
+
+**Examples**
+**tech-centric**: GitHub-readiness: clean code, ease of fork, compostability;
+**human-centric**: UX/UI-readiness, ease of use, Web2-to-Web3 conversion rate, the total amount of users, recurring users, word of mouth 
+**community**: organic growth rate, the value-driven contribution rate
+
+
+**Filter metrics via formula**
+- the 1 ultimate metric (example: financial sustainability = revenue + organic growth)
+- 3 key metrics (example: financial sustainability, DAO autonomy, market penetration)
+
+**Hint**: always separate product performance metrics from the financial side****
