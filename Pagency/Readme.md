@@ -44,8 +44,8 @@ Why should they care?_
 **Create in-depth human-personas based on interviews or research.**
 **
 Web3 services usage**
-- What kind of web3 services this human uses?
-- What are the data breaches in those services?
+- _What kind of web3 services this human uses?_
+- _What are the data breaches in those services?_
 
 **Privacy**
 - How aware is a person of the necessity for privacy protection?
@@ -69,8 +69,8 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 
 ## Data 
 
-- What kind of data are you protecting?
-- Why does this data matter?
+- _What kind of data are you protecting?_
+- _Why does this data matter?_
 
 **Write down a list of sensitive data you aim to protect or re-design business model.**
 
@@ -102,8 +102,8 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 
 ## Challenge
 
-- What are the main barriers on your way?
-- How do they compromise the person, you, industry?
+-_ What are the main barriers on your way?_
+-_ How do they compromise the person, you, industry?_
 
 **Write down a list of challenges that stand between humans & your idea.**
 
@@ -124,8 +124,8 @@ Analyse the Tornado Cash case from open-source development & DAO governance pers
 
 ## Threat Actors
 
-- Who is threatening privacy-balance?
-- How do these bad actors use personal data?
+-_ Who is threatening privacy-balance?_
+- _How do these bad actors use personal data?_
 
 **Write down a list of multiple actors challenging web3 privacy from the data-analytics companies to marketing agencies. **
 
@@ -149,8 +149,8 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 
 ## Privacy layers
 
-- What privacy layer are you contributing to?
-- What’s a trade-off compared to other layers?
+- _What privacy layer are you contributing to?_
+- _What’s a trade-off compared to other layers?_
 
 **Choose one of the different approaches to the web3 privacy-enhancing: from embedded to total anonymity. The approach depends on compliance-readiness & moral beliefs.  **
 
@@ -189,8 +189,8 @@ Privacy-first: it’s in line with privacy-enhancement
 
 ## Partners
 
-- What partners could scale your idea?
-- What kind of value do these partners add?
+- _What partners could scale your idea?_
+- _What kind of value do these partners add?_
 
 **Write down actors that could help you to activate or scale the solution.**
 
@@ -209,8 +209,8 @@ What kind of partners do you need to make this happen? 
 
 ## Resources
 
-- What resources do you need for a start?
-- What resources do you need to sustain your idea (1-3 years)?
+- _What resources do you need for a start?_
+- _What resources do you need to sustain your idea (1-3 years)?_
 
 **Write down all potential resources you need to launch your idea & sustain it.**
 
@@ -237,8 +237,8 @@ How Rotki is [trying](https://twitter.com/LefterisJP/status/1595827264956289024)
 
 ## Success metrics
 
-- How would you measure success?
-- What is the one ultimate metric to track?
+- _How would you measure success?_
+-_ What is the one ultimate metric to track?_
 
 Write down a list of metrics that define the success of the product.
 
