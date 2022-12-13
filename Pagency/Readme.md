@@ -55,3 +55,5 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 - Web3 users - empower their existing services
 
 **Hint**: focus on humans as communities, not just individuals.
+
+
