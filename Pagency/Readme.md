@@ -255,4 +255,6 @@ Write down a list of metrics that define the success of the product.
 - the 1 ultimate metric (example: financial sustainability = revenue + organic growth)
 - 3 key metrics (example: financial sustainability, DAO autonomy, market penetration)
 
-**Hint**: always separate product performance metrics from the financial side****
+**Hint**: always separate product performance metrics from the financial side
+
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
