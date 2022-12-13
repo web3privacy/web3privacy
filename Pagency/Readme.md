@@ -42,8 +42,8 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 ## Humans 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Humans%20title.png?raw=true) 
 
-- _Who are you building for?
-- Why should they care?_
+- Who are you building for?
+- Why should they care?
 
 **Create in-depth human-personas based on interviews or research.**
 **
@@ -74,8 +74,8 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 ## Data 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Data%20title.png?raw=true) 
 
-- _What kind of data are you protecting?_
-- _Why does this data matter?_
+- What kind of data are you protecting?
+- Why does this data matter?
 
 **Write down a list of sensitive data you aim to protect or re-design business model.**
 
