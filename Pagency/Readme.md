@@ -167,8 +167,8 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 
 ## Solution
 
-- How your idea empower humans?
-- How sustainable is your solution in 1-3-5 years?
+- _How your idea empower humans?_
+- _How sustainable is your solution in 1-3-5 years?_
 
 **Brainstorm the bravest ideas without the limits. Then, visualise them using traditional or digital surfaces.**
 
@@ -176,8 +176,11 @@ Apply the following filters to choose idea you like the most:
 
 Privacy-first: it’s in line with privacy-enhancement
 **Usable**: it’s easy to use &/or implement
+
 **Empowering**: it empowers humans’ lives
+
 **Impactful**: it shapes existing surveillance vs privacy balance
+
 **Feasible**: it’s possible to develop an idea from tech, open-source & economic points
 
 **Examples (web3-native)**
