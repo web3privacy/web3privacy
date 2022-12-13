@@ -69,6 +69,7 @@ Try to talk with some of those people. Talk broadly about their internet rights,
 **Hint**: focus on humans as communities, not just individuals.
 
 ## Data 
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Data%20title.png?raw=true) 
 
 - _What kind of data are you protecting?_
 - _Why does this data matter?_
@@ -102,6 +103,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 **Hint**: think of both on-chain & off-chain data when you are doing research.
 
 ## Challenge
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Challenge%20title.png?raw=true) 
 
 -_ What are the main barriers on your way?_
 -_ How do they compromise the person, you, industry?_
@@ -109,7 +111,6 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 **Write down a list of challenges that stand between humans & your idea.**
 
 Web3 isn’t a transparent or regulated market. That’s why it’s easier to spy on humans. At the same time, humans don’t know how to choose the correct privacy-enhancing service.
-
 
 **Examples**
 - unregulated blockchain-data aggregation
@@ -124,6 +125,7 @@ Analyse the Tornado Cash case from open-source development & DAO governance pers
 **Hint**: think of the ZK market that solves the challenge of preserving sensitive data while validating parts from KYC to age verification.
 
 ## Threat Actors
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Threat%20actors%20title.png?raw=true) 
 
 -_ Who is threatening privacy-balance?_
 - _How do these bad actors use personal data?_
@@ -145,16 +147,15 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 - Chainalysis used the block explorer website to collect wallets & other data: [click](https://www.coindesk.com/business/2021/09/21/leaked-slides-show-how-chainalysis-flags-crypto-suspects-for-cops/)
 - ConsenSys revealed that it collects user data: [click](https://www.coindesk.com/tech/2022/11/24/ethereum-software-firm-consensys-reveals-it-collects-user-data/)
 
-
 **Hint**: actors could be both web2 or web3 native.
 
 ## Privacy layers
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Privacy%20layers%20title.png?raw=true) 
 
 - _What privacy layer are you contributing to?_
 - _What’s a trade-off compared to other layers?_
 
 **Choose one of the different approaches to the web3 privacy-enhancing: from embedded to total anonymity. The approach depends on compliance-readiness & moral beliefs.  **
-
 
 **Definitions**
 - **Embedded** - network-level privacy that allows seamlessly deploy privacy within dApps. Privacy by default. Example: Manta Network
@@ -167,6 +168,7 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 **Hint**: think of a privacy implication complexity: KYC+AML could be great for accountability in the USA, but it means the death penalty in Iran
 
 ## Solution
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Solution%20title.png?raw=true) 
 
 - _How your idea empower humans?_
 - _How sustainable is your solution in 1-3-5 years?_
@@ -192,6 +194,7 @@ Privacy-first: it’s in line with privacy-enhancement
 **Hint**: lots of web3 solutions complement each other - an ecosystem-centric approach simplifies ideation/development  
 
 ## Partners
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Partners%20title.png?raw=true) 
 
 - _What partners could scale your idea?_
 - _What kind of value do these partners add?_
@@ -212,6 +215,7 @@ What kind of partners do you need to make this happen? 
 **Hint**: partners should unlock value for you
 
 ## Resources
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Resources%20title.png?raw=true) 
 
 - _What resources do you need for a start?_
 - _What resources do you need to sustain your idea (1-3 years)?_
@@ -240,6 +244,7 @@ How Rotki is [trying](https://twitter.com/LefterisJP/status/1595827264956289024)
 **Hint**: resource management could come in handy, helping to understand feasibility of idea for yourself & wider audiences (from hackathon jury to investors) 
 
 ## Success metrics
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Success%20metrics%20title.png?raw=true) 
 
 - _How would you measure success?_
 -_ What is the one ultimate metric to track?_
