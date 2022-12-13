@@ -10,3 +10,14 @@
 **Build tools** to enhance privacy.
 
 **Advocate** for the following business models not based on surveillance capitalism. 
+
+**Return human agency for data-driven decision making.**
+
+_**Audiences**_
+
+- **ecosystems** > Help builders come up with feasible ideas
+- **hackathons** > Help teams deliver impactful solutions
+- **individuals** > Scale up privacy-enhancing services experimentation
+- **educators** > Advocate for privacy using a practical tool
+
+The more use-cases would be shipped -> the better Web3-privacy would progress as a habit, lifestyle & basic human right.
