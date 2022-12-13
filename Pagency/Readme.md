@@ -326,8 +326,9 @@ Write down a list of metrics that define the success of the product.
 - Web3 privacy landscape [map](https://github.com/Msiusko/web3privacy/blob/main/Web3privacyhttps://github.com/Msiusko/web3privacy/blob/main/Web3privacy%20landscape%20now.png)
 
 **Books**
-Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
-Rebecca Giblin and Cory Doctorow “Chokepoint Capitalism”: [buy](https://chokepointcapitalism.com)
+- Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
+- Rebecca Giblin and Cory Doctorow “Chokepoint Capitalism”: [buy](https://chokepointcapitalism.com)
+- Salomé Viljoe "Data Egalitarianism and the Digital Services Act" [watch](https://www.youtube.com/watch?v=O0okpkeSNTM)
 
 **Hackathons**
 ETH Brno [privacy & security edition](https://ethbrno.cz) + [Devfolio](https://ethbrno.devfolio.co)
