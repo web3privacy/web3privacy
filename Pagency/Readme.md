@@ -258,5 +258,8 @@ Write down a list of metrics that define the success of the product.
 **Hint**: always separate product performance metrics from the financial side
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Implementation.png?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Pagency%20framework%20template.png?raw=true)
+
+Principles of privacy-enhancing development
 
 
