@@ -318,12 +318,12 @@ Write down a list of metrics that define the success of the product.
 ## Resources
 
 **Lectures**
-Kurt Opsahl “The value of cryptocurrencies in supporting of human rights”: [watch](https://www.youtube.com/watch?v=zZybrj8vTNc)
-Jaya Brekke (CSO, NYM) “Privacy, the big picture”: [watch](https://www.youtube.com/watch?v=7KVLGIukBEA)
+- Kurt Opsahl “The value of cryptocurrencies in supporting of human rights”:[watch](https://www.youtube.com/watch?v=zZybrj8vTNc)
+- Jaya Brekke (CSO, NYM) “Privacy, the big picture”: [watch](https://www.youtube.com/watch?v=7KVLGIukBEA)
 
 **Web3 privacy-enhancing projects**
-Web3privacy now database: [explore](https://github.com/Msiusko/web3privacy)
-Web3 privacy landscape [map](https://github.com/Msiusko/web3privacy/blob/main/Web3privacy landscape now.png)
+- Web3privacy now database: [explore](https://github.com/Msiusko/web3privacy)
+- Web3 privacy landscape [map](https://github.com/Msiusko/web3privacy/blob/main/Web3privacyhttps://github.com/Msiusko/web3privacy/blob/main/Web3privacy%20landscape%20now.png)
 
 **Books**
 Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
