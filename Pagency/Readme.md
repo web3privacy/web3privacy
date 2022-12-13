@@ -94,6 +94,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 **References**
 - Data brokers [Description](https://en.wikipedia.org/wiki/Data_broker)
 - Facebook-Cambridge Analytica [Case](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal)
+- Data protection [basics](https://www.dataprotection.ie/sites/default/files/uploads/2019-07/190710%20Data%20Protection%20Basics.pdf)
 
 **Suggestions**
 - Explore how Data flows within the internet.
