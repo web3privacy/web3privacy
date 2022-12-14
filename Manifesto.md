@@ -4,14 +4,14 @@
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Web3privacy%20now%20manifesto.png?raw=true)
 
-Not every privacy has been empowered equally.
+# Not every privacy has been empowered equally.
 
 Connected humans are commodified & surveil 24/7 without even knowing it. 
 
 Web3 industry has a unique chance to promote data, privacy & security literacy. Becoming a lifelong educational partner for humans.
 Knowledge is the key to returning agency to humans in a hyperconnected world.
  
- How
+# How
 
 Advocacy
 a) Facilitating education via frameworks, 101 master classes, lectures & guides
