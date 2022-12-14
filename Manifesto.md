@@ -14,9 +14,9 @@ Knowledge is the key to returning agency to humans in a hyperconnected world.
 # How
 
 Advocacy
-a) Facilitating education via frameworks, 101 master classes, lectures & guides
-b) Building foundation blocks for the industry: standards, projects' database, best practices
-c) Outreach journalists, institutions and opinion leaders - make them ambassadors of privacy
+- Facilitating education via frameworks, 101 master classes, lectures & guides
+- Building foundation blocks for the industry: standards, projects' database, best practices
+- Outreach journalists, institutions and opinion leaders - make them ambassadors of privacy
 
 **Collaboration**
 - Creating a community around web3 privacy
