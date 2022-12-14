@@ -29,7 +29,7 @@ c) Outreach journalists, institutions and opinion leaders - make them ambassador
 - Support open-source development
 - Support cutting-edge R&D projects
 
-**Ultimate goal**
+# **Ultimate goal**
 
 **To make humans gain control over their privacy by utilizing Web3 stack.**
 So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide. 
