@@ -40,7 +40,6 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - [Resources](#Resources)
 
 # **Below is a step-by-step Pagency components introduction.**
-
 # **You will find framework-as-a-template plus Brave & Lunar Wallet examples at the end of the page.**
 
 ## Humans 
