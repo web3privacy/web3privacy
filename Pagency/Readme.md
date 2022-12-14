@@ -65,7 +65,7 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - What kind of privacy-enhancing solutions does a person use?
 
 **Empathy**
-Try to talk with some of those people. Talk broadly about their internet rights, privacy, web3 services, and security. Make products for them & not just for yourself.
+Try to talk with some of those people. Talk broadly about their internet rights, privacy, web3 services, and security. Make products for them & not just for yourself. Humanity-centered design is a practice [tool](https://www.interaction-design.org/literature/topics/humanity-centered-design)
 
 **Suggestions**
 - Web2 users - help them to convert to Web3
