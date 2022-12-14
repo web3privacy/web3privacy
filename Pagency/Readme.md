@@ -334,6 +334,7 @@ Write down a list of metrics that define the success of the product.
 **Books**
 - Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
 - Rebecca Giblin and Cory Doctorow “Chokepoint Capitalism”: [buy](https://chokepointcapitalism.com)
+- Danielle Keats Citron "The Fight for Privacy: Protecting Dignity, Identity, and Love in the Digital Age" [buy](https://www.harvard.com/book/the_fight_for_privacy/)
 
 **Hackathons**
 ETH Brno [privacy & security edition](https://ethbrno.cz) + [Devfolio](https://ethbrno.devfolio.co)
