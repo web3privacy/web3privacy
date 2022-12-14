@@ -1,10 +1,12 @@
 # web3privacy now
 *Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate. 
 
-# [manifesto](https://github.com/Msiusko/web3privacy/blob/main/Manifesto.md)
-# [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)
-# [Pagency framework for private use-case ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)
-# Privacy-enhancing web3-solutions database
+| Block  | Description |
+| ------------- | ------------- |
+| [manifesto](https://github.com/Msiusko/web3privacy/blob/main/Manifesto.md)  | Research project ideological foundation  |
+| [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)  | Forthcoming activities that will empower humans & industry privacy-level  |
+| [Pagency framework for private use-case ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)  | a tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3 |
+| [Privacy-enhancing web3-solutions database](https://github.com/Msiusko/web3privacy/blob/main/README.md)  | Unified database of the privacy-enhancing solutions |
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
 
