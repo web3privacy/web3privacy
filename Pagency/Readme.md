@@ -11,7 +11,7 @@
 
 **Return human agency for data-driven decision making.**
 
-_**Audiences**_
+## _**Audiences**_
 
 - **ecosystems** > Help builders come up with feasible ideas
 - **hackathons** > Help teams deliver impactful solutions
