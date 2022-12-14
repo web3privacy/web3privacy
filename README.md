@@ -1,5 +1,5 @@
 # web3privacy now
-**Web3privacy now** is a research project aimed at discovering, highlighting, and analyzing privacy-preservation services and startups within the Web3 space.
+**Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.. Read [manifesto](https://github.com/Msiusko/web3privacy/blob/main/Manifesto.md)
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
 
