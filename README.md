@@ -3,7 +3,7 @@
 
 | Block  | Description |
 | ------------- | ------------- |
-| [manifesto](https://github.com/Msiusko/web3privacy/blob/main/Manifesto.md)  | Research project ideological foundation  |
+| [Manifesto](https://github.com/Msiusko/web3privacy/blob/main/Manifesto.md)  | Research project ideological foundation  |
 | [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)  | Forthcoming activities that will empower humans & industry privacy-level  |
 | [Pagency framework for private use-case ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)  | a tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3 |
 | [Privacy-enhancing web3-solutions database](https://github.com/Msiusko/web3privacy/blob/main/README.md)  | Unified database of the privacy-enhancing solutions |
