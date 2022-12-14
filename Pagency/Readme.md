@@ -261,12 +261,13 @@ How [Rotki](http://rotki.com) is [trying](https://twitter.com/LefterisJP/status/
 Write down a list of metrics that define the success of the product.
 
 **Think broadly about metrics**: what would they be for humans, partners or hackathon organisers?
+
 **Play with the future vision**: how metrics would change from MVP to ultimate Product-Market-Fit?
 
 **Examples**
-**tech-centric**: GitHub-readiness: clean code, ease of fork, compostability;
-**human-centric**: UX/UI-readiness, ease of use, Web2-to-Web3 conversion rate, the total amount of users, recurring users, word of mouth 
-**community**: organic growth rate, the value-driven contribution rate
+- **tech-centric**: GitHub-readiness: clean code, ease of fork, compostability;
+- **human-centric**: UX/UI-readiness, ease of use, Web2-to-Web3 conversion rate, the total amount of users, recurring users, word of mouth 
+- **community**: organic growth rate, the value-driven contribution rate
 
 
 **Filter metrics via formula**
@@ -322,7 +323,13 @@ Write down a list of metrics that define the success of the product.
 ## Examples
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Framework%20template.png?raw=true)
+
+# Brave browser
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Brave%20case%20study%20example.png?raw=true)
+
+# [Lunar wallet](https://devfolio.co/projects/lunar-wallet-34c4)
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Pagency/img/Lunar%20wallet%20case%20example.png?raw=true)
 
 # [Editible template (PPTX)](https://t.co/DURQaD0fy8)
