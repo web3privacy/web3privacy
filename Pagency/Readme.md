@@ -13,7 +13,7 @@
 
 ## _**Audiences**_
 
-- **ecosystems** > Help builders come up with feasible ideas
+- **web3 ecosystems** > Help builders come up with feasible ideas
 - **hackathons** > Help teams deliver impactful solutions
 - **individuals** > Scale up privacy-enhancing services experimentation
 - **educators** > Advocate for privacy using a practical tool
