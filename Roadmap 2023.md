@@ -32,3 +32,5 @@
 - Report The State of Privacy x industrial media
 - Find tech partner to facilitate accurate tech reports & content
 - Collaborate with conferences to curate privacy-centric panels & workshops
+
+_Enjoy everything!_
