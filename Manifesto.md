@@ -9,25 +9,27 @@
 Connected humans are commodified & surveil 24/7 without even realizing it. 
 
 Web3 industry has a unique chance to promote data, privacy & security literacy. Becoming a lifelong educational partner for humans.
-Because knowledge is a key to returning agency to humans in a hyperconnected world.  
+
+Knowledge is a key to returning agency to humans in a hyperconnected world.  
  
 # How
 
 **Advocacy**
 - **Educate**: Facilitate education via frameworks, 101 master classes, lectures & guides (for both general & tech public)
 - **Research**: Build foundation blocks for the industry: standards, projects' database, best practices, ethics
-- **Partner**: Outreach journalists, institutions, researchers, white hackers, data economy academics & engage them in privacy topics
-- **Workspace**: Promote privacy as a work of the future top of mind career choice in web3
+- **Partner**: Outreach journalists, institutions, researchers, white hackers, and data economy academics & engage them in private topics
+- **Workspace**: Promote privacy as a work of the future top-of-mind career choice in web3
 
 **Collaboration**
-- Create a community around web3 privacy
-- Make industrial reports & surveys
-- Launch new builders & products centric initiatives
-- Amplify voices sharing knowledge about privacy & web3
+- Facilitate a community around web3 privacy
+- Contribute to industrial reports & surveys
+- Initiate new hackathons, lectures, and events for builders & product managers
+- Amplify knowledge sharing between privacy companies
+- Connect traditional data & privacy experts with web3 leaders
 
 **Tooling**
 - Support products that preserve privacy
-- Support open-source development
+- Advocate for an open-source development
 - Promote humanistic UX/UI-culture
 - Support cutting-edge R&D projects
 
