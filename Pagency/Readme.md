@@ -181,7 +181,8 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 
 Apply the following filters to choose idea you like the most: 
 
-Privacy-first: it’s in line with privacy-enhancement
+**Privacy-first**: it’s in line with privacy-enhancement
+
 **Usable**: it’s easy to use &/or implement
 
 **Empowering**: it empowers humans’ lives
@@ -194,6 +195,8 @@ Privacy-first: it’s in line with privacy-enhancement
 - dVPN hides your actual IP address from third party websites & apps
 - Messengers protect your private communication from exploitation
 - Private currencies could protect human identity in front of oppressive government
+
+**Suggestion** double-check existing Web3 privacy-enhancing solutions: [Web3privacy now database](https://github.com/Msiusko/web3privacy)
 
 **Hint**: lots of web3 solutions complement each other - an ecosystem-centric approach simplifies ideation/development  
 
