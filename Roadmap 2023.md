@@ -33,4 +33,7 @@
 - Find tech partner to facilitate accurate tech reports & content
 - Collaborate with conferences to curate privacy-centric panels & workshops
 
+**Partnerships**
+- Find a sustainable business-model (grants, fees, donations)
+
 _Enjoy everything!_
