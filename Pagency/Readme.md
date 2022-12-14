@@ -211,11 +211,11 @@ What kind of partners do you need to make this happen? 
 
 **Examples**
 
-**Investors** - cover development & marketing costs, scale up market delivery
-**Developers** - implement & adapt the solution to speed up Product-market-Fit
-**Institutions** - could advocate & adopt solutions (think of messenger like Signal here).
-**Journalists** - they could become ambassadors of your solution
-**Opinion Leaders** - both traditional or web3’s best actors preaching for change (from Vitalik to Shoshana Zuboff) 
+- **Investors** - cover development & marketing costs, scale up market delivery
+- **Developers** - implement & adapt the solution to speed up Product-market-Fit
+- **Institutions** - could advocate & adopt solutions (think of messenger like Signal here).
+- **Journalists** - they could become ambassadors of your solution
+- **Opinion Leaders** - both traditional or web3’s best actors preaching for change (from Vitalik to Shoshana Zuboff) 
 
 **Hint**: partners should unlock value for you
 
