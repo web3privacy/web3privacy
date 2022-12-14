@@ -242,7 +242,7 @@ Each phase requires a different amount of resources.
 - Governance
 
 **Study**
-How Rotki is [trying](https://twitter.com/LefterisJP/status/1595827264956289024) to find the Product-Market-Fit being open-source + [Gitcoin](https://gitcoin.co/grants/149/rotki)
+How [Rotki](http://rotki.com) is [trying](https://twitter.com/LefterisJP/status/1595827264956289024) to find the Product-Market-Fit being open-source + [Gitcoin](https://gitcoin.co/grants/149/rotki)
 
 **Suggestions** 
 - Think broadly about missing skills from the team (example: developer doing investment relations).
