@@ -32,4 +32,5 @@ Advocacy
 # **Ultimate goal**
 
 **To make humans gain control over their privacy by utilizing Web3 stack.**
-So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide. 
+
+_So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide. _
