@@ -14,13 +14,14 @@ Knowledge is the key to returning agency to humans in a hyperconnected world.
 # How
 
 **Advocacy**
-- Facilitating education via frameworks, 101 master classes, lectures & guides
-- Building foundation blocks for the industry: standards, projects' database, best practices, ethics
-- Outreach journalists, institutions and opinion leaders - make them ambassadors of privacy
+- **Educate**: Facilitate education via frameworks, 101 master classes, lectures & guides
+- **Research**: Build foundation blocks for the industry: standards, projects' database, best practices, ethics
+- **Partner**: Outreach journalists, institutions, researchers, white hackers, data economy academics & engage them in privacy topics
+- **Workspace**: Promote privacy as a work of the future top of mind career choice in web3
 
 **Collaboration**
-- Creating a community around web3 privacy
-- Making industrial reports & surveys
+- Create a community around web3 privacy
+- Make industrial reports & surveys
 - Launch new builders & products centric initiatives
 - Amplify voices sharing knowledge about privacy & web3
 
