@@ -183,15 +183,11 @@ Choose one of the different approaches to the web3 privacy-enhancing: from embed
 
 Apply the following filters to choose idea you like the most: 
 
-**Privacy-first**: it’s in line with privacy-enhancement
-
-**Usable**: it’s easy to use &/or implement
-
-**Empowering**: it empowers humans’ lives
-
-**Impactful**: it shapes existing surveillance vs privacy balance
-
-**Feasible**: it’s possible to develop an idea from tech, open-source & economic points
+- **Privacy-first**: it’s in line with privacy-enhancement
+- **Usable**: it’s easy to use &/or implement
+- **Empowering**: it empowers humans’ lives
+- **Impactful**: it shapes existing surveillance vs privacy balance
+- **Feasible**: it’s possible to develop an idea from tech, open-source & economic points
 
 **Examples (web3-native)**
 - dVPN hides your actual IP address from third party websites & apps
