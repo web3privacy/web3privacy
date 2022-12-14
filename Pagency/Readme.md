@@ -105,6 +105,7 @@ Google services track your online behaviour, make look-alike modelling & sell yo
 - Explore how Data brokers collect & sell sensitive data.
 - Explore how Web2 & Web3 data correspond with each other.
 - Analyse how much Data you share with third parties daily.
+- Analyse GDPR practices like [Data Protection Impact Assessment](https://gdpr.eu/data-protection-impact-assessment-template/)
 
 **Hint**: think of both on-chain & off-chain data when you are doing research.
 
