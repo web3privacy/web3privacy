@@ -1,4 +1,4 @@
-# Here's a list of tasks I want to do next year related to the Web3 privacy industry
+**Here's a list of tasks I want to do next year related to the Web3 privacy industry**
 
 # Backlog
 
