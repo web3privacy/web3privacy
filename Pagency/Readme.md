@@ -294,7 +294,7 @@ Write down a list of metrics that define the success of the product.
 
 ## **Idea valuation**
 
-**Default state**: Decentralisation ethos sync  - it redistributes power from centralised actors back to humans.
+**Default state**: _Decentralisation ethos sync  - it redistributes power from centralised actors back to humans_.
 
 **Problem Importance**
 > How important is the problem being solved? (10: extremely important)
