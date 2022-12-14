@@ -18,17 +18,17 @@ a) Facilitating education via frameworks, 101 master classes, lectures & guides
 b) Building foundation blocks for the industry: standards, projects' database, best practices
 c) Outreach journalists, institutions and opinion leaders - make them ambassadors of privacy
 
-Collaboration
-a) Creating a community around web3 privacy
-b) Making industrial reports & surveys
-c) Launch new builders & products centric initiatives
-d) Amplify voices sharing knowledge about privacy & web3
+**Collaboration**
+- Creating a community around web3 privacy
+- Making industrial reports & surveys
+- Launch new builders & products centric initiatives
+- Amplify voices sharing knowledge about privacy & web3
 
-Tooling
-a) Support products that preserve privacy
-b) Support open-source development
-c) Support cutting-edge R&D projects
+**Tooling**
+- Support products that preserve privacy
+- Support open-source development
+- Support cutting-edge R&D projects
 
-Ultimate goal
-To make humans gain control over their privacy by utilizing Web3 stack.
+**Ultimate goal**
+**To make humans gain control over their privacy by utilizing Web3 stack.**
 So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide. 
