@@ -136,7 +136,7 @@ Analyse the Tornado Cash case from open-source development & DAO governance pers
 - _Who is threatening privacy-balance?_
 - _How do these bad actors use personal data?_
 
-**Write down a list of multiple actors challenging web3 privacy from the data-analytics companies to marketing agencies. **
+Write down a list of multiple actors challenging web3 privacy from the data-analytics companies to marketing agencies.
 
 Specify what threats these actors cause: selling, spying, stealing data etc.
 
