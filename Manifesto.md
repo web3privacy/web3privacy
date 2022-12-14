@@ -14,7 +14,7 @@ Because knowledge is a key to returning agency to humans in a hyperconnected wor
 # How
 
 **Advocacy**
-- **Educate**: Facilitate education via frameworks, 101 master classes, lectures & guides
+- **Educate**: Facilitate education via frameworks, 101 master classes, lectures & guides (for both general & tech public)
 - **Research**: Build foundation blocks for the industry: standards, projects' database, best practices, ethics
 - **Partner**: Outreach journalists, institutions, researchers, white hackers, data economy academics & engage them in privacy topics
 - **Workspace**: Promote privacy as a work of the future top of mind career choice in web3
