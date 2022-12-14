@@ -161,7 +161,7 @@ Specify what threats these actors cause: selling, spying, stealing data etc.
 - _What privacy layer are you contributing to?_
 - _What’s a trade-off compared to other layers?_
 
-**Choose one of the different approaches to the web3 privacy-enhancing: from embedded to total anonymity. The approach depends on compliance-readiness & moral beliefs.**
+Choose one of the different approaches to the web3 privacy-enhancing: from embedded to total anonymity. The approach depends on compliance-readiness & moral beliefs.
 
 **Definitions**
 - **Embedded** - network-level privacy that allows seamlessly deploy privacy within dApps. Privacy by default. Example: Manta Network
