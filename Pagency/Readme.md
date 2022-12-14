@@ -48,8 +48,8 @@ The more use-cases would be shipped -> the better Web3-privacy would progress as
 - _Why should they care?_
 
 **Create in-depth human-personas based on interviews or research.**
-**
-Web3 services usage**
+
+**Web3 services usage**
 - _What kind of web3 services this human uses?_
 - _What are the data breaches in those services?_
 
