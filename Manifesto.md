@@ -13,9 +13,9 @@ Knowledge is the key to returning agency to humans in a hyperconnected world.
  
 # How
 
-Advocacy
+**Advocacy**
 - Facilitating education via frameworks, 101 master classes, lectures & guides
-- Building foundation blocks for the industry: standards, projects' database, best practices
+- Building foundation blocks for the industry: standards, projects' database, best practices, ethics
 - Outreach journalists, institutions and opinion leaders - make them ambassadors of privacy
 
 **Collaboration**
@@ -27,6 +27,7 @@ Advocacy
 **Tooling**
 - Support products that preserve privacy
 - Support open-source development
+- Promote humanistic UX/UI-culture
 - Support cutting-edge R&D projects
 
 # **Ultimate goal**
