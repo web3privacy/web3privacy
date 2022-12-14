@@ -33,4 +33,4 @@ Advocacy
 
 **To make humans gain control over their privacy by utilizing Web3 stack.**
 
-_So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide. _
+_So privacy would become a conscious choice (active lifestyle) & be accessible to everyone worldwide._
