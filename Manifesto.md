@@ -9,7 +9,7 @@
 Connected humans are commodified & surveil 24/7 without even realizing it. 
 
 Web3 industry has a unique chance to promote data, privacy & security literacy. Becoming a lifelong educational partner for humans.
-Knowledge is the key to returning agency to humans in a hyperconnected world.
+Because knowledge is a key to returning agency to humans in a hyperconnected world.  
  
 # How
 
