@@ -79,5 +79,12 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |main registrar entry for open, decentralized domain name systems, empowering them to index the public data into the domain name, with the private name reserved in TEE side chain| [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
 |Single Sign-On with interoperability across networks and applications. | [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
 |on-chain governance's voting power| [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
+|a user wants to vote in multiple elections from different addresses as to not reveal their voting history. This can be done by giving each election a unique actionID.| [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance)| 
+|"I am an accredited investor"| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
+|"I am the same person who created this wallet" if the wallet must be recovered| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
+|"I have never voted in this DAO's governance"| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
+|"I am not on a blacklist"| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
+|"This $1K transaction is not part of a greater 100K transaction split up into pieces" (e.g., for Bank Secrecy Act and other regulations)| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
+
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
