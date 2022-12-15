@@ -58,5 +58,12 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Age verification for Web3 gaming, gambling and entertainment| [Web3 ID](https://www.dock.io/web3id)|
 |Age verification| [Web3 ID](https://www.dock.io/web3id)|
 |Sign documents with DID| [KILT](https://www.kilt.io)| 
+|decentralized biometric authentication and 1:N biometric matching of all modalities, including: face, voice, iris, fingerprint| [Anonybit](www.anonybit.io| 
+|Passwordless authentication| [Anonybit](www.anonybit.io| 
+|Turnkey authentication for new device authorization| [Anonybit](www.anonybit.io| 
+|Decentralized authentication means no password is needed for payment and loyalty apps | [Anonybit](www.anonybit.io| 
+|Account access and recovery is done with biometrics and personal data| [Anonybit](www.anonybit.io| 
+|Reduced risk of impersonation by a hacker who uses stolen PII or easily-guessed passwords, the current fallback to device based approaches| [Anonybit](www.anonybit.io| 
+|Maintain full control of your data usage in accordance with data protection regulations, keeping the ability to exercise the “right to know” and exercise the “right to be forgotten” at all times| [Anonybit](www.anonybit.io| 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
