@@ -69,5 +69,10 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Allow voting only to account members of your DAO| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
 |Block airdrops to users that belong to a specific country| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
 |Allow trading only to accounts that passed the KYC verification| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
+|linking user identities across multiple networks| [Anonybit](https://litentry.com)| 
+|Turnkey authentication for new device authorization| [Anonybit](https://litentry.com))| 
+|Turnkey authentication for new device authorization| [Anonybit](www.anonybit.io)| 
+|Turnkey authentication for new device authorization| [Anonybit](www.anonybit.io)| 
+|Turnkey authentication for new device authorization| [Anonybit](www.anonybit.io)| 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
