@@ -231,6 +231,7 @@ Feel free to update the list!
 - [RLN Anonymous Chat](https://github.com/njofce/zk-chat) - A spam resistant instant messaging application for private and anonymous communication.
 - [Beepo](https://beepoapp.net/#features) - a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts ([GitHub](https://github.com/beepo-app))
 - [Pastenym](https://pastenym.ch/#/) - Anon text sharing service ([GitHub](https://github.com/notrustverify/pastenym/))
+- [Onionclub](https://onionclub.io) - is blockchain based, business & social platform.
 
 ## Browser
 - [Puma browser](https://www.pumabrowser.com) - Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design.
