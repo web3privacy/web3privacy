@@ -216,6 +216,7 @@ Feel free to update the list!
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK ([GitHub](https://github.com/critesjosh/aztec-sdk-starter))
 - [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys ([GitHub](https://docs.chainport.io))
 - [Blockbend](https://blockblend.io) - Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service.
+- [](https://zkpay.finance) - Private Aztec withdrawal Bridge.
 
 ## Messaging
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
