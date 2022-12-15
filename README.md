@@ -59,6 +59,7 @@ Feel free to update the list!
 - [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems ✨️**ZK**
 - [ZKValidator](https://zkvalidator.com) - Earn staking rewards, and join us on our mission to accelerate bringing Privacy to web3 and blockchain.
 - [Diva](https://www.diva.exchange/en/) - Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE ([GitHub](https://github.com/diva-exchange))
+- [Yellow Submarine](https://ys.finance) - the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction))
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
