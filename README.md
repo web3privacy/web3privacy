@@ -165,6 +165,7 @@ Feel free to update the list!
 - [Findora](https://findora.org) - a decentralized, privacy-preserving smart contract platform. ([GitHub](https://github.com/findoranetwork))
 - [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
+- [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
 
 ## Layer 2
 - [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) - A Privacy-Focused Rollup for Enterprises ✨️**ZK** ([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) 
@@ -267,6 +268,8 @@ Feel free to update the list!
 - [Plugin.io](https://plugin.io/) - Privacy focussed, ad free social media & digital marketplace. 
 - [Krebit](https://krebit.id) - is an open identity verification protocol for Web3 Verifiable Credentials ([GitHub](https://github.com/KrebitDAO))
 - [FYEO Identity](https://www.gofyeo.com/fyeo-identity) - Decentralized password management. Real-time identity monitoring.
+- [LiquidFactory](https://liquidfactory.io) - unlocks liquidity to DeFi, GameFi & NFTs.
+- [CheqD](https://cheqd.io) - a secure network that enables individuals and organisations to fully control their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you ([GitHub](https://github.com/cheqd))
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
@@ -282,6 +285,7 @@ Feel free to update the list!
 - [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) - new supported format by Arcana preserving privacy within NFT minting ([Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/)) 
 - [Paras](https://eprint.iacr.org/2022/976.pdf) - a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances (concept by Vanishree Rao)
 - [NFT Fair](https://www.nftfair.app) - The do-good NFT launch platform
+- [Bidshop](https://www.bidshop.io) - The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's.
 
 ## Other
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
