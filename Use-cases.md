@@ -86,5 +86,14 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |"I am not on a blacklist"| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
 |"This $1K transaction is not part of a greater 100K transaction split up into pieces" (e.g., for Bank Secrecy Act and other regulations)| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
 
+|Attestation: "Donated to Gitcoin grants"| [Sismo](https://docs.sismo.io/sismo-docs/)| 
+|"Sent 100+ transactions on Ethereum". gain access to premium features within gated services| [Sismo](https://docs.sismo.io/sismo-docs/)| 
+|Badges that allow prominent community members to vote on decentralized platforms such as Snapshot | [Sismo](https://docs.sismo.io/sismo-docs/)| 
+|Projects that use Badges to gate access to off-chain community platforms with Guild | [Sismo](https://docs.sismo.io/sismo-docs/)| 
+|Combining data from multiple wallet addresses to mint an ‘Ethereum Power User ZK Badge’ | [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|Aggregating data from multiple accounts for a ‘Credit Score ZK Badge’| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|An ‘Ethereum Twitter Influencer ZK Badge’ that does not reveal the exact Twitter account.| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|A ‘Proof of GitHub Contributions ZK Badge’ that does not reveal the exact contributor| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
