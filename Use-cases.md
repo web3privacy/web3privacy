@@ -68,7 +68,7 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Domain-expertise reputation for DAO| [Polygon ID](https://polygon.technology/polygon-id)| 
 |player reputation profile for Web3 game| [Polygon ID](https://polygon.technology/polygon-id)| 
 |private and censorship-resistant P2P communication| [Polygon ID](https://polygon.technology/polygon-id)| 
-|decentralized sybil score| [Polygon ID](https://polygon.technology/polygon-id) + [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance) | 
+|decentralized sybil score| [Polygon ID](https://polygon.technology/polygon-id) + [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance) + [Bright ID](www.brightid.org) | 
 |decentralized sybil score: 1 person => 1 vote (democracy), 1 stimulus check, social security check, 1 number of tokens (fair airdrop), 1 player (play-to-earn game preventing spam), 1 number of comments (social network preventing spam), 1 account (generic application preventing spam), 1 number of accounts (generic application preventing spam but a little more lenient) | [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance) | 
 |Distribute a token-airdrop only to human-verified accounts| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
 |Allow voting only to account members of your DAO| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
