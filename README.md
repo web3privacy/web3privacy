@@ -241,6 +241,7 @@ Feel free to update the list!
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
 - [KYC not me](https://kycnot.me/) -  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. ([Codeberg repo](https://codeberg.org/pluja/kycnot.me))
+- [socialKYC](https://socialkyc.io) -  your decentralized social credentials ([GitHub](https://github.com/BTE-Trusted-Entity/socialkyc.io/))
 
 ## RPC
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
@@ -254,6 +255,7 @@ Feel free to update the list!
 - [Sia](https://sia.tech) - Decentralized data storage ([GitHub](https://github.com/SiaFoundation)) 
 - [vult](https://lp.zus.network/vult) - Your private cloud
 - [Züs](https://zus.network) - a high performance storage network powering limitless applications. Its a new way to earn a passive income from storage ([GitHub](https://github.com/0chain))  
+- [SerenityShield](https://serenityshield.io) - The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
@@ -262,6 +264,9 @@ Feel free to update the list!
 - [Mask](https://mask.io) - Mask Network brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension ([GitHub](https://github.com/DimensionDev/Maskbook))
 - [ZkMaps](https://gitcoin.co/grants/5781/zkmaps-proof-of-location) - Protecting users location with ZK proofs ([GitHub](https://github.com/zkMaps))
 - [Telios](https://www.telios.io) - Secure Communication with Encrypted Data and Email ([GitHub](https://github.com/Telios-org))
+- [Plugin.io](https://plugin.io/) - Privacy focussed, ad free social media & digital marketplace. 
+- [Krebit](https://krebit.id) - is an open identity verification protocol for Web3 Verifiable Credentials ([GitHub](https://github.com/KrebitDAO))
+- [FYEO Identity](https://www.gofyeo.com/fyeo-identity) - Decentralized password management. Real-time identity monitoring.
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
@@ -270,7 +275,6 @@ Feel free to update the list!
 - [Qubes OS](https://www.qubes-os.org) - Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. ([GitHub](https://github.com/QubesOS))
 - [TAILS OS](https://tails.boum.org) - Tails is a portable operating system that protects your privacy and helps you avoid censorship. ([GitLab](https://gitlab.tails.boum.org/tails/tails))
 - [nix-bitcoin](https://nixbitcoin.org) - a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security ([GitHub](https://github.com/fort-nix/nix-bitcoin))
-
 
 ## NFT
 - [Stashh](https://stashh.io) - Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. ([GitHub](https://github.com/stashh-labs))
