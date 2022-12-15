@@ -271,6 +271,7 @@ Feel free to update the list!
 - [FYEO Identity](https://www.gofyeo.com/fyeo-identity) - Decentralized password management. Real-time identity monitoring.
 - [LiquidFactory](https://liquidfactory.io) - unlocks liquidity to DeFi, GameFi & NFTs.
 - [CheqD](https://cheqd.io) - a secure network that enables individuals and organisations to fully control their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you ([GitHub](https://github.com/cheqd))
+- [SPKZ](https://spkz.io) - the first fully decentralized web3 community/chat platform
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
