@@ -57,8 +57,6 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Verify eligibility to enter Metaverse and IRL experiences| [Web3 ID](https://www.dock.io/web3id)|
 |Age verification for Web3 gaming, gambling and entertainment| [Web3 ID](https://www.dock.io/web3id)|
 |Age verification| [Web3 ID](https://www.dock.io/web3id)|
-
-doc signature with DID
-
+|Sign documents with DID| [KILT](https://www.kilt.io)| 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
