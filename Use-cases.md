@@ -70,7 +70,7 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Domain-expertise reputation for DAO| [Polygon ID](https://polygon.technology/polygon-id)| 
 |player reputation profile for Web3 game| [Polygon ID](https://polygon.technology/polygon-id)| 
 |private and censorship-resistant P2P communication| [Polygon ID](https://polygon.technology/polygon-id)| 
-|decentralized sybil score| [Polygon ID](https://polygon.technology/polygon-id) + [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance) + [Bright ID](www.brightid.org) | 
+|decentralized sybil score| [Polygon ID](https://polygon.technology/polygon-id) + [Bright ID](www.brightid.org) | 
 |decentralized sybil score: 1 person => 1 vote (democracy), 1 stimulus check, social security check, 1 number of tokens (fair airdrop), 1 player (play-to-earn game preventing spam), 1 number of comments (social network preventing spam), 1 account (generic application preventing spam), 1 number of accounts (generic application preventing spam but a little more lenient) | [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance) | 
 |Distribute a token-airdrop only to human-verified accounts| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
 |Allow voting only to account members of your DAO| [Polygon ID](https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/)| 
@@ -79,7 +79,7 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |linking user identities across multiple networks| [Litentry](https://litentry.com)| 
 |management of virtual identities enable access to different virtual worlds| [Litentry](https://litentry.com)| 
 |main registrar entry for open, decentralized domain name systems, empowering them to index the public data into the domain name, with the private name reserved in TEE side chain| [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
-|Single Sign-On with interoperability across networks and applications. | [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
+|Single Sign-On with interoperability across networks and applications | [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
 |on-chain governance's voting power| [Litentry](https://docs.litentry.com/about-litentry/use-cases)| 
 |a user wants to vote in multiple elections from different addresses as to not reveal their voting history. This can be done by giving each election a unique actionID.| [Holonym](https://docs.holonym.id/usage/custom-sybil-resistance)| 
 |"I am an accredited investor"| [Holonym](https://docs.holonym.id/introduction/private-credentials)| 
@@ -91,7 +91,7 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |"Sent 100+ transactions on Ethereum". gain access to premium features within gated services| [Sismo](https://docs.sismo.io/sismo-docs/)| 
 |Badges that allow prominent community members to vote on decentralized platforms such as Snapshot | [Sismo](https://docs.sismo.io/sismo-docs/)| 
 |Projects that use Badges to gate access to off-chain community platforms with Guild | [Sismo](https://docs.sismo.io/sismo-docs/)| 
-|Combining data from multiple wallet addresses to mint an ‘Ethereum Power User ZK Badge’ | [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|Combining data from multiple wallet addresses to mint an ‘Ethereum Power User ZK Badge’ ✨️ZK | [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
 |Aggregating data from multiple accounts for a ‘Credit Score ZK Badge’ ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
 |An ‘Ethereum Twitter Influencer ZK Badge’ that does not reveal the exact Twitter account ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
 |A ‘Proof of GitHub Contributions ZK Badge’ that does not reveal the exact contributor ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
