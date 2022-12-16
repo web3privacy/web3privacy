@@ -23,7 +23,7 @@ Use cases unlock Web3 privacy potential. They help developers code human-centric
 
 # Decentralised identity
 
-**Practicle approach**: "I am..." (example "I am an accredited investor") - use this during research or a brainstorm thinking around "proving certain attribute of an identity" without revealing whole picture. Other examples: "_I am a Starcraft 2 Grandmaster league player" - attribute, "but I don't want others to know that I'm a Serral_"
+**Practicle approach**: "I am..." (example "I am an accredited investor") - use this during research or a brainstorm thinking around "proving certain attribute of an identity" without revealing whole picture. Another example: "_I am a Starcraft 2 Grandmaster league player" - attribute, "but I don't want others to know that I'm a Serral_"
 
 | Use case | Example |
 | :---         |     :---:      |
