@@ -23,9 +23,11 @@ Use cases unlock Web3 privacy potential. They help developers code human-centric
 
 # Decentralised identity
 
+**Practicle approach**: "I am..." (example "I am an accredited investor") - use this during research or a brainstorm thinking around "proving certain attribute of an identity" without revealing whole picture. Other examples: "_I am a Starcraft 2 Grandmaster league player" - attribute, "but I don't want others to know that I'm a Serral_"
+
 | Use case | Example |
 | :---         |     :---:      |
-| Verifiable credentials   | [KILT](https://www.kilt.io)| 
+| Verifiable credentials (general)   | [KILT](https://www.kilt.io)| 
 | For availing of social welfare, when the holder's salary is below a certain amount, the holder should not need to reveal his salary from his bank statement, but show an anonymous credential   | [Web3 ID](https://www.dock.io/web3id)|
 | an investor able to convince a verifier that the total value of his assets is greater than some amount without revealing the actual values of his assets  | [Web3 ID](https://www.dock.io/web3id)|
 | permanently or temporarily renounce the attestations | [Web3 ID](https://www.dock.io/web3id)|
