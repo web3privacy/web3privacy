@@ -43,7 +43,7 @@ Use cases unlock Web3 privacy potential. They help developers code human-centric
 | Verifiable Credentials can be used alongside NFTs is to prove qualifications in order to access an NFT or an NFT marketplace
 an artist may want their NFTs to only be accessible by their fans or specific members of a community who meet certain criteria.   |[Web3 ID](https://www.dock.io/web3id)|
 | Verifiable Credentials could be issued to community members demonstrating they meet the criteria and can then present the Verifiable Credential to enable them to receive the NFT   | [Web3 ID](https://www.dock.io/web3id)|
-| Verifiable credentials issued via Dock use Zero-Knowledge Proofs to ensure data privacy, so the parties involved in the NFT transaction can prove their legitimacy without actually revealing their real-world identities or private information.  | [Web3 ID](https://www.dock.io/web3id)|
+| Verifiable credentials issued via Dock use Zero-Knowledge Proofs to ensure data privacy, so the parties involved in the NFT transaction can prove their legitimacy without actually revealing their real-world identities or private information ✨️ZK  | [Web3 ID](https://www.dock.io/web3id)|
 | seller can have a Verifiable Credential that shows a reputation score based on their previous NFT sales | [Web3 ID](https://www.dock.io/web3id)|
 | share a Verifiable Credential that demonstrates a history of creating legitimate NFTs | [Web3 ID](https://www.dock.io/web3id)|
 | fraud-proof digital documents that are instantly verifiable for authenticity (Supply chain) |[Web3 ID](https://www.dock.io/web3id)|
