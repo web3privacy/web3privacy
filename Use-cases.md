@@ -92,16 +92,16 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |Badges that allow prominent community members to vote on decentralized platforms such as Snapshot | [Sismo](https://docs.sismo.io/sismo-docs/)| 
 |Projects that use Badges to gate access to off-chain community platforms with Guild | [Sismo](https://docs.sismo.io/sismo-docs/)| 
 |Combining data from multiple wallet addresses to mint an ‘Ethereum Power User ZK Badge’ | [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
-|Aggregating data from multiple accounts for a ‘Credit Score ZK Badge’| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
-|An ‘Ethereum Twitter Influencer ZK Badge’ that does not reveal the exact Twitter account.| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
-|A ‘Proof of GitHub Contributions ZK Badge’ that does not reveal the exact contributor| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|Aggregating data from multiple accounts for a ‘Credit Score ZK Badge’ ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|An ‘Ethereum Twitter Influencer ZK Badge’ that does not reveal the exact Twitter account ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
+|A ‘Proof of GitHub Contributions ZK Badge’ that does not reveal the exact contributor ✨️ZK| [Sismo](https://docs.sismo.io/sismo-docs/sismo-badges)| 
 |Claiming Assets in GameFi. A player could prove ownership of an item or NFT without revealing either their profile or personal identity creating a safer environment. | [Findora CR](https://findora.org/findora-cr/)| 
 |Verifying Supply Chains. A product’s journey through a supply chain could be verified and proof given it came from the claimed source without every identity being collected. | [Findora CR](https://findora.org/findora-cr/)| 
 |Prove you are eligible to vote, without revealing who you are | [Iden3](https://blog.iden3.io/decentralized-identity-government-power.html)| 
 |Pay your taxes, without revealing how much you earn | [Iden3](https://blog.iden3.io/decentralized-identity-government-power.html)| 
 |Prove to someone that you are a member of a political party, while preventing that someone from sharing that proof with others. | [Iden3](https://blog.iden3.io/decentralized-identity-government-power.html)| 
-|a city hall can mint an identity zk-SBT to a citizen. The NFT shows "Residence Permit". The credential stores the detailed information of the receiving person.  | [zkCloak](https://mirror.xyz/zcloak-network.eth/BSqm-pLo3CbQgnBK_eMfrV9MUe3HL_MP65F3mkIyycc)| 
-|The POAP that is unlocked based on recipient age | [zkCloak](https://zcloaknetwork.medium.com/zkid-app-guide-walkthrough-b63663e71e4d)| 
+|a city hall can mint an identity zk-SBT to a citizen. The NFT shows "Residence Permit". The credential stores the detailed information of the receiving person ✨️ZK  | [zkCloak](https://mirror.xyz/zcloak-network.eth/BSqm-pLo3CbQgnBK_eMfrV9MUe3HL_MP65F3mkIyycc)| 
+|The POAP that is unlocked based on recipient age ✨️ZK | [zkCloak](https://zcloaknetwork.medium.com/zkid-app-guide-walkthrough-b63663e71e4d)| 
 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
