@@ -26,14 +26,14 @@ Use cases unlock Web3 privacy potential. They help developers code human-centric
 | Use case | Example |
 | :---         |     :---:      |
 | Verifiable credentials   | [KILT](https://www.kilt.io)| 
-| For availing of social welfare, when the holder's salary is below a certain amount, the holder should not need to reveal his salary from his bank statement, but show an anonymous credential to convince the verifier of the same.   | [Web3 ID](https://www.dock.io/web3id)|
-| an investor should be able to convince a verifier that the total value of his assets is greater than some amount without revealing the actual values of his assets.  | [Web3 ID](https://www.dock.io/web3id)|
-| permanently or temporarily renounce the attestations   | [Web3 ID](https://www.dock.io/web3id)|
-| proving total income from a bank statement credential is less than the limit.  | [Web3 ID](https://www.dock.io/web3id)|
+| For availing of social welfare, when the holder's salary is below a certain amount, the holder should not need to reveal his salary from his bank statement, but show an anonymous credential   | [Web3 ID](https://www.dock.io/web3id)|
+| an investor able to convince a verifier that the total value of his assets is greater than some amount without revealing the actual values of his assets  | [Web3 ID](https://www.dock.io/web3id)|
+| permanently or temporarily renounce the attestations | [Web3 ID](https://www.dock.io/web3id)|
+| prove total income from a bank statement credential is less than the limit  | [Web3 ID](https://www.dock.io/web3id)|
 | exchange as a verifier allows customers to make transactions after they prove possession of a government ID, but does not ask for any other information  | [Web3 ID](https://www.dock.io/web3id)|
-| a customer who possesses a government ID should be required to encrypt their SSN for the regulator without revealing the SSN itself.   | [Web3 ID](https://www.dock.io/web3id)|
-| user can verifiably encrypt any of his attributes for a third party, and convince the third party that the encryption has been correctly done.   | [Web3 ID](https://www.dock.io/web3id)|
-| proving that he/she is not a resident of a city/state, the holder should not need to share his exact address.   | [Web3 ID](https://www.dock.io/web3id)|
+| a customer who possesses a government ID should be required to encrypt their SSN for the regulator without revealing the SSN itself  | [Web3 ID](https://www.dock.io/web3id)|
+| user can verifiably encrypt any of his attributes for a third party, and convince the third party that the encryption has been correctly done   | [Web3 ID](https://www.dock.io/web3id)|
+| proving that he/she is not a resident of a city/state, the holder should not need to share his exact address   | [Web3 ID](https://www.dock.io/web3id)|
 | fraud-proof degree certificates to students and course graduates. Prove that I am a European citizen without sharing my passport details | [Web3 ID](https://www.dock.io/web3id)|
 | Prevent Certificate Fraud in Education and Training. A diploma mill is an organization that falsely claims to be a higher education institution and provides fake academic degrees or diplomas for a fee.  | [Web3 ID](https://www.dock.io/web3id)|
 | an NFT marketplace that is only appropriate for certain ages or populations  | [Web3 ID](https://www.dock.io/web3id)|
