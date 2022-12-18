@@ -1,6 +1,5 @@
 # 2022
 
-
 **CEX**
 - [BitMart](https://www.coindesk.com/business/2021/12/05/crypto-exchange-bitmart-hacked-with-losses-estimated-at-196-million/)
 - [FTX](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
@@ -15,6 +14,10 @@
 - [Rari Capital and Fei Protocol](https://www.coindesk.com/business/2022/04/30/defi-lender-rari-capitalfei-loses-80m-in-hack/)
 - [Inverse Finance](https://www.coindesk.com/video/defi-lender-inverse-to-repay-clients-funds-after-suffering-15-6m-exploit/)
 - [Meter](https://www.coindesk.com/business/2022/02/07/44m-stolen-in-hack-of-blockchain-infrastructure-firm-meter/)
+
+**Private data aggregation**
+- [ConsenSys x MetaMask](https://www.coindesk.com/business/2022/12/06/consensys-to-update-metamask-crypto-wallet-in-response-to-privacy-backlash/)
+- [Uniswap](https://www.coindesk.com/business/2022/11/21/crypto-exchange-uniswap-says-it-collects-users-public-on-chain-data-in-new-privacy-policy/)
 
 **Wallet**
 - [BitKeep](https://www.coindesk.com/markets/2022/10/18/crypto-wallet-bitkeep-hacked-for-1m-in-bnb-chain-polygon-tokens/)
