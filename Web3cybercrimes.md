@@ -1,7 +1,7 @@
 **Feb, 2022**
 [Wormhole](https://twitter.com/wormholecrypto/status/1489001949881978883) 
 
-**CEX**
+*CEX*
 [BitMart](https://www.coindesk.com/business/2021/12/05/crypto-exchange-bitmart-hacked-with-losses-estimated-at-196-million/)
 [FTX](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
 [Deribit](https://www.coindesk.com/business/2022/11/02/crypto-exchange-deribit-loses-28m-in-hot-wallet-hack/)
