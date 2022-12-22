@@ -86,6 +86,7 @@ Feel free to update the list!
 - [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin))  
 - [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK ([GitHub](https://github.com/BlackHatCoin)) 
 - [Basic Attention Token](https://basicattentiontoken.org) - Making Crypto and DeFi accessible and useable for everyone (powered by Brave)
+- [Discreet](https://discreet.net) - Discreet is a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed ([GitHub](https://github.com/DiscreetNetwork))
 
 ## Infrastructure
 - [DarkFi](https://dark.fi) - DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application ([GitHub](https://github.com/darkrenaissance/darkfi))
@@ -243,6 +244,7 @@ Feel free to update the list!
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
 - [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
 - [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value ([GitHub](https://github.com/Decentr-net))
+- [Carbon Browse](https://carbon.website) - Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy ([GitHub](https://github.com/Carbon-Browser))
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
