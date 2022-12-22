@@ -267,6 +267,7 @@ Feel free to update the list!
 - [Züs](https://zus.network) - a high performance storage network powering limitless applications. Its a new way to earn a passive income from storage ([GitHub](https://github.com/0chain))  
 - [SerenityShield](https://serenityshield.io) - The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone
 - [TransferChain](https://transferchain.io) - enables users to store, process and share their data while ensuring its privacy and security ([GitHub](https://github.com/TransferChain))
+- [Swarm](https://www.ethswarm.org) - a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps ([GitHub](https://github.com/ethersphere/swarm-cli))
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
