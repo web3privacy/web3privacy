@@ -293,6 +293,7 @@ Feel free to update the list!
 - [NFT Fair](https://www.nftfair.app) - The do-good NFT launch platform
 - [Bidshop](https://www.bidshop.io) - The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's.
 - [The Anon Club](https://theanonclub.com) - worlds first privacy focused digital collectibles
+- [geniish](https://www.geniish.io) - Confidential NFTs for exclusive experiences ([Docs]https://github.com/geniish-protocol/docs)
 
 ## Other
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
