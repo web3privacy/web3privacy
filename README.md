@@ -177,6 +177,7 @@ Feel free to update the list!
 - [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy ([Docs](https://docs.obscu.ro)) 
 - [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
 - [StarkEX](https://starkware.co/starkex/) - A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** ([GitHub](https://github.com/starkware-libs/starkex-resources)) 
+- [Plebble](https://plebble.net) - P2P Network of computers running the Plebble software ([GitHub](https://github.com/root1m3/plebble))
 
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
@@ -264,6 +265,7 @@ Feel free to update the list!
 - [vult](https://lp.zus.network/vult) - Your private cloud
 - [Züs](https://zus.network) - a high performance storage network powering limitless applications. Its a new way to earn a passive income from storage ([GitHub](https://github.com/0chain))  
 - [SerenityShield](https://serenityshield.io) - The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone
+- [TransferChain](https://transferchain.io) - enables users to store, process and share their data while ensuring its privacy and security ([GitHub](https://github.com/TransferChain))
 
 ## dApps
 - [Skiff](https://skiff.com/crypto) - Web3 email, drive, and docs ([GitHub](https://github.com/skiff-org/skiff-mail))
