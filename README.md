@@ -140,6 +140,7 @@ Feel free to update the list!
 - [Masq](https://masq.ai) - Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private ([GitHub](https://github.com/MASQ-Project))
 - [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 - [Calimero network](https://www.calimero.network) - Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains ([GitHub](https://github.com/calimero-is-near))
+- [Calimero Network](https://www.calimero.network) - Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains ([GitHub](https://github.com/calimero-is-near))
 
 ## Wallet
 - [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))
