@@ -196,7 +196,7 @@ Feel free to update the list!
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
 - [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
 - [IVPN](https://www.ivpn.net/) - IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. ([GitHub](https://github.com/ivpn))
-- [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage (see main product Proton.me) ([GitHub](https://github.com/ProtonVPN
+- [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage ([GitHub](https://github.com/ProtonVPN))
 
 ## DID
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
