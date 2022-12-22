@@ -213,6 +213,7 @@ Feel free to update the list!
 - [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
 - [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
 - [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
+- [ONT ID](https://ont.id) - Bringing trustless identity to Web3 manage your data with ONT ID ([GitHub](https://github.com/ont-id/))
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
