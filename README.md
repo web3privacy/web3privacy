@@ -348,3 +348,4 @@ Feel free to update the list!
 - [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) - Decentralized bitcoin coinjoin for improving privacy and fungibility
 - [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
 - [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
+- [HideYour.cash](https://hideyour.cash) -  is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol
