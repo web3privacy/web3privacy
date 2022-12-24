@@ -184,6 +184,7 @@ Feel free to update the list!
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
 - [Motherbored](https://store.motherbored.limited) - #dVPN hardware (node + SM card) ([GitHub](https://github.com/boringprotocol/motherbored))
 - [RoninDojo Tanto](https://samouraiwallet.com/ronin) - Fully validating Bitcoin full node. Served over a Tor hidden service.
+- [DappNode](https://dappnode.io/) - Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. 
 - [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server))
 - [Foundation](https://foundationdevices.com) - The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app ([GitHub](https://github.com/Foundation-Devices))
 
@@ -258,6 +259,7 @@ Feel free to update the list!
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
 - [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
 - [D.E.R.P](https://derp.hoprnet.org) - Dumb Ethereum RPC provider
+- [Ethereum Portal Network](https://www.ethportal.net/) - Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests 
 
 ## Storage
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
@@ -319,6 +321,8 @@ Feel free to update the list!
 - [Ronin DOJO software stack](https://ronindojo.io/en/roninui) - Manage your bitcoin privacy and sovereignty with ease ([GitLab](https://code.samourai.io/ronindojo))
 - [Semaphore Protocol](http://semaphore.appliedzkp.org) - Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** ([GitHub](https://github.com/semaphore-protocol/semaphore))
 - [BTC Pay](https://btcpayserver.org) - a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free ([GitHub](https://github.com/btcpayserver))
+- [Nostr](https://nostr.com/) - A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. 
+- [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
@@ -330,7 +334,8 @@ Feel free to update the list!
 - [RaspiBlitz](https://raspiblitz.org) - DIY Bitcoin & Lightning Node on a RaspberryPi
 - [Start9](https://start9.com) - Sovereign computing for a free future ([GitHub](https://github.com/Start9Labs))
 - [myNode](https://mynodebtc.com) - The easiest, most powerful way to run a Bitcoin and Lightning node ([GitHub](https://github.com/mynodebtc/mynode))
-
+- [NiceNode](https://nicenode.xyz) - Launcher with a simple user experience to run an Ethereum node on your computer. 
+- [Stereum](https://stereum.net/ethereum-node-setup/) - Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. 
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
 - [TC](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
