@@ -3,6 +3,7 @@ _**Prioritize and select your most privacy-centric use-case ideas!**_
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/Logo%20WI.png?raw=true)
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20matrix.png?raw=true)
+PPTX version:[open](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/What%20if...%20they%20won't%20have%20my%20data%20matrix.pptx)
 
 # **What is this for?**
 
