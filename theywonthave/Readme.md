@@ -6,7 +6,7 @@ _**Prioritize and select your most privacy-centric use-case ideas!**_
 
 # **What is this for?**
 
-The tool is to help you brainstorm & select applicable ideas for privacy use-cases. Moreover, it will help builders to expand their vision where privacy matters & what role does your data plays in redesigning a status quo between centralised & decentralised approaches. 
+Data is a privacy & data economy fuel. The tool is to help you brainstorm & select applicable ideas for privacy use-cases. Moreover, it will help builders to expand their vision where privacy matters & what role does your data plays in redesigning a status quo between centralised & decentralised approaches. 
 
 The "What if... they won't have my data" matrix helps you categorize ideas according to:
 
