@@ -12,15 +12,11 @@ The tool is to help you brainstorm & select practical ideas for privacy use-case
 
 The "What if... they won't have my data" matrix helps you categorize ideas according to:
 
-_Datasets_: what private data is involved in the cases 
-
-_Threat actors_: what kind of threat actors (governments, corporates, hackers) are involved in data abuse
-
-_Available data abuses_: how these actors use your data
-
-_Unavailable data impact_: how data usage or approach changes when there's no data available
-
-_Privacy benefits_: how systems, relations, economies change after getting back control of your data
+- _Datasets_: what private data is involved in the cases 
+- _Threat actors_: what kind of threat actors (governments, corporates, hackers) are involved in data abuse
+- _Available data abuses_: how these actors use your data
+- _Unavailable data impact_: how data usage or approach changes when there's no data available
+- _Privacy benefits_: how systems, relations, economies change after getting back control of your data
 
 # **Step-by-step guide**
 
