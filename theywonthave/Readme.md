@@ -4,7 +4,8 @@ _**Prioritize and select your most privacy-centric use-case ideas!**_
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20matrix.png?raw=true)
 
-**What is this for?**
+#**What is this for?**
+
 The tool is to help you brainstorm & select applicable ideas for privacy use-cases. The "What if... they won't have my data" matrix helps you categorize ideas according to:
 
 _Datasets_: what private data is involved in the cases 
@@ -17,7 +18,7 @@ _Unavailable data impact_: how data usage or approach changes when there's no da
 
 _Privacy benefits_: how systems, relations, economies change after getting back control to your data
 
-**Step-by-step guide**
+# **Step-by-step guide**
 
 **Step 1**
 Download this PDF and print it on an A2 sheet of paper. You can also draw the graph on a flipchart if you can’t print.
