@@ -6,7 +6,9 @@ _**Prioritize and select your most privacy-centric use-case ideas!**_
 
 # **What is this for?**
 
-The tool is to help you brainstorm & select applicable ideas for privacy use-cases. The "What if... they won't have my data" matrix helps you categorize ideas according to:
+The tool is to help you brainstorm & select applicable ideas for privacy use-cases. Moreover, it will help builders to expand their vision where privacy matters & what role does your data plays in redesigning a status quo between centralised & decentralised approaches. 
+
+The "What if... they won't have my data" matrix helps you categorize ideas according to:
 
 _Datasets_: what private data is involved in the cases 
 
@@ -21,10 +23,10 @@ _Privacy benefits_: how systems, relations, economies change after getting back 
 # **Step-by-step guide**
 
 **Step 1**
-Download this PDF and print it on an A2 sheet of paper. You can also draw the graph on a flipchart if you can’t print.
+Download matrix (use JPG, PPTX or print version). You can also draw the graph on a flipchart.
 
 **Step 2**
-Grab all your post-its with ideas on them from a previous ideation exercise. Plot the ideas into the wow-now-wow matrix.
+Brainstorm ideas solo or with your team. Fill up matrix' blocks with your ideas. 
 
 **Step 3**
 Take 3 voting-dots for each person (or use a marker), and vote 3 favorite ideas. After the voting session, select the 3 ideas which received the most votes.
