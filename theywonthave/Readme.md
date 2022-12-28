@@ -1,7 +1,7 @@
 # What if... they won't have my data matrix
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/Logo%20WI.png?raw=true)
 
-Prioritize and select your most privacy-centric use-case ideas!
+_**Prioritize and select your most privacy-centric use-case ideas!**_
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20matrix.png?raw=true)
 
