@@ -10,7 +10,7 @@ Historically privacy in web3 & crypto is centred around financial use cases. But
 
 The tool is to help you brainstorm & select practical ideas for privacy use-cases. Moreover, it will allow builders to expand their vision of where privacy matters & what role your data plays in redesigning a status quo between centralised & decentralised approaches. 
 
-The "What if... they won't have my data" matrix helps you categorize ideas according to:
+The "**What if... they won't have my data**" matrix helps you categorize ideas according to:
 
 - _Datasets_: what private data is involved in the cases 
 - _Threat actors_: what kind of threat actors (governments, corporates, hackers) are involved in data abuse
@@ -39,3 +39,5 @@ Step back and analyze the privacy benefits. In an ideal scenario, your “unavai
 # Corporations case study
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20(corporations%20case).png?raw=true)
+
+# Use **What if... they won't have my data** matrix to expand your imagination of privacy-as-a-power!
