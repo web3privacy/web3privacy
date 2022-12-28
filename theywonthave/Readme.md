@@ -37,3 +37,7 @@ Step back and analyze the privacy benefits. In an ideal scenario, your “unavai
 # Government case study
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20(government%20case).png?raw=true)
+
+# Corporations case study
+
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20(corporations%20case).png?raw=true)
