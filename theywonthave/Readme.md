@@ -26,7 +26,13 @@ The "**What if... they won't have my data**" matrix helps you categorize ideas a
 Download matrix (use JPG, PPTX or print version). You can also draw the graph on a flipchart.
 
 **Step 2**
-Brainstorm ideas solo or with your team. Fill up matrix' blocks with your ideas. 
+Brainstorm ideas solo or with your team. Fill up matrix' blocks with your ideas:
+
+- Datasets: try to add different examples of data, both online & offline 
+- Threat actors: try to use one type of the threat actor per matrix (where governments - 1; corporations - 1)
+- Available data abuses: try to research what are the negative implications behind data mining, analysis, trading, surveillance
+- Unavailable data impact: model situations when threat actors are forced to be pro-human by losing control over the data; be imaginative, and ask yourself how these actors would react positively (1-year, 3-year scenarios). 
+- Privacy benefits: try to highlight the biggest benefits for privacy & decentralisation of power relations
 
 **Step 3**
 Take 3 voting-dots for each person (or use a marker), and vote 3 favorite ideas. After the voting session, select the 3 ideas which received the most votes.
