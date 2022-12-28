@@ -6,7 +6,9 @@ _**Prioritize and select your most privacy-centric use-case ideas!**_
 
 # **What is this for?**
 
-Data is a privacy & data economy fuel. The tool is to help you brainstorm & select applicable ideas for privacy use-cases. Moreover, it will help builders to expand their vision where privacy matters & what role does your data plays in redesigning a status quo between centralised & decentralised approaches. 
+Historically privacy in web3 & crypto is centred around financial use cases. But what if agency over privacy could lead to Facebook's business model disruption, drastically decrease government surveillance apparatus or force Nike to reduce consumerist pollution? That's what privacy & decentralisation could accomplish together. 
+
+The tool is to help you brainstorm & select practical ideas for privacy use-cases. Moreover, it will allow builders to expand their vision of where privacy matters & what role your data plays in redesigning a status quo between centralised & decentralised approaches. 
 
 The "What if... they won't have my data" matrix helps you categorize ideas according to:
 
@@ -18,7 +20,7 @@ _Available data abuses_: how these actors use your data
 
 _Unavailable data impact_: how data usage or approach changes when there's no data available
 
-_Privacy benefits_: how systems, relations, economies change after getting back control to your data
+_Privacy benefits_: how systems, relations, economies change after getting back control of your data
 
 # **Step-by-step guide**
 
