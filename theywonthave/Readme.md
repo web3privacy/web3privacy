@@ -31,3 +31,7 @@ Take 3 voting-dots for each person (or use a marker), and vote 3 favorite ideas.
 
 **Step 4**
 Step back and analyze the privacy benefits. In an ideal scenario, your “unavailable data impact” and “benefits” fields should highlight the most feasible ideas for now – and the most impactful for the future.
+
+# Government case study
+
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/theywonthave/img/What%20if...%20they%20won't%20have%20my%20data%20(government%20case).png?raw=true)
