@@ -62,6 +62,7 @@ Feel free to update the list!
 - [Diva](https://www.diva.exchange/en/) - Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE ([GitHub](https://github.com/diva-exchange))
 - [Yellow Submarine](https://ys.finance) - the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction))
 - [BasicSwap](https://basicswapdex.com) - Private Cross-Chain DEX ([GitHub0](https://github.com/tecnovert/basicswap/blob/master/doc/install.md))
+- [Common](https://common.fi) - Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem.
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
@@ -140,6 +141,7 @@ Feel free to update the list!
 - [Masq](https://masq.ai) - Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private ([GitHub](https://github.com/MASQ-Project))
 - [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 - [Calimero network](https://www.calimero.network) - Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains ([GitHub](https://github.com/calimero-is-near))
+- [Orbis](https://orbis.club) - We make it easy to add social features to your application ([GitHub](https://github.com/OrbisWeb3/))
 
 ## Wallet
 - [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))
@@ -223,7 +225,7 @@ Feel free to update the list!
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK ([GitHub](https://github.com/critesjosh/aztec-sdk-starter))
 - [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys ([GitHub](https://docs.chainport.io))
 - [Blockbend](https://blockblend.io) - Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service.
-- [](https://zkpay.finance) - Private Aztec withdrawal Bridge.
+- [ZkPay](https://zkpay.finance) - Private Aztec withdrawal Bridge.
 
 ## Messaging
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
