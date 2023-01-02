@@ -247,7 +247,8 @@ Feel free to update the list!
 - [Opera Crypto Browser](https://www.opera.com/crypto/next) - Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar.
 - [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
 - [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value ([GitHub](https://github.com/Decentr-net))
-- [Carbon Browse](https://carbon.website) - Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy ([GitHub](https://github.com/Carbon-Browser))
+- [Carbon Browser](https://carbon.website) - Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy ([GitHub](https://github.com/Carbon-Browser))
+- [Status](https://status.im/web-three-browser/) - Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser 
 
 ## KYC
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
