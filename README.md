@@ -7,7 +7,7 @@
 | [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)  | Forthcoming activities that will empower humans & industry privacy-level  |
 | [Pagency framework for private use-case ideation](https://github.com/Msiusko/web3privacy/tree/main/Pagency)  | a tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3 |
 | [Privacy use-cases database](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)  | ideas & references for privacy builders |
-| [Jobs in privacy companies](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)  | find your next privacy work  |
+| [Web3 Privacy Hiring](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)  | find your next privacy work  |
 | [Privacy-enhancing web3-solutions database](https://github.com/Msiusko/web3privacy/blob/main/README.md)  | Unified database of the privacy-enhancing solutions |
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
