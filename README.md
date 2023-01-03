@@ -143,7 +143,6 @@ Feel free to update the list!
 - [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 - [Calimero network](https://www.calimero.network) - Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains ([GitHub](https://github.com/calimero-is-near))
 - [Orbis](https://orbis.club) - We make it easy to add social features to your application ([GitHub](https://github.com/OrbisWeb3/))
-- [ONINO](https://www.onino.io) - a Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability. Built with a Unique DAG-Based Consensus Protocol to Provide Scalability for Large-Scale Use Cases.
 
 ## Wallet
 - [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) - the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))
