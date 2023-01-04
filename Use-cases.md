@@ -108,5 +108,14 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 | :---         |     :---:      |
 | zkAddresses - a reusable address for your private assets   | [Manta Network](https://docs.manta.network/docs/concepts/zkAddress)| 
 | Viewing Keys - A viewing key allows you to disclose a zkAddress's complete spending history without leaking its spending secret. | [Manta Network](https://docs.manta.network/docs/concepts/ViewingKey)| 
+| Allow 3rd party apps to anonymize any arbitrary ‘key : value’ pairs, so users can privately reveal part or all of their data at their discretion for any necessary compliance and authentication. | [NYM](https://nymtech.net/docs/stable/architecture/nym-other-systems/#nym-vs-facebook-connect)| 
+
+# NFT
+| Use case | Example |
+| :---         |     :---:      |
+| Secret NFTs are non-fungible tokens that—unlike their ERC-721 cousins—have additional privacy features like private metadata and ownership. This protects collectors by shielding their identity and empowers creators by enabling them to control who can access their work, how, and when. | [Secret](https://scrt.network/about/secret-nfts)| 
+| Creators can leverage Secret NFT’s private metadata to create experiences not possible with non-private NFTs, like embedding secret links to high-quality images and creating game items with hidden abilities. | [Secret](https://scrt.network/about/secret-nfts)| 
+| Private galleries: can restrict viewership to maintain rarity & exclusivity. Art owners can keep their ownership status private | [Secret](https://scrt.network/about/secret-nfts)| 
+| Artists & collectors can maintain financial privacy by decoupling wallet balances from NFT art & collectibles | [Secret](https://scrt.network/about/secret-nfts)| 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
