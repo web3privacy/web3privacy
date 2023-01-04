@@ -23,7 +23,7 @@ Use cases unlock Web3 privacy potential. They help developers code human-centric
 
 # Decentralised identity
 
-**Practicle approach**: "I am..." (example "I am an accredited investor") - use this during research or a brainstorm thinking around "proving certain attribute of an identity" without revealing whole picture. Another example: "_I am a Starcraft 2 Grandmaster league player" - attribute, "but I don't want others to know that I'm a Serral_"
+**Practical approach**: "I am..." (example "I am an accredited investor") - use this during research or a brainstorm thinking around "proving certain attribute of an identity" without revealing whole picture. Another example: "_I am a Starcraft 2 Grandmaster league player" - attribute, "but I don't want others to know that I'm a Serral_"
 
 | Use case | Example |
 | :---         |     :---:      |
@@ -103,5 +103,10 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 |a city hall can mint an identity zk-SBT to a citizen. The NFT shows "Residence Permit". The credential stores the detailed information of the receiving person ✨️ZK  | [zkCloak](https://mirror.xyz/zcloak-network.eth/BSqm-pLo3CbQgnBK_eMfrV9MUe3HL_MP65F3mkIyycc)| 
 |The POAP that is unlocked based on recipient age ✨️ZK | [zkCloak](https://zcloaknetwork.medium.com/zkid-app-guide-walkthrough-b63663e71e4d)| 
 
+# Infrastructure
+| Use case | Example |
+| :---         |     :---:      |
+| zkAddresses - a reusable address for your private assets   | [Manta Network](https://docs.manta.network/docs/concepts/zkAddress)| 
+| Viewing Keys - A viewing key allows you to disclose a zkAddress's complete spending history without leaking its spending secret. | [Manta Network](https://docs.manta.network/docs/concepts/ViewingKey)| 
 
 _Other areas of the use-case research cover private currencies, Infrastructure, Wallets, Layer 2, Hardware, VPN, DID, DAO, messengers, Browsers & many more._ 
