@@ -220,6 +220,7 @@ Feel free to update the list!
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
+- [HeyAnon](https://www.heyanoun.xyz) - allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK*
 
 ## Bridge
 - [Shinobi](https://www.sbtc.ninja) - Privacy Solution for Bitcoin Using the Secret Network ([GitHub](https://github.com/shinobi-protocol)) 
@@ -345,6 +346,7 @@ Feel free to update the list!
 - [myNode](https://mynodebtc.com) - The easiest, most powerful way to run a Bitcoin and Lightning node ([GitHub](https://github.com/mynodebtc/mynode))
 - [NiceNode](https://nicenode.xyz) - Launcher with a simple user experience to run an Ethereum node on your computer. 
 - [Stereum](https://stereum.net/ethereum-node-setup/) - Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. 
+
 ## Mixing services
 - [UniJoin](https://unijoin.io) - We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology
 - [TC](https://en.wikipedia.org/wiki/Tornado_Cash) - is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks.
