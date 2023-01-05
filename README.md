@@ -219,6 +219,7 @@ Feel free to update the list!
 - [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
 - [ONT ID](https://ont.id) - Bringing trustless identity to Web3 manage your data with ONT ID ([GitHub](https://github.com/ont-id/))
 - [Interep](https://interep.link) - Anti-sybil as a service ([GitHub](https://github.com/interep-project))
+- [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
