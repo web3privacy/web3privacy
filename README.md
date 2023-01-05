@@ -335,6 +335,7 @@ Feel free to update the list!
 - [Nostr](https://nostr.com/) - A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. 
 - [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
 - [Abakhus protocol](https://www.abakhus.io) - A privacy-preserving protocol for Health and Life Sciences ([GutHub](https://github.com/Abakhus/))
+- [Minds](https://www.minds.com) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
