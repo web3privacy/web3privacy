@@ -56,6 +56,7 @@ Feel free to update the list!
 - [Webb](https://app.webb.tools/#/tornado) - an interoperable private bridge ✨️**ZK** ([GitHub](https://github.com/webb-tools))
 - [Panther Protocol](https://www.pantherprotocol.io) - is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** ([GitHub](https://github.com/pantherprotocol)) 
 - [zk.money](https://zk.money) - The private DeFi yield aggregator for Ethereum.✨️**ZK** ([Docs](https://docs.aztec.network/zk-money/userguide))
+- [RAILGUN](https://railgun.org) - Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.✨️**ZK** ([Docs](https://docs.railgun.org))
 - [Umbra](https://app.umbra.cash) - As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum ([GitHub](https://github.com/ScopeLift/umbra-protocol))
 - [Light Shield](https://shield.lightprotocol.com) - private transactions for Solana.([Docs](https://docs.lightprotocol.com))
 - [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) - Decentralized Anonymous Payment Systems ✨️**ZK**
