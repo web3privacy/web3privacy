@@ -346,7 +346,7 @@ Feel free to update the list!
 - [No Trust Verify](https://nym.notrustverify.ch) - Take place to the next generation of privacy infrastructure.
 - [Privacy & Security explorations](https://appliedzkp.org) - We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts.
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
-- [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online.
+- [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 
 ## Node
 - [nodl One](https://www.nodl.eu/products/nodl-one/) - a full Bitcoin and Lightning Network node.
