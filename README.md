@@ -266,6 +266,7 @@ Feel free to update the list!
 - [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
 - [D.E.R.P](https://derp.hoprnet.org) - Dumb Ethereum RPC provider
 - [Ethereum Portal Network](https://www.ethportal.net/) - Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests 
+- [Spook](https://github.com/EdenBlockVC/spook) - Mixing service using the Nym network to anonymize Ethereum RPC calls
 
 ## Storage
 - [Skiff Drive](https://skiff.com/drive) - Secure file storage ([GitHub](https://github.com/skiff-org))
