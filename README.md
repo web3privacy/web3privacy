@@ -367,3 +367,7 @@ Feel free to update the list!
 - [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
 - [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
 - [HideYour.cash](https://hideyour.cash) -  is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol
+
+## Podcasts & blogs
+- [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet
+- [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
