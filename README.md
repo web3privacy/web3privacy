@@ -165,6 +165,7 @@ Feel free to update the list!
 - [Specter-DIY] - DIY airgapped hardware wallet that uses QR codes for communication with the host ([GitHub](https://github.com/cryptoadvance/specter-diy/))
 - [SeedSigner](https://seedsigner.com) - Air-gapped DIY Bitcoin Signing Device ([GitHub](https://github.com/SeedSigner/seedsigner))
 - [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin 
+- [Zkopru](https://zkopru.network) - Affordable Ethereum Privacy Wallet ✨️**ZK**  ([GutHub](https://github.com/zkopru-network))
 
 ## Computing network
 - [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
@@ -217,6 +218,7 @@ Feel free to update the list!
 - [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
 - [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
 - [ONT ID](https://ont.id) - Bringing trustless identity to Web3 manage your data with ONT ID ([GitHub](https://github.com/ont-id/))
+- [Interep](https://interep.link) - Anti-sybil as a service ([GitHub](https://github.com/interep-project))
 
 ## DAO
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
@@ -289,6 +291,8 @@ Feel free to update the list!
 - [LiquidFactory](https://liquidfactory.io) - unlocks liquidity to DeFi, GameFi & NFTs.
 - [CheqD](https://cheqd.io) - a secure network that enables individuals and organisations to fully control their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you ([GitHub](https://github.com/cheqd))
 - [SPKZ](https://spkz.io) - the first fully decentralized web3 community/chat platform
+- [TLSNotary](https://tlsnotary.org) - Proof of data authenticity ([GitHub](https://github.com/tlsnotary/tlsn))
+- [Damus](https://damus.io) - The social network you control
 
 ## OS
 - [Graphene OS](https://grapheneos.org) - The private and secure mobile operating system with Android app compatibility ([GitHub](https://github.com/GrapheneOS))
@@ -308,6 +312,7 @@ Feel free to update the list!
 - [The Anon Club](https://theanonclub.com) - worlds first privacy focused digital collectibles
 - [geniish](https://www.geniish.io) - Confidential NFTs for exclusive experiences ([Docs](https://github.com/geniish-protocol/docs))
 - [certUP](https://certup.net) - SecretNFT Certificates revolutionising official document distribution, verification and publication ([GitHub](https://github.com/CertUP))
+- [Actilist](https://test.actilist.io) - Secret NFT auctions ([GitHub](https://github.com/actilabs))
 
 ## Other
 - [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
@@ -327,6 +332,7 @@ Feel free to update the list!
 - [BTC Pay](https://btcpayserver.org) - a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free ([GitHub](https://github.com/btcpayserver))
 - [Nostr](https://nostr.com/) - A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. 
 - [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
+- [Abakhus protocol](https://www.abakhus.io) - A privacy-preserving protocol for Health and Life Sciences ([GutHub](https://github.com/Abakhus/))
 
 ## Alliances
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
