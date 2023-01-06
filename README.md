@@ -64,7 +64,7 @@ Feel free to update the list!
 - [Yellow Submarine](https://ys.finance) - the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction))
 - [BasicSwap](https://basicswapdex.com) - Private Cross-Chain DEX ([GitHub0](https://github.com/tecnovert/basicswap/blob/master/doc/install.md))
 - [Common](https://common.fi) - Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem.
-- [Sacred](https://sacred.finance) - multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ([GitHub](https://github.com/Sacred-Finance))
+- [Sacred](https://sacred.finance) - multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** ([GitHub](https://github.com/Sacred-Finance))
 
 ## Currency
 - [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
