@@ -231,6 +231,7 @@ Feel free to update the list!
 - [ChainPort Private Bridge](https://www.chainport.io/private-bridge) - Full control and security for your token – manage supported chains, path, amounts, and own the keys ([GitHub](https://docs.chainport.io))
 - [Blockbend](https://blockblend.io) - Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service.
 - [ZkPay](https://zkpay.finance) - Private Aztec withdrawal Bridge.
+- [Secret Bridge](https://bridge.scrt.network) - bridge to the Secret Network
 
 ## Messaging
 - [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
