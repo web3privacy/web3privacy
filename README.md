@@ -75,7 +75,7 @@ Feel free to update the list!
 - [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
 - [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.([GitHub](https://github.com/PirateNetwork))
 - [SILK](https://github.com/scrtlabs/Grants/issues/22) - Private Algorithmic Stable Coin
-- [BOB Protocl](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
+- [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
 - [Decred](https://decred.org) - A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development ([Docs](https://docs.decred.org)) 
 - [Firo](https://firo.org) - A privacy preserving cryptocurrency and ecosystem ([GitHub](https://github.com/firoorg/firo)) 
 - [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets ([GitHub](https://github.com/PIVX-Project/PIVX/)) 
