@@ -182,7 +182,7 @@ Feel free to update the list!
 - [Obscuro](https://obscu.ro) - Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy ([Docs](https://docs.obscu.ro)) 
 - [ZKCHAOS](https://www.zkchaos.com) - ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency.
 - [StarkEX](https://starkware.co/starkex/) - A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** ([GitHub](https://github.com/starkware-libs/starkex-resources)) 
-- [Plebble](https://plebble.net) - P2P Network of computers running the Plebble software ([GitHub](https://github.com/root1m3/plebble))
+- [Plebble](https://plebble.net) - P2P Network of computers running the Plebble software (L1 & L2). Plebble is an R&D Project on Future Societies started in 2017 in crypto-economic distributed, permissionless, egalitarian, scalable, privacy-preserving, sovereign, AI aid P2P networks; enabling untraceable, fast and reliable value-transfer for anyone; plus, at the same time, serving as foundation for a projected poorless/poverty-oblivious un{controlled/surveyed/regulated} civilization based on a better social order with no central authority, no 3rd parties nor intermediaries.  ([GitHub](https://github.com/root1m3/plebble))
 
 ## Hardware
 - [Deeper Network](https://www.deeper.network) - Web 3.0 infrastructure of the users, by the users, for the users.
