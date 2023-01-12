@@ -242,6 +242,7 @@ on-platform trade between volatile and stable assets
 - [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
 - [Spruce](https://spruceid.com) - the open-source stack to leave control of identity and data where it should be: with users. ([GitHub](https://github.com/spruceid)) 
 - [Hypersign](https://hypersign.id) - the ultimate stack for identity management  ([GitHub](https://github.com/hypersign-protocol))
+- [Fractal ID](https://web.fractal.id) - We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status ([GitHub](https://github.com/trustfractal))
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -377,6 +378,7 @@ on-platform trade between volatile and stable assets
 - [Minds](https://www.minds.com) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
 - [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
 - [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
+- [Media Network](https://www.media.network) - a privacy-first and community-governed CDN ([GitHub](https://github.com/mediafoundation))
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
