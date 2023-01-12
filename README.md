@@ -364,6 +364,7 @@ Feel free to update the list!
 - [Universal Privacy Alliance](https://privacyalliance.com) - The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies.
 
 ## R&D
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true)
 - [P0X labs](https://p0xeidon.xyz) - the decentralized laboratory for building cutting-edge privacy technologies.
 - [=nil; Foundation](https://nil.foundation) - Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments.
 - [No Trust Verify](https://nym.notrustverify.ch) - Take place to the next generation of privacy infrastructure.
@@ -372,6 +373,7 @@ Feel free to update the list!
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 
 ## Node
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Node?raw=true)
 - [nodl One](https://www.nodl.eu/products/nodl-one/) - a full Bitcoin and Lightning Network node.
 - [nodl Dojo](https://www.nodl.eu/products/nodl-dojo/) - a collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node.
 - [RaspiBlitz](https://raspiblitz.org) - DIY Bitcoin & Lightning Node on a RaspberryPi
