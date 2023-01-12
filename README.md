@@ -148,6 +148,9 @@ Feel free to update the list!
 - [Trocador App](https://trocador.app) - Trocador is a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available.
 - [Calimero network](https://www.calimero.network) - Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains ([GitHub](https://github.com/calimero-is-near))
 - [Orbis](https://orbis.club) - We make it easy to add social features to your application ([GitHub](https://github.com/OrbisWeb3/))
+- [ZeroNet](https://zeronet.io) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network ([GitHub](https://github.com/HelloZeroNet/ZeroNet))
+- [MACI](https://privacy-scaling-explorations.github.io/maci/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-scaling-explorations/maci))
+- [Threshold](https://threshold.network) - A decentralized threshold cryptography network ([GitHub](https://github.com/threshold-network))
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -245,6 +248,7 @@ Feel free to update the list!
 - [Blockbend](https://blockblend.io) - Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service.
 - [ZkPay](https://zkpay.finance) - Private Aztec withdrawal Bridge.
 - [Secret Bridge](https://bridge.scrt.network) - bridge to the Secret Network
+- [Shade bridge](https://app.shadeprotocol.io/bridge) - an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. ([Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge))
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
@@ -314,6 +318,8 @@ Feel free to update the list!
 - [SPKZ](https://spkz.io) - the first fully decentralized web3 community/chat platform
 - [TLSNotary](https://tlsnotary.org) - Proof of data authenticity ([GitHub](https://github.com/tlsnotary/tlsn))
 - [Damus](https://damus.io) - The social network you control
+- [Weavemail](https://docs.arweave.org/info/tools/weavemail) - the mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own.
+- [Stealthdrop](https://stealthdrop.xyz) - Anonymous Airdrops using ZK-SNARKS ✨️**ZK** ([GitHub](https://github.com/stealthdrop/stealthdrop))
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
