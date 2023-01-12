@@ -373,7 +373,7 @@ Feel free to update the list!
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 
 ## Node
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Node?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
 - [nodl One](https://www.nodl.eu/products/nodl-one/) - a full Bitcoin and Lightning Network node.
 - [nodl Dojo](https://www.nodl.eu/products/nodl-dojo/) - a collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node.
 - [RaspiBlitz](https://raspiblitz.org) - DIY Bitcoin & Lightning Node on a RaspberryPi
