@@ -153,6 +153,8 @@ on-platform trade between volatile and stable assets
 - [ZeroNet](https://zeronet.io) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network ([GitHub](https://github.com/HelloZeroNet/ZeroNet))
 - [MACI](https://privacy-scaling-explorations.github.io/maci/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-scaling-explorations/maci))
 - [Threshold](https://threshold.network) - A decentralized threshold cryptography network ([GitHub](https://github.com/threshold-network))
+- [Anytype](https://anytype.io/en) - the digital assets and communities you create are truly yours.
+Here, you can decide how your data is used, shared, and valued. ([GitHub](https://github.com/anytypeio)) 
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
