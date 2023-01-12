@@ -236,6 +236,7 @@ Feel free to update the list!
 - [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
 - [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
 - [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
+-[Bringing Privacy to ENS](https://www.cerebrum.com) - ChainSafe’s Proposed Integration Using Aztec Network ([GitHub](https://github.com/ChainSafe/ens-aztec-privacy/)) 
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -251,6 +252,7 @@ Feel free to update the list!
 - [ZkPay](https://zkpay.finance) - Private Aztec withdrawal Bridge.
 - [Secret Bridge](https://bridge.scrt.network) - bridge to the Secret Network
 - [Shade bridge](https://app.shadeprotocol.io/bridge) - an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. ([Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge))
+- [Rialto bridge](https://rialtobridge.io) - Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain ([Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge))
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
@@ -406,6 +408,7 @@ Feel free to update the list!
 - [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) - Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service ([Docs](https://protocolvoid.gitbook.io/void-protocol/)) 
 - [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
 - [HideYour.cash](https://hideyour.cash) -  is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol
+- [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) - Zk Privacy Solution on Mina Protocol
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
