@@ -234,6 +234,8 @@ Feel free to update the list!
 - [ONT ID](https://ont.id) - Bringing trustless identity to Web3 manage your data with ONT ID ([GitHub](https://github.com/ont-id/))
 - [Interep](https://interep.link) - Anti-sybil as a service ([GitHub](https://github.com/interep-project))
 - [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
+- [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
+- [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -364,6 +366,7 @@ Feel free to update the list!
 - [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
 - [Abakhus protocol](https://www.abakhus.io) - A privacy-preserving protocol for Health and Life Sciences ([GutHub](https://github.com/Abakhus/))
 - [Minds](https://www.minds.com) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
+- [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
