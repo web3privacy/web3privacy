@@ -67,6 +67,8 @@ Feel free to update the list!
 - [BasicSwap](https://basicswapdex.com) - Private Cross-Chain DEX ([GitHub0](https://github.com/tecnovert/basicswap/blob/master/doc/install.md))
 - [Common](https://common.fi) - Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem.
 - [Sacred](https://sacred.finance) - multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** ([GitHub](https://github.com/Sacred-Finance))
+- [Sahara](https://sahara.network) - The first dedicated privacy protocol ecosystem that enables
+on-platform trade between volatile and stable assets
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -175,7 +177,8 @@ Feel free to update the list!
 - [SeedSigner](https://seedsigner.com) - Air-gapped DIY Bitcoin Signing Device ([GitHub](https://github.com/SeedSigner/seedsigner))
 - [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin 
 - [Zkopru](https://zkopru.network) - Affordable Ethereum Privacy Wallet ✨️**ZK**  ([GutHub](https://github.com/zkopru-network))
-- [Leo wallet](https://leo.app) - Safe and easy way to interact with the Aleo blockchain ([GutHub](https://docs.leo.app/aleo-wallet-adapter/)) 
+- [Leo wallet](https://leo.app) - Safe and easy way to interact with the Aleo blockchain ([GutHub](https://docs.leo.app/aleo-wallet-adapter/))
+- [Nighthawk Wallet](https://nighthawkwallet.com) - Private Money in your pocket. ([GutHub](https://github.com/nighthawk-apps)) 
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -238,6 +241,7 @@ Feel free to update the list!
 - [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
 - [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
 - [Spruce](https://spruceid.com) - the open-source stack to leave control of identity and data where it should be: with users. ([GitHub](https://github.com/spruceid)) 
+- [Hypersign](https://hypersign.id) - the ultimate stack for identity management  ([GitHub](https://github.com/hypersign-protocol))
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -372,6 +376,7 @@ Feel free to update the list!
 - [Abakhus protocol](https://www.abakhus.io) - A privacy-preserving protocol for Health and Life Sciences ([GutHub](https://github.com/Abakhus/))
 - [Minds](https://www.minds.com) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
 - [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
+- [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -387,6 +392,9 @@ Feel free to update the list!
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 - [Demox labs](https://www.demoxlabs.xyz) - Building privacy preserving ZK infrastructure on Aleo.
+- [Electric Coin. Co](https://electriccoin.co/research-and-development/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
+- [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
+- [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
