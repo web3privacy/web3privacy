@@ -175,6 +175,7 @@ Feel free to update the list!
 - [SeedSigner](https://seedsigner.com) - Air-gapped DIY Bitcoin Signing Device ([GitHub](https://github.com/SeedSigner/seedsigner))
 - [Krux](https://selfcustody.github.io/krux/) - Open-source signing device firmware for Bitcoin 
 - [Zkopru](https://zkopru.network) - Affordable Ethereum Privacy Wallet ✨️**ZK**  ([GutHub](https://github.com/zkopru-network))
+- [Leo wallet](https://leo.app) - Safe and easy way to interact with the Aleo blockchain ([GutHub](https://docs.leo.app/aleo-wallet-adapter/)) 
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -236,7 +237,7 @@ Feel free to update the list!
 - [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
 - [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
 - [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
--[Bringing Privacy to ENS](https://www.cerebrum.com) - ChainSafe’s Proposed Integration Using Aztec Network ([GitHub](https://github.com/ChainSafe/ens-aztec-privacy/)) 
+- [Spruce](https://spruceid.com) - the open-source stack to leave control of identity and data where it should be: with users. ([GitHub](https://github.com/spruceid)) 
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -324,6 +325,7 @@ Feel free to update the list!
 - [Damus](https://damus.io) - The social network you control
 - [Weavemail](https://docs.arweave.org/info/tools/weavemail) - the mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own.
 - [Stealthdrop](https://stealthdrop.xyz) - Anonymous Airdrops using ZK-SNARKS ✨️**ZK** ([GitHub](https://github.com/stealthdrop/stealthdrop))
+- [Bringing Privacy to ENS](https://www.cerebrum.com) - ChainSafe’s Proposed Integration Using Aztec Network ([GitHub](https://github.com/ChainSafe/ens-aztec-privacy/)) 
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -346,6 +348,7 @@ Feel free to update the list!
 - [geniish](https://www.geniish.io) - Confidential NFTs for exclusive experiences ([Docs](https://github.com/geniish-protocol/docs))
 - [certUP](https://certup.net) - SecretNFT Certificates revolutionising official document distribution, verification and publication ([GitHub](https://github.com/CertUP))
 - [Actilist](https://test.actilist.io) - Secret NFT auctions ([GitHub](https://github.com/actilabs))
+- [Fade WTF](http://mint.fade.wtf) - Privacy for NFTs (Powered by Light Protocol)
 
 ## Other
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
@@ -383,6 +386,7 @@ Feel free to update the list!
 - [Privacy & Security explorations](https://appliedzkp.org) - We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts.
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
+- [Demox labs](https://www.demoxlabs.xyz) - Building privacy preserving ZK infrastructure on Aleo.
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
