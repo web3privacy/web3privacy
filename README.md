@@ -212,7 +212,7 @@ Feel free to update the list!
 - [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage ([GitHub](https://github.com/ProtonVPN))
 
 ## DID
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Identity.png?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
 - [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
 - [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) 
 - [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3 ([GitHub](https://github.com/docknetwork))
@@ -232,7 +232,7 @@ Feel free to update the list!
 - [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
 
 ## DAO
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAO.png?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
 - [HeyAnon](https://www.heyanoun.xyz) - allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK*
 
