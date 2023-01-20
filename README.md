@@ -69,6 +69,8 @@ Feel free to update the list!
 - [Sacred](https://sacred.finance) - multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** ([GitHub](https://github.com/Sacred-Finance))
 - [Sahara](https://sahara.network) - The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets
 - [DeFiner](https://definer.org) - Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** ([GitHub](https://github.com/DeFinerOrg))
+- [Hurricane Protocol](https://hurricane.money) - A fully decentralized protocol offering private transactions on both the Terra & NEAR. ([GitHub](https://github.com/Hurricane-Protocol))
+- [StealthPay](https://www.stealthpay.cash) - a stealth address protocol for Ethereum. ([GitHub](https://github.com/cryptoadong))  
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -318,6 +320,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [TransferChain](https://transferchain.io) - enables users to store, process and share their data while ensuring its privacy and security ([GitHub](https://github.com/TransferChain))
 - [Swarm](https://www.ethswarm.org) - a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps ([GitHub](https://github.com/ethersphere/swarm-cli))
 - [DJIB](https://djib.io) - is the next generation Web3 storage ([GitHub](https://github.com/Djib-io))
+- [Crust](https://crust.network) - Web3.0 Storage for the Metaverse ([GitHub](https://github.com/crustio)) 
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
@@ -341,6 +344,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Zerochain](https://layerxcom.github.io/zerochain-book/) - Zerochain is a generic, privacy-protecting layer on top of Substrate
 - [Silent Data](https://silentdata.com) - Verify web2 Data in web3 Applications
 - [okSign](https://www.oksign.app) - Create, Sign and Save eSignatures with smart contracts and permissioned NFTs.
+- [Literully](https://literully.com) - a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data ([Docs](https://docs.literully.com/articles/))  
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
