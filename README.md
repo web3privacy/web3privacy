@@ -452,3 +452,9 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 ## Network state
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
 - [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens ([GitHub](https://github.com/acid-info))
+
+**Support independent research on the Web3 privacy**
+
+ETH: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
+USDT (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
+ZEC: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
