@@ -67,8 +67,8 @@ Feel free to update the list!
 - [BasicSwap](https://basicswapdex.com) - Private Cross-Chain DEX ([GitHub0](https://github.com/tecnovert/basicswap/blob/master/doc/install.md))
 - [Common](https://common.fi) - Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem.
 - [Sacred](https://sacred.finance) - multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** ([GitHub](https://github.com/Sacred-Finance))
-- [Sahara](https://sahara.network) - The first dedicated privacy protocol ecosystem that enables
-on-platform trade between volatile and stable assets
+- [Sahara](https://sahara.network) - The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets
+- [DeFiner](https://definer.org) - Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** ([GitHub](https://github.com/DeFinerOrg))
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -155,6 +155,8 @@ on-platform trade between volatile and stable assets
 - [Threshold](https://threshold.network) - A decentralized threshold cryptography network ([GitHub](https://github.com/threshold-network))
 - [Anytype](https://anytype.io/en) - the digital assets and communities you create are truly yours.
 Here, you can decide how your data is used, shared, and valued. ([GitHub](https://github.com/anytypeio)) 
+- [ZeroPool](https://zeropool.network/#rec246911850) - is fully private multi-blokchain solution. Low transaction fees, atomic swaps and common anonymity set.
+- [Pollen Mobile](https://www.pollenmobile.io) - The world's first decentralized, user owned and operated mobile network. ([Docs](https://docs.pollenmobile.io/pollen-mobile-docs/))
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -294,6 +296,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Notebook labs](https://www.notebooklabs.xyz) - Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials.✨️**ZK** ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication))
 - [KYC not me](https://kycnot.me/) -  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. ([Codeberg repo](https://codeberg.org/pluja/kycnot.me))
 - [socialKYC](https://socialkyc.io) -  your decentralized social credentials ([GitHub](https://github.com/BTE-Trusted-Entity/socialkyc.io/))
+- [Hashbon Pass](https://pass.hashbon.com) - Tokenized All Web3 Pass to KYC while being anonymous.
+- [OutDID](https://www.outdid.io) - Your Zero-Knowledge, Decentralized KYC filter of Blockchain users.
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
@@ -313,6 +317,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [SerenityShield](https://serenityshield.io) - The Leading Sensitive Data Storage Solution on Blockchain. Security, Privacy and Digital Rights for Everyone
 - [TransferChain](https://transferchain.io) - enables users to store, process and share their data while ensuring its privacy and security ([GitHub](https://github.com/TransferChain))
 - [Swarm](https://www.ethswarm.org) - a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps ([GitHub](https://github.com/ethersphere/swarm-cli))
+- [DJIB](https://djib.io) - is the next generation Web3 storage ([GitHub](https://github.com/Djib-io))
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
@@ -333,6 +338,9 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Weavemail](https://docs.arweave.org/info/tools/weavemail) - the mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own.
 - [Stealthdrop](https://stealthdrop.xyz) - Anonymous Airdrops using ZK-SNARKS ✨️**ZK** ([GitHub](https://github.com/stealthdrop/stealthdrop))
 - [Bringing Privacy to ENS](https://www.cerebrum.com) - ChainSafe’s Proposed Integration Using Aztec Network ([GitHub](https://github.com/ChainSafe/ens-aztec-privacy/)) 
+- [Zerochain](https://layerxcom.github.io/zerochain-book/) - Zerochain is a generic, privacy-protecting layer on top of Substrate
+- [Silent Data](https://silentdata.com) - Verify web2 Data in web3 Applications
+- [okSign](https://www.oksign.app) - Create, Sign and Save eSignatures with smart contracts and permissioned NFTs.
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
