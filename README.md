@@ -446,7 +446,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 
 ## Events
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Events.png?raw=true)
-- [ETH Brno](https://ethbrno.cz) - an annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic
+- [ETH Brno](https://ethbrno.cz) - an annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic **13 projects: **([Devfolio](https://ethbrno.devfolio.co/projects?show_winners=false))
+- [ETH Berlin](https://ethberlin.ooo/contributors/) - a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward. **100 projects: **([Devfolio](https://ethberlin.devfolio.co/projects?show_winners=false))
 - [Hackers Congress Paralelní Polis](https://last-shot.hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
 - [ETH #Privacy](https://www.leadingprivacy.com/istanbul) - ETH #Privacy is the hackathon around privacy, organized by the Leading Privacy Alliance of web3.
 
