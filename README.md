@@ -157,7 +157,7 @@ Feel free to update the list!
 - [Threshold](https://threshold.network) - A decentralized threshold cryptography network ([GitHub](https://github.com/threshold-network))
 - [Anytype](https://anytype.io/en) - the digital assets and communities you create are truly yours.
 Here, you can decide how your data is used, shared, and valued. ([GitHub](https://github.com/anytypeio)) 
-- [ZeroPool](https://zeropool.network/#rec246911850) - is fully private multi-blokchain solution. Low transaction fees, atomic swaps and common anonymity set.
+- [ZeroPool](https://zeropool.network/#rec246911850) - is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set.
 - [Pollen Mobile](https://www.pollenmobile.io) - The world's first decentralized, user owned and operated mobile network. ([Docs](https://docs.pollenmobile.io/pollen-mobile-docs/))
 
 ## Wallet
@@ -191,7 +191,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
 - [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
 - [Findora](https://findora.org) - a decentralized, privacy-preserving smart contract platform. ([GitHub](https://github.com/findoranetwork))
-- [ARPA](https://www.arpanetwork.io/en-US) - Tthreshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
+- [ARPA](https://www.arpanetwork.io/en-US) - Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 - [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
 
