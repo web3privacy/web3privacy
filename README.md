@@ -160,6 +160,7 @@ Feel free to update the list!
 Here, you can decide how your data is used, shared, and valued. ([GitHub](https://github.com/anytypeio)) 
 - [ZeroPool](https://zeropool.network/#rec246911850) - is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set.
 - [Pollen Mobile](https://www.pollenmobile.io) - The world's first decentralized, user owned and operated mobile network. ([Docs](https://docs.pollenmobile.io/pollen-mobile-docs/))
+- [Pollen Mobile](https://www.pollenmobile.io) - A privacy-preserving blockchain on Substrate 
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
