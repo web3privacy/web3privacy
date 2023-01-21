@@ -42,6 +42,7 @@
 - [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast ([GitHub](https://github.com/mobilecoinofficial))  
 - [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets ([GitHub](https://github.com/PIVX-Project/PIVX/)) 
 - [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin))  
+- [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
