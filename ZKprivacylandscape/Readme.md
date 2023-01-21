@@ -148,6 +148,19 @@ Feel free to update the list!
 - [P0X labs](https://p0xeidon.xyz) - the decentralized laboratory for building cutting-edge privacy technologies.
 - [=nil; Foundation](https://nil.foundation) - Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments.
 - [Privacy & Security explorations](https://appliedzkp.org) - We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts.
+
+| Project  | Description |
+| ------------- | ------------- |
+| [zk-chat](https://github.com/njofce/zk-chat)  | Anonymous and private chat environments, using Interep for a privacy preserving registry and sybil resistance and RLN for spam protection. |
+| [TLSNotary](https://tlsnotary.org)  | leverages the ubiquitous TLS protocol to allow users to privately export their data from any webserver in a provable way. |
+| [Semaphore](https://semaphore.appliedzkp.org)  | a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. |
+| [Rate Limiting Nullifier](https://rate-limiting-nullifier.github.io/rln-docs/)  | a construct based on zero-knowledge proofs that enables spam prevention mechanism for decentralized, anonymous environments. In anonymous environments, the identity of the entities is unknown. |
+| [MACI](https://github.com/privacy-scaling-explorations/maci)  | MACI (Minimal Anti-Collusion Infrastructure) uses zero knowledge proofs for collusion resistance in blockchain voting (such as quadratic funding mechanisms) by making it impossible for anyone other than the vote coordinator to verify how a specific user voted. |
+| [Crypt-Keeper](https://github.com/privacy-scaling-explorations/crypt-keeper-extension)  | a Zero knowledge identity management and proof generation |
+| [Interep](https://interep.link)  | Private reputation and identity system allowing services to verify that users belong to a certain group or meet certain reputation criteria without revealing their identities. |
+| [Unirep](https://unirep.social)  | allows anonymous members of a group to give, receive, and prove reputation without revealing their identity. |
+| [Zkopru](https://appliedzkp.org)  | an optimistic rollup that uses zero knowledge proofs to enable private, low-cost transactions with ETH, ERC-20s and NFTs on layer 2. |
+
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 - [Demox labs](https://www.demoxlabs.xyz) - Building privacy preserving ZK infrastructure on Aleo.
