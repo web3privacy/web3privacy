@@ -1,10 +1,8 @@
 # ZK privacy landscape > Zero-knowledge privacy-enhancing solutions
 
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/ZK%20privacy%20landscape.png)
+
 ⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
-
-25.11. (current approach to PEDApps aggregation): _explicit focus on privacy + alive project_.
-
-Feel free to update the list!
 
 ## Contents
 - [DeFi](#DeFi)
