@@ -159,6 +159,7 @@
 - [Electric Coin. Co](https://electriccoin.co/research-and-development/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
 - [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
+- [ChainSafe](https://chainsafe.io) - a leading blockchain R&D firm, specializing in protocol engineering, cross-chain interoperability & web3 gaming.
 
 ## Mixing services
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true)
