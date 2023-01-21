@@ -136,9 +136,6 @@ Feel free to update the list!
 - [Stealthdrop](https://stealthdrop.xyz) - Anonymous Airdrops using ZK-SNARKS ✨️**ZK** ([GitHub](https://github.com/stealthdrop/stealthdrop))
 - [Zerochain](https://layerxcom.github.io/zerochain-book/) - Zerochain is a generic, privacy-protecting layer on top of Substrate  
 - [Paras](https://eprint.iacr.org/2022/976.pdf) - a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances (concept by Vanishree Rao)
-
-## Other
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
 - [Spinner](https://spinner.cash) - Private transactions for ICP and BTC ([GitHub](https://github.com/spinner-cash))
 - [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
 - [Semaphore Protocol](http://semaphore.appliedzkp.org) - Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** ([GitHub](https://github.com/semaphore-protocol/semaphore))
@@ -150,7 +147,6 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true)
 - [P0X labs](https://p0xeidon.xyz) - the decentralized laboratory for building cutting-edge privacy technologies.
 - [=nil; Foundation](https://nil.foundation) - Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments.
-- [No Trust Verify](https://nym.notrustverify.ch) - Take place to the next generation of privacy infrastructure.
 - [Privacy & Security explorations](https://appliedzkp.org) - We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts.
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
