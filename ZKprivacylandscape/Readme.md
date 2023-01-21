@@ -14,14 +14,11 @@ Feel free to update the list!
 - [Computing network](#Computing-network)
 - [Layer 2](#Layer-2)
 - [DID](#DID)
-- [DAO](#DAO)
 - [Bridge](#Bridge)
 - [Messaging](#Messaging)
-- [Browser](#Browser)
 - [KYC](#KYC)
-- [RPC](#RPC)
 - [dApps](#dApps) 
-- [Other](#Other)
+- [R&D](#R&D) 
 - [Mixing services](#Mixing-services)
 
 ## DeFi
@@ -107,10 +104,6 @@ Feel free to update the list!
 - [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
 - [Hypersign](https://hypersign.id) - the ultimate stack for identity management  ([GitHub](https://github.com/hypersign-protocol))
 
-## DAO
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
-- [HeyAnon](https://www.heyanoun.xyz) - allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK*
-
 ## Bridge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Bridge.png?raw=true)
 - [Aztec Connect](https://aztec.network/connect/) - The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK ([GitHub](https://github.com/critesjosh/aztec-sdk-starter))
@@ -142,6 +135,7 @@ Feel free to update the list!
 - [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
 - [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
 - [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
+- [HeyAnon](https://www.heyanoun.xyz) - allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK*
 
 ## R&D
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true)
