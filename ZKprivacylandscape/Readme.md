@@ -13,8 +13,6 @@ Feel free to update the list!
 - [Wallet](#Wallet)
 - [Computing network](#Computing-network)
 - [Layer 2](#Layer-2)
-- [Hardware](#Hardware)
-- [VPN](#VPN) 
 - [DID](#DID)
 - [DAO](#DAO)
 - [Bridge](#Bridge)
@@ -22,12 +20,8 @@ Feel free to update the list!
 - [Browser](#Browser)
 - [KYC](#KYC)
 - [RPC](#RPC)
-- [Storage](#Storage)
 - [dApps](#dApps) 
-- [OS](#OS)
-- [NFT](#NFT)
 - [Other](#Other)
-- [Alliances](#Alliances)
 - [Mixing services](#Mixing-services)
 
 ## DeFi
