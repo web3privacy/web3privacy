@@ -239,7 +239,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data ([GitHub](https://github.com/VerusCoin)) 
 - [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3 ([GitHub](https://github.com/findoranetwork))
 - [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
-- [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/opscientia))
+- [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/holonym-foundation))
 - [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
 - [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
 - [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
@@ -302,6 +302,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [socialKYC](https://socialkyc.io) -  your decentralized social credentials ([GitHub](https://github.com/BTE-Trusted-Entity/socialkyc.io/))
 - [Hashbon Pass](https://pass.hashbon.com) - Tokenized All Web3 Pass to KYC while being anonymous.
 - [OutDID](https://www.outdid.io) - Your Zero-Knowledge, Decentralized KYC filter of Blockchain users.
+- [Holonym](https://holonym.id) - ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ✨️**ZK** ([GitHub](https://github.com/holonym-foundation))
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
