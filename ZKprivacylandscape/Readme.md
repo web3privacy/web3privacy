@@ -21,7 +21,7 @@
 - [Mixing services](#Mixing-services)
 
 ## SecurityAudits
-- trailofbits.com ([Circomspec](https://github.com/trailofbits/circomspect))
+- www.trailofbits.com ([Circomspec](https://github.com/trailofbits/circomspect))
 - https://qed-it.com
 - https://www.abdk.consulting
 - https://quantstamp.com
@@ -40,6 +40,8 @@
 - https://audits.quillhash.com/smart-contract-audit
 - https://veridise.com
 - https://www.openzeppelin.com
+- https://zksecurity.xyz
+
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
