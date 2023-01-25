@@ -5,6 +5,7 @@
 ⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
 ## Contents
+- [Security audits](#SecurityAudits)
 - [DeFi](#DeFi)
 - [Currency](#Currency)
 - [Infrastructure](#Infrastructure)
@@ -18,6 +19,27 @@
 - [dApps](#dApps) 
 - [R&D](#R&D) 
 - [Mixing services](#Mixing-services)
+
+## SecurityAudits
+- trailofbits.com ([Circomspec](https://github.com/trailofbits/circomspect))
+- https://qed-it.com
+- https://www.abdk.consulting
+- https://quantstamp.com
+- https://consensys.net/diligence/
+- https://leastauthority.com
+- https://fuzzinglabs.com
+- https://osec.io
+- https://spearbit.com
+- https://halborn.com
+- https://xord.com
+- https://ackeeblockchain.com
+- https://hacken.io
+- https://0xmacro.com
+- https://blockapex.io
+- https://hashcloak.com ([MACI report](https://github.com/privacy-scaling-explorations/maci/tree/v1/audit))
+- https://audits.quillhash.com/smart-contract-audit
+- https://veridise.com
+- https://www.openzeppelin.com
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
