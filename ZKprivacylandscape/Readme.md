@@ -20,7 +20,7 @@
 - [R&D](#R&D) 
 - [Mixing services](#Mixing-services)
 
-## SecurityAudits
+## Security Audits
 - www.trailofbits.com ([Circomspec](https://github.com/trailofbits/circomspect))
 - https://qed-it.com
 - https://www.abdk.consulting
