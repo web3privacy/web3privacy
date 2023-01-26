@@ -40,8 +40,6 @@
 - https://audits.quillhash.com/smart-contract-audit
 - https://veridise.com
 - https://www.openzeppelin.com
-- https://zksecurity.xyz
-
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
