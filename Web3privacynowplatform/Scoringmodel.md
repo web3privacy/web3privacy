@@ -35,3 +35,6 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - Protocol (test-net/main-net)
 - dApp (release timing, third party validation like AppStore/Play Store)
 - network-reliability (the state of privacy in Ethereum, Solana, Avalanche etc)
+
+**Cross-checked data leakage**
+- Complementing privacy stack data leakage (example: phone + dApp; wallet + RPC etc)
