@@ -8,10 +8,10 @@ Privacy is a top priority in the web3 & essential human right. The Web3privacy n
 
 Our tangible goal: 1M people empowered with the latest web3 privacy stack.
 
-Platform features:
+# Platform features
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
 
-- **Scoring mechanism **
+- **Scoring mechanism**
 Unique scoring mechanism researched & build with the help of privacy experts from Ethereum Foundation to NYM would help to raise maturity of the privacy services. Moreover, it will protect users from bad actors.
 In parallel, communal scoring will be applied (think of Metacritic exters + users scorings), so community could become a watchdogs of the industry, signalling about flaws within solutions (like Secret Network's recent critical bug).
 
