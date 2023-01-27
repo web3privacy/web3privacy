@@ -13,7 +13,10 @@ Privacy is a top priority in the web3 & essential human right. The Web3privacy n
 
 - **Scoring mechanism**
 Unique scoring mechanism researched & build with the help of privacy experts from Ethereum Foundation to NYM would help to raise maturity of the privacy services. Moreover, it will protect users from bad actors.
+
 In parallel, communal scoring will be applied (think of Metacritic exters + users scorings), so community could become a watchdogs of the industry, signalling about flaws within solutions (like Secret Network's recent critical bug).
+
+Crucial approach: professional scoring would be R&D with the key web3 people from protocol architects to security specialists. This will help to create unbiased take & make scoring discussions & approach transparent via forum. 
 
 References: www.l2beat.com + www.certik.com
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.45.png?raw=true)
