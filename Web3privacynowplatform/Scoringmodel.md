@@ -1,5 +1,7 @@
 **Privacy scoring options to consider**
 
+**Note**: _final scoring model shouldn't be too complex to execute._
+
 _Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for workshop on scoring ideation).
 
 **Open-source transparency**
