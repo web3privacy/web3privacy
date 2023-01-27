@@ -31,7 +31,7 @@ We have it already here: https://github.com/Msiusko/web3privacy
 **Privacy guides**.
 Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
 
-Practical guides will match
+_Practical guides will match_
 
 - existing privacy solutions from Sismo to NYM with privacy-personas (NGOs, anon donors, activists).
 - non-tech people with accessible privacy solutions
