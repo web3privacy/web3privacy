@@ -72,7 +72,7 @@ The next product release will include communal feddback (voting for the projects
 - **Web-development + testing**: 1 month
 
 **In a nutshell**: 
-- a research paper: scoring model
+- a research paper: scoring model > sketch is available [here](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Scoringmodel.md)
 - a code repo at GitHub
 - working website + public scoring model.
 
