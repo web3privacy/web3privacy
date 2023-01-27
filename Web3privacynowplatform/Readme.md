@@ -11,16 +11,20 @@ Our tangible goal: 1M people empowered with the latest web3 privacy stack.
 Platform features:
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
 
-- Scoring mechanism Unique scoring mechanism researched & build with the help of privacy experts from Ethereum Foundation to NYM would help to raise maturity of the privacy services. Moreover, it will protect users from bad actors.
+- **Scoring mechanism **
+Unique scoring mechanism researched & build with the help of privacy experts from Ethereum Foundation to NYM would help to raise maturity of the privacy services. Moreover, it will protect users from bad actors.
 In parallel, communal scoring will be applied (think of Metacritic exters + users scorings), so community could become a watchdogs of the industry, signalling about flaws within solutions (like Secret Network's recent critical bug).
 
 References: www.l2beat.com + www.certik.com
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.45.png?raw=true)
 
-- Privacy services database The biggest privacy services database with the latest R&D tracks from Privacy & Scaling explorations to Chainsafe proposals.
+- **Privacy services database** 
+The biggest privacy services database with the latest R&D tracks from Privacy & Scaling explorations to Chainsafe proposals.
 Highly helpful to everyone exploring & researching cutting-edge of the privacy stack (including builders & hackathon-enablers).
 
-Privacy guides.
+We have it already here: https://github.com/Msiusko/web3privacy
+
+**Privacy guides**.
 Extensive privacy guides covering broad audiences from Iranian human rights activists to Ukrainian people living on occupied territories.
 
 Practical guides will match
@@ -32,9 +36,9 @@ Practical guides will match
 How the future would look alike for the Web3privacy now
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.53.png?raw=true)
 
-- Privacy hub. It will become the leading website empowering people with the latest data around web3 privacy.
-- Privacy education. Extensive wiki about privacy, web3 privacy services literacy. Guides from the experts.
-- Privacy advocacy. We will promote privacy, also normalising it's perception within society, investors, developers & web2 actors.
+- **Privacy hub**. It will become the leading website empowering people with the latest data around web3 privacy.
+- **Privacy education**. Extensive wiki about privacy, web3 privacy services literacy. Guides from the experts.
+- **Privacy advocacy**. We will promote privacy, also normalising it's perception within society, investors, developers & web2 actors.
 In general, they will raise privacy literacy.
 
 #freealex
