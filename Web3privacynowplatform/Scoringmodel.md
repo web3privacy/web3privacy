@@ -17,3 +17,9 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - Market validation
 - GitHub contribution
 - Track record (incl. red flag projects)
+
+**Financials**
+- Investments
+- TVL (like Aztec's L2)
+- Donation-based
+- Public treasury
