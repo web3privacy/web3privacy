@@ -45,5 +45,6 @@ In general, they will raise privacy literacy.
 1. Grant: for the initial project research & MVP delivery (scoring mechanism principles, MPV scope, team structures, basic project management tools subs).
 2. Dev scope: stack + scope of work + dev team
 3. MVP: definition + timing + KPIs
+4. GitHub transparency: all repos, all roadmaps, public team members, scoring principles etc.
 
 #freealex
