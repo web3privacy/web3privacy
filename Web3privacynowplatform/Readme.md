@@ -87,4 +87,6 @@ _Total_: 6 people + advisors
 2. Assembling the team.
 3. Defying scope of work.
 
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2013.39.08.png?raw=true)
+
 #freealex
