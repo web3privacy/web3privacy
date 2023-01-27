@@ -53,7 +53,7 @@ In general, they will raise privacy literacy.
 # KPIs
 **MVP-centric**
 - **Research track**: scoring model v 1.0 + expert validation
-- **Product track**: basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects.
+- **Product track**: basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system, scoring model applicability to all existing privacy-preserving web3 projects (300+ projects).
 - **Tech delivery track**: v 1.0 website (minimum functionality for testing), QA, bug fixing
 - **Community marketing**: socials registration, basic content.
 
