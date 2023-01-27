@@ -58,8 +58,10 @@ In general, they will raise privacy literacy.
 - **Tech delivery track**: v 1.0 website (minimum functionality for testing), QA, bug fixing
 - **Community marketing**: socials registration, basic content.
 
+**Note**: _governance model - in consideration_
+
 # Timing
-**Time-to-MVP > 3 months max**
+**Time-to-MVP > 3 months**
 
 **Breakdown**: 
 - **Scoring modeling**: 3 weeks+
@@ -67,6 +69,14 @@ In general, they will raise privacy literacy.
 - **Web-development + testing**: 1 month
 
 **In a nutshell**: working website + public scoring model.
+
+# Team
+**MVP-centric**
+- **MVP-management**: core project manager
+- **Research track**: 1x researcher
+- **Product track**: 1x UX/UI advisor, 1x copywriter, 1x designer, 1x project manager
+- **Tech delivery track**: 1 full-stack+
+- **Community marketing**: project-manager (from above)
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
 
