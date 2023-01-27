@@ -24,9 +24,9 @@ non-tech people with accessible privacy solutions
 tech-people with advanced privacy solutions & practices
 How the future would look alike for the Web3privacy now
 
-Privacy hub. It will become the leading website empowering people with the latest data around web3 privacy.
-Privacy education. Extensive wiki about privacy, web3 privacy services literacy. Guides from the experts.
-Privacy advocacy. We will promote privacy, also normalising it's perception within society, investors, developers & web2 actors.
+- Privacy hub. It will become the leading website empowering people with the latest data around web3 privacy.
+- Privacy education. Extensive wiki about privacy, web3 privacy services literacy. Guides from the experts.
+- Privacy advocacy. We will promote privacy, also normalising it's perception within society, investors, developers & web2 actors.
 In general, they will raise privacy literacy.
 
 #freealex
