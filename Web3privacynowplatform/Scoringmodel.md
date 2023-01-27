@@ -28,3 +28,10 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - How active is GitHub activity 
 - How active is community
 - Is there a public product traction?
+
+**Product-readiness**
+- State of product-readiness
+- MVP-readiness
+- Protocol (test-net/main-net)
+- dApp (release timing, third party validation like AppStore/Play Store)
+- network-reliability (the state of privacy in Ethereum, Solana, Avalanche etc)
