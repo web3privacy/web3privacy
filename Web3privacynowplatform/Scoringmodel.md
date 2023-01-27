@@ -23,3 +23,8 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - TVL (like Aztec's L2)
 - Donation-based
 - Public treasury
+
+**Liveliness**
+- How active is GitHub activity 
+- How active is community
+- Is there a public product traction?
