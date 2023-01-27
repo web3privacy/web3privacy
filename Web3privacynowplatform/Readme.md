@@ -78,6 +78,8 @@ In general, they will raise privacy literacy.
 - **Tech delivery track**: 1 full-stack+
 - **Community marketing**: project-manager (from above)
 
+_Total_: 6 people + advisors
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
 
 # Where we are now
