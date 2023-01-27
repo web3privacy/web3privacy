@@ -50,6 +50,8 @@ In general, they will raise privacy literacy.
 3. MVP: definition + timing + KPIs
 4. GitHub transparency: all repos, all roadmaps, public team members, scoring principles etc.
 
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
+
 # Where we are now
 1. Searching for grants.
 2. Assembling the team.
