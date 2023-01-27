@@ -6,7 +6,7 @@ Privacy is a top priority in the web3 & essential human right. The Web3privacy n
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.55.43.png?raw=true) 
 
-Our tangible goal: 1M people empowered with the latest web3 privacy stack.
+**Tangible goal**: 1M people empowered with the latest web3 privacy stack.
 
 # Platform features
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
@@ -40,5 +40,10 @@ Practical guides will match
 - **Privacy education**. Extensive wiki about privacy, web3 privacy services literacy. Guides from the experts.
 - **Privacy advocacy**. We will promote privacy, also normalising it's perception within society, investors, developers & web2 actors.
 In general, they will raise privacy literacy.
+
+# So what's next
+1. Grant: for the initial project research & MVP delivery (scoring mechanism principles, MPV scope, team structures, basic project management tools subs).
+2. Dev scope: stack + scope of work + dev team
+3. MVP: definition + timing + KPIs
 
 #freealex
