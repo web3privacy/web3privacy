@@ -60,6 +60,9 @@ In general, they will raise privacy literacy.
 
 **Note**: _governance model - in consideration_
 
+**Beta**
+The next product release will include communal feddback (voting for the projects, writing user-feedback etc).
+
 # Timing
 **Time-to-MVP > 3 months**
 
