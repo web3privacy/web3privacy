@@ -50,6 +50,13 @@ In general, they will raise privacy literacy.
 3. MVP: definition + timing + KPIs
 4. GitHub transparency: all repos, all roadmaps, public team members, scoring principles etc.
 
+# KPIs
+**MVP-centric**
+- Research track: scoring model v 1.0 + expert validation
+- Product track: basic functionality mapping (incl. UX/UI research), copywriting, basic brand design system.
+- Tech delivery track: v 1.0 website (minimum functionality for testing), QA, bug fixing
+- Community marketing: socials registration, basic content. 
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
 
 # Where we are now
