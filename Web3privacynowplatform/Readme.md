@@ -103,9 +103,9 @@ _Total_: 6 people + advisors
 
 Support independent research on the Web3 privacy
 
-ETH: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
-USDT (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
-ZEC: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
+- **ETH**: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
+- **USDT** (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
+- **ZEC**: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
 
 #freealex
 
