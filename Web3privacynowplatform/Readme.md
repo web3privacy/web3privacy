@@ -93,6 +93,7 @@ _Total_: 6 people + advisors
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
 
 # Where we are now
+0. Homework has been done: 350+ projects in the public [database](https://github.com/Msiusko/web3privacy), ZK projects [database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape), Market research [outlook](https://github.com/Msiusko/web3privacy/blob/main/Market%20overview/Privacy%20market%20outlook%20in%20Web3%20by%20Mykola%20Siusko%20(Jan%202023).pdf) 
 1. Searching for grants: [contact](http://twitter.com/nicksvyaznoy)
 2. Assembling the team.
 3. Defying scope of work.
