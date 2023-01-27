@@ -33,7 +33,7 @@ Practical guides will match
 - non-tech people with accessible privacy solutions
 - tech-people with advanced privacy solutions & practices
 
-How the future would look alike for the Web3privacy now
+# How the future would look alike for the Web3privacy now
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.53.png?raw=true)
 
 - **Privacy hub**. It will become the leading website empowering people with the latest data around web3 privacy.
