@@ -38,3 +38,4 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 
 **Cross-checked data leakage**
 - Complementing privacy stack data leakage (example: phone + dApp; wallet + RPC etc)
+- Third party data leakage (from the hackers to state agents (think of Iran or North Korea govs))
