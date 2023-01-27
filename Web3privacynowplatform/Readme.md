@@ -71,7 +71,10 @@ The next product release will include communal feddback (voting for the projects
 - **Product management** (UX, copy, scoring aplicability, design): 1 month
 - **Web-development + testing**: 1 month
 
-**In a nutshell**: working website + public scoring model.
+**In a nutshell**: 
+- a research paper: scoring model
+- a code repo at GitHub
+- working website + public scoring model.
 
 # Team
 **MVP-centric**
