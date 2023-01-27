@@ -91,7 +91,7 @@ _Total_: 6 people + advisors
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2015.52.16.png?raw=true)
 
 # Where we are now
-1. Searching for grants.
+1. Searching for grants: [contact](http://twitter.com/nicksvyaznoy)
 2. Assembling the team.
 3. Defying scope of work.
 
