@@ -99,4 +99,13 @@ _Total_: 6 people + advisors
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2013.39.08.png?raw=true)
 
+# Donate
+
+Support independent research on the Web3 privacy
+
+ETH: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
+USDT (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
+ZEC: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
+
 #freealex
+
