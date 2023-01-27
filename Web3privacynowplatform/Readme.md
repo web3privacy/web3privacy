@@ -18,7 +18,7 @@ In parallel, communal scoring will be applied (think of Metacritic exters + user
 
 Crucial approach: professional scoring would be R&D with the key web3 people from protocol architects to security specialists. This will help to create unbiased take & make scoring discussions & approach transparent via forum. 
 
-_References_: www.l2beat.com + www.certik.com
+_References_: www.l2beat.com + www.certik.com + https://www.metacritic.com/about-metascores
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.45.png?raw=true)
 
