@@ -50,4 +50,9 @@ In general, they will raise privacy literacy.
 3. MVP: definition + timing + KPIs
 4. GitHub transparency: all repos, all roadmaps, public team members, scoring principles etc.
 
+# Where we are now
+1. Searching for grants.
+2. Assembling the team.
+3. Defying scope of work.
+
 #freealex
