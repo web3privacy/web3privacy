@@ -109,6 +109,16 @@ _Total_: 6 people + advisors
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2013.39.08.png?raw=true)
 
+# Value for ecosystem (donors)
+
+**PR**
+- Strong contribution to the general web3 security level
+- Positive image industry (counter-crime & scam argument)
+
+**Scoring mechanism**: aplicability to ecosystem's projects
+
+**Builders empowerment**: builders-ready educational materials & tool
+
 # Donate
 
 Support independent research on the Web3 privacy
