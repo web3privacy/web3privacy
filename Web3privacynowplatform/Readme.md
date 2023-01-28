@@ -89,7 +89,7 @@ The next product release will include
 # Team
 **MVP-centric**
 - **MVP-management**: core project manager > Mykola Siusko [GitHub](http://github.com/Msiusko), [Twitter](http://twitter.com/nicksvyaznoy), [LinkedIn](http://linkedin.com/in/siusko/)
-- **Research track**: 1x researcher
+- **Research track**: Mykola Siusko
 - **Product track**: decentralised design agency [Kidults](https://wearekidults.com) - 1x UX/UI advisor, 1x copywriter, 1x designer, 1x project manager
 - **Tech delivery track**: 1 full-stack+
 - **Community marketing**: project-manager (from above)
