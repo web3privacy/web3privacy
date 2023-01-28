@@ -88,6 +88,8 @@ The next product release will include
 
 # Team
 **MVP-centric**
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2014.05.21.png?raw=true)
+
 - **MVP-management**: core project manager > Mykola Siusko [GitHub](http://github.com/Msiusko), [Twitter](http://twitter.com/nicksvyaznoy), [LinkedIn](http://linkedin.com/in/siusko/)
 - **Research track**: Mykola Siusko
 - **Product track**: decentralised design agency [Kidults](https://wearekidults.com) - 1x UX/UI advisor, 1x copywriter, 1x designer, 1x project manager
