@@ -18,14 +18,14 @@ Unique scoring mechanism researched & build with the help of privacy experts fro
 
 In parallel, communal scoring will be applied (think of Metacritic exters + users scorings), so community could become a watchdogs of the industry, signalling about flaws within solutions (like Secret Network's recent critical bug).
 
-Crucial approach: professional scoring would be R&D with the key web3 people from protocol architects to security specialists. This will help to create unbiased take & make scoring discussions & approach transparent via forum. 
+Critical approach: professional scoring would be R&D with the key web3 people from protocol architects to security specialists. This will help to create unbiased take & make scoring discussions & approach transparent via forum. 
 
 _References_: www.l2beat.com + www.certik.com + https://www.metacritic.com/about-metascores + [Clutch](https://clutch.co/methodology)
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.48.45.png?raw=true)
 
 - **Privacy services database** 
-The biggest privacy services database with the latest R&D tracks from Privacy & Scaling explorations to Chainsafe proposals.
+The biggest privacy services database with the latest R&D tracks from [Privacy & Scaling explorations](http://appliedzkp.org) to [Chainsafe](http://chainsafe.io) proposals.
 Highly helpful to everyone exploring & researching cutting-edge of the privacy stack (including builders & hackathon-enablers).
 
 We have it already here: https://github.com/Msiusko/web3privacy
@@ -36,7 +36,7 @@ Extensive privacy guides covering broad audiences from Iranian human rights acti
 _Practical guides will match_
 
 - existing privacy solutions from Sismo to NYM with privacy-personas (NGOs, anon donors, activists).
-- non-tech people with accessible privacy solutions
+- non-tech people with accessible privacy solutions (with the focus on human rights & sensitive audiences)
 - tech-people with advanced privacy solutions & practices
 
 # How the future would look alike for the Web3privacy now
