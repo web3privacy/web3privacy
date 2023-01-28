@@ -1,5 +1,6 @@
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.34.42.png?raw=true)
+# Project description
 [![Contact](https://img.shields.io/twitter/follow/nicksvyaznoy?style=social)](https://twitter.com/intent/follow?screen_name=nicksvyaznoy)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.34.42.png?raw=true)
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2016.26.46.png?raw=true)
 
