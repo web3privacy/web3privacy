@@ -108,4 +108,3 @@ Support independent research on the Web3 privacy
 - **ZEC**: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
 
 #freealex
-
