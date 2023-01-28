@@ -1,6 +1,6 @@
 **Web3privacynow - ranking platform to analyze and monitor privacy-preserving blockchain protocols and DeFi projects.** [![Contact](https://img.shields.io/twitter/follow/nicksvyaznoy?style=social)](https://twitter.com/intent/follow?screen_name=nicksvyaznoy)
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.34.42.png?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2016.26.46.pngg?raw=true)
 
 Privacy is a top priority in the web3 & essential human right. The Web3privacy now would create a scoring mechanism (both professional & communal) for the privacy projects assessment & will help people to raise their privacy literacy.
 
