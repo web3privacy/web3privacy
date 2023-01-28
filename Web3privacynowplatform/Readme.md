@@ -72,7 +72,7 @@ In general, they will raise privacy literacy.
 The next product release will include 
 - **communal feddback **(voting for the projects, writing user-feedback etc) 
 - **leaderboard** (categories) to motivate companies compete with each other for better privacy preservation.
-- incidents dabatse: [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/) example
+- **incidents dabatse**: [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/) example
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2010.34.02.png?raw=true)
 
