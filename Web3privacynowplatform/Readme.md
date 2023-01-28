@@ -12,10 +12,6 @@ Privacy is a top priority in the web3 & essential human right. The Web3privacy n
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.55.43.png?raw=true) 
 
-**Moreover**: we believe that every hack, scam or privacy-service flaw damages web3 industry image.
-
-**Tangible goal**: 1M people empowered with the latest web3 privacy stack.
-
 # Platform features
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
 
