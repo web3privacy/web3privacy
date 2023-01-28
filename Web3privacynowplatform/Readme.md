@@ -53,6 +53,10 @@ In general, they will raise privacy literacy.
 3. MVP: definition + timing + KPIs
 4. GitHub transparency: all repos, all roadmaps, public team members, scoring principles etc.
 
+# Audiences
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2010.22.29.png?raw=true)
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2010.22.16.png?raw=true)
+
 # KPIs
 **MVP-centric**
 - **Research track**: scoring model v 1.0 + expert validation
@@ -66,6 +70,8 @@ In general, they will raise privacy literacy.
 The next product release will include 
 - **communal feddback **(voting for the projects, writing user-feedback etc) 
 - **leaderboard** (categories) to motivate companies compete with each other for better privacy preservation.
+
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-28%20at%2010.34.02.png?raw=true)
 
 # Timing
 **Time-to-MVP > 3 months**
