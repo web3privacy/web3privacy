@@ -93,7 +93,7 @@ The next product release will include
 - **MVP-management**: core project manager > Mykola Siusko [GitHub](http://github.com/Msiusko), [Twitter](http://twitter.com/nicksvyaznoy), [LinkedIn](http://linkedin.com/in/siusko/)
 - **Research track**: Mykola Siusko
 - **Product**: [Nick Havryliak](https://www.linkedin.com/in/havryliak/)
-- **Design & coding track**: Misha Shishkin lead decentralised design agency [Kidults](https://wearekidults.com) - female-led UX/UI, 1x copywriter, 1x designer, 1x project manager
+- **Design & coding track**: [Misha Shishkin](https://www.linkedin.com/in/mikeshishkin/) lead decentralised design agency [Kidults](https://wearekidults.com) - female-led UX/UI, 1x copywriter, 1x designer, 1x project manager
 - **Community marketing**: project-manager (from above)
 
 _Total_: 6 people + advisors
