@@ -45,3 +45,7 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 **Data aggregation policies**
 
 _Reference_: https://tosdr.org 
+
+**Centralisation level (incl KYC)**
+
+Reference: https://kycnot.me/about#scores
