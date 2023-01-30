@@ -43,4 +43,5 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - Third party data leakage (from the hackers to state agents (think of Iran or North Korea govs))
 
 **Data aggregation policies**
-**Reference**: https://tosdr.org 
+
+_Reference_: https://tosdr.org 
