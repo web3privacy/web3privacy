@@ -469,6 +469,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 
 **Support independent research on the Web3 privacy**
 
+- BTC: 3Fk68ZcG9dFyXecr8qW1JM1195JHpUkD2A
 - ETH: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
 - USDT (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
 - ZEC: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
