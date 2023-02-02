@@ -42,6 +42,9 @@
 - https://www.openzeppelin.com
 - https://hexens.io
 - www.ZOKYO.io
+- www.CertiK.com
+- www.omniscia.io
+- www.immunebytes.com
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
