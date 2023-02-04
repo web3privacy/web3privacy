@@ -172,6 +172,8 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 - ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html
 - Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139
 
+_Huge thanks everyone who contributed! I make it anon now, but will thank everyone (who would liked to be credited) once a scoring model will be published on GitHub for community evaluation._
+
 # 2. My personal notes on privacy scoring (they were made before communal survey)
 _Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for a workshop on scoring ideation).
 
