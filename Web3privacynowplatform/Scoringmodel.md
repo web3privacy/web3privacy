@@ -50,19 +50,21 @@ _Reference_: https://tosdr.org
 
 Reference: https://kycnot.me/about#scores
 
-On-going community research (survey) within the privacy experts - all answers on how to score services privacy (non-redacted):
+**On-going community research (survey) within the privacy experts - all answers on how to score services privacy (non-redacted)**:
+
+**Docs**
 - read the documentation
+- Good and comprehensive documentation
+
 - ask about its weaknesses from competitors
 - try to trace a transaction
 - Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
 - Usability - for end users or in the developer experience if it is a B2B project.
 - Validation by trusted and respected independent scientists and researchers
 - Open source
-- Good and comprehensive documentation
 - There is a way to verify the code I think is running, really is running e.g. attestation service
 - Ability to run part of the service and verify for myself
 - Other tooling to verify e.g. block explorers 
-- Reputation of team
 - Open source/FOSS
 - Minimal to no metadata capture
 - Doesn’t sell your data
@@ -70,5 +72,14 @@ On-going community research (survey) within the privacy experts - all answers on
 - protects against global passive adversary
 - does not implement kyc or aml
 - strong secure anonymity tech
-- ideological team
+- Decentralized 
+- Credibly neutral
+- Usage of ZKP
+
+**VCs**
+- Who are the VCs
 - not funded by big US VCs like a16z
+
+**Team**
+- ideological team
+- Reputation of team
