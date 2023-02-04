@@ -95,6 +95,7 @@ _Questions to be observed_
 - ask about its weaknesses from competitors
 - Number of peer reviewed articles at conferences and journals of team members
 - Where's the code, has it been audited
+- Validation by trusted and respected independent scientists and researchers
 
 **VCs**
 - Who are the VCs
@@ -120,7 +121,7 @@ _Questions to be observed_
 - Number of nodes/servers/ -> the larger the footprint the best privacy
 
 **Storage**
-- -e2e encrypted LOCAL storage
+- e2e encrypted LOCAL storage
 - What user information is stored? (username, IP address, last connectino, wallets associate, etc)
 - Where is it stored? (centralized server, certain jurisdictions, on chain, in browser/local cache)
 
@@ -134,7 +135,9 @@ _Questions to be observed_
 - Amount of transactions 
 - number of people using it
 - is it famous
-- Time of test and battletested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive)
+- Time of test and battletested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive) 
+- Latency
+- Cost
 
 **Governance**
 - DAO structure (if applied)
@@ -155,19 +158,16 @@ _Questions to be observed_
 - Onboarding steps
 - Usability - for end users or in the developer experience if it is a B2B project.
 
-**Other**
-- Cost
-- Latency
-- Entropy (non-trivial to estimate, different measurements for type of service) some examples:
-- https://arxiv.org/abs/2211.04259
-- https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d…
-- Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
-- try to trace a transaction
-- Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
-- Validation by trusted and respected independent scientists and researchers
-- There is a way to verify the code I think is running, really is running e.g. attestation service
+**Testing**
 - Ability to run part of the service and verify for myself
+- try to trace a transaction
+- There is a way to verify the code I think is running, really is running e.g. attestation service
 - Other tooling to verify e.g. block explorers 
+
+**Other**
+- Entropy (non-trivial to estimate, different measurements for type of service) some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d…
+- Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
+- Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
 - Doesn’t sell your data
 - protects against global passive adversary
 - strong secure anonymity tech
