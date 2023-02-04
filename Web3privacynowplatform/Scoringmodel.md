@@ -35,8 +35,8 @@ I've asked privacy experts behind privacy-services or privacy-centric communitie
 | much the users in control of their data disclosure?  | (Scale 1-10) |
 | how well commnity feedback and evaluation is built into product dev? | the less -» the more centralised it is -» the smaller the % of it staying private without the collectiv intelligence. this is like the web3privacynow  - platform part actually, for sales but also i found this really relevant. |
 | is there a community bug / security bounty program / platform?  | yes, no |
-| how much transparent disclosure is avaliable on the tech and company - like smart contract audits, security audits,source of financing?  | yes, no |
-| how private the tech stack it uses on all layers. from hardware to l3/l4 etc. how well it is disclosed what they built on and where they host stuff, or if the tech is decentralised like nym - is there avaialbe dashboard data about this?  | yes, no |
+| how much transparent disclosure is avaliable on the tech and company | ike smart contract audits, security audits,source of financing?   |
+| how private the tech stack it uses on all layers. from hardware to l3/l4 etc.  | how well it is disclosed what they built on and where they host stuff, or if the tech is decentralised like nym - is there avaialbe dashboard data about this? |
 | product roadmap and release flexibiity - this is harder one, and I'm not sure it makes sense. what i mean is its also important to have a clear vision but at the same time to react to current needs / bugs / fixing vulnerabilities.  | maybe its redundant with no2 and no2b |
 
 # Take 3
