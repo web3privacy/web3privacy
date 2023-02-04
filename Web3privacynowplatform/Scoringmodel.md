@@ -1,4 +1,4 @@
-# Privacy scoring modelling research [Web3privacy now analytical platform enging](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
+# Privacy scoring modelling research > Web3privacy now analytical platform [engine](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
 
 **Approach**
 
