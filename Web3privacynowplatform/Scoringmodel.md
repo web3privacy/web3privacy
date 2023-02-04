@@ -51,6 +51,7 @@ _Reference_: https://tosdr.org
 Reference: https://kycnot.me/about#scores
 
 ## On-going community research (survey) within the privacy experts. 
+I've asked privacy experts behind privacy-services or privacy-centric communities to contribute with their visions on how to analyse if a service is private or not. Answers were collected via chats or Survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
 
 **all answers on how to score services privacy (non-redacted)**: 
 _Questions to be observed_
