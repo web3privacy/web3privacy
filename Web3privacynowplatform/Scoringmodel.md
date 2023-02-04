@@ -1,4 +1,4 @@
-**Privacy scoring options to consider**
+# Privacy scoring options to consider
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
 **Note**: _final scoring model shouldn't be too complex to execute._
