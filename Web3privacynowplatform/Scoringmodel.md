@@ -84,7 +84,7 @@ _Questions to be observed_
 4) permission - (do I need to create an account to access the thing or is the thing open access?)
 5) custody of funds - (at any point is the user out of control of their own keys?)
 
-**Categories**
+# Categorisation
 
 **General**
 - Immutability 
