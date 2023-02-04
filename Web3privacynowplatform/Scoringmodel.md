@@ -8,6 +8,8 @@
 | 2. **Scoring model prototyping**  | Create an open & flexible scoring model for a communal feedback loop - share with the privacy community, evaluate. |
 | 3. **Scoring model MVP release**  | Deliver balanced model for privacy services assessment - powered by pros & general public opinions. |
 
+#Current status (4.02.2023)
+
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
 ## On-going community research (survey) within the privacy experts. 
