@@ -11,7 +11,7 @@
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
 ## On-going community research (survey) within the privacy experts. 
-I've asked privacy experts behind privacy-services or privacy-centric communities to contribute with their visions on how to analyse if a service is private or not. Answers were collected via chats or Survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
+I've asked privacy experts behind privacy-services or privacy-centric communities to contribute with their visions on how to analyse if a service is private or not. Answers were collected via chats & survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
 
 **Criterias**:
 - min 50 different experts
