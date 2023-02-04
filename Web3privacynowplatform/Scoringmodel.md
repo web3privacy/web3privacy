@@ -201,3 +201,5 @@ _Questions to be observed_
 - protects against global passive adversary
 - strong secure anonymity tech
 - Credibly neutral
+- ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html
+- Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139
