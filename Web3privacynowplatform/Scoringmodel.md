@@ -50,7 +50,7 @@ _Reference_: https://tosdr.org
 
 Reference: https://kycnot.me/about#scores
 
-## *On-going community research (survey) within the privacy experts 
+## On-going community research (survey) within the privacy experts 
 **all answers on how to score services privacy (non-redacted)**:
 
 _Questions to be observed_
@@ -80,6 +80,12 @@ _Questions to be observed_
 5) custody of funds - (at any point is the user out of control of their own keys?)
 
 **Categories**
+
+**General**
+- Immutability 
+- Decentralised throughout, including hosting
+- Permissionless & accessible to all
+- Open source
  
 **Docs**
 - read the documentation
@@ -121,11 +127,14 @@ _Questions to be observed_
 **Data aggregation**
 - no email or tel nr for signup
 - control over personal data
+- does not implement kyc or aml
+- Metadata privacy / Minimal to no metadata capture
 
 **Traction**
 - Amount of transactions 
 - number of people using it
 - is it famous
+- Time of test and battletested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive)
 
 **Governance**
 - DAO structure (if applied)
@@ -140,34 +149,26 @@ _Questions to be observed_
 - Reliant on one encryption method or multiple
 - Combined those encryption methods effectively (holistic solution)
 - Trustless - No ID required (this is where ZK's are useful)
+- Usage of ZK
+
+**Product-centric**
+- Onboarding steps
+- Usability - for end users or in the developer experience if it is a B2B project.
 
 **Other**
-- Time of test and battletested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive)
-Metadata privacy
 - Cost
 - Latency
 - Entropy (non-trivial to estimate, different measurements for type of service) some examples:
 - https://arxiv.org/abs/2211.04259
 - https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d…
 - Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
-- Onboarding steps
-- Immutability 
-- Decentralised throughout, including hosting
-- Permissionless & accessible to all
 - try to trace a transaction
 - Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
-- Usability - for end users or in the developer experience if it is a B2B project.
 - Validation by trusted and respected independent scientists and researchers
-- Open source
 - There is a way to verify the code I think is running, really is running e.g. attestation service
 - Ability to run part of the service and verify for myself
 - Other tooling to verify e.g. block explorers 
-- Open source/FOSS
-- Minimal to no metadata capture
 - Doesn’t sell your data
 - protects against global passive adversary
-- does not implement kyc or aml
 - strong secure anonymity tech
-- Decentralized 
 - Credibly neutral
-- Usage of ZKP
