@@ -176,11 +176,11 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 _Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for a workshop on scoring ideation).
 
 **Key observations**
-- Privacy experts have broad range of different takes on privacy assesment (50+ min different examples)
+- Privacy experts have a broad range of different takes on privacy assessment (50+ min different examples)
 - Majority of the expert takes are hard to execute by non-tech people (they need info-help!)
-- Privacy assesment takes enormous time (potential for analytical service!)
-- Scoring model demand both "decentralisation", "open-source" & "privacy" topics understending (privacy literacy isn't enough)
-- Scoring criteria are different from objective (example: transaction tracebility) & subjective (example: backed by a16z crypto) takes
+- Privacy assessment takes enormous time (potential for analytical service!)
+- The scoring model demand both "decentralisation", "open-source" & "privacy" topics understanding (privacy literacy isn't enough)
+- Scoring criteria are different from objective (example: transaction traceability) & subjective (example: backed by a16z crypto) takes 
 
 **Open-source transparency**
 - **GitHub repos**: # of commits, # stars, date of repo creation.
