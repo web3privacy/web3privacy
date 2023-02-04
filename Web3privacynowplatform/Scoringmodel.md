@@ -194,7 +194,7 @@ _Questions to be observed_
 - Other tooling to verify e.g. block explorers 
 
 # Other
-- Entropy (non-trivial to estimate, different measurements for type of service) some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d…
+- Entropy (non-trivial to estimate, different measurements for type of service) some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d
 - Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
 - Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
 - Doesn’t sell your data
