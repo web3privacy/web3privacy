@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
-## On-going community research (survey) within the privacy experts. 
+## 1. On-going community research (survey) within the privacy experts. 
 I asked experts behind privacy-services or contributors to the privacy-centric communities to share their visions on analysing whether a service is private. Answers were collected via chats & survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
 
 **Criteria**:
@@ -172,9 +172,15 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 - ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html
 - Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139
 
-# My personal notes on privacy scoring (they were made before communal survey)
-
+# 2. My personal notes on privacy scoring (they were made before communal survey)
 _Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for a workshop on scoring ideation).
+
+**Key observations**
+- Privacy experts have broad range of different takes on privacy assesment (50+ min different examples)
+- Majority of the expert takes are hard to execute by non-tech people (they need info-help!)
+- Privacy assesment takes enormous time (potential for analytical service!)
+- Scoring model demand both "decentralisation", "open-source" & "privacy" topics understending (privacy literacy isn't enough)
+- Scoring criteria are different from objective (example: transaction tracebility) & subjective (example: backed by a16z crypto) takes
 
 **Open-source transparency**
 - **GitHub repos**: # of commits, # stars, date of repo creation.
