@@ -86,57 +86,75 @@ _Questions to be observed_
 
 # Categorisation
 
-**General**
+## Contents
+- [General](#General)
+- [Docs](#Docs)
+- [Third-party analisys](#Third-party-analisys)
+- [VCs](#VCs)
+- [Team](#Team)
+- [Privacy policy](#Privacy-policy)
+- [Token](#Token)
+- [Infrastructure](#Infrastructure)
+- [Storage](#Storage)
+- [Data aggregation](#Data-aggregation)
+- [Traction](#Traction)
+- [Governance](#Governance)
+- [Privacy execution](#Privacy-execution)
+- [Product-centric](#Product-centric)
+- [Testing](#Testing)
+- [Other](#Other)
+
+# General
 - Immutability 
 - Decentralised throughout, including hosting
 - Permissionless & accessible to all
 - Open source
  
-**Docs**
+# Docs
 - read the documentation
 - Good and comprehensive documentation
 
-**Third-party analisys**
+# Third-party analisys
 - ask about its weaknesses from competitors
 - Number of peer reviewed articles at conferences and journals of team members
 - Where's the code, has it been audited
 - Validation by trusted and respected independent scientists and researchers
 
-**VCs**
+# VCs
 - Who are the VCs
 - not funded by big US VCs like a16z
 
-**Team**
+# Team
 - ideological team
 - Reputation of team
 - is it purely marketing oriented or it seems created by researcher/developers, are the developers anons?
 
-**Privacy policy**
+# Privacy policy
 - Privacy Policy content
 - Non-vague, and non-intrusive privacy policy
 - #privacy protection policies
 
-**Token**
+# Token
 - is there a token since the beginning ?
 - if token since beginning, weird
 
-**Infrastructure**
+# Infrastructure
 - How much to run a node. 
 - Where are the nodes
 - Number of nodes/servers/ -> the larger the footprint the best privacy
 
-**Storage**
+# Storage
 - e2e encrypted LOCAL storage
 - What user information is stored? (username, IP address, last connectino, wallets associate, etc)
 - Where is it stored? (centralized server, certain jurisdictions, on chain, in browser/local cache)
 
-**Data aggregation**
+# Data aggregation
 - no email or tel nr for signup
 - control over personal data
 - does not implement kyc or aml
 - Metadata privacy / Minimal to no metadata capture
 
-**Traction**
+# Traction
 - Amount of transactions 
 - number of people using it
 - is it famous
@@ -144,10 +162,10 @@ _Questions to be observed_
 - Latency
 - Cost
 
-**Governance**
+# Governance
 - DAO structure (if applied)
 
-**Privacy execution**
+# Privacy execution
 - How is it being transmited? (encrypted, unencrypted, offuscated, etc)
 - Confidentiality of transactions
 - ability to hide transactional data from the public
@@ -159,17 +177,17 @@ _Questions to be observed_
 - Trustless - No ID required (this is where ZK's are useful)
 - Usage of ZK
 
-**Product-centric**
+# Product-centric
 - Onboarding steps
 - Usability - for end users or in the developer experience if it is a B2B project.
 
-**Testing**
+# Testing
 - Ability to run part of the service and verify for myself
 - try to trace a transaction
 - There is a way to verify the code I think is running, really is running e.g. attestation service
 - Other tooling to verify e.g. block explorers 
 
-**Other**
+# Other
 - Entropy (non-trivial to estimate, different measurements for type of service) some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d…
 - Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
 - Precise description of the concrete privacy properties. Privacy is complicated so if they don't say exactly what they protect, then its likely vapor
