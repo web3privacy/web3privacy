@@ -2,9 +2,11 @@
 
 **Approach**
 
-1. **Expert take**. Outreach privacy experts behind core privacy services - aggregate their professional opinions how to analyse if a service is truly private or not.
-2. **Scoring model prototyping**. Create an open & flexible scoring model for a communal feedback loop - share with privacy community, evaluate.
-3. **Scoring model MVP release**. Deliver balanced model for privacy services assesment - powered by pros & general public opinions.
+| Phase  | Description |
+| ------------- | ------------- |
+| **Expert take**  | Outreach privacy experts behind core privacy services - aggregate their professional opinions how to analyse if a service is truly private or not.) |
+| **Scoring model prototyping**  | Create an open & flexible scoring model for a communal feedback loop - share with privacy community, evaluate. |
+| **Scoring model MVP release**  | Deliver balanced model for privacy services assesment - powered by pros & general public opinions. |
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
