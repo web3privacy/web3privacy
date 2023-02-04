@@ -2,54 +2,6 @@
 
 **Note**: _final scoring model shouldn't be too complex to execute._
 
-_Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for workshop on scoring ideation).
-
-**Open-source transparency**
-- **GitHub repos**: # of commits, # stars, date of repo creation.
-
-**Third party validation**
-- **Security audits**: yes, no; type of audit; ammount of audits.
-
-**Community validation**
-- Existing bugs
-- White hackers assesment (like Secret Network TEE bug)
-- Negative Discord, Twitter, other public feedback (product & founder-centric)
-
-**Team**
-- Market validation
-- GitHub contribution
-- Track record (incl. red flag projects)
-
-**Financials**
-- Investments
-- TVL (like Aztec's L2)
-- Donation-based
-- Public treasury
-
-**Liveliness**
-- How active is GitHub activity 
-- How active is community
-- Is there a public product traction?
-
-**Product-readiness**
-- State of product-readiness
-- MVP-readiness
-- Protocol (test-net/main-net)
-- dApp (release timing, third party validation like AppStore/Play Store)
-- network-reliability (the state of privacy in Ethereum, Solana, Avalanche etc)
-
-**Cross-checked data leakage**
-- Complementing privacy stack data leakage (example: phone + dApp; wallet + RPC etc)
-- Third party data leakage (from the hackers to state agents (think of Iran or North Korea govs))
-
-**Data aggregation policies**
-
-_Reference_: https://tosdr.org 
-
-**Centralisation level (incl KYC)**
-
-Reference: https://kycnot.me/about#scores
-
 ## On-going community research (survey) within the privacy experts. 
 I've asked privacy experts behind privacy-services or privacy-centric communities to contribute with their visions on how to analyse if a service is private or not. Answers were collected via chats or Survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
 
@@ -204,3 +156,52 @@ _Questions to be observed_
 - Credibly neutral
 - ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html
 - Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139
+
+# My personal notes on privacy-scoring (they were made made before communal survey)
+_Sketches what could be put inside privacy-solutions scoring model_ (note: think of these as questions to experts for workshop on scoring ideation).
+
+**Open-source transparency**
+- **GitHub repos**: # of commits, # stars, date of repo creation.
+
+**Third party validation**
+- **Security audits**: yes, no; type of audit; ammount of audits.
+
+**Community validation**
+- Existing bugs
+- White hackers assesment (like Secret Network TEE bug)
+- Negative Discord, Twitter, other public feedback (product & founder-centric)
+
+**Team**
+- Market validation
+- GitHub contribution
+- Track record (incl. red flag projects)
+
+**Financials**
+- Investments
+- TVL (like Aztec's L2)
+- Donation-based
+- Public treasury
+
+**Liveliness**
+- How active is GitHub activity 
+- How active is community
+- Is there a public product traction?
+
+**Product-readiness**
+- State of product-readiness
+- MVP-readiness
+- Protocol (test-net/main-net)
+- dApp (release timing, third party validation like AppStore/Play Store)
+- network-reliability (the state of privacy in Ethereum, Solana, Avalanche etc)
+
+**Cross-checked data leakage**
+- Complementing privacy stack data leakage (example: phone + dApp; wallet + RPC etc)
+- Third party data leakage (from the hackers to state agents (think of Iran or North Korea govs))
+
+**Data aggregation policies**
+
+_Reference_: https://tosdr.org 
+
+**Centralisation level (incl KYC)**
+
+Reference: https://kycnot.me/about#scores
