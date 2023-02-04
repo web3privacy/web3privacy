@@ -54,12 +54,15 @@ Reference: https://kycnot.me/about#scores
 **all answers on how to score services privacy (non-redacted)**:
 
 _Questions to be observed_
+
+##Take 1
 - does it has untracebility ? (ie addresses is hidden from public ledger)
 - does it has unlinkability? (ie transactions can't be linked between each other)
 - does amount of transfer is hidden? 
 - does IP address of participants hidden? 
 - is it decentralized and based on opensource technology ? 
 
+##Take 2
 1)  much the users in control of their data disclosure? (Scale 1-10)
 2) how well commnity feedback and evaluation is built into product dev? (the less -» the more centralised it is -» the smaller the % of it staying private without the collectiv intelligence. this is like the web3privacynow  - platform part actually, for sales but also i found this really relevant.
 2/b) is there a community bug / security bounty program / platform? 
@@ -67,12 +70,14 @@ _Questions to be observed_
 4) how private the tech stack it uses on all layers. from hardware to l3/l4 etc. how well it is disclosed what they built on and where they host stuff, or if the tech is decentralised like nym - is there avaialbe dashboard data about this?
 5) product roadmap and release flexibiity - this is harder one, and I'm not sure it makes sense. what i mean is its also important to have a clear vision but at the same time to react to current needs / bugs / fixing vulnerabilities. maybe its redundant with no2 and no2b
 
+##Take 3
 1. What are the trust assumptions the user has by using the platform?
 2. What and how is user information stored and transmitted?
 3. How much PII is it stored/collected?
 4. How is information collected + processed + disseminated
 5. How completely you can participate with total privacy?
 
+##Take 4
 1) network privacy -  (how do you connect to the chain? can you do it via Tor?) 
 2) blockchain privacy - (do the resulting on chain transactions offer the user any on chain obfuscation?)
 3) censorship resistance - (how resistant is the project to external pressure. will the project censor you?)
