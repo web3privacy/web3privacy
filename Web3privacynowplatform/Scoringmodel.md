@@ -50,9 +50,9 @@ _Reference_: https://tosdr.org
 
 Reference: https://kycnot.me/about#scores
 
-## On-going community research (survey) within the privacy experts 
-**all answers on how to score services privacy (non-redacted)**:
+## On-going community research (survey) within the privacy experts. 
 
+**all answers on how to score services privacy (non-redacted)**: 
 _Questions to be observed_
 
 # Take 1
