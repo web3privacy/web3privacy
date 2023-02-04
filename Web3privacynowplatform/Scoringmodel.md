@@ -17,8 +17,7 @@ I've asked privacy experts behind privacy-services or privacy-centric communitie
 - broad range of services: from privacy coins to mixnets
 - different geographies: from the USA to Russia
 
-**all answers on how to score services privacy (non-redacted)**: 
-_Questions to be observed_
+**Questions from the privacy experts**
 
 # Take 1
 - does it has untracebility ? (ie addresses is hidden from public ledger)
