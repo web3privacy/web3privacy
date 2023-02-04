@@ -81,11 +81,14 @@ _Questions to be observed_
 5. How completely you can participate with total privacy?
 
 # Take 4
-1) network privacy -  (how do you connect to the chain? can you do it via Tor?) 
-2) blockchain privacy - (do the resulting on chain transactions offer the user any on chain obfuscation?)
-3) censorship resistance - (how resistant is the project to external pressure. will the project censor you?)
-4) permission - (do I need to create an account to access the thing or is the thing open access?)
-5) custody of funds - (at any point is the user out of control of their own keys?)
+
+| Direction  | Observation |
+| ------------- | ------------- |
+| network privacy  | how do you connect to the chain? can you do it via Tor? |
+| blockchain privacy  | do the resulting on chain transactions offer the user any on chain obfuscation? |
+| censorship resistance  | how resistant is the project to external pressure. will the project censor you? |
+| permission  | do I need to create an account to access the thing or is the thing open access? |
+| custody of funds  | at any point is the user out of control of their own keys? |
 
 # Categorisation
 
