@@ -12,7 +12,7 @@
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-04%20at%2017.03.45.png?raw=true)
 
-## 0. [350+ privacy solutions](https://github.com/Msiusko/web3privacy/blob/main/README.md) in 1 database - delivered
+## 0. 350+ privacy solutions in 1 database - [delivered](https://github.com/Msiusko/web3privacy/blob/main/README.md)
 ## 1. On-going community research (survey) within the privacy experts. 
 I asked experts behind privacy-services or contributors to the privacy-centric communities to share their visions on analysing whether a service is private. Answers were collected via chats & survey [form](https://forms.gle/ETBEZed9LUUtLWT87)
 
