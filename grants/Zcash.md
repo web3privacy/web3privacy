@@ -10,7 +10,7 @@
 
 **Category**: education & community
 
-https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74e430ee-68dc-4f17-93e8-80b0a9a73722%2FUntitled.png
+![alt text](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74e430ee-68dc-4f17-93e8-80b0a9a73722%2FUntitled.png)
 
 Moreover, I want to make a step further:
 - Collaborate with Ukrainian DAO (https://twitter.com/Ukraine_DAO)
