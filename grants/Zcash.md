@@ -10,6 +10,8 @@
 - PDF report
 - UX/UI alike personas (PDF + PPTX)
 
+**Reference**: AccessNow' [digital safety tips](https://infogram.com/ukraine-safety-tips-for-civil-society-en-1h8n6m3kmkp1z4x?live)
+
 **Category**: education & community
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Ukrainian%20under%20occupation%20persona%20persona.png)
@@ -17,9 +19,7 @@
 Moreover, I want to take a step further:
 - Collaborate with Ukrainian DAO (https://twitter.com/Ukraine_DAO)
 - present results publicly via Ukraine DAO events similar to https://twitter.com/KyivTechSummit
-- Expand the partner's network via 
-a) Access Now https://accessnow.org/who-is-shutting-down-the-internet-in-ukraine/……
-b) Digital security lab: https://dslua.org
-- collab with Ukraine DAO & Ministry of Digital Transformation in Ukraine to PR it globally
+- expand the partner's network via (example Digital security lab: https://dslua.org)
+- collab with Ukraine DAO to PR globally how Ukrainians are using privacy-enhancing solutions (also Zcash)
 
 **Recommendation**: Jason McGee from Zcash Community Grants.
