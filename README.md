@@ -199,6 +199,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [ARPA](https://www.arpanetwork.io/en-US) - Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 - [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
+- [Alaya](https://alaya.network/en) - Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON ([GitHub](https://github.com/AlayaNetwork))
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
