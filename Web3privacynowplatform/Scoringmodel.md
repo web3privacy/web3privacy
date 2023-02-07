@@ -142,21 +142,27 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 | Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | - | + |
 
 # Data aggregation
-- no email or tel nr for signup
-- control over personal data
-- does not implement KYC or AML
-- Metadata privacy / Minimal to no metadata capture
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| no email or tel nr for signup | + | + |
+| control over personal data | - | - |
+| does not implement KYC or AML | + | + |
+| Metadata privacy / Minimal to no metadata capture | - | - |
 
 # Traction
-- Amount of transactions 
-- number of people using it
-- is it famous
-- Time of test and battle-tested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive) 
-- Latency
-- Cost
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Amount of transactions  | + | + |
+| number of people using it | + | + |
+| is it famous | + | + |
+| Latency  | - | - |
+| Time of test and battle-tested code - (e.g. how BSC had passed the stress time of withdrawals with FTX drama or crypto schemes such as ECDSA with more than 2-3 decades alive)  | - | - |
+| Cost  | - | + |
 
 # Governance
-- DAO structure (if applied)
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| DAO structure (if applied)  | - | + |
 
 # Privacy execution
 - How is it being transmitted? (encrypted, unencrypted, offuscated, etc)
@@ -171,14 +177,18 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 - Usage of ZK
 
 # Product-centric
-- Onboarding steps
-- Usability - for end users or in the developer experience if it is a B2B project.
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Onboarding steps  | + | + |
+| Usability - for end users or in the developer experience if it is a B2B project. | + | - |
 
 # Testing
-- Ability to run part of the service and verify for myself
-- try to trace a transaction
-- There is a way to verify the code I think is running, really is running e.g. attestation service
-- Other tooling to verify e.g. block explorers 
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Ability to run part of the service and verify for myself  | - | - |
+| try to trace a transaction | - | - |
+| There is a way to verify the code I think is running, really is running e.g. attestation service | - | - |
+| Other tooling to verify e.g. block explorers  | - | + |
 
 # Other
 - Entropy (non-trivial to estimate, different measurements for type of service). Some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d
