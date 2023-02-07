@@ -403,6 +403,9 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
 - [Media Network](https://www.media.network) - a privacy-first and community-governed CDN ([GitHub](https://github.com/mediafoundation))
 - [Tezos sapling via åirGap](https://support.airgap.it/features/tezos-sapling/) - sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment
+- [Datum](https://datumtechs.com) - Web3 Privacy-preserving Data Service ([GitHub](https://github.com/datumtechs))
+- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - a privacy-preserving framework based on TensorFlow
+- [OpenTss](https://opentss.com/) - MPC-based Key Management Protocol
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -422,6 +425,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
 - [Trivium](https://trivium.network) - provides validator services to serveral networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode))
+- [RealRan](https://www.realran.com/home) - comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran))
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
