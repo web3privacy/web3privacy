@@ -165,16 +165,17 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 | DAO structure (if applied)  | - | + |
 
 # Privacy execution
-- How is it being transmitted? (encrypted, unencrypted, offuscated, etc)
-- Confidentiality of transactions
-- the ability to hide transactional data from the public
-- strong encryption algorithms
-- If the speed in connection is too fast, there most probably no privacy there and rather a direct channel between user - app
-- p2p / no central server
-- Reliant on one encryption method or multiple
-- Combined those encryption methods effectively (holistic solution)
-- Trustless - No ID required (this is where ZKs are useful)
-- Usage of ZK
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| How is it being transmitted? (encrypted, unencrypted, offuscated, etc)  | - | - |
+| Combined those encryption methods effectively (holistic solution) | - | - |
+| Confidentiality of transactions | - | - |
+| the ability to hide transactional data from the public | - | - |
+| strong encryption algorithms | - | - |
+| If the speed in connection is too fast, there most probably no privacy there and rather a direct channel between user - app | - | - |
+| p2p / no central server | - | - |
+| Trustless - No ID required (this is where ZKs are useful) | - | + |
+| Usage of ZK | - | - |
 
 # Product-centric
 | Scoring  | Non-web3 person assesment | Non-tech assesment |
@@ -191,15 +192,17 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 | Other tooling to verify e.g. block explorers  | - | + |
 
 # Other
-- Entropy (non-trivial to estimate, different measurements for type of service). Some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d
-- Censorship-resistant (how hard it's for a powerful party to block/censor a given service)
-- Precise description of the concrete privacy properties. Privacy is complicated, so if they don't say exactly what they protect, then its likely vapour
-- Doesn’t sell your data
-- protects against a global passive adversary
-- strong secure anonymity tech
-- Credibly neutral
-- ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html
-- Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Entropy (non-trivial to estimate, different measurements for type of service). Some examples: https://arxiv.org/abs/2211.04259 or https://blog.nymtech.net/an-empirical-study-of-privacy-scalability-and-latency-of-nym-mixnet-ff05320fb62d  | - | - |
+| Censorship-resistant (how hard it's for a powerful party to block/censor a given service)  | - | - |
+| Precise description of the concrete privacy properties. Privacy is complicated, so if they don't say exactly what they protect, then its likely vapour  | - | - |
+| Doesn’t sell your data  | - | - |
+| protects against a global passive adversary  | - | - |
+| strong secure anonymity tech  | - | - |
+| Credibly neutral  | + | + |
+| ISO/IEC 29190:2015: https://www.iso.org/standard/45269.html  | - | - |
+| Anonymity Assessment – A Universal Tool for Measuring Anonymity of Data Sets Under the GDPR with a Special Focus on Smart Robotics: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971139 | - | - |
 
 _Huge thanks everyone who contributed! I make it anon now, but will thank everyone (who would liked to be credited) once a scoring model will be published on GitHub for community evaluation._
 
