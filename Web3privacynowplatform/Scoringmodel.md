@@ -59,7 +59,8 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 | permission  | do I need to create an account to access the thing, or is the thing open access? |
 | custody of funds  | is the user out of control of their keys at any point? |
 
-# Categorisation
+# Answers from the privacy experts
+**Additional lenses**: _is it accessible to a non-web3 person & is it accessible to a non-tech web3 person?_
 
 ## Contents
 - [General](#General)
