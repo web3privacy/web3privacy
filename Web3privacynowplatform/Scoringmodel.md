@@ -80,48 +80,66 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 - [Other](#Other)
 
 # General
-- Immutability 
-- Decentralised throughout, including hosting
-- Permissionless & accessible to all
-- Open source
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Immutability | - | - |
+| Decentralised throughout, including hosting | - | - |
+| Permissionless & accessible to all | - | - |
+| Open-source | + | + |
  
 # Docs
-- read the documentation
-- Good and comprehensive documentation
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| read the documentation | - | - |
+| Good and comprehensive documentation | - | - |
 
 # Third-party analisys
-- ask about its weaknesses from competitors
-- Number of peer-reviewed articles at conferences and journals of team members
-- Where's the code? Has it been audited?
-- Validation by trusted and respected independent scientists and researchers
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| ask about its weaknesses from competitors | + | + |
+| Number of peer-reviewed articles at conferences and journals of team members | + | + |
+| Where's the code? Has it been audited? | + | + |
+| Validation by trusted and respected independent scientists and researchers | + | + |
 
 # VCs
-- Who are the VCs
-- not funded by big US VCs like a16z
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Who are the VCs | - | - |
+| Not funded by big US VCs like a16z | - | + |
 
 # Team
-- ideological team
-- Reputation of the team
-- is it purely marketing oriented, or it seems created by researchers/developers, are the developers anons?
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| ideological team | - | + |
+| Reputation of the team | - | + |
+| is it purely marketing oriented, or it seems created by researchers/developers, are the developers anons? | + | + |
 
 # Privacy policy
-- Privacy Policy content
-- Non-vague and non-intrusive privacy policy
-- #privacy protection policies
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| Privacy Policy content | + | + |
+| Non-vague and non-intrusive privacy policy | + | + |
+| #privacy protection policies | + | + |
 
 # Token
-- is there a token since the beginning?
-- if the token since beginning - weird
+| Scoring  | Non-web3 person assesment | Web3, but non-tech assesment |
+| ------------- | ------------- | ------------- |
+| is there a token since the beginning? | - | + |
+| if the token since beginning - weird | - | + |
 
 # Infrastructure
-- How much to run a node. 
-- Where are the nodes
-- Number of nodes/servers/ -> the larger the footprint the best privacy
+| Scoring  | Non-web3 person assesment | Non-tech assesment |
+| ------------- | ------------- | ------------- |
+| How much to run a node | - | + |
+| Where are the nodes | - | + |
+|  Number of nodes/servers/ -> the larger the footprint the best privacy | - | + |
 
 # Storage
-- e2e encrypted LOCAL storage
-- What user information is stored? (username, IP address, last connection, wallets associate, etc)
-- Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache)
+| Scoring  | Non-web3 person assesment | Web3, but non-tech assesment |
+| ------------- | ------------- | ------------- |
+|  e2e encrypted LOCAL storage | - | + |
+| What user information is stored? (username, IP address, last connection, wallets associate, etc) | - | + |
+| Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | - | + |
 
 # Data aggregation
 - no email or tel nr for signup
