@@ -73,6 +73,7 @@ Feel free to update the list!
 - [DeFiner](https://definer.org) - Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** ([GitHub](https://github.com/DeFinerOrg))
 - [Hurricane Protocol](https://hurricane.money) - A fully decentralized protocol offering private transactions on both the Terra & NEAR. ([GitHub](https://github.com/Hurricane-Protocol))
 - [StealthPay](https://www.stealthpay.cash) - a stealth address protocol for Ethereum. ([GitHub](https://github.com/cryptoadong)) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> 
+- [BlackBox](https://blackbox.cash) - collection of tools allowing you send & receive SCRT anonymously
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -228,6 +229,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
 - [IVPN](https://www.ivpn.net/) - IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. ([GitHub](https://github.com/ivpn))
 - [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage ([GitHub](https://github.com/ProtonVPN))
+- [Solar labs](https://solarlabs.ee) - World’s first truly decentralized blockchain-based VPN service. 
 
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
@@ -350,6 +352,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Silent Data](https://silentdata.com) - Verify web2 Data in web3 Applications
 - [okSign](https://www.oksign.app) - Create, Sign and Save eSignatures with smart contracts and permissioned NFTs.
 - [Literully](https://literully.com) - a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data ([Docs](https://docs.literully.com/articles/))  
+- [WireMin](https://wiremin.org/#/) - a decentralised social network
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -398,6 +401,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
 - [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
 - [Media Network](https://www.media.network) - a privacy-first and community-governed CDN ([GitHub](https://github.com/mediafoundation))
+- [Tezos sapling via åirGap](https://support.airgap.it/features/tezos-sapling/) - sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -416,6 +420,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Electric Coin. Co](https://electriccoin.co/research-and-development/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
 - [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
+- [Trivium](https://trivium.network) - provides validator services to serveral networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode))
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
