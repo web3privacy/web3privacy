@@ -64,7 +64,7 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 ## Contents
 - [General](#General)
 - [Docs](#Docs)
-- [Third-party analisys](#Third-party-analisys)
+- [Third-party analysis](#Third-party-analysis)
 - [VCs](#VCs)
 - [Team](#Team)
 - [Privacy policy](#Privacy-policy)
@@ -93,7 +93,7 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 | read the documentation | - | - |
 | Good and comprehensive documentation | - | - |
 
-# Third-party analisys
+# Third-party analysis
 | Scoring  | Non-web3 person assesment | Non-tech assesment |
 | ------------- | ------------- | ------------- |
 | ask about its weaknesses from competitors | + | + |
