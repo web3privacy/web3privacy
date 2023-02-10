@@ -1,5 +1,4 @@
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.46.03.png?raw=true)
-
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.43.36.png?raw=true)
 
 **10 feb, spaceship earth**
