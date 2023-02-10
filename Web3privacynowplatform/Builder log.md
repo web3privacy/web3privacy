@@ -1,3 +1,4 @@
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.43.36.png?raw=true)
 **10 feb, spaceship earth**
 
 Had a call with experienced product manager. We discussed different approaches to scoring modelling, on-chain & off-chain data management, indexing protocols etc.
