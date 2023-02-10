@@ -1,4 +1,4 @@
-10 feb
+**10 feb, spaceship earth**
 
 Had a call with experienced product manager. We discussed different approaches to scoring modelling, on-chain & off-chain data management, indexing protocols etc.
 
