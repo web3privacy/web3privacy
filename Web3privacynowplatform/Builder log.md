@@ -26,6 +26,8 @@ Opinions are great for future scoring building:
 - [Elusiv](https://twitter.com/elusivprivacy/status/1625517643481374721)
 - [Beam](https://twitter.com/maxnflaxl/status/1625518069769543683)
 - [Railgun](https://twitter.com/therealjmj/status/1625581000829853734)
+- [Aleo community](https://discord.com/channels/700454073459015690/700465638937722951/1075174751510732870)
+- [Automata community](https://discord.com/channels/812990347114315786/812990347114315789/1075175812875161611)
 
 **10 feb, spaceship Earth**
 
