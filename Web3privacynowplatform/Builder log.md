@@ -22,6 +22,7 @@ Opinions are great for future scoring building:
 - [Krebit](https://twitter.com/KrebitID/status/1625508542391234565)
 - [Puma browser](https://twitter.com/PumaBrowser/status/1625506944613249029)
 - [hideyourcash](https://twitter.com/hideyourcash/status/1625509914805239808)
+- [EdenBlockVC](https://twitter.com/cleanunicorn/status/1625513229152665600)
 
 **10 feb, spaceship Earth**
 
