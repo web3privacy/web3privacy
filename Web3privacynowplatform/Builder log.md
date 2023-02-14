@@ -7,6 +7,7 @@ I decided to ask private projects & their core team publicly how to measure when
 Opinions are great for future scoring building:
 
 - [SCBuergel.eth from HOPR](https://twitter.com/SCBuergel/status/1625424568314654723)
+- [Privacy & Scaling explorations](https://discord.com/channels/943612659163602974/956556086767403038/1075178542465306644)
 - [Waku](https://twitter.com/waku_org/status/1625276654624075778)
 - [Lefteris Karapetsas](https://twitter.com/LefterisJP/status/1625269056365363200)
 - [webb](https://twitter.com/webbprotocol/status/1625332620942008320)
@@ -28,6 +29,8 @@ Opinions are great for future scoring building:
 - [Railgun](https://twitter.com/therealjmj/status/1625581000829853734)
 - [Findora](https://twitter.com/PaganD/status/1625618088640274432)
 - [Leo wallet](https://twitter.com/theLeoWallet/status/1625620029076291585)
+- [Scala](https://twitter.com/ScalaHQ/status/1625554059821256714)
+- [Media Foundation](https://twitter.com/Media_FDN/status/1625558638608715800)
 - [Aleo community](https://discord.com/channels/700454073459015690/700465638937722951/1075174751510732870)
 - [Automata community](https://discord.com/channels/812990347114315786/812990347114315789/1075175812875161611)
 
