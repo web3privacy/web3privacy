@@ -12,6 +12,7 @@ Opinions are great for future scoring building:
 - [webb](https://twitter.com/webbprotocol/status/1625332620942008320)
 - [Boring Protocol](https://twitter.com/BoringProtocol/status/1625322766462500864)
 - [Lit protocol](https://twitter.com/LitProtocol/status/1625322308821811203)
+- [Alter community](https://twitter.com/AnewbiZ007/status/1625278499606106112)
 
 **10 feb, spaceship Earth**
 
