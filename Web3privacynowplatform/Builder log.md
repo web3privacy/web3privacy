@@ -16,6 +16,9 @@ Opinions are great for future scoring building:
 - [Sons of crypto](https://twitter.com/web3d3v/status/1625476576811839496)
 - [Orbis community](https://twitter.com/BaptisteGreve/status/1625475768946946049)
 - [Nighthawk Wallet](https://twitter.com/aiyadt/status/1625484422936989697)
+- [KILT protocol](https://twitter.com/ingoruebe/status/1625500194816266240)
+- [Onion club](https://twitter.com/onionclub_io/status/1625501848189939719)
+- [Sismo](https://twitter.com/dhadrien_/status/1625488518696022019)
 
 **10 feb, spaceship Earth**
 
