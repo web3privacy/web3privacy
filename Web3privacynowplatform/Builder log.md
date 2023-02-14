@@ -15,6 +15,7 @@ Opinions are great for future scoring building:
 - [Alter community](https://twitter.com/AnewbiZ007/status/1625278499606106112)
 - [Sons of crypto](https://twitter.com/web3d3v/status/1625476576811839496)
 - [Orbis community](https://twitter.com/BaptisteGreve/status/1625475768946946049)
+- [Nighthawk Wallet](https://twitter.com/aiyadt/status/1625484422936989697)
 
 **10 feb, spaceship Earth**
 
