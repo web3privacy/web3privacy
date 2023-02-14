@@ -19,6 +19,9 @@ Opinions are great for future scoring building:
 - [KILT protocol](https://twitter.com/ingoruebe/status/1625500194816266240)
 - [Onion club](https://twitter.com/onionclub_io/status/1625501848189939719)
 - [Sismo](https://twitter.com/dhadrien_/status/1625488518696022019)
+- [Krebit](https://twitter.com/KrebitID/status/1625508542391234565)
+- [Puma browser](https://twitter.com/PumaBrowser/status/1625506944613249029)
+- [hideyourcash](https://twitter.com/hideyourcash/status/1625509914805239808)
 
 **10 feb, spaceship Earth**
 
