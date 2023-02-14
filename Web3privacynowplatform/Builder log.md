@@ -25,6 +25,7 @@ Opinions are great for future scoring building:
 - [EdenBlockVC](https://twitter.com/cleanunicorn/status/1625513229152665600)
 - [Elusiv](https://twitter.com/elusivprivacy/status/1625517643481374721)
 - [Beam](https://twitter.com/maxnflaxl/status/1625518069769543683)
+- [Railgun](https://twitter.com/therealjmj/status/1625581000829853734)
 
 **10 feb, spaceship Earth**
 
