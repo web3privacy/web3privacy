@@ -13,6 +13,8 @@ Opinions are great for future scoring building:
 - [Boring Protocol](https://twitter.com/BoringProtocol/status/1625322766462500864)
 - [Lit protocol](https://twitter.com/LitProtocol/status/1625322308821811203)
 - [Alter community](https://twitter.com/AnewbiZ007/status/1625278499606106112)
+- [Sons of crypto](https://twitter.com/web3d3v/status/1625476576811839496)
+- [Orbis community](https://twitter.com/BaptisteGreve/status/1625475768946946049)
 
 **10 feb, spaceship Earth**
 
