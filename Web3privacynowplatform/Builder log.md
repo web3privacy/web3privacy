@@ -23,6 +23,8 @@ Opinions are great for future scoring building:
 - [Puma browser](https://twitter.com/PumaBrowser/status/1625506944613249029)
 - [hideyourcash](https://twitter.com/hideyourcash/status/1625509914805239808)
 - [EdenBlockVC](https://twitter.com/cleanunicorn/status/1625513229152665600)
+- [Elusiv](https://twitter.com/elusivprivacy/status/1625517643481374721)
+- [Beam](https://twitter.com/maxnflaxl/status/1625518069769543683)
 
 **10 feb, spaceship Earth**
 
