@@ -9,6 +9,9 @@ Continue to collect privacy-services tips how non-techies could be ensured that 
 - [Spinner Cash](https://twitter.com/spnrapp/status/1625666410612506625)
 - [Session](https://twitter.com/session_app/status/1625712450875326465)
 - [ZKBob](https://twitter.com/koal_/status/1625752877095436288)
+- [Litentry](https://twitter.com/KariSays_wen/status/1625861241536413696)
+- [BrightID](https://twitter.com/bitsikka/status/1625853432925130753)
+- [Swarm](https://twitter.com/ethswarm/status/1625836528499818497)
 
 
 **13-14 feb, spaceship Earth**
