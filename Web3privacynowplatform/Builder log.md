@@ -1,6 +1,16 @@
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.46.03.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.43.36.png?raw=true)
 
+**15 feb, spaceship Earth**
+
+Continue to collect privacy-services tips how non-techies could be ensured that they use private tech
+- [Lava](https://twitter.com/lavanetxyz/status/1625781267110264832)
+- [Holonym](https://twitter.com/NanakNihal/status/1625655312832135168)
+- [Spinner Cash](https://twitter.com/spnrapp/status/1625666410612506625)
+- [Session](https://twitter.com/session_app/status/1625712450875326465)
+- [ZKBob](https://twitter.com/koal_/status/1625752877095436288)
+
+
 **13-14 feb, spaceship Earth**
 I decided to ask private projects & their core team publicly how to measure whenever their solutions are private. Important note: it should work for non-techies.
 
