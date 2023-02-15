@@ -13,6 +13,7 @@ Continue to collect privacy-services tips how non-techies could be ensured that 
 - [BrightID](https://twitter.com/bitsikka/status/1625853432925130753)
 - [Swarm](https://twitter.com/ethswarm/status/1625836528499818497)
 - [Railgun](https://twitter.com/tsu_kareta/status/1625864200504442882)
+- [Penumbra](https://discord.com/channels/824484045370818580/824484046335246348/1075421328317874176)
 
 **13-14 feb, spaceship Earth**
 I decided to ask private projects & their core team publicly how to measure whenever their solutions are private. Important note: it should work for non-techies.
