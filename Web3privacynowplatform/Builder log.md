@@ -1,6 +1,12 @@
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.46.03.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.43.36.png?raw=true)
 
+**16, feb, spaceship Earth**
+Had a call with Ethereum Foundation. They would love to understand if non-biased/objective scoring model is possible & at which stage.
+This is a challenging issue because if players didn't make one within years of privacy services existence & their general competitive attitude - this could take ages to accomplish. 
+
+- [Fileverse](https://twitter.com/miroyato/status/1626222748707225602)
+
 **15 feb, spaceship Earth**
 
 Continue to collect privacy-services tips how non-techies could be ensured that they use private tech
