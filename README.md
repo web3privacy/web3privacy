@@ -164,6 +164,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [ZeroPool](https://zeropool.network/#rec246911850) - is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set.
 - [Pollen Mobile](https://www.pollenmobile.io) - The world's first decentralized, user owned and operated mobile network. ([Docs](https://docs.pollenmobile.io/pollen-mobile-docs/))
 - [LayerX](https://layerx.co.jp) - A privacy-preserving blockchain on Substrate ([GitHub](https://github.com/LayerXcom))
+- [The Farcaster Project](https://farcaster.dev/) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. ([GitHub](https://github.com/farcaster-project))
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
