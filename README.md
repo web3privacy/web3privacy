@@ -117,7 +117,7 @@ Feel free to update the list!
 - [Espresso Systems](https://www.espressosys.com) - Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain ([GitHub](https://github.com/EspressoSystems/))
 - [Findora](https://findora.org) - A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities ([GitHub](https://github.com/findoranetwork))
 - [Suterusu](https://suterusu.io) - A suite of privacy-preserving services to obfuscate transactional and asset information to protect them from unwanted attention and malicious hacking. Our goal is to bring privacy-preserving and fair payment services to all the digital assets in the Web 3.0 world ([GitHub](https://github.com/suterusu-team))
-- [HOPR](https://hoprnet.org/protocol) - provides full control over privacy, data and metadata ([GitHub](https://github.com/hoprnet))
+- [HOPR](https://hoprnet.org/protocol) is a fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange ([GitHub](https://github.com/hoprnet))
 - [Concordium](https://concordium.com) - A compliance ready blockchain backed by science that enables private and public transactions ([GitHub](https://github.com/Concordium))
 - [Horizen](https://www.horizen.io) - The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** ([GitHub](https://github.com/horizenofficial))
 - [Parami](https://parami.io) - Parami is short for para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service.
@@ -314,7 +314,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
 - [1RPC](https://www.1rpc.io) - The Web3 Private RPC Relay ([Docs](https://docs.ata.network/1rpc/introduction/)) + ([GitHub](https://github.com/orgs/automata-network/repositories))
 - [Secure RPC](https://securerpc.com) - SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well.
-- [D.E.R.P](https://derp.hoprnet.org) - Dumb Ethereum RPC provider <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
+- [DERP](https://derp.hoprnet.org/) is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain ([GitHub](https://github.com/hoprnet/derp))
+- [RPCh](https://rpch.net/) is a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain ([GitHub](https://github.com/Rpc-h/RPCh))
 - [Ethereum Portal Network](https://www.ethportal.net/) - Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
 - [Spook](https://github.com/EdenBlockVC/spook) - Mixing service using the Nym network to anonymize Ethereum RPC calls <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
 
