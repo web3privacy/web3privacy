@@ -273,6 +273,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Secret Bridge](https://bridge.scrt.network) - bridge to the Secret Network
 - [Shade bridge](https://app.shadeprotocol.io/bridge) - an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. ([Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge))
 - [Rialto bridge](https://rialtobridge.io) - Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain ([Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge))
+- [0xTIP](https://t.co/JRNgLFaU50) - Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. ([0xMonero](https://0xmonero.com/))
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
