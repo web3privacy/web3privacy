@@ -165,6 +165,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Pollen Mobile](https://www.pollenmobile.io) - The world's first decentralized, user owned and operated mobile network. ([Docs](https://docs.pollenmobile.io/pollen-mobile-docs/))
 - [LayerX](https://layerx.co.jp) - A privacy-preserving blockchain on Substrate ([GitHub](https://github.com/LayerXcom))
 - [The Farcaster Project](https://farcaster.dev/) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. ([GitHub](https://github.com/farcaster-project))
+- [Sunscreen](https://blog.sunscreen.tech/roadmap/) - makes advanced privacy technology easy for engineers to use. ([GitHub](https://github.com/Sunscreen-tech?ref=sunscreen))
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -257,6 +258,9 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Spruce](https://spruceid.com) - the open-source stack to leave control of identity and data where it should be: with users. ([GitHub](https://github.com/spruceid)) 
 - [Hypersign](https://hypersign.id) - the ultimate stack for identity management  ([GitHub](https://github.com/hypersign-protocol))
 - [Fractal ID](https://web.fractal.id) - We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status ([GitHub](https://github.com/trustfractal))
+- [Next.ID](https://next.id) - An open-sourced protocol that synergises your Web2 and Web3 profiles. ([GitHub](https://github.com/nextdotid))
+- [Slashags](https://slashtags.to) - Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data. ([GitHub](https://github.com/synonymdev/slashtags))
+- [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -291,6 +295,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Beepo](https://beepoapp.net/#features) - a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts ([GitHub](https://github.com/beepo-app))
 - [Pastenym](https://pastenym.ch/#/) - Anon text sharing service ([GitHub](https://github.com/notrustverify/pastenym/))
 - [Onionclub](https://onionclub.io) - is blockchain based, business & social platform.
+- [Speakeasy](https://alpha.speakeasy.tech) - Speak easily to a group of friends or a global community. Talk about what you want.
+Surveillance free. Censorship proof.
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -332,6 +338,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Swarm](https://www.ethswarm.org) - a decentralised data storage and distribution technology. Ready to power the next generation of censorship-resistant, unstoppable, serverless dapps ([GitHub](https://github.com/ethersphere/swarm-cli))
 - [DJIB](https://djib.io) - is the next generation Web3 storage ([GitHub](https://github.com/Djib-io))
 - [Crust](https://crust.network) - Web3.0 Storage for the Metaverse ([GitHub](https://github.com/crustio)) 
+- [Fileverse](https://fileverse.io) - On-chain people and communities deserve on-chain tools for private communication and collaboration. ([GitHub](https://github.com/fileverse)) https://fileverse.io
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
@@ -357,6 +364,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [okSign](https://www.oksign.app) - Create, Sign and Save eSignatures with smart contracts and permissioned NFTs.
 - [Literully](https://literully.com) - a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data ([Docs](https://docs.literully.com/articles/))  
 - [WireMin](https://wiremin.org/#/) - a decentralised social network
+- [Bermuda](https://www.bmda.io) - next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens.
+- [Privacy Pools](https://www.privacypools.com) - allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. ([GitHub](https://github.com/ameensol/privacy-pools))
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -409,6 +418,12 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Datum](https://datumtechs.com) - Web3 Privacy-preserving Data Service ([GitHub](https://github.com/datumtechs))
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - a privacy-preserving framework based on TensorFlow
 - [OpenTss](https://opentss.com/) - MPC-based Key Management Protocol
+- [ZK-Groups](https://github.com/privacy-scaling-explorations/zk-groups) - a comprehensive infrastructure to allow anyone to create and manage their own groups privately ([GitHub](https://github.com/privacy-scaling-explorations/zk-groups))
+- [Crypt-Keeper](https://github.com/CryptKeeperZK/crypt-keeper-extension) - a browser extension which enables Zero knowledge identity management and proof generation  ([GitHub](https://github.com/CryptKeeperZK/crypt-keeper-extension))
+- [3num](https://www.3num.co) - the first anonymous Web3 mobile number that protects your identity and provides private, secure messaging ([GitHub](https://github.com/3numdao))
+- [Moby](https://get.moby.app) - Pay privately. You hold the keys so we can't see your balance, let alone touch it.
+- [AesirX SSO](https://sso.aesirx.io) - a 1st-party based Web2 + Web3 single sign on service for any JavaScript-based website or app. ([GitHub](https://github.com/aesirxio/sso-template))
+- [Better call Raul](https://bettercallraul.it) - Advanced Security Measures to automatically and securely transfer your initial liquidity with no traceability.
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
