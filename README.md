@@ -74,6 +74,7 @@ Feel free to update the list!
 - [Hurricane Protocol](https://hurricane.money) - A fully decentralized protocol offering private transactions on both the Terra & NEAR. ([GitHub](https://github.com/Hurricane-Protocol))
 - [StealthPay](https://www.stealthpay.cash) - a stealth address protocol for Ethereum. ([GitHub](https://github.com/cryptoadong)) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> 
 - [BlackBox](https://blackbox.cash) - collection of tools allowing you send & receive SCRT anonymously
+- [Hinkal](https://hinkal.pro) - an easy-to-integrate privacy SDK that helps users anonymize transactions. 
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -223,6 +224,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [DappNode](https://dappnode.io/) - Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
 - [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server))
 - [Foundation](https://foundationdevices.com) - The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app ([GitHub](https://github.com/Foundation-Devices))
+- [Privacy Infrastructure Solutions](https://www.chain-reaction.io) - Cloud and data center acceleration solution for Privacy Enhancing Technologies.
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
@@ -264,6 +266,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Next.ID](https://next.id) - An open-sourced protocol that synergises your Web2 and Web3 profiles. ([GitHub](https://github.com/nextdotid))
 - [Slashags](https://slashtags.to) - Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data. ([GitHub](https://github.com/synonymdev/slashtags))
 - [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
+- [Quadrata](https://quadrata.com) - Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -369,6 +372,7 @@ Surveillance free. Censorship proof.
 - [WireMin](https://wiremin.org/#/) - a decentralised social network
 - [Bermuda](https://www.bmda.io) - next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens.
 - [Privacy Pools](https://www.privacypools.com) - allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. ([GitHub](https://github.com/ameensol/privacy-pools))
+- [Sociogram](https://sociogram.org) - Web3Social Media focused on privacy
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -431,6 +435,9 @@ Surveillance free. Censorship proof.
 - [Handshake](https://hnsdns.com) - a Handshake DNS resolver and nameserver provider that aims to create an easy Handshake experience for everyone. No apps to install. No logs. No censorship. Just privacy. ([GitHub](https://github.com/HNSDNS))
 - [blyss](https://blyss.dev) - Access data privately using homomorphic encryption. Privately scan for breached credentials, block malicious URLs, access blockchain data, and more. ([GitHub](https://github.com/blyssprivacy/sdk))
 - [Self](https://www.joinself.com) - Web3 fraud prevention for everyone ([GitHub](https://github.com/joinself))
+- [DoxyChain](https://www.doxychain.com) - Certificates and eSignatures on the blockchain
+- [Web3Shield](https://www.web3shield.com) - a platform providing insurance, security and privacy focused products for all things Web3.
+- [Black Box](https://bbtt.io) - a sophisticated cryptocurrency transfer anonymiser. 
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
