@@ -76,6 +76,7 @@ Feel free to update the list!
 - [BlackBox](https://blackbox.cash) - collection of tools allowing you send & receive SCRT anonymously
 - [Hinkal](https://hinkal.pro) - an easy-to-integrate privacy SDK that helps users anonymize transactions. 
 - [Conceal Network](https://conceal.network) - privacy-protected DeFi & encrypted comms ([GitHub](https://github.com/ConcealNetwork))
+- [CIA protocol](https://ciaprotocol.com) - Building the truest form of DeFi with privacy by default.
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -103,6 +104,9 @@ Feel free to update the list!
 - [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK ([GitHub](https://github.com/BlackHatCoin)) 
 - [Basic Attention Token](https://basicattentiontoken.org) - Making Crypto and DeFi accessible and useable for everyone (powered by Brave)
 - [Discreet](https://discreet.net) - Discreet is a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed ([GitHub](https://github.com/DiscreetNetwork))
+- [Evolution](https://evolution-network.org) - A new level of your freedom. Anonymously. Secure. ([GitHub](https://github.com/evolution-project))
+- [x-cash](https://xcash.foundation) - Web3’s Private Public Computing Platform ([GitHub](https://github.com/X-CASH-official))
+- [Litecash](https://lite-cash.com) - Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded. ([GitHub](https://github.com/Litecash-Dev))
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -197,6 +201,8 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Nighthawk Wallet](https://nighthawkwallet.com) - Private Money in your pocket. ([GutHub](https://github.com/nighthawk-apps)) 
 - [Vault+](https://chrome.google.com/webstore/detail/serv-vault%20-blockchain-wa/dmkngeofbdepdibikhpnkjkmjfdoodpf) - the gateway to trusted transactions. Manage, and share your digital identity and Web3 assets in a single secure app.
 - [ZenGo](https://zengo.com) - The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) ([GitHub](https://github.com/ZenGo-X))
+- [MyMonero](https://mymonero.com) - The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features ([GitHub](https://github.com/mymonero))
+- [Cake Wallet](https://monero.com/wallets) -  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) ([GitHub](https://github.com/cake-tech/cake_wallet))
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -446,6 +452,7 @@ Surveillance free. Censorship proof.
 - [Void cash](https://void.cash) - Decentralized payment protocol. ([Docs](https://void-cash.gitbook.io/void.cash/))
 - [Foundation Cash](https://foundationtoken.io) - a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer.
 - [Ergo](https://ergoplatform.org/en/) - a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. ([GitHub](https://github.com/ergoplatform))
+- [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) - Personalized Social Network with Privacy-Preserving Module
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
