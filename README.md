@@ -107,7 +107,7 @@ Feel free to update the list!
 - [Evolution](https://evolution-network.org) - A new level of your freedom. Anonymously. Secure. ([GitHub](https://github.com/evolution-project))
 - [x-cash](https://xcash.foundation) - Web3’s Private Public Computing Platform ([GitHub](https://github.com/X-CASH-official))
 - [Litecash](https://lite-cash.com) - Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded. ([GitHub](https://github.com/Litecash-Dev))
-- [Zero](https://zero.directory) - private transactions.
+- [Zero](https://zero.directory) - private transactions ([GitHub](https://github.com/zerocurrencycoin))
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -215,6 +215,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
 - [Alaya](https://alaya.network/en) - Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON ([GitHub](https://github.com/AlayaNetwork))
 - [Nillion](https://www.nillion.com) - The Secure Processing Layer of Web3 
+- [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) - Decentralized, Private Computing
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
