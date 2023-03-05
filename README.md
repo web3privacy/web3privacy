@@ -107,6 +107,7 @@ Feel free to update the list!
 - [Evolution](https://evolution-network.org) - A new level of your freedom. Anonymously. Secure. ([GitHub](https://github.com/evolution-project))
 - [x-cash](https://xcash.foundation) - Web3’s Private Public Computing Platform ([GitHub](https://github.com/X-CASH-official))
 - [Litecash](https://lite-cash.com) - Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded. ([GitHub](https://github.com/Litecash-Dev))
+- [Zero](https://zero.directory) - private transactions.
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -313,6 +314,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Speakeasy](https://alpha.speakeasy.tech) - Speak easily to a group of friends or a global community. Talk about what you want.
 Surveillance free. Censorship proof.
 - [Speak app](https://speakapp.me) - No phone number. No email address. Speakapp is a simple, and secure web3 messenger.
+- [Pigeon Communicator](https://pigeoncoin.org) - Blockchain based, trustless, censorship resistant decentralized messaging.
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
