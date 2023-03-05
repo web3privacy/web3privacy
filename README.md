@@ -457,6 +457,7 @@ Surveillance free. Censorship proof.
 - [Foundation Cash](https://foundationtoken.io) - a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer.
 - [Ergo](https://ergoplatform.org/en/) - a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. ([GitHub](https://github.com/ergoplatform))
 - [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) - Personalized Social Network with Privacy-Preserving Module
+- [Daml](https://www.digitalasset.com/developers) - Daml is the only smart-contract language and blockchain that allows sub-transaction privacy. ([GitHub](https://github.com/digital-asset/daml))
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -510,6 +511,8 @@ the source and destination of funds.
 ##Data management
 - [Spoc](https://spoc.com/) - A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data.
 - [Cirus foundation](https://cirusfoundation.com/your-data/) - With your permission, Cirus makes earning from your data easy!
+- [NATIX Network](https://www.natix.network) - patent-pending technology is the easiest way to make any camera smart and 100% privacy compliant.
+- [Oasiis insights](https://www.oasiisinsights.com) - Personalized web3 journeys are finally here.
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
