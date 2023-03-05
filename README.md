@@ -75,6 +75,7 @@ Feel free to update the list!
 - [StealthPay](https://www.stealthpay.cash) - a stealth address protocol for Ethereum. ([GitHub](https://github.com/cryptoadong)) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> 
 - [BlackBox](https://blackbox.cash) - collection of tools allowing you send & receive SCRT anonymously
 - [Hinkal](https://hinkal.pro) - an easy-to-integrate privacy SDK that helps users anonymize transactions. 
+- [Conceal Network](https://conceal.network) - privacy-protected DeFi & encrypted comms ([GitHub](https://github.com/ConcealNetwork))
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -442,11 +443,15 @@ Surveillance free. Censorship proof.
 - [Web3Shield](https://www.web3shield.com) - a platform providing insurance, security and privacy focused products for all things Web3.
 - [Black Box](https://bbtt.io) - a sophisticated cryptocurrency transfer anonymiser. 
 - [GostPay](https://gostpay.net) - A transaction layer that obfuscates the transaction data so it can be veiled on-chain, thereby applying privacy to the transaction.
+- [Void cash](https://void.cash) - Decentralized payment protocol. ([Docs](https://void-cash.gitbook.io/void.cash/))
+- [Foundation Cash](https://foundationtoken.io) - a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer.
+- [Ergo](https://ergoplatform.org/en/) - a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. ([GitHub](https://github.com/ergoplatform))
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
 - [Leading Privacy Alliance](https://www.leadingprivacy.com) - The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design).
 - [Universal Privacy Alliance](https://privacyalliance.com) - The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies.
+- [BPSAA](https://bpsaa.vision) - The Blockchain Privacy, Security & Adoption Alliance educates the public on privacy, security and decentralization.
 
 ## R&D
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true)
@@ -488,6 +493,8 @@ Surveillance free. Censorship proof.
 - [CoinShuffle++](https://github.com/decred/cspp) - CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions.
 - [HideYour.cash](https://hideyour.cash) -  is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol
 - [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) - Zk Privacy Solution on Mina Protocol
+- [Spillways](https://spillways.finance) - Mixer enables fast, secure, and private transactions in crypto by obscuring
+the source and destination of funds.
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
