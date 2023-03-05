@@ -166,6 +166,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [LayerX](https://layerx.co.jp) - A privacy-preserving blockchain on Substrate ([GitHub](https://github.com/LayerXcom))
 - [The Farcaster Project](https://farcaster.dev/) - Farcaster is a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. ([GitHub](https://github.com/farcaster-project))
 - [Sunscreen](https://blog.sunscreen.tech/roadmap/) - makes advanced privacy technology easy for engineers to use. ([GitHub](https://github.com/Sunscreen-tech?ref=sunscreen))
+- [Seneca](https://www.seneca.tech) - the first layer 1 designed to build apps on rich, complex yet private data
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -192,6 +193,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Zkopru](https://zkopru.network) - Affordable Ethereum Privacy Wallet ✨️**ZK**  ([GutHub](https://github.com/zkopru-network)) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
 - [Leo wallet](https://leo.app) - Safe and easy way to interact with the Aleo blockchain ([GutHub](https://docs.leo.app/aleo-wallet-adapter/))
 - [Nighthawk Wallet](https://nighthawkwallet.com) - Private Money in your pocket. ([GutHub](https://github.com/nighthawk-apps)) 
+- [Vault+](https://chrome.google.com/webstore/detail/serv-vault%20-blockchain-wa/dmkngeofbdepdibikhpnkjkmjfdoodpf) - the gateway to trusted transactions. Manage, and share your digital identity and Web3 assets in a single secure app.
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -202,6 +204,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
 - [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
 - [Alaya](https://alaya.network/en) - Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON ([GitHub](https://github.com/AlayaNetwork))
+- [Nillion](https://www.nillion.com) - The Secure Processing Layer of Web3 
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
@@ -424,6 +427,10 @@ Surveillance free. Censorship proof.
 - [Moby](https://get.moby.app) - Pay privately. You hold the keys so we can't see your balance, let alone touch it.
 - [AesirX SSO](https://sso.aesirx.io) - a 1st-party based Web2 + Web3 single sign on service for any JavaScript-based website or app. ([GitHub](https://github.com/aesirxio/sso-template))
 - [Better call Raul](https://bettercallraul.it) - Advanced Security Measures to automatically and securely transfer your initial liquidity with no traceability.
+- [ZKTsunami](https://www.zktsunami.io) - ZK-AnonSNARK powered transactional anonymity at your fingertips
+- [Handshake](https://hnsdns.com) - a Handshake DNS resolver and nameserver provider that aims to create an easy Handshake experience for everyone. No apps to install. No logs. No censorship. Just privacy. ([GitHub](https://github.com/HNSDNS))
+- [blyss](https://blyss.dev) - Access data privately using homomorphic encryption. Privately scan for breached credentials, block malicious URLs, access blockchain data, and more. ([GitHub](https://github.com/blyssprivacy/sdk))
+- [Self](https://www.joinself.com) - Web3 fraud prevention for everyone ([GitHub](https://github.com/joinself))
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
