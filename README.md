@@ -195,6 +195,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Leo wallet](https://leo.app) - Safe and easy way to interact with the Aleo blockchain ([GutHub](https://docs.leo.app/aleo-wallet-adapter/))
 - [Nighthawk Wallet](https://nighthawkwallet.com) - Private Money in your pocket. ([GutHub](https://github.com/nighthawk-apps)) 
 - [Vault+](https://chrome.google.com/webstore/detail/serv-vault%20-blockchain-wa/dmkngeofbdepdibikhpnkjkmjfdoodpf) - the gateway to trusted transactions. Manage, and share your digital identity and Web3 assets in a single secure app.
+- [ZenGo](https://zengo.com) - The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) ([GitHub](https://github.com/ZenGo-X))
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -225,6 +226,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Avado](https://www.mysterium.network/avado) - A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server))
 - [Foundation](https://foundationdevices.com) - The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app ([GitHub](https://github.com/Foundation-Devices))
 - [Privacy Infrastructure Solutions](https://www.chain-reaction.io) - Cloud and data center acceleration solution for Privacy Enhancing Technologies.
+- [AXIAtel](https://axiatel.co) - a privacy first mobile service for everyone
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
@@ -303,6 +305,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Onionclub](https://onionclub.io) - is blockchain based, business & social platform.
 - [Speakeasy](https://alpha.speakeasy.tech) - Speak easily to a group of friends or a global community. Talk about what you want.
 Surveillance free. Censorship proof.
+- [Speak app](https://speakapp.me) - No phone number. No email address. Speakapp is a simple, and secure web3 messenger.
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -438,6 +441,7 @@ Surveillance free. Censorship proof.
 - [DoxyChain](https://www.doxychain.com) - Certificates and eSignatures on the blockchain
 - [Web3Shield](https://www.web3shield.com) - a platform providing insurance, security and privacy focused products for all things Web3.
 - [Black Box](https://bbtt.io) - a sophisticated cryptocurrency transfer anonymiser. 
+- [GostPay](https://gostpay.net) - A transaction layer that obfuscates the transaction data so it can be veiled on-chain, thereby applying privacy to the transaction.
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
