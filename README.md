@@ -278,6 +278,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 - [Slashags](https://slashtags.to) - Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data. ([GitHub](https://github.com/synonymdev/slashtags))
 - [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
 - [Quadrata](https://quadrata.com) - Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain
+- [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -505,6 +506,10 @@ Surveillance free. Censorship proof.
 - [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) - Zk Privacy Solution on Mina Protocol
 - [Spillways](https://spillways.finance) - Mixer enables fast, secure, and private transactions in crypto by obscuring
 the source and destination of funds.
+
+##Data management
+- [Spoc](https://spoc.com/) - A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data.
+- [Cirus foundation](https://cirusfoundation.com/your-data/) - With your permission, Cirus makes earning from your data easy!
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
