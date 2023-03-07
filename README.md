@@ -109,6 +109,7 @@ Feel free to update the list!
 - [x-cash](https://xcash.foundation) - Web3’s Private Public Computing Platform ([GitHub](https://github.com/X-CASH-official))
 - [Litecash](https://lite-cash.com) - Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded. ([GitHub](https://github.com/Litecash-Dev))
 - [Zero](https://zero.directory) - private transactions ([GitHub](https://github.com/zerocurrencycoin))
+- [Hush](https://hush.is) - private cryptocurrency using zero knowledge mathematics ([Gitea](https://git.hush.is/hush))
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -318,6 +319,7 @@ Here, you can decide how your data is used, shared, and valued. ([GitHub](https:
 Surveillance free. Censorship proof.
 - [Speak app](https://speakapp.me) - No phone number. No email address. Speakapp is a simple, and secure web3 messenger.
 - [Pigeon Communicator](https://pigeoncoin.org) - Blockchain based, trustless, censorship resistant decentralized messaging.
+- [HushChat](https://git.hush.is/hush/hushchat) - private messenger using zero knowledge mathematics.
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
