@@ -1,6 +1,10 @@
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.46.03.png?raw=true)
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-02-10%20at%2015.43.36.png?raw=true)
 
+**8 march, spaceship Earth**
+- Created a table with 50+ privacy-services recommendations for non-techies assesment [Link](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
+- Created a concept that assumes that not every techie could "read&understand" the tech side like code equally (junior dev vs CTO) [Link](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing). At the moment categories are: docs, code, transaction tracibility. Potential categories: cross-chain assesment, cross-services assesment (Layer-1 vs Mixers).
+
 **16, feb, spaceship Earth**
 Had a call with Ethereum Foundation. They would love to understand if non-biased/objective scoring model is possible & at which stage.
 This is a challenging issue because if players didn't make one within years of privacy services existence & their general competitive attitude - this could take ages to accomplish. 
