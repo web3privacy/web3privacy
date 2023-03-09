@@ -83,35 +83,38 @@ Feel free to update the list!
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
-- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
-- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure ([GitHub](https://github.com/monero-ecosystem)) 
-- [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3 ([GitHub](https://github.com/iron-fish)) 
-- [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast ([GitHub](https://github.com/mobilecoinofficial))  
-- [GRin](https://grin.mw) - Electronic transactions for all. Without censorship or restrictions ([GitHub](https://github.com/mimblewimble/grin))
-- [Epic Cash](https://epic.tech) - Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.
-- [Pirate Chain](https://pirate.black) - The most anonymous cryptocurrency, a truly private, decentralized blockchain.([GitHub](https://github.com/PirateNetwork))
-- [SILK](https://github.com/scrtlabs/Grants/issues/22) - Private Algorithmic Stable Coin
-- [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
-- [Decred](https://decred.org) - A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development ([Docs](https://docs.decred.org)) 
-- [Firo](https://firo.org) - A privacy preserving cryptocurrency and ecosystem ([GitHub](https://github.com/firoorg/firo)) 
-- [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets ([GitHub](https://github.com/PIVX-Project/PIVX/)) 
-- [Beam](https://beam.mw) - Best in class privacy coin and confidential DeFi platform ([GitHub](https://github.com/BeamMW/beam)) 
-- [Oxen](https://oxen.io) - Oxen is a cryptocurrency powering a new class of interconnected privacy apps ([GitHub](https://github.com/oxen-io)) 
-- [PART](https://particl.io/coin) - A modern digital currency that respects your rights ([GitHub](https://github.com/particl)) 
-- [Zano](https://zano.org) - Zano is the development of a scalable and secure coin, with confidential assets support ([GitHub](https://github.com/hyle-team/zano))
-- [Navcoin](https://navcoin.org) - An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features ([GitHub](https://github.com/navcoin))
-- [ColossusXT](https://www.colossusxt.io) - A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation ([GitHub](https://github.com/ColossusCoinXT))
-- [DeepOnion](https://deeponion.org) - DeepOnion is an anonymous cryptocurrency that is integrated with the Tor network ([GitHub](https://github.com/deeponion/deeponion/))
-- [Beldex](https://www.beldex.io) - Beldex is a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW ([GitHub](https://github.com/Beldex-Coin))
-- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin))  
-- [BlackHat Coin](https://blackhatco.in) - Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK ([GitHub](https://github.com/BlackHatCoin)) 
-- [Basic Attention Token](https://basicattentiontoken.org) - Making Crypto and DeFi accessible and useable for everyone (powered by Brave)
-- [Discreet](https://discreet.net) - Discreet is a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed ([GitHub](https://github.com/DiscreetNetwork))
-- [Evolution](https://evolution-network.org) - A new level of your freedom. Anonymously. Secure. ([GitHub](https://github.com/evolution-project))
-- [x-cash](https://xcash.foundation) - Web3’s Private Public Computing Platform ([GitHub](https://github.com/X-CASH-official))
-- [Litecash](https://lite-cash.com) - Litecash is the first fork of Beam. We removed the founder's reward and are 100% community funded. ([GitHub](https://github.com/Litecash-Dev))
-- [Zero](https://zero.directory) - private transactions ([GitHub](https://github.com/zerocurrencycoin))
-- [Hush](https://hush.is) - private cryptocurrency using zero knowledge mathematics ([Gitea](https://git.hush.is/hush))
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | [GitHub](https://github.com/securesecrets/shade) | - | - | TBD |
+| [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | - | - | TBD |
+| [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | - | - | TBD |
+| [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | - | - | TBD |
+| [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | - | - | TBD |
+| [Epic Cash](https://epic.tech)  | Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.  | - | - | - | TBD |
+| [Pirate Chain](https://pirate.black)  | The most anonymous cryptocurrency, a truly private, decentralized blockchain.  | [GitHub](https://github.com/PirateNetwork) | - | - | TBD |
+| [SILK](https://github.com/scrtlabs/Grants/issues/22)  | Private Algorithmic Stable Coin  | -| - | Secret Network | TBD |
+| [BOB Protocol](https://zkbob.com/) | a multi-chain, multi-collateral stable token enhanced with optional privacy features  | [GitHub](https://github.com/zkBob) | - | - | TBD |
+| [Decred](https://decred.org) | A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development | [Docs](https://docs.decred.org) | - | - | TBD |
+| [Firo](https://firo.org) | A privacy preserving cryptocurrency and ecosystem | [GitHub](https://github.com/firoorg/firo) | - | - | TBD |
+| [PivX](https://pivx.org) | Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets | [GitHub](https://github.com/PIVX-Project/PIVX/) | - | - | TBD |
+| [Beam](https://beam.mw) | Best in class privacy coin and confidential DeFi platform | [GitHub](https://github.com/BeamMW/beam) | - | - | TBD |
+| [Oxen](https://oxen.io) | a cryptocurrency powering a new class of interconnected privacy apps | [GitHub](https://github.com/oxen-io) | - | - | TBD |
+| [PART](https://particl.io/coin) | A modern digital currency that respects your rights | [GitHub](https://github.com/particl) | - | - | TBD |
+| [Zano](https://zano.org) | a scalable and secure coin, with confidential assets support | [GitHub](https://github.com/hyle-team/zano) | - | - | TBD |
+| [Navcoin](https://navcoin.org) | An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features | [GitHub](https://github.com/navcoin) | - | - | TBD |
+| [ColossusXT](https://www.colossusxt.io) | A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation | [GitHub](https://github.com/ColossusCoinXT) | - | - | TBD |
+| [DeepOnion](https://deeponion.org) | an anonymous cryptocurrency that is integrated with the Tor network | [GitHub](https://github.com/deeponion/deeponion/) | - | - | TBD |
+| [Beldex](https://www.beldex.io) | a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW | [GitHub](https://github.com/Beldex-Coin) | - | - | TBD |
+| [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) | Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online  | [GitHub](https://github.com/ghost-coin) | - | - | TBD |
+| [BlackHat Coin](https://blackhatco.in) | Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK | [GitHub](https://github.com/BlackHatCoin) | - | - | TBD |
+| [Basic Attention Token](https://basicattentiontoken.org) |  Making Crypto and DeFi accessible and useable for everyone (powered by Brave) | - | - | Brave | TBD |
+| [Discreet](https://discreet.net) |  a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed | [GitHub](https://github.com/DiscreetNetwork) | - | - | TBD |
+| [Evolution](https://evolution-network.org) |  A new level of your freedom. Anonymously. Secure. | [GitHub](https://github.com/evolution-project) | - | - | TBD |
+| [x-cash](https://xcash.foundation) |  Web3’s Private Public Computing Platform | [GitHub](https://github.com/X-CASH-official) | - | - | TBD |
+| [Litecash](https://lite-cash.com) |  the first fork of Beam. We removed the founder's reward and are 100% community funded. | [GitHub](https://github.com/Litecash-Dev) | - | - | TBD |
+| [Zero](https://zero.directory) | private transactions | [GitHub](https://github.com/zerocurrencycoin) | - | - | TBD |
+| [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | - | - | TBD |
+
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
