@@ -64,13 +64,15 @@
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
-- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
-- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure ([GitHub](https://github.com/monero-ecosystem)) 
+- [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
+- [DragonX](https://dragonx.is) - DragonX is the first Hush Smart Chain using the RandomX mining algo for CPU mining and offers private by default z-z transactions ✨️**ZK** ([Gitea](https://git.hush.is/dragonx/dragonx)) 
+- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin)) 
+- [Hush](https://hush.is) - Hush is private by default currency with enforced z-z transactions ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush3)) 
 - [Iron Fish](https://ironfish.network) - The Privacy Platform for Web3 ([GitHub](https://github.com/iron-fish)) 
 - [MobileCoin](https://mobilecoin.com) - MobileCoin makes global payments inexpensive, secure and fast ([GitHub](https://github.com/mobilecoinofficial))  
+- [Monero](https://www.getmonero.org) - Private, decentralized cryptocurrency that keeps your finances confidential and secure ([GitHub](https://github.com/monero-ecosystem)) 
 - [PivX](https://pivx.org) - Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets ([GitHub](https://github.com/PIVX-Project/PIVX/)) 
-- [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) - Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online ([GitHub](https://github.com/ghost-coin))  
-- [BOB Protocol](https://zkbob.com/) - BOB is a multi-chain, multi-collateral stable token enhanced with optional privacy features ([GitHub](https://github.com/zkBob))
+- [Zcash](https://z.cash) - Zcash is a digital currency - fast and confidential with low fees ([GitLab](https://gitlab.com/zcash-docs)) 
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -94,9 +96,11 @@
 - [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** ([GitHub](https://github.com/AleoHQ)) 
 - [Namada](https://namada.net) - Interchain Privacy ([Specs](https://specs.namada.net))  
 - [MACI](https://privacy-scaling-explorations.github.io/maci/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-scaling-explorations/maci))
+- [Hush](https://hush.is) - Hush Smart Chains allow anyone to create their own independent, private by default blockchain ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush-smart-chains)) 
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
+
 - [Zecrey Wallet](https://chrome.google.com/webstore/detail/zecrey/ojbpcbinjmochkhelkflddfnmcceomdi) - Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet ([GitHub](https://github.com/Zecrey-Labs))
 - [Zkopru](https://zkopru.network) - Affordable Ethereum Privacy Wallet ✨️**ZK**  ([GutHub](https://github.com/zkopru-network))
 
@@ -138,10 +142,11 @@
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
-- [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
+- [HushChat](https://hush.is) - A private by default messenger that uses shielded z-addresses instead of phone numbers for secure and anonymous communications ✨️**ZK** ([Gitea](https://git.hush.is/hush/hushchat))
+- [RLN Anonymous Chat](https://github.com/njofce/zk-chat) - A spam resistant instant messaging application for private and anonymous communication.
 - [Status](https://status.im) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology ([GitHub](https://github.com/status-im/)) 
 - [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) - Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app))
-- [RLN Anonymous Chat](https://github.com/njofce/zk-chat) - A spam resistant instant messaging application for private and anonymous communication.
+- [Waku](https://waku.org) - Waku is the communication layer for Web3. Decentralized communication that scales ([GitHub](https://github.com/waku-org))  
 
 ## KYC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
