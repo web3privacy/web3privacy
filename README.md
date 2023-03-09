@@ -47,39 +47,39 @@ Feel free to update the list!
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Ecosystem |
-| ------------- | ------------- |------------- |------------- |------------- |
-| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 | Secret Network |
-| [Silent protocol](https://www.silentprotocol.org)  | Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.  | - | TBD | - |
-| [XATA](https://www.xata.fi) | A MEV Minimization solution to survive the Dark Forest  | ([Docs](https://docs.xata.fi)) | TBD | - |
-| [Sienna Network](https://sienna.network) | Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent  | ([GitHub](https://github.com/SiennaNetwork)) | Q2 2023 | - |
-| [Elusiv](https://elusiv.io) | Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana ✨️**ZK** | ([GitHub](https://github.com/elusiv-privacy)) | live, march 2023 | - |
-| [Offshift](https://www.offshift.io) | Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics | ([GitLab](https://open.offshift.io/offshiftXFT)) | live, march 2023 | - |
-| [CAPE](https://www.espressosys.com/product) | Configurable Asset Privacy for Ethereum | ([GitHub](https://github.com/EspressoSystems/cape)) | test-net | Ethereum |
-| [Evanesco](https://evanesco.org) | A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. | ([GitHub](https://github.com/Evanesco-Labs)) | live, december 2021 | - | 
-| [Dusk Network](https://dusk.network) | Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes. | ([GitHub](https://github.com/dusk-network)) | test-net | - | 
-| [Manta Pay](https://app.manta.network/dolphin/transact) | MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**  | ([GitHub](https://github.com/Manta-Network)) | test-net v3 | Polkadot | 
-| [Webb](https://app.webb.tools/#/tornado) | an interoperable private bridge ✨️**ZK** | ([GitHub](https://github.com/webb-tools)) | beta | - | 
-| [Panther Protocol](https://www.pantherprotocol.io) | is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** | ([GitHub](https://github.com/pantherprotocol))  | test-net launch Q2 2023, mainnet launch Q3 2023 | - | 
-| [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | ([Docs](https://docs.aztec.network/zk-money/userguide)) | live, july 2022 |  Ethereum |
-| [RAILGUN](https://railgun.org) | Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.✨️**ZK** | ([Docs](https://docs.railgun.org)) | live, february 2023 | - | 
-| [Umbra](https://app.umbra.cash) |  As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | TBD | Ethereum | 
-| [Light Shield](https://shield.lightprotocol.com) |  private transactions for Solana. | ([Docs](https://docs.lightprotocol.com)) | mainnet-beta | Solana | 
-| [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | Decentralized Anonymous Payment Systems ✨️**ZK** | - | TBD | - | 
-| [ZKValidator](https://zkvalidator.com) | Earn staking rewards, and join us on our mission to accelerate bringing Privacy to web3 and blockchain. | - | live | - | 
-| [Diva](https://www.diva.exchange/en/) | Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE | ([GitHub](https://github.com/diva-exchange)) | TBD | - | 
-| [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | TBD | - | 
-| [BasicSwap](https://basicswapdex.com) | Private Cross-Chain DEX | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | beta, December 2022 | - | 
-| [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | coming in 2023 | Polkadot | 
-| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK* | ([GitHub](https://github.com/Sacred-Finance)) | TBD | - | 
-| [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | coming in 2023 | - | 
-| [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | ([GitHub](https://github.com/DeFinerOrg)) | beta | - | 
-| [Hurricane Protocol](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | ([GitHub](https://github.com/Hurricane-Protocol)) | TBD | Terra, NEAR | 
-| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| ([GitHub](https://github.com/cryptoadong))<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />  | TBD | Ethereum | 
-| [BlackBox](https://blackbox.cash) | collection of tools allowing you send & receive SCRT anonymously | - | TBD | Secret Network | 
-| [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | TBD | - | 
-| [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | ([GitHub](https://github.com/ConcealNetwork)) | TBD | - | 
-| [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | - | 
+| Project  | Description | GitHub | Product-readiness |
+| ------------- | ------------- |------------- |------------- |
+| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 |
+| [Silent protocol](https://www.silentprotocol.org)  | Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.  | - | TBD |
+| [XATA](https://www.xata.fi) | A MEV Minimization solution to survive the Dark Forest  | ([Docs](https://docs.xata.fi)) | TBD |
+| [Sienna Network](https://sienna.network) | Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent  | ([GitHub](https://github.com/SiennaNetwork)) | Q2 2023 |
+| [Elusiv](https://elusiv.io) | Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana ✨️**ZK** | ([GitHub](https://github.com/elusiv-privacy)) | live, march 2023 |
+| [Offshift](https://www.offshift.io) | Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics | ([GitLab](https://open.offshift.io/offshiftXFT)) | live, march 2023 |
+| [CAPE](https://www.espressosys.com/product) | Configurable Asset Privacy for Ethereum | ([GitHub](https://github.com/EspressoSystems/cape)) | testnet |
+| [Evanesco](https://evanesco.org) | A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. | ([GitHub](https://github.com/Evanesco-Labs)) | live, december 2021 | 
+| [Dusk Network](https://dusk.network) | Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes. | ([GitHub](https://github.com/dusk-network)) | testnet | 
+| [Manta Pay](https://app.manta.network/dolphin/transact) | MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**  | ([GitHub](https://github.com/Manta-Network)) | testnet v3 | 
+| [Webb](https://app.webb.tools/#/tornado) | an interoperable private bridge ✨️**ZK** | ([GitHub](https://github.com/webb-tools)) | beta | 
+| [Panther Protocol](https://www.pantherprotocol.io) | is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** | ([GitHub](https://github.com/pantherprotocol))  | testnet launch Q2 2023, mainnet launch Q3 2023 | 
+| [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | ([Docs](https://docs.aztec.network/zk-money/userguide)) | live, july 2022 | 
+| [RAILGUN](https://railgun.org) | Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.✨️**ZK** | ([Docs](https://docs.railgun.org)) | live, february 2023 | 
+| [Umbra](https://app.umbra.cash) |  As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | mainnet, june 2021 | 
+| [Light Shield](https://shield.lightprotocol.com) |  private transactions for Solana. | ([Docs](https://docs.lightprotocol.com)) | mainnet-beta | 
+| [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | Decentralized Anonymous Payment Systems ✨️**ZK** | - | TBD | 
+| [ZKValidator](https://zkvalidator.com) | Earn staking rewards, and join us on our mission to accelerate bringing Privacy to web3 and blockchain. | - | live | 
+| [Diva](https://www.diva.exchange/en/) | Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE | ([GitHub](https://github.com/diva-exchange)) | TBD | 
+| [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | TBD | 
+| [BasicSwap](https://basicswapdex.com) | Private Cross-Chain DEX | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | beta, December 2022 | 
+| [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | coming in 2023 | 
+| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK* | ([GitHub](https://github.com/Sacred-Finance)) | TBD | 
+| [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | coming in 2023 | 
+| [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | ([GitHub](https://github.com/DeFinerOrg)) | beta | 
+| [Hurricane Protocol](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | ([GitHub](https://github.com/Hurricane-Protocol)) | TBD | 
+| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| ([GitHub](https://github.com/cryptoadong))<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />  | TBD | 
+| [BlackBox](https://blackbox.cash) | collection of tools allowing you send & receive SCRT anonymously | - | TBD | 
+| [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | TBD | 
+| [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | ([GitHub](https://github.com/ConcealNetwork)) | TBD | 
+| [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | 
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -117,26 +117,26 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
 | Project  | Description | GitHub | Product-readiness |
 | ------------- | ------------- |------------- |------------- |
-| [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | TBD | 
-| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | TBD | 
-| [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | TBD | 
-| [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | TBD | 
-| [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | TBD | 
-| [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | TBD | 
-| [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | TBD | 
-| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/ | TBD | 
-| [Anoma](https://anoma.net) | An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement | [GitHub](https://github.com/anoma) | TBD | 
-| [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | TBD | 
-| [Findora](https://findora.org) | A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities | [GitHub](https://github.com/findoranetwork) | TBD | 
-| [Suterusu](https://suterusu.io) | A suite of privacy-preserving services to obfuscate transactional and asset information | [GitHub](https://github.com/suterusu-team) | TBD | 
-| [HOPR](https://hoprnet.org/protocol) | a fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange | [GitHub](https://github.com/hoprnet) | TBD | 
-| [Concordium](https://concordium.com) | A compliance ready blockchain backed by science that enables private and public transactions | [GitHub](https://github.com/Concordium) | TBD | 
-| [Horizen](https://www.horizen.io) | The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** | [GitHub](https://github.com/horizenofficial) | TBD | 
-| [Parami](https://parami.io) | para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service. | - | TBD | 
-| [Mystiko.Network](https://mystiko.network) | The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** | [GitHub](https://github.com/mystikonetwork) | TBD | 
-| [Nulink](https://www.nulink.org) | Privacy-preserving technology for decentralized applications | [GitHub](https://github.com/NuLink-network) | TBD | 
+| [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | testnet, february 2023 | 
+| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | 
+| [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | 
+| [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | mainnet | 
+| [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | 
+| [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | mainnet coming in early 2023 | 
+| [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | testnet | 
+| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/ | mainnet, january 2023 | 
+| [Anoma](https://anoma.net) | An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement | [GitHub](https://github.com/anoma) | testnet | 
+| [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | testnet, June 2022 | 
+| [Findora](https://findora.org) | A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities | [GitHub](https://github.com/findoranetwork) | mainnet, March 2021 | 
+| [Suterusu](https://suterusu.io) | A suite of privacy-preserving services to obfuscate transactional and asset information | [GitHub](https://github.com/suterusu-team) | testnet, January 2021 | 
+| [HOPR](https://hoprnet.org/protocol) | a fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange | [GitHub](https://github.com/hoprnet) | testnet, 2021 | 
+| [Concordium](https://concordium.com) | A compliance ready blockchain backed by science that enables private and public transactions | [GitHub](https://github.com/Concordium) | mainnet, june 2021 | 
+| [Horizen](https://www.horizen.io) | The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** | [GitHub](https://github.com/horizenofficial) | testnet | 
+| [Parami](https://parami.io) | para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service. | - | testnet | 
+| [Mystiko.Network](https://mystiko.network) | The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** | [GitHub](https://github.com/mystikonetwork) | testnet | 
+| [Nulink](https://www.nulink.org) | Privacy-preserving technology for decentralized applications | [GitHub](https://github.com/NuLink-network) | testnet, October 2022 | 
 | [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | TBD | 
-| [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | TBD |
+| [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD |
 | [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | TBD |
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | TBD |
