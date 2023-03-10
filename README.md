@@ -141,7 +141,7 @@ Feel free to update the list!
 | [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | TBD | 
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD |
-| [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet comin in Q1 2023 |
+| [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet coming in Q1 2023 |
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | TBD |
 | [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | mainnet |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | TBD |
