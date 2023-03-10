@@ -85,13 +85,13 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | [GitHub](https://github.com/securesecrets/shade) | - | - | TBD |
-| [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | - | - | TBD |
-| [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | - | - | TBD |
-| [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | - | - | TBD |
-| [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | - | - | TBD |
-| [Epic Cash](https://epic.tech)  | Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.  | - | - | - | TBD |
-| [Pirate Chain](https://pirate.black)  | The most anonymous cryptocurrency, a truly private, decentralized blockchain.  | [GitHub](https://github.com/PirateNetwork) | - | - | TBD |
+| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | [GitHub](https://github.com/securesecrets/shade) | mainnet, October 2016 | ZCash | ([Public](https://electriccoin.co/team/)) |
+| [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | mainnet, April 2014 | Monero | anon |
+| [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | testnet v3 | Iron Fish | ([Public](https://ironfish.network/careers/)) |
+| [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | live, December 2020 | ([mobilecoin](https://mobilecoin.com/ecosystem)) | ([Public](https://mobilecoin.com/about-us)) |
+| [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | live, January 2019 | Mimblewimble | anon |
+| [Epic Cash](https://epic.tech)  | Decentralized privacy-enhanced cryptocurrency developed by a growing volunteer community.  | - | live, August 2019 | MimbleWimble | anon |
+| [Pirate Chain](https://pirate.black)  | The most anonymous cryptocurrency, a truly private, decentralized blockchain.  | [GitHub](https://github.com/PirateNetwork) | live | Pirate | anon |
 | [SILK](https://github.com/scrtlabs/Grants/issues/22)  | Private Algorithmic Stable Coin  | -| - | Secret Network | TBD |
 | [BOB Protocol](https://zkbob.com/) | a multi-chain, multi-collateral stable token enhanced with optional privacy features  | [GitHub](https://github.com/zkBob) | - | - | TBD |
 | [Decred](https://decred.org) | A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development | [Docs](https://docs.decred.org) | - | - | TBD |
@@ -141,9 +141,9 @@ Feel free to update the list!
 | [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | TBD | 
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD |
-| [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | TBD |
+| [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet comin in Q1 2023 |
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | TBD |
-| [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | TBD |
+| [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | mainnet |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | TBD |
 | [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | TBD |
 | [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | TBD |
