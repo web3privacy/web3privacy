@@ -138,16 +138,16 @@ Feel free to update the list!
 | [Parami](https://parami.io) | para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service. | - | testnet | 
 | [Mystiko.Network](https://mystiko.network) | The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** | [GitHub](https://github.com/mystikonetwork) | testnet | 
 | [Nulink](https://www.nulink.org) | Privacy-preserving technology for decentralized applications | [GitHub](https://github.com/NuLink-network) | testnet, October 2022 | 
-| [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | TBD | 
+| [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | testnet, January 2023 | 
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD |
 | [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet coming in Q1 2023 |
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | TBD |
 | [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | mainnet |
-| [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | TBD |
-| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | TBD |
-| [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | TBD |
-| [XX network](https://xx.network) | the first and only quantum-resistant and privacy-focused blockchain ecosystem  | [GitLab](https://git.xx.network/explore) | TBD |
+| [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | live |
+| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 |
+| [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | mainnet, January 2022 |
+| [XX network](https://xx.network) | the first and only quantum-resistant and privacy-focused blockchain ecosystem  | [GitLab](https://git.xx.network/explore) | mainnet |
 | [Fedimint](https://fedimint.org) | An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy  | [GitHub](https://github.com/fedimint) | TBD |
 | [Calamari network](https://calamari.network) | Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world ✨️**ZK** | [GitHub](https://github.com/Manta-Network) | TBD |
 | [Auth3](https://auth3.network) | Authentic Privacy Computing Network into Web 3.0 | - | TBD |
