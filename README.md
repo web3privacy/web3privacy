@@ -142,7 +142,7 @@ Feel free to update the list!
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD |
 | [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet coming in Q1 2023 |
-| [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | TBD |
+| [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | mainnet, early 2022 |
 | [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | mainnet |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | live |
 | [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 |
