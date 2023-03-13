@@ -148,15 +148,15 @@ Feel free to update the list!
 | [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 |
 | [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | mainnet, January 2022 |
 | [XX network](https://xx.network) | the first and only quantum-resistant and privacy-focused blockchain ecosystem  | [GitLab](https://git.xx.network/explore) | mainnet |
-| [Fedimint](https://fedimint.org) | An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy  | [GitHub](https://github.com/fedimint) | TBD |
-| [Calamari network](https://calamari.network) | Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world ✨️**ZK** | [GitHub](https://github.com/Manta-Network) | TBD |
+| [Fedimint](https://fedimint.org) | An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy  | [GitHub](https://github.com/fedimint) | mainnet, September 2022 |
+| [Calamari network](https://calamari.network) | Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world ✨️**ZK** | [GitHub](https://github.com/Manta-Network) | testnet, mainnet coming in 2023 |
 | [Auth3](https://auth3.network) | Authentic Privacy Computing Network into Web 3.0 | - | TBD |
-| [Aleo](https://www.aleo.studio) | The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** | ([GitHub](https://github.com/AleoHQ) | TBD |
-| [Automata Network](https://docs.ata.network) | the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security | [GitHub](https://github.com/automata-network) | TBD |
+| [Aleo](https://www.aleo.studio) | The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** | ([GitHub](https://github.com/AleoHQ) | testnet, mainnet coming in July 2023 |
+| [Automata Network](https://docs.ata.network) | the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security | [GitHub](https://github.com/automata-network) | testnet |
 | [iExec](https://iex.ec) | The Web3 Marketplace | [GitHub](https://github.com/iExecBlockchainComputing) | TBD |
-| [Keep](https://keep.network/info) | The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum | [GitHub](https://github.com/keep-network/) | TBD |
-| [Dero](https://dero.io) | A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy | [Docs](https://docs.dero.io) | TBD |
-| [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | TBD |
+| [Keep](https://keep.network/info) | The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum | [GitHub](https://github.com/keep-network/) | live |
+| [Dero](https://dero.io) | A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy | [Docs](https://docs.dero.io) | mainnet, February 2023 |
+| [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | live |
 | [Utopia](https://u.is/en/) | All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  | - | TBD |
 | [Scala](https://scalaproject.io) | an open-source cryptocurrency. Distributed wealth for all devices  | [GitHub](https://github.com/scala-network/) | TBD |
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | TBD |
