@@ -159,8 +159,7 @@ Feel free to update the list!
 | [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | live |
 | [Utopia](https://u.is/en/) | All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  | - | live | Crypton, Utopia USD |
 | [Scala](https://scalaproject.io) | an open-source cryptocurrency. Distributed wealth for all devices  | [GitHub](https://github.com/scala-network/) | testnet, mainnet coming in 2023 | XLA
-| [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST
- |
+| [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Arcana](https://arcana.network) | Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform.  | [Docs](https://docs.beta.arcana.network) |  |
 | [Namada](https://namada.net) | Interchain Privacy  | [Specs](https://specs.namada.net) | testnet, January 2023 | 
 | [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> | TBD | 
