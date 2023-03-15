@@ -118,8 +118,8 @@ Feel free to update the list!
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
-| Project  | Description | GitHub | Product-readiness |
-| ------------- | ------------- |------------- |------------- |
+| Project  | Description | GitHub | Product-readiness | Token |
+| ------------- | ------------- |------------- |------------- | ----------- |
 | [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | testnet, february 2023 | 
 | [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | 
 | [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | 
@@ -157,7 +157,7 @@ Feel free to update the list!
 | [Keep](https://keep.network/info) | The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum | [GitHub](https://github.com/keep-network/) | live |
 | [Dero](https://dero.io) | A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy | [Docs](https://docs.dero.io) | mainnet, February 2023 |
 | [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | live |
-| [Utopia](https://u.is/en/) | All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  | - | TBD |
+| [Utopia](https://u.is/en/) | All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  | - | live | Crypton, Utopia USD |
 | [Scala](https://scalaproject.io) | an open-source cryptocurrency. Distributed wealth for all devices  | [GitHub](https://github.com/scala-network/) | TBD |
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | TBD |
 | [Arcana](https://arcana.network) | Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform.  | [Docs](https://docs.beta.arcana.network) | TBD |
