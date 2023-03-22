@@ -97,9 +97,9 @@ Feel free to update the list!
 | [Decred](https://decred.org) | A blockchain-based cryptocurrency with a strong focus on community input, open governance, and sustainable funding for development | [Docs](https://docs.decred.org) | - | Lighting Network | ([Public](https://github.com/orgs/decred/people)) |
 | [Firo](https://firo.org) | A privacy preserving cryptocurrency and ecosystem | [GitHub](https://github.com/firoorg/firo) | live, beta | - | ([Public](https://firo.org/about/team/)) |
 | [PivX](https://pivx.org) | Experience the freedom of global digital cash with SHIELD User Data Protection. Be your own bank with full control of your digital assets | [GitHub](https://github.com/PIVX-Project/PIVX/) | mainnet | - | ([Public](https://pivx.org/team)) |
-| [Beam](https://beam.mw) | Best in class privacy coin and confidential DeFi platform | [GitHub](https://github.com/BeamMW/beam) | - | - | TBD |
-| [Oxen](https://oxen.io) | a cryptocurrency powering a new class of interconnected privacy apps | [GitHub](https://github.com/oxen-io) | - | - | TBD |
-| [PART](https://particl.io/coin) | A modern digital currency that respects your rights | [GitHub](https://github.com/particl) | - | - | TBD |
+| [Beam](https://beam.mw) | Best in class privacy coin and confidential DeFi platform | [GitHub](https://github.com/BeamMW/beam) | mainnet, 2019 | - | ([Public](https://github.com/orgs/BeamMW/people)) |
+| [Oxen](https://oxen.io) | a cryptocurrency powering a new class of interconnected privacy apps | [GitHub](https://github.com/oxen-io) | mainnet, 2018 | - | anon |
+| [Particl](https://particl.io/coin) | A modern digital currency that respects your rights | [GitHub](https://github.com/particl) | mainnet, 2019 | - | ([Public](https://particl.io/about)) |
 | [Zano](https://zano.org) | a scalable and secure coin, with confidential assets support | [GitHub](https://github.com/hyle-team/zano) | - | - | TBD |
 | [Navcoin](https://navcoin.org) | An open-sourced digital currency offering fast and reliable payments with innovative technological and privacy features | [GitHub](https://github.com/navcoin) | - | - | TBD |
 | [ColossusXT](https://www.colossusxt.io) | A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation | [GitHub](https://github.com/ColossusCoinXT) | - | - | TBD |
