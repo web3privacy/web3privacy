@@ -171,12 +171,12 @@ Feel free to update the list!
 | [Trocador App](https://trocador.app) | a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site available. | - | TBD | no |
 | [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-is-near) | TBD | no |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
-| [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | TBD | no |
+| [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | - | no |
 | [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> | TBD | no |
 | [Threshold](https://threshold.network) | A decentralized threshold cryptography network | [GitHub](https://github.com/threshold-network) | TBD | T |
 | [Anytype](https://anytype.io/en) | the digital assets and communities you create are truly yours. | [GitHub](https://github.com/anytypeio) | TBD | no |
-| [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | TBD | no |
-| [Pollen Mobile](https://www.pollenmobile.io) | The world's first decentralized, user owned and operated mobile network. | [Docs](https://docs.pollenmobile.io/pollen-mobile-docs/) | TBD | PCN |
+| [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
+| [Pollen Mobile](https://www.pollenmobile.io) | The world's first decentralized, user owned and operated mobile network. | [Docs](https://docs.pollenmobile.io/pollen-mobile-docs/) | testnet | PCN |
 | [LayerX](https://layerx.co.jp) | A privacy-preserving blockchain on Substrate | [GitHub](https://github.com/LayerXcom) | TBD | no |
 | [The Farcaster Project](https://farcaster.dev/) | a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. | [GitHub](https://github.com/farcaster-project) | TBD | no |
 | [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
