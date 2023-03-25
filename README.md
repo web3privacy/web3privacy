@@ -108,12 +108,12 @@ Feel free to update the list!
 | [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) | Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online  | [GitHub](https://github.com/ghost-coin) | mainnet, 2020 | Ghost | anon |
 | [BlackHat Coin](https://blackhatco.in) | Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK | [GitHub](https://github.com/BlackHatCoin) | mainnet, 2021 | BlackHat | anon |
 | [Basic Attention Token](https://basicattentiontoken.org) |  Making Crypto and DeFi accessible and useable for everyone (powered by Brave) | - | mainnet | Solana | ([Public](https://basicattentiontoken.org/team/)) |
-| [Discreet](https://discreet.net) |  a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed | [GitHub](https://github.com/DiscreetNetwork) | - | - | TBD |
-| [Evolution](https://evolution-network.org) |  A new level of your freedom. Anonymously. Secure. | [GitHub](https://github.com/evolution-project) | - | - | TBD |
-| [x-cash](https://xcash.foundation) |  Web3’s Private Public Computing Platform | [GitHub](https://github.com/X-CASH-official) | - | - | TBD |
-| [Litecash](https://lite-cash.com) |  the first fork of Beam. We removed the founder's reward and are 100% community funded. | [GitHub](https://github.com/Litecash-Dev) | - | - | TBD |
-| [Zero](https://zero.directory) | private transactions | [GitHub](https://github.com/zerocurrencycoin) | - | - | TBD |
-| [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | - | - | TBD |
+| [Discreet](https://discreet.net) |  a game-changing cryptocurrency with a sharp focus on total privacy and blistering speed | [GitHub](https://github.com/DiscreetNetwork) | testnet, 2022 | Discreet Compute Network | ([Public](https://discreet.net/team)) |
+| [Evolution](https://evolution-network.org) |  A new level of your freedom. Anonymously. Secure. | [GitHub](https://github.com/evolution-project) | mainnet, 2020 | Evolution | ([anon](https://evolution-network.org))|
+| [x-cash](https://xcash.foundation) |  Web3’s Private Public Computing Platform | [GitHub](https://github.com/X-CASH-official) | mainnet, 2018 | xcash | ([Public](https://xcash.foundation/people)) |
+| [Litecash](https://lite-cash.com) |  the first fork of Beam. We removed the founder's reward and are 100% community funded. | [GitHub](https://github.com/Litecash-Dev) | wallet live | Mimblewimble | anon |
+| [Zero](https://zero.directory) | private transactions | [GitHub](https://github.com/zerocurrencycoin) | live | - | anon |
+| [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | live | - | ([Public](https://hush.is/team/)) |
 
 
 ## Infrastructure
