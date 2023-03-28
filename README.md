@@ -187,7 +187,7 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet)) | PoC | Ethereum | ([Public](https://twitter.com/BrumeWallet)) |
-| [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension)) | ([live]([https://www.sporran.org/])) | KILT | anon |
+| [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension)) | ([live](https://www.sporran.org/)) | KILT | anon |
 | [Treasure Chest](https://pirate.black/wallets/treasure-chest/) |  Treasure Chest is the main full node wallet for the ARRR cryptocurrency | ([GitHub](https://github.com/PirateNetwork/PirateWallet-Lite)) | ([live](https://pirate.black/wallets/)) | Pirate Chain | anon |
 | [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | ([GitHub](https://github.com/EdgeApp)) | - | - | - |
 | [Wasabi Wallet](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop | ([GitHub](https://github.com/zkSNACKs/WalletWasabi)) |
