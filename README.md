@@ -184,12 +184,12 @@ Feel free to update the list!
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| Project  | Description | GitHub | Product-readiness | Tokens | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet)) | PoC | Ethereum | ([Public](https://twitter.com/BrumeWallet)) |
 | [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension)) | ([live](https://www.sporran.org/)) | KILT | anon |
 | [Treasure Chest](https://pirate.black/wallets/treasure-chest/) |  Treasure Chest is the main full node wallet for the ARRR cryptocurrency | ([GitHub](https://github.com/PirateNetwork/PirateWallet-Lite)) | ([live](https://pirate.black/wallets/)) | Pirate Chain | anon |
-| [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | ([GitHub](https://github.com/EdgeApp)) | - | - | - |
+| [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | ([GitHub](https://github.com/EdgeApp)) | ([live](https://edge.app/)) | many | ([Public](https://edge.app/about/?af=github-com-web3privacy-web3privacy)) |
 | [Wasabi Wallet](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop | ([GitHub](https://github.com/zkSNACKs/WalletWasabi)) |
 | [Samourai Wallet](https://samouraiwallet.com) | A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured | ([Docs](https://docs.samourai.io/wallet/start)) | - | - | - |
 | [Fedi](https://www.fedi.xyz) | Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively | - | - | - | - |
