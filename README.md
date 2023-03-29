@@ -184,7 +184,7 @@ Feel free to update the list!
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Tokens | Team |
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet)) | PoC | Ethereum | ([Public](https://twitter.com/BrumeWallet)) |
 | [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension)) | ([live](https://www.sporran.org/)) | KILT | anon |
