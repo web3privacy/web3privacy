@@ -206,26 +206,26 @@ Feel free to update the list!
 | [Specter-DIY] | DIY airgapped hardware wallet that uses QR codes for communication with the host | ([GitHub](https://github.com/cryptoadvance/specter-diy/)) | live | Bitcoin | ([Public](https://specter.solutions/contact/)) |
 | [SeedSigner](https://seedsigner.com) | Air-gapped DIY Bitcoin Signing Device | ([GitHub](https://github.com/SeedSigner/seedsigner)) | live | Bitcoin | anon |
 | [Krux](https://selfcustody.github.io/krux/) | Open-source signing device firmware for Bitcoin | ([GitHub](https://github.com/selfcustody/krux)) | live | Bitcoin | anon |
-| [Zkopru](https://zkopru.network) -|Affordable Ethereum Privacy Wallet ✨️**ZK** | ([GutHub](https://github.com/zkopru-network)) | - | - | - |
 | [Leo wallet](https://leo.app) | Safe and easy way to interact with the Aleo blockchain | ([GutHub](https://docs.leo.app/aleo-wallet-adapter/)) | under development | Aleo | anon |
-| [Nighthawk Wallet](https://nighthawkwallet.com) | Private Money in your pocket. | ([GutHub](https://github.com/nighthawk-apps)) | - | - | - |
-| [Vault+](https://chrome.google.com/webstore/detail/serv-vault%20-blockchain-wa/dmkngeofbdepdibikhpnkjkmjfdoodpf) | the gateway to trusted transactions. Manage, and share your digital identity and Web3 assets in a single secure app. | - | - | - | - |
-| [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) |  - | - | - |
-| [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | - | - | - |
-| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) ([GitHub](https://github.com/cake-tech/cake_wallet)) | - | - | - |
+| [Nighthawk Wallet](https://nighthawkwallet.com) | Private Money in your pocket. | ([GutHub](https://github.com/nighthawk-apps)) | live | Zcash | anon |
+| [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) | live | multichain | ([Public](https://zengo.com/team/)) |
+| [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | live | Monero | Anon |
+| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
-- [Phala Network](https://www.phala.network/en/) - Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network))
-- [Aleph Zero](https://alephzero.org) - Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation))
-- [Findora](https://findora.org) - a decentralized, privacy-preserving smart contract platform. ([GitHub](https://github.com/findoranetwork))
-- [ARPA](https://www.arpanetwork.io/en-US) - Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network))
-- [Phoenix](https://phoenix.global) - blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal))
-- [Privasea](https://www.privasea.tech) - Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed.
-- [Alaya](https://alaya.network/en) - Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON ([GitHub](https://github.com/AlayaNetwork))
-- [Nillion](https://www.nillion.com) - The Secure Processing Layer of Web3 
-- [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) - Decentralized, Private Computing
-- [PlatOn Network](https://www.platon.network/en) - Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence ([GitHub](https://github.com/PlatONnetwork))
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Phala Network](https://www.phala.network/en/) | Privacy-Enhanced Permissionless Computing Protocol ([GitHub](https://github.com/Phala-Network)) | - | - | - |
+| [Aleph Zero](https://alephzero.org) | Privacy-enhancing public blockchain with instant finality ([GitHub](https://github.com/aleph-zero-foundation)) | - | - | - |
+| [Findora](https://findora.org) | a decentralized, privacy-preserving smart contract platform. ([GitHub](https://github.com/findoranetwork)) | - | - | - |
+| [ARPA](https://www.arpanetwork.io/en-US) | Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc ([GitHub](https://github.com/ARPA-Network)) | - | - | - |
+| [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications ([GitHub](https://github.com/phoenixglobal)) | - | - | - |
+| [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | - | - |
+| [Alaya](https://alaya.network/en) | Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON ([GitHub](https://github.com/AlayaNetwork)) | - | - | - |
+| [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3 | - | - | - | - |
+| [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing | - | - | - | - |
+| [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence ([GitHub](https://github.com/PlatONnetwork)) | - | - | - |
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
