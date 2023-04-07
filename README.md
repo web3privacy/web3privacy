@@ -210,7 +210,7 @@ Feel free to update the list!
 | [Nighthawk Wallet](https://nighthawkwallet.com) | Private Money in your pocket. | ([GutHub](https://github.com/nighthawk-apps)) | live | Zcash | anon |
 | [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) | live | multichain | ([Public](https://zengo.com/team/)) |
 | [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | live | Monero | Anon |
-| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
+| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) | ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -223,9 +223,9 @@ Feel free to update the list!
 | [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications. | ([GitHub](https://github.com/phoenixglobal)) | testnet | multichain | anon |
 | [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | multipurpose | ([Public](https://www.privasea.tech/about)) |
 | [Alaya](https://alaya.network/en) | Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON. | ([GitHub](https://github.com/AlayaNetwork)) | - | - | - |
-| [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3 | - | - | - | - |
-| [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing | - | - | - | - |
-| [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence | ([GitHub](https://github.com/PlatONnetwork)) | - | - | - |
+| [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3. | - | - | - | - |
+| [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing. | - | - | - | - |
+| [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence. | ([GitHub](https://github.com/PlatONnetwork)) | - | - | - |
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
