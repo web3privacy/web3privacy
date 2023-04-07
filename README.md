@@ -127,7 +127,7 @@ Feel free to update the list!
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
 | [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | mainnet coming in early 2023 | ROSE |
 | [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | testnet | No |
-| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/ | mainnet, january 2023 | NU |
+| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
 | [Anoma](https://anoma.net) | An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement | [GitHub](https://github.com/anoma) | testnet | No |
 | [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | testnet, June 2022 | No |
 | [Findora](https://findora.org) | A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities | [GitHub](https://github.com/findoranetwork) | mainnet, March 2021 | FRA |
@@ -162,7 +162,7 @@ Feel free to update the list!
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Arcana](https://arcana.network) | Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform.  | [Docs](https://docs.beta.arcana.network) | mainnet, February 2023 | XAR |
 | [Namada](https://namada.net) | Interchain Privacy  | [Specs](https://specs.namada.net) | testnet, January 2023 | no |
-| [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> | TBD | no
+| [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | TBD | no
 | [TomoChainP](https://tomochain.com/tomop) | a privacy protocols developed on TomoChain and designed to create safe and untraceable transactions  | [GitHub](https://github.com/tomochain/tomop) | TBD | TOMO |
 | [burstIQ](https://burstiq.com) | Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences. | - | TBD | BIQ |
 | [Lit](https://litprotocol.com) | Decentralized Cryptography for Access Control, Compute, and Encryption | [Docs](https://developer.litprotocol.com) | TBD | LIT |
@@ -172,7 +172,7 @@ Feel free to update the list!
 | [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-is-near) | TBD | no |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
 | [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | - | no |
-| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> | TBD | no |
+| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
 | [Threshold](https://threshold.network) | A decentralized threshold cryptography network | [GitHub](https://github.com/threshold-network) | TBD | T |
 | [Anytype](https://anytype.io/en) | the digital assets and communities you create are truly yours. | [GitHub](https://github.com/anytypeio) | TBD | no |
 | [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
