@@ -1,5 +1,6 @@
 # Summary
 
+- [Welcome](welcome.md)
 - [DeFi](defi.md)
 - [Currency](currency.md)
 - [Infrastructure](infrastructure.md)
