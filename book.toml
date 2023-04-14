@@ -1,0 +1,27 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "web3privacy"
+description = "todo"
+
+[output.html]
+git-repository-url = "https://github.com/web3privacy/web3privacy"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/web3privacy/web3privacy/edit/main/{path}"
+default-theme = "light"
+preferred-dark-theme = "navy"
+site-url = "/web/"
+
+[output.html.search]
+enable = true            # enables the search feature
+limit-results = 30       # maximum number of search results
+teaser-word-count = 30   # number of words used for a search result teaser
+use-boolean-and = true   # multiple search terms must all match
+boost-title = 2          # ranking boost factor for matches in headers
+boost-hierarchy = 1      # ranking boost factor for matches in page names
+boost-paragraph = 1      # ranking boost factor for matches in text
+expand = true            # partial words will match longer terms
+heading-split-level = 3  # link results to heading levels
+copy-js = true           # include Javascript code for search
