@@ -1,0 +1,15 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "web3privacy"
+description = "todo"
+
+[output.html]
+git-repository-url = "https://github.com/web3privacy/web3privacy"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/web3privacy/web3privacy/edit/main/{path}"
+default-theme = "light"
+preferred-dark-theme = "navy"
+site-url = "/web/"
