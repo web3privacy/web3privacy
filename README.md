@@ -117,6 +117,8 @@ Feel free to update the list!
 | [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | ([Gitea](https://git.hush.is/hush)) | live | - | ([Public](https://hush.is/team/)) |
 | [Boltz](https://boltz.exchange) | Privacy first, account-free crypto exchange | ([GitHub](https://github.com/BoltzExchange/) | live | - | - |
 | [COG](https://cogfi.org) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | - | ([Public](https://cogfi.org)) |
+| [eCash](https://e.cash) | Simple. Instant. Secure.
+Experience the revolutionary new money powered by Avalanche  | ([GitHub](https://github.com/bitcoin-abc/bitcoin-abc/)) | - | - | anon |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -184,6 +186,7 @@ Feel free to update the list!
 | [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
 | [Seneca](https://www.seneca.tech) | the first layer 1 designed to build apps on rich, complex yet private data | - | testnet | no |
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
+| [ParallelChain](https://parallelchain.io/technology) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -216,7 +219,7 @@ Feel free to update the list!
 | [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) | ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
 | [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | - | - | - |
 | [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | - | - | - | - |
-
+| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -295,7 +298,7 @@ Feel free to update the list!
 - [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
 - [Quadrata](https://quadrata.com) - Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain
 - [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
-- [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
+- [Valid.id](https://valid3.id) - Build the root of trust for your entity in a way that is both cryptographic and legally binding.
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -313,6 +316,7 @@ Feel free to update the list!
 - [Shade bridge](https://app.shadeprotocol.io/bridge) - an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. ([Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge))
 - [Rialto bridge](https://rialtobridge.io) - Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain ([Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge))
 - [0xTIP](https://t.co/JRNgLFaU50) - Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. ([0xMonero](https://0xmonero.com/))
+- [Carrier](https://www.carrier.so) - A powerful token and NFT bridge for Web3 natives ([Docs](https://docs.carrier.so/introduction/about)) 
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
@@ -336,6 +340,7 @@ Surveillance free. Censorship proof.
 - [Pigeon Communicator](https://pigeoncoin.org) - Blockchain based, trustless, censorship resistant decentralized messaging.
 - [HushChat](https://git.hush.is/hush/hushchat) - private messenger using zero knowledge mathematics.
 - [Relayz](https://relayz.io) - Hyper-secure, private communications protocol for Web3
+- [Mejhool](https://hzmcoin.com/mejhool/) - a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -488,7 +493,11 @@ Surveillance free. Censorship proof.
 - [Mailchain](https://mailchain.com) - Send and receive messages directly between wallets. ([Docs](https://docs.mailchain.com/developer/))
 - [Ledgermail](https://ledgermail.io) - World's First Blockchain Email Service ([Docs](https://docs.mailchain.com/developer/))
 - [Humanode](https://humanode.io) - Humanode conducts private biometric verification of its validators to ensure that there is only one unique living human being behind each node. ([Docs](https://gitbook.humanode.io/oauth2-service))
-
+- [FNS](https://fns.gg) - Your .fra username lets you send and receive assets on any chain or dApp while protecting your actual on-chain address. Its a simple way to manage assets and protect your privacy. ([GitHub](https://github.com/orgs/findora-name-service/repositories))
+- [Namachain](https://namachain.com) - A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication 
+- [MyDataCoin](https://mydatacoin.io) - a blockchain-based platform that utilizes Cosmos SDK Tendermint technology to enable secure and transparent exchange of personal data between individuals and companies. ([GitHub](https://github.com/MyDataCoin))
+- [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) - Practical Experiments on how to add complete privacy to flashbots. ([GitHub](https://github.com/hashcloak/flashbots-privacy))
+- [ONEG8](https://oneg8.one) - builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem 
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -510,6 +519,7 @@ Surveillance free. Censorship proof.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
 - [Trivium](https://trivium.network) - provides validator services to serveral networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode))
 - [RealRan](https://www.realran.com/home) - comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran))
+- [HashCloak](https://hashcloak.com) - an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak))
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
