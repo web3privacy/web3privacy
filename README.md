@@ -187,6 +187,7 @@ Experience the revolutionary new money powered by Avalanche  | ([GitHub](https:/
 | [Seneca](https://www.seneca.tech) | the first layer 1 designed to build apps on rich, complex yet private data | - | testnet | no |
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 | [ParallelChain](https://parallelchain.io/technology) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
+| [Mel](https://melproject.org/en/) | a clean-slate L1 for a decentralized, secure, and private internet beyond blockchains. | [Docs](https://docs.melproject.org) | "beta" mainnet | [Public](https://melproject.org/en/) |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
