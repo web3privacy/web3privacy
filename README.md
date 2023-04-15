@@ -80,6 +80,7 @@ Feel free to update the list!
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | ([Public](https://hinkal.pro/#section-team)) |
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | ([GitHub](https://github.com/ConcealNetwork)) | live | Conceal | ([anon](https://conceal.network/team/)) | 
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | Ethereum | anon | 
+| [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | - | - | multichain | anon | 
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -114,7 +115,8 @@ Feel free to update the list!
 | [Litecash](https://lite-cash.com) |  the first fork of Beam. We removed the founder's reward and are 100% community funded. | ([GitHub](https://github.com/Litecash-Dev)) | wallet live | Mimblewimble | anon |
 | [Zero](https://zero.directory) | private transactions | ([GitHub](https://github.com/zerocurrencycoin)) | live | - | anon |
 | [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | ([Gitea](https://git.hush.is/hush)) | live | - | ([Public](https://hush.is/team/)) |
-
+| [Boltz](https://boltz.exchange) | Privacy first, account-free crypto exchange | ([GitHub](https://github.com/BoltzExchange/) | live | - | - |
+| [COG](https://cogfi.org) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | - | ([Public](https://cogfi.org)) |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -181,6 +183,7 @@ Feel free to update the list!
 | [The Farcaster Project](https://farcaster.dev/) | a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. | [GitHub](https://github.com/farcaster-project) | TBD | no |
 | [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
 | [Seneca](https://www.seneca.tech) | the first layer 1 designed to build apps on rich, complex yet private data | - | testnet | no |
+| [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -211,6 +214,9 @@ Feel free to update the list!
 | [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) | live | multichain | ([Public](https://zengo.com/team/)) |
 | [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | live | Monero | Anon |
 | [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) | ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
+| [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | - | - | - |
+| [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | - | - | - | - |
+
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -289,6 +295,7 @@ Feel free to update the list!
 - [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
 - [Quadrata](https://quadrata.com) - Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain
 - [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
+- [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -328,6 +335,7 @@ Surveillance free. Censorship proof.
 - [Speak app](https://speakapp.me) - No phone number. No email address. Speakapp is a simple, and secure web3 messenger.
 - [Pigeon Communicator](https://pigeoncoin.org) - Blockchain based, trustless, censorship resistant decentralized messaging.
 - [HushChat](https://git.hush.is/hush/hushchat) - private messenger using zero knowledge mathematics.
+- [Relayz](https://relayz.io) - Hyper-secure, private communications protocol for Web3
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -398,6 +406,7 @@ Surveillance free. Censorship proof.
 - [Bermuda](https://www.bmda.io) - next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens.
 - [Privacy Pools](https://www.privacypools.com) - allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. ([GitHub](https://github.com/ameensol/privacy-pools))
 - [Sociogram](https://sociogram.org) - Web3Social Media focused on privacy
+- [Blockyfile](https://blockyfile.org) - The new way to upload files anonymously and without censorship .
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -469,6 +478,17 @@ Surveillance free. Censorship proof.
 - [Ergo](https://ergoplatform.org/en/) - a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. ([GitHub](https://github.com/ergoplatform))
 - [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) - Personalized Social Network with Privacy-Preserving Module
 - [Daml](https://www.digitalasset.com/developers) - Daml is the only smart-contract language and blockchain that allows sub-transaction privacy. ([GitHub](https://github.com/digital-asset/daml))
+- [CryptoChill](https://cryptochill.com) - a highly customizable cryptocurrency payment gateway and custodial wallets provider focused on security, privacy and scalability.
+- [Redacted Money](https://twitter.com/redacted_money) - a trustless Zero Knowledge protocol that exists to bring you an easy to use way of securing your transactions from prying eyes.
+- [Decentra Life](https://www.decentralife.app) - Welcome to the future of social media: a decentralized platform built for you, by you.
+- [ZK-DEX](https://zk-dex.io) - we set your personal information private, you govern your own asset.
+- [Anon virtual cards](https://vcc.anonzk.io) - Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store.
+- [0x0](https://0x0.ai) - All-in-One Privacy Hub and AI Smart Contract Auditor ([Docs](https://docs.0x0.ai/0x0.ai-ai-smart-contract-auditor/overview))
+- [Vocdoni](https://vocdoni.io) - We are the most open, secure, and universally verifiable voting protocol, used by hundreds of organizations worldwide. ([GitHub](https://github.com/vocdoni))
+- [Mailchain](https://mailchain.com) - Send and receive messages directly between wallets. ([Docs](https://docs.mailchain.com/developer/))
+- [Ledgermail](https://ledgermail.io) - World's First Blockchain Email Service ([Docs](https://docs.mailchain.com/developer/))
+- [Humanode](https://humanode.io) - Humanode conducts private biometric verification of its validators to ensure that there is only one unique living human being behind each node. ([Docs](https://gitbook.humanode.io/oauth2-service))
+
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -518,6 +538,8 @@ Surveillance free. Censorship proof.
 - [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) - Zk Privacy Solution on Mina Protocol
 - [Spillways](https://spillways.finance) - Mixer enables fast, secure, and private transactions in crypto by obscuring
 the source and destination of funds.
+- [TeleBridge](https://telebrid.ge) - a privacy-focused ERC20 token. Our business plan revolves around offering multiple needed products and sharing the profits with holders, and the chart.
+- [AnonZK Incognito](https://incognito.anonzk.io) - a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity.
 
 ## Data management
 - [Spoc](https://spoc.com/) - A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data.
