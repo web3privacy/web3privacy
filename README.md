@@ -117,8 +117,7 @@ Feel free to update the list!
 | [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | ([Gitea](https://git.hush.is/hush)) | live | - | ([Public](https://hush.is/team/)) |
 | [Boltz](https://boltz.exchange) | Privacy first, account-free crypto exchange | ([GitHub](https://github.com/BoltzExchange/) | live | - | - |
 | [COG](https://cogfi.org) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | - | ([Public](https://cogfi.org)) |
-| [eCash](https://e.cash) | Simple. Instant. Secure.
-Experience the revolutionary new money powered by Avalanche  | ([GitHub](https://github.com/bitcoin-abc/bitcoin-abc/)) | - | - | anon |
+| [eCash](https://e.cash) | Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche  | ([GitHub](https://github.com/bitcoin-abc/bitcoin-abc/)) | - | - | anon |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -305,6 +304,7 @@ Experience the revolutionary new money powered by Avalanche  | ([GitHub](https:/
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
 - [AnyDAO](https://www.anydao.app) - Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting [Docs](https://docs.ata.network/anydao/introduction/) 
 - [HeyAnon](https://www.heyanoun.xyz) - allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK*
+- [LunarDAO](https://lunardao.net) - DAO fostering R&D and investments within Lunarpunk movement ([GitHub](https://github.com/lunardao/dao))
 
 ## Bridge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Bridge.png?raw=true)
