@@ -48,6 +48,7 @@
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
+- [Firn Protocol](https://app.firn.cash) - Pluggable, flexible privacy for Ethereum-based chains, with unparalelled efficiency—thanks to a unique _account-based_ architecture ✨️**ZK** ([GitHub](https://github.com/firnprotocol))
 - [Elusiv](https://elusiv.io) - Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana ✨️**ZK** ([GitHub](https://github.com/elusiv-privacy))
 - [Dusk Network](https://dusk.network) - Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.([GitHub](https://github.com/dusk-network))
 - [Manta Pay](https://app.manta.network/dolphin/transact) - MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK** ([GitHub](https://github.com/Manta-Network))
