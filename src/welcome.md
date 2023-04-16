@@ -1,5 +1,5 @@
-# web3privacy now - 400+ privacy projects empowering Web3 
-*Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate. [donate](https://github.com/Msiusko/web3privacy/blob/main/README.md#donate)
+# web3privacy now - think-tank dedicated to research & education within privacy x Web3 industry
+Our goal is to build a culture of privacy industry in web3: make market reports, aggregate knowledge on the state of privacy tech development, deliver new privacy concepts, train builders & explore potential use-case.
 
 | Block  | Description |
 | ------------- | ------------- |
@@ -13,8 +13,9 @@
 
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
 
-⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
-
-25.11. (current approach to PEDApps aggregation): _explicit focus on privacy + alive project_.
-
-Feel free to update the list!
+# How to support
+| Collaboration  | Description |
+| ------------- | ------------- |
+| Contribute to GitHub | Add projects, participate in researches, share ideas in chat |
+| [donate](https://github.com/Msiusko/web3privacy/blob/main/README.md#donate) | Help us to stay independent & constantly scale our impact on the state of the web3 privacy |
+| Give Grant | We are doing on-going privacy ecosystem research & are open to new grants aiming to expand privacy maturity in web3 & onboard millions into privacy |
