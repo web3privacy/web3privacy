@@ -273,6 +273,7 @@ Feel free to update the list!
 - [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
 - [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
 - [IVPN](https://www.ivpn.net/) - IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. ([GitHub](https://github.com/ivpn))
+- [Mullvad VPN](https://mullvad.net/) - One of the most privacy-focused VPN providers (check thier Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. ([GitHub](https://github.com/mullvad)). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team.
 - [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage ([GitHub](https://github.com/ProtonVPN))
 - [Solar labs](https://solarlabs.ee) - World’s first truly decentralized blockchain-based VPN service. 
 
@@ -368,7 +369,8 @@ Surveillance free. Censorship proof.
 - [Osiris](https://www.decenternet.net/osiris) - Osiris is the world's first net-neutral browser.
 - [Decentr](https://decentr.net) - Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value ([GitHub](https://github.com/Decentr-net))
 - [Carbon Browser](https://carbon.website) - Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy ([GitHub](https://github.com/Carbon-Browser))
-- [Status](https://status.im/web-three-browser/) - Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser 
+- [Status](https://status.im/web-three-browser/) - Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser
+- [Mullvad Browser](https://github.com/mullvad/mullvad-browser) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. 
 
 ## KYC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
