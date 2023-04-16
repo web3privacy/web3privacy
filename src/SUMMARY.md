@@ -27,7 +27,7 @@
   - [Mixing services](mixing-services.md)
   - [Data management](data-management.md)
 - [Privacy use-cases database](privacy-use-cases.md)
-- [Researches](/Researches/Researches.md)
+- [Researches](Researches/Researches.md)
 - [Pagency framework for private use-case ideation](pagency.md)
 - [Web3 Privacy Hiring](hiring.md)
 - [ZK privacy-enhancing solutions database](zk-privacy.md)
