@@ -29,7 +29,7 @@
 - [Privacy use-cases database](privacy-use-cases.md)
 - [Researches](Researches/Researches.md)
 - [Articles](Articles/articles.md)
-- [Pagency framework for private use-case ideation](pagency.md)
+- [Pagency framework for private use-case ideation](Frameworks/Pagency.md)
 - [Web3 Privacy Hiring](hiring.md)
 - [ZK privacy-enhancing solutions database](zk-privacy.md)
 - [Web3privacy now analytical platform](platform.md)
