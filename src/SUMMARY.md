@@ -1,7 +1,7 @@
 # Summary
 
 - [Welcome](welcome.md)
-- [Manifesto](https://github.com/web3privacy/web3privacy/blob/main/Manifesto.md)
+- [Manifesto](manifesto.md)
 - [Privacy services database](Web3privacy-database.md)
   - [DeFi](defi.md)
   - [Currency](currency.md)
