@@ -1,6 +1,7 @@
 # Summary
 
 - [Welcome](welcome.md)
+- [Manifesto](Manifesto.md)
 - [Privacy services database](Web3privacy-database.md)
   - [DeFi](defi.md)
   - [Currency](currency.md)
