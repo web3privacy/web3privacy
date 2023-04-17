@@ -33,4 +33,4 @@
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | ([Public](https://hinkal.pro/#section-team)) |
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | ([GitHub](https://github.com/ConcealNetwork)) | live | Conceal | ([anon](https://conceal.network/team/)) | 
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | Ethereum | anon | 
-
+| [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | - | - | multichain | anon | 
