@@ -4,7 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "web3privacy"
-description = "todo"
+description = "a think tank dedicated to research & education within privacy x Web3 industry"
 
 [output.html]
 git-repository-url = "https://github.com/web3privacy/web3privacy"
