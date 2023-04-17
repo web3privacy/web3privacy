@@ -1,1 +1,30 @@
 # DID
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
+- [KILT](https://www.kilt.io) - A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers  ([GitHub](https://github.com/KILTprotocol))
+- [MBuddy](https://mbuddy.metamirror.space) - Web 3.0+ identity infrastructure [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) 
+- [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3 ([GitHub](https://github.com/docknetwork))
+- [Anonybit](https://www.anonybit.io) - Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics)
+- [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** ([GitHub](https://github.com/0xPolygonID)) 
+- [Dmail Network](https://dmail.ai) - Construct DID in Web3.0, Not Just an Email.
+- [Litentry](https://litentry.com) - A decentralized identity aggregator, providing the structure and tools to empower you and your identity  ([GitHub](https://github.com/litentry)) 
+- [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data ([GitHub](https://github.com/VerusCoin)) 
+- [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3 ([GitHub](https://github.com/findoranetwork))
+- [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
+- [Holonym](https://www.holonym.id) - Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** ([GitHub](https://github.com/holonym-foundation))
+- [zCloak](https://zcloak.network) - Privacy-first DID and verifiable computation infrastructure ✨️**ZK** ([GitHub](https://github.com/zCloak-Network)) 
+- [BrightID](https://www.brightid.org) - A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity ([GitHub](https://github.com/BrightID))
+- [Sismo](https://www.sismo.io/) - Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation ([GitHub](https://github.com/sismo-core))
+- [ONT ID](https://ont.id) - Bringing trustless identity to Web3 manage your data with ONT ID ([GitHub](https://github.com/ont-id/))
+- [Interep](https://interep.link) - Anti-sybil as a service ([GitHub](https://github.com/interep-project)) <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" />
+- [Universal Reputation](https://developer.unirep.io) - a private and non-repudiable reputation system ([GitHub](https://github.com/unirep))
+- [Zero Knowledge Verifiable Credential](https://github.com/mono-koto/zkcred) - Sketching out verifiable credential selective disclosure presentation on Mina with snarky.js
+- [Cerebrum](https://www.cerebrum.com) - Ensure everyone in your organization is credentialed and compliant with Cerebrum's verifiable data technology and vID ecosystem ([GitHub](https://github.com/cerebruminc)) 
+- [Spruce](https://spruceid.com) - the open-source stack to leave control of identity and data where it should be: with users. ([GitHub](https://github.com/spruceid)) 
+- [Hypersign](https://hypersign.id) - the ultimate stack for identity management  ([GitHub](https://github.com/hypersign-protocol))
+- [Fractal ID](https://web.fractal.id) - We help web3 platforms and ecosystems ensure data and regulatory compliance by enabling selective disclosure of verified user data to KYC/AML status ([GitHub](https://github.com/trustfractal))
+- [Next.ID](https://next.id) - An open-sourced protocol that synergises your Web2 and Web3 profiles. ([GitHub](https://github.com/nextdotid))
+- [Slashags](https://slashtags.to) - Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data. ([GitHub](https://github.com/synonymdev/slashtags))
+- [AesirX WEB3 ID](https://web3id.aesirx.io) - an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. ([GitHub](https://github.com/aesirxio))
+- [Quadrata](https://quadrata.com) - Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain
+- [SEER sdid](https://sdid.seer.eco/) - Building your own community identity like a brand
+- [Valid.id](https://valid3.id) - Build the root of trust for your entity in a way that is both cryptographic and legally binding.
