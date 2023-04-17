@@ -26,7 +26,7 @@
   - [Alliances](alliances.md)
   - [Mixing services](mixing-services.md)
   - [Data management](data-management.md)
-- [Privacy use-cases database](privacy-use-cases.md)
+- [Privacy use-cases database](Use-cases/privacy-use-cases.md)
 - [Researches](Researches/Researches.md)
 - [Articles](Articles/articles.md)
 - [Pagency framework for private use-case ideation](Frameworks/Pagency.md)
