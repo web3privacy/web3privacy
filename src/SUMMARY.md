@@ -35,3 +35,4 @@
 - [Web3privacy now analytical platform](platform.md)
 - [Grants](grants.md)
 - [Donate](donate.md)
+- [Contacts][contacts.md)
