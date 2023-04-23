@@ -264,7 +264,7 @@ Feel free to update the list!
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Token | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
 | [Boring Protocol](https://boringprotocol.io) | A Decentralized VPN on Solana | ([Docs](https://docs.boringprotocol.io/bop/information/boring-protocol)) |  live | Solana | ([yes](https://coinmarketcap.com/currencies/boring-protocol/) | anon |
 | [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) | A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet | ([GitHub](https://github.com/mysteriumnetwork/node)) | live | multichain | ([yes](https://coinmarketcap.com/currencies/mysterium/)) | ([Public](https://www.mysterium.network/team)) |
 | [Orchid](https://www.orchid.com) | Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client | ([GitHub](https://github.com/OrchidTechnologies)) | live | multichain | ([yes](https://coinmarketcap.com/currencies/orchid/)) | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218313136%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=cWH)) |
