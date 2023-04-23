@@ -254,28 +254,28 @@ Feel free to update the list!
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | ([Docs](https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637)) | live, 2019 | - | anon |
 | [Motherbored](https://store.motherbored.limited) | #dVPN hardware (node + SM card) | ([GitHub](https://github.com/boringprotocol/motherbored)) | live | Solana | anon |
-| [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | - | - | - | - |
-| [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. |
-| [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server)) | - | - | - |
-| [Foundation](https://foundationdevices.com) | The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app | ([GitHub](https://github.com/Foundation-Devices)) | - | - | - |
-| [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | - | - | - | - |
-| [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | - | - | - |
+| [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | ([Docs](https://docs.samourai.io/)) | live | Bitcoin | anon |
+| [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [(GitHub](https://github.com/dappnode)) | live | multichain | ([Public](https://dappnode.com/pages/about))
+| [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server)) | live | multichain | ([Public](https://www.mysterium.network/team)) |
+| [Foundation](https://foundationdevices.com) | The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app | ([GitHub](https://github.com/Foundation-Devices)) | live | Bitcoin | ([Public](https://foundationdevices.com/about/)) |
+| [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | ([Docs](https://www.chain-reaction.io/resource-hub/)) | live | multichain | ([Public](https://www.chain-reaction.io/about/)) |
+| [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-- [Boring Protocol](https://boringprotocol.io) - A Decentralized VPN on Solana ([Docs](https://docs.boringprotocol.io/bop/information/boring-protocol)) 
-- [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) - A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet ([GitHub](https://github.com/mysteriumnetwork/node)) 
-- [Orchid](https://www.orchid.com) - Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client  ([GitHub](https://github.com/OrchidTechnologies)) 
-- [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) - A decentralized VPN Client utilizing the Sentinel Blockchain ([GitHub](https://github.com/MathNodes)) 
-- [KelVPN](https://kelvpn.com) - The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption.
-- [Lokinet](https://lokinet.org) - a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) 
-- [Sentinel](https://sentinel.co) - A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official))
-- [IVPN](https://www.ivpn.net/) - IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. ([GitHub](https://github.com/ivpn))
-- [Mullvad VPN](https://mullvad.net/) - One of the most privacy-focused VPN providers (check thier Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. ([GitHub](https://github.com/mullvad)). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team.
-- [ProtonVPN](https://protonvpn.com/) - Swiss VPN provider with encrypted email and online storage ([GitHub](https://github.com/ProtonVPN))
-- [Solar labs](https://solarlabs.ee) - World’s first truly decentralized blockchain-based VPN service. 
+| [Boring Protocol](https://boringprotocol.io) | A Decentralized VPN on Solana | ([Docs](https://docs.boringprotocol.io/bop/information/boring-protocol)) |  - | - | - |
+| [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) | A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet | ([GitHub](https://github.com/mysteriumnetwork/node)) | - | - | - |
+| [Orchid](https://www.orchid.com) | Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client | ([GitHub](https://github.com/OrchidTechnologies)) | - | - | - |
+| [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) | A decentralized VPN Client utilizing the Sentinel Blockchain | ([GitHub](https://github.com/MathNodes)) | - | - | - |
+| [KelVPN](https://kelvpn.com) | The first ever deanon-proof VPN is now available. It keeps your data safe by tunnelling it between the blockchain nodes and encrypting it with variable quantum-safe encryption. | - | - | - |
+| [Lokinet](https://lokinet.org) | a VPN tunnel that uses onion routing as the transport ([GitHub](https://github.com/oxen-io/lokinet)) | - | - | - |
+| [Sentinel](https://sentinel.co) | A global network of autonomous dVPN applications that enable private and censorship resistant internet access ([GitHub](https://github.com/sentinel-official)) | - | - | - |
+| [IVPN](https://www.ivpn.net/) | IVPN keeps no logs, no customer accounts, open source VPN provider using WireGuard. Can pay for VPN connection with BTC or XMR and can get 'subscriptions' that last 1 wee or 1 month, not for 1 year+. | ([GitHub](https://github.com/ivpn)) | - | - | - |
+| [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check thier Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | ([GitHub](https://github.com/mullvad)). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. | - | - | - |
+| [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | ([GitHub](https://github.com/ProtonVPN)) | - | - | - |
+| [Solar labs](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service. | - | - | - |
 
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
