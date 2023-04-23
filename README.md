@@ -218,9 +218,9 @@ Feel free to update the list!
 | [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) | live | multichain | ([Public](https://zengo.com/team/)) |
 | [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | live | Monero | Anon |
 | [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) | ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
-| [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | - | - | - |
-| [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | - | - | - | - |
-| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | - | - | - | - |
+| [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | launching beta, Q2 2023 | multichain | anon |
+| [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | ([GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet)) | PoC | - | anon |
+| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | live | multichain | anon |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -252,8 +252,8 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | - | ready | - | - |
-| [Motherbored](https://store.motherbored.limited) | #dVPN hardware (node + SM card) | ([GitHub](https://github.com/boringprotocol/motherbored)) | - | - | - |
+| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | ([Docs](https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637)) | live, 2019 | - | anon |
+| [Motherbored](https://store.motherbored.limited) | #dVPN hardware (node + SM card) | ([GitHub](https://github.com/boringprotocol/motherbored)) | live | Solana | anon |
 | [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | - | - | - | - |
 | [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. |
 | [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server)) | - | - | - |
