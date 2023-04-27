@@ -281,8 +281,8 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [KILT](https://www.kilt.io) | A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers | ([GitHub](https://github.com/KILTprotocol)) | - | - | - |
-| [MBuddy](https://mbuddy.metamirror.space) | Web 3.0+ identity infrastructure | [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) | - | - | - |
+| [KILT](https://www.kilt.io) | A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers | ([GitHub](https://github.com/KILTprotocol)) | live | multichain | ([Public](https://www.kilt.io/team)) |
+| [MBuddy](https://mbuddy.metamirror.space) | Web 3.0+ identity infrastructure | ([Docs](https://docs.metamirror.space/mbuddy/introduction/overview)) | - | - | - |
 | [Web3ID](https://www.dock.io/web3id) | Privacy-preserving user verification for Web3 | ([GitHub](https://github.com/docknetwork)) | - | - | - |
 | [Anonybit](https://www.anonybit.io) | Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics) | - | - | - | - |
 | [Polygon ID](https://polygon.technology/polygon-id/) | Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** | ([GitHub](https://github.com/0xPolygonID)) | - | - | - |
