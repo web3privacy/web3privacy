@@ -62,6 +62,8 @@
 - [DeFiner](https://definer.org) - Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** ([GitHub](https://github.com/DeFinerOrg))
 - [Penumbra](https://penumbra.zone) - Penumbra is a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world ([GitHub](https://github.com/penumbra-zone))
 - [Yellow Submarine](https://ys.finance) - the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction))
+- [Charon](https://www.911truth.com) - a privcy enabled, cross-chain AMM and stable token system([Github](https://www.github.com/charonAMM))
+
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
