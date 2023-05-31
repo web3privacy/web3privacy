@@ -188,7 +188,7 @@ Feel free to update the list!
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 | [ParallelChain](https://parallelchain.io/technology) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
 | [Mel](https://melproject.org/en/) | a clean-slate L1 for a decentralized, secure, and private internet beyond blockchains. | [Docs](https://docs.melproject.org) | "beta" mainnet | [Public](https://melproject.org/en/) |
-| [Vault1317l](https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/) | An Off-chain secure communication protocol with deniability via ZKP (Ring Signature) | [Github](https://github.com/hardenedvault/vault1317) | PoC | no |
+| [Vault1317](https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/) | An Off-chain secure communication protocol with deniability via ZKP (Ring Signature) | [Github](https://github.com/hardenedvault/vault1317) | PoC | no |
 
 | [1984](https://1984.hosting/) - high quality web hosting and VPS service provider based in Iceland that respects and protects the civil and political rights of customers. Does not accept cryptocurency at this time. | - | live | no |
 | [Incognet](https://incognet.io/) - privacy respecting ISP, hosting and VPS provider that can be accessed on I2P, TOR, and Yggdrasil - accepts various cryptocurrencies as payment. | - | live | no |
