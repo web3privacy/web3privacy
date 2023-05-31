@@ -188,6 +188,7 @@ Feel free to update the list!
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 | [ParallelChain](https://parallelchain.io/technology) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
 | [Mel](https://melproject.org/en/) | a clean-slate L1 for a decentralized, secure, and private internet beyond blockchains. | [Docs](https://docs.melproject.org) | "beta" mainnet | [Public](https://melproject.org/en/) |
+| [Vault1317l](https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/) | An Off-chain secure communication protocol with deniability via ZKP (Ring Signature) | [Github](https://github.com/hardenedvault/vault1317) | PoC | no |
 
 | [1984](https://1984.hosting/) - high quality web hosting and VPS service provider based in Iceland that respects and protects the civil and political rights of customers. Does not accept cryptocurency at this time. | - | live | no |
 | [Incognet](https://incognet.io/) - privacy respecting ISP, hosting and VPS provider that can be accessed on I2P, TOR, and Yggdrasil - accepts various cryptocurrencies as payment. | - | live | no |
@@ -365,6 +366,7 @@ Surveillance free. Censorship proof.
 - [Relayz](https://relayz.io) - Hyper-secure, private communications protocol for Web3
 - [Mejhool](https://hzmcoin.com/mejhool/) - a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.
 - [Jami](https://jami.net/) - Jami is a free/libre, end-to-end encrypted, and private communication platform. [Gitlab](https://git.jami.net/savoirfairelinux/jami-project)
+- [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) - The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network ✨️**ZK** [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md)
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
