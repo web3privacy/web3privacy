@@ -89,7 +89,7 @@ _Product feature_:
 
 Answers
 
-- ZKBob	hether the solution forces users to preserve their privacy or if it's the user's responsibility. For example, Tornado Cash increases anonymity by requiring users to deposit a specific amount, but doesn't require using different addresses for withdrawals	
+- whether the solution forces users to preserve their privacy or if it's the user's responsibility. For example, Tornado Cash increases anonymity by requiring users to deposit a specific amount but doesn't require using different addresses for withdrawals	
 - zkBOB doesn't force specific amounts or address usage, but encourages the use of new withdrawal addresses by rewarding them with a small amount of native coins that can be used in the next transaction to pay for gas.	
 - How the components of the protocol communicate with each other and if users can replace any components is another important aspect.	
 - In the case of zkBOB, the pool contracts are the core component, and the user needs to trust the zkBOB development team regarding privacy leaks in the rest of infrastructure: UI and the sequencer. However, the project roadmap includes plans to address these concerns.	
@@ -97,3 +97,21 @@ Answers
 - "The only way for non-techie people to reduce risks is to seek expert advice or do extensive research before using such solutions. 
 - For zkBOB, it's worth noting that the project is open source, the part of the protocol related to zero-knowledge was audited, and the team does its best to support documentation that's up-to-date and clear for ordinary users."
 
+_Observations_:
+- interesting approach opposite to "optional privacy" - push the person to gain privacy by performing extra actions, so privacy will be "tangible"
+- privacy culture could be gamified & serve as a privacy 101 (new withdrawal addresses generation)
+- "protocol components" are highly-techy issues to track
+- ZK decentralisation (to be achieved) should be communicated (if you don't trust project team - that's a risk)
+- trust assumption should be expanded within 101 (where exactly person "delegate" trust to the project)
+- audit & trust assumptions could co-exist in 1 project, but it's critical to understand risk categories for each component of "trust"/"privacy" relations
+
+_Product feature_:
+- trust assumptions 101
+- privacy in ZK 101
+- later on - case studies when solutions actively embed privacy education within the workflow
+
+**Litentry**	
+
+Answers:
+- you can start by reading Litentry’s explainers first	
+- then maybe then read through other privacy solutions to make the comparison?
