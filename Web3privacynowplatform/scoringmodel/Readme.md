@@ -1,4 +1,4 @@
-Scoring model analytics based on a 50+ privacy projects [survey](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
+# Scoring model analytics based on a 50+ privacy projects [survey](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 
 **Approach**:
 - we made a survey on how privacy projects recommend analysing if they are private or not.
