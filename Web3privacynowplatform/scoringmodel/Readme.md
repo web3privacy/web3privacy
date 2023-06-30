@@ -86,7 +86,7 @@ _Product feature_:
 
 **ZKBob**
 
-Answers:
+Answers
 - whether the solution forces users to preserve their privacy or if it's the user's responsibility. For example, Tornado Cash increases anonymity by requiring users to deposit a specific amount but doesn't require using different addresses for withdrawals	
 - zkBOB doesn't force specific amounts or address usage, but encourages the use of new withdrawal addresses by rewarding them with a small amount of native coins that can be used in the next transaction to pay for gas.	
 - How the components of the protocol communicate with each other and if users can replace any components is another important aspect.	
@@ -136,16 +136,18 @@ _Product features:_
 
 **Swarm**	
 
-Answers:
+Answers
 - reading our whitepaper, which provides a comprehensive overview of Swarm's technology and how it achieves privacy	
 
-_Observations_: 
+_Observations_:
+- whitepaper is too "heavy" instrument for people with a short attention span & in need of quick attestations. Moreover, it's not up to date, usually
 
-_Product feature_	
+_Product feature_
+- web3 docs 101 (basic description in relation to privacy)	
 
 **Railgun**	
 
-Answers:
+Answers
 - Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 	
 - Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.	
 - There's a ton a technical person can do to verify but there's also a litmus test of #privacy that anyone can do. https://t.co/PqkUJWwmPD	
@@ -158,8 +160,8 @@ Answers:
 - Try to decode the input data for the transaction? It's all #encrypted.
 - So how much money exchanged hands here? Well, the short answer here is - it's #private. Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
 
-_Observations_: 
--
+_Observations_
+- general web3 101 are needed for person to self-check privacy
 
 _Product feature_
 -
