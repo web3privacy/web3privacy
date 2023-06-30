@@ -122,7 +122,7 @@ Answers:
 - technical things you could ask a technical person you trust to look at its oss code.				
 
 **Swarm**	
-- reading our whitepaper, which provides a comprehensive overview of Swarm's technology and how it achieves privacy					
+- reading our whitepaper, which provides a comprehensive overview of Swarm's technology and how it achieves privacy		
 
 **Railgun**	
 - Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 	
@@ -149,21 +149,21 @@ Answers:
 https://github.com/hoprnet/hoprnet/blob/df7bc88517329472adbfe73bd4a22bddd5cfbcc9/package.json#L46… and for our Rust code: https://github.com/hoprnet/hoprnet/blob/master/rustfmt.toml…
 - Tools. So far we released tools such as http://DERP.hoprnet.org or http://mint.hoprnet.org (which in turn are obviously also FOSS!) that show shortcomings of existing technologies. We will keep building such tools also for HOPR itself."	"The exact checks you'd do depend on the application that actually use HOPR
 
-E.g. on #RPCh we're thinking of installing a VPN server on the RPCh exit node which would visualize requests via DERP: https://twitter.com/hoprnet/status/1596896868377792520"	If you want to go hardcore, you could use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out	"You will notice that you cannot tell anything from these packets - thanks to the Sphinx packet format that we use at HOPR:
+E.g. on #RPCh we're thinking of installing a VPN server on the RPCh exit node which would visualize requests via DERP: https://twitter.com/hoprnet/status/1596896868377792520"	If you want to go hardcore, you could use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out	
+- You will notice that you cannot tell anything from these packets - thanks to the Sphinx packet format that we use at HOPR:
 https://twitter.com/hoprnet/status/1572601550379311104
 - Check out our HOPR Basics series for more details:
 https://medium.com/hoprnet/basics/home"
 
 **Waku**	
 
-- rfc.vac.dev is a good start.	The RFC repository contains the specification of Waku and other protocols. In terms of @ethstatus's privacy claims. It is good to first look at the base layer: @waku_org
+- rfc.vac.dev is a good start. The RFC repository contains the specification of Waku and other protocols. In terms of @ethstatus's privacy claims. It is good to first look at the base layer: @waku_org
 - The RFCs describe the protocol and also contains security assumptions/guarantees section."	
 - The target audience are researchers and maintainers of Waku implementations. Not the easiest thing to read!
 
 **Rotki**	
 
 - Don't think u can. Gotta trust either me or someone who can read code	"The simplest thing a non-techie person can understand is:
-
 - Local application with all data stored in a local encrypted database (private by design)"	
 - Opensource, so your techy friend can see we are not lying. It really isn't complicated imo.
 - To be 100% sure read code	
@@ -177,7 +177,8 @@ https://medium.com/hoprnet/basics/home"
 
 **Boring protocol**	
 
-- The "no logs" claims are generally very ambiguous. We make a point to know as little as technically possible about our users. We only know the bare minimum required to make the network function. 	All we know is your wallet pubkey, with which we issue and assign to a network key.				
+- The "no logs" claims are generally very ambiguous. We make a point to know as little as technically possible about our users. We only know the bare minimum required to make the network function. 	
+- All we know is your wallet pubkey, with which we issue and assign to a network key.				
 
 **Lit protocol**	
 
@@ -196,21 +197,17 @@ https://medium.com/hoprnet/basics/home"
 - We will have built in mixers	
 - We dont know or what to know who or where users are. For non-techie that would not be straight forward. 
 - Perhaps using something like https://charlesproxy.com to see all the traffic. Still fairly techie though.
-
-For devs all of our code is open source on github, anyone can read it."	
+- For devs all of our code is open source on github, anyone can read it.	
 
 **Orbis**	
 
-- You can check our open-sourced SDK, but that would require people to read some code :) https://t.co/iiA7lSaDdn					
+- You can check our open-sourced SDK, but that would require people to read some code :) https://t.co/iiA7lSaDdn		
 
 **Nighthawk Wallet**	
 
-- "It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at 
-@ExodusPrivacy, a friendly service to investigate Android apps. "	"You can also obtain the @NighthawkWallet APK built with @fdroidorg and verify the “no anti-features” tag. We’ve worked hard to remove dependency on third-party services and strictly require user’s consent before opting-in to sharing information.
-
-https://t.co/YwYd4RUeVh"	"“Anti-Features are organized into “flags” that packagers can use to mark apps, warning of possibly undesirable behaviour from the user’s perspective, often serving the interest of the developer or a third party.”
-
-https://t.co/LEaBIh8LV7"			
+- "It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 	
+- You can also obtain the @NighthawkWallet APK built with @fdroidorg and verify the “no anti-features” tag. We’ve worked hard to remove dependency on third-party services and strictly require users’ consent before opting into sharing information: https://t.co/YwYd4RUeVh	
+- Anti-Features are organized into “flags” that packagers can use to mark apps, warning of possibly undesirable behaviour from the user’s perspective, often serving the interest of the developer or a third party: https://t.co/LEaBIh8LV7"			
 
 **KILT Protocol**	
 
@@ -222,55 +219,54 @@ https://t.co/LEaBIh8LV7"
 
 **Onionclub**	
 
-actually privacy is by default on our platform. It's not a option! So, every user will have this enabled and if they want to be doxxed than they need to jump trough some hoops.					
+- actually privacy is by default on our platform. It's not an option! 
+- So, every user will have this enabled and if they want to be doxxed then they need to jump through some hoops.		
 
 **Sismo**
 
-Here are the public resources we have around the core of our ZK systems: 
+- Here are the public resources we have around the core of our ZK systems: 
 - Commitment mapper https://docs.sismo.io/sismo-docs/technical-concepts/commitment-mapper…
 - Hydra-S1 ZK Scheme https://docs.sismo.io/sismo-docs/technical-concepts/hydra-zk-proving-schemes…"	
 - Privacy & Security FAQ (the less technical part): https://t.co/M3eVLoYeUK"				
-
 **Krebit**	
 
-- Privacy-preserving: your credential's claims are stored encrypted off-chain	Self-sovereign: you control the access conditions to read your private data	- "This is possible thanks to @LitProtocol and @ceramicnetwork"			
+- Privacy-preserving: your credential's claims are stored encrypted off-chain. Self-sovereign: you control the access conditions to read your private data	
+- This is possible thanks to @LitProtocol and @ceramicnetwork		
 
 **Puma browser**	
 
 One of the reasons we started focusing more on enabling novel use-cases like ENS/HNS/IPFS and others is because it's really easy to demo in 10-15 seconds and prove, vs privacy is much harder to both demo and prove beyond company reputation.					
-
 **Hideyour.cash** 
 
-- We’re on the process to conduct a security audit with a full report when going to mainnet.	
+- We’re in the process to conduct a security audit with a full report when going to mainnet.	
 - Our code is open source in case you wanna ask someone from your trust.	
 
 **Spook**	
 
-- "If you’re non technical you won’t be able to verify it yourself.
-- You need this information from a trusted source that has done the job of checking its privacy."					
+- If you’re non-technical you won’t be able to verify it yourself.
+- You need this information from a trusted source that has done the job of checking its privacy.				
 
 **Elusiv**	
 
-
-- Once we are live, detailed docs including our whitepaper will be released!	- you can expect more explanatory content covering various topics around privacy, ZKPs, MPC and more.
+- Once we are live, detailed docs including our whitepaper will be released!	
+- you can expect more explanatory content covering various topics around privacy, ZKPs, MPC and more.
 				
 **Beam**	
 
 - You can read Beams whitepaper	
 - I also recommend reading the Documentation	
-- "you can reach me here on Twitter, on Telegram @maxnflaxl or on Discord Maxnflaxl#8141"			
+- you can reach me here on Twitter, on Telegram @maxnflaxl or on Discord Maxnflaxl#8141		
 
 **Findora**	
 
-Dapps using our privacy SDK will allow their users to transact with privacy. The evidence can be found on our block explorer when one attempts to view the details.					
+Dapps using our privacy SDK will allow their users to transact with privacy. The evidence can be found on our block explorer when one attempts to view the details.				
 
 **Leo wallet**	
 
-Here's a talk by our co-founder/CTO discussing Zero-Knowledge Proofs in general and some features our wallet utilizes to increase privacy (e.g. single-use addresses) https://t.co/BLeKu2ghmS				
-
+Here's a talk by our co-founder/CTO discussing Zero-Knowledge Proofs in general and some features our wallet utilizes to increase privacy (e.g. single-use addresses): https://t.co/BLeKu2ghmS		
 **Scala**	
 
-You should probably start here: https://wiki.scalaproject.io and if you have questions send us a DM.					
+You should probably start here: https://wiki.scalaproject.io and if you have questions send us a DM.				
 
 **Media network**	
 
@@ -287,20 +283,19 @@ You should probably start here: https://wiki.scalaproject.io and if you have que
 - You should go to the very beginning of the medium articles. There is explained how the architecture works:	
 - https://medium.com/atanetwork/whats-automata-i-the-last-puzzle-piece-to-web-3-0-ea8a0af5840e
 https://medium.com/atanetwork/whats-automata-ii-protocol-overview-witness-7c1fc2232655
-- https://medium.com/atanetwork/whats-automata-iv-conveyor-93c9335e4f43"				
+- https://medium.com/atanetwork/whats-automata-iv-conveyor-93c9335e4f43"			
 
 **Aleo**	
-- " i'd start with the official Blog articles: www.aleo.org/post/welcome-to-aleo
-https://www.aleo.org/post/zero-knowledge-primitives-by-aleo"	
-- "Hi! there are so many info you can find in blog articles :Laughheart:  unofficial! 
-also there are so many videos on this topic you can find in 📸┃user-content
- our community has so many contributions and rich diversity of content"				
+- I'd start with the official Blog articles: www.aleo.org/post/welcome-to-aleo
+https://www.aleo.org/post/zero-knowledge-primitives-by-aleo	
+- Hi! there are so many info you can find in blog articles :Laughheart:  unofficial! 
+also there are so many videos on this topic you can find in 📸┃user-content our community has so many contributions and rich diversity of content				
 
 **MASQ**	
 
 - Join our beta testing group and simply try it for yourself!	
 - You can run any local and in-browser IP tests you want, and use other tools to see how the data is transported to and from your machine.	
-- As a non-techie the first start is simply check an IP checker website while using			
+- As a non-techie the first start is simply check an IP checker website while using		
 
 **Lokinet**	
 
@@ -323,6 +318,7 @@ https://t.co/8OQ0Fav16W" ("Concepts of payment rails")
 - As a final note, you'll find a range of useful content and project progress on our blog. If you have any questions, you can jump on our official telegram channel or tweet us: https://t.co/wHRkrrJ3F0"		
 
 **PirateChain**	
+
 Look at the block explorer and see if you can figure out how much ARRR is in a wallet...	
 				
 **Obscuro**	
@@ -333,17 +329,31 @@ Look at the block explorer and see if you can figure out how much ARRR is in a w
 - Provide education on how TEEs preserve privacy and the things to look out for"	
 - We'll deploy a game with significant funds that can only be won by breaking Obscuro's privacy. As long as the game isn't won, users can be confident privacy remains intact.			
 
-**SendingMe**	you can visit  @Sending_Network account to learn more about what is under the hood	our GitBook is pretty easy to read even if you are not techie :)				
+**SendingMe**	
 
-**Mysterium Network**	we would recommend our docs: https://docs.mysterium.network	"Also here is a study on decentralized VPN (featuring us) by 
-@NorthwesternU, thread + paper here :https://twitter.com/MysteriumNet/status/1619616182964994049"				
+- you can visit  @Sending_Network account to learn more about what is under the hood	
+- our GitBook is pretty easy to read even if you are not techie :)				
 
-**nix-bitcoin**	For one, you need to be fairly technical to setup nix-bitcoin at this point.	One important aspect is whether all outbound connections are tunneled through Tor by default. You could check the generated configuration files. For example, make sure that proxy=127.0.0.1:9050 is in fact set in /var/lib/bitcoind/bitcoin.conf.				
+**Mysterium Network**	
 
-**Litecash**	Litecash is the first fork of BEAM and we tweaked the fees to zero, and less congested to keep lightning fast transaction along with a sustainable coin supply for mass adoption while keeping inflation resistance. 	Our privacy is built on the mimblewimble protocol which is unique compared to other privacy protocols. Litecash transactions are not held on a ledger and disappear as opposed to other methods of scrambling or clustering which could actually be decoded with new wave super computers.	if a transfer does not complete due to a wrong address or defunct wallet, funds get sent back to the sender within 24 hours ensuring no lost coins. 			
+- we would recommend our docs: https://docs.mysterium.network	
+- "Also here is a study on decentralized VPN (featuring us) by @NorthwesternU, thread + paper here :https://twitter.com/MysteriumNet/status/1619616182964994049"				
 
-**Black Box**	For the transactions anonymizer, privacy is preserved when the onchain link between SENDER and RECEIVER wallets is broken or untraceable.					
+**nix-bitcoin**	
+
+- For one, you need to be fairly technical to setup nix-bitcoin at this point.	
+- One important aspect is whether all outbound connections are tunnelled through Tor by default. 
+- You could check the generated configuration files. For example, make sure that proxy=127.0.0.1:9050 is in fact set in /var/lib/bitcoind/bitcoin.conf.				
+
+**Litecash**	
+
+- Litecash is the first fork of BEAM and we tweaked the fees to zero, and less congested to keep lightning fast transaction along with a sustainable coin supply for mass adoption while keeping inflation resistance. 	
+- Our privacy is built on the mimblewimble protocol which is unique compared to other privacy protocols. Litecash transactions are not held on a ledger and disappear as opposed to other methods of scrambling or clustering which could actually be decoded with new wave super computers.	
+- if a transfer does not complete due to a wrong address or defunct wallet, funds get sent back to the sender within 24 hours ensuring no lost coins. 			
+
+**Black Box**	
+- For the transactions anonymizer, privacy is preserved when the onchain link between SENDER and RECEIVER wallets is broken or untraceable.					
 
 **Ergo**	
-Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions  https://t.co/KVNIk8amD1					
 
+- Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions  https://t.co/KVNIk8amD1					
