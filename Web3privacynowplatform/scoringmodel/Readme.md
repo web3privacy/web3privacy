@@ -150,53 +150,50 @@ _Product feature_
 Answers
 - Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 	
 - Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.	
-- There's a ton a technical person can do to verify but there's also a litmus test of #privacy that anyone can do. https://t.co/PqkUJWwmPD	
-- "This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another. 
-- You'll note in the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation.	
-- User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. 
-- In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.	
+- There's a ton a technical person can do to verify but there's also a litmus test of #privacy that anyone can do: https://t.co/PqkUJWwmPD	
+- "This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another). You'll note in the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation.	
+- User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.	
 - The To address is simply the RAILGUN smart contract on @0xPolygon in this case. So nothing is revealed about the recipient.
 - The value that exchanged hands? #Private
 - Try to decode the input data for the transaction? It's all #encrypted.
-- So how much money exchanged hands here? Well, the short answer here is - it's #private. Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
+- So how much money is exchanged hands here? Well, the short answer here is - it's #private. Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
 
 _Observations_
-- general web3 101 are needed for person to self-check privacy
+- general web3 101 is needed for a person to self-check privacy (what is 0zk address, relayer, etherscan etc)
+- simple instructions on transaction traceability will help to self-check sender-receiver-token-ammount links. Input & observations criteria (possible framework?) will help here (short instruction).
 
 _Product feature_
--
+- transaction traceability 101 (the basics on Etherscan example)
 
 **Penumbra**	
 
 Answers:
-- maybe look for people you trust that are able to analyze the technical solution for its privacy merits and then get their opinion ? it's prob difficult to analyze a technical protocol with a non-technical analysis.	
+- maybe look for people you trust that are able to analyze the technical solution for its privacy merits and then get their opinion? it's prob difficult to analyze a technical protocol with a non-technical analysis.	
 - what you're asking about relates to a more holistic assessment of a protocol and its attributes, so that should be within the scope of a research function moreso than a security audit function.
 
 _Observations_: 
--
+- complex technical protocols are inaccessible to the general public unless a third party completes a comprehensive audit from architecture to data leakages analysis 
 
-_Product feature_
--
+_Product feature:_
+- a checklist of when you need a "tech" person help to attest privacy features & when not (with a focus on a second scenario)
 
 **HOPR**	
 
 Answers:
-- FOSS. Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under GPLv3 license that allows you to do that (and also modify and re-distribute) hoprd freely: GitHub"	
-- Code quality. Open source code should be readable to be helpful to you! To that end we enforce code quality via linters for Typescript
+- FOSS. Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under GPLv3 license that allows you to do that (and also modify and re-distribute) hoprd freely.
+- Code quality. Open source code should be readable to be helpful to you! To that end, we enforce code quality via linters for Typescript
 https://github.com/hoprnet/hoprnet/blob/df7bc88517329472adbfe73bd4a22bddd5cfbcc9/package.json#L46… and for our Rust code: https://github.com/hoprnet/hoprnet/blob/master/rustfmt.toml…
-- Tools. So far we released tools such as http://DERP.hoprnet.org or http://mint.hoprnet.org (which in turn are obviously also FOSS!) that show shortcomings of existing technologies. We will keep building such tools also for HOPR itself."	"The exact checks you'd do depend on the application that actually use HOPR
-
-E.g. on #RPCh we're thinking of installing a VPN server on the RPCh exit node which would visualize requests via DERP: https://twitter.com/hoprnet/status/1596896868377792520"	If you want to go hardcore, you could use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out	
-- You will notice that you cannot tell anything from these packets - thanks to the Sphinx packet format that we use at HOPR:
-https://twitter.com/hoprnet/status/1572601550379311104
-- Check out our HOPR Basics series for more details:
-https://medium.com/hoprnet/basics/home"
+- Tools. So far we released tools such as http://DERP.hoprnet.org or http://mint.hoprnet.org (which in turn are obviously also FOSS!) that show shortcomings of existing technologies. We will keep building such tools also for HOPR itself. The exact checks you'd do depend on the application that actually uses HOPR E.g. on #RPCh we're thinking of installing a VPN server on the RPCh exit node which would visualize requests via DERP: https://twitter.com/hoprnet/status/1596896868377792520
+- If you want to go hardcore, you could use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out. You will notice that you cannot tell anything from these packets - thanks to the Sphinx packet format that we use at HOPR: https://twitter.com/hoprnet/status/1572601550379311104
 
 _Observations_: 
--
+- open-source basics are needed to have trust assumption that FOSS are more trustable compared to Apple, Mozilla etc (or not more, but it's a sign of reputation directly related to trust).
+- readable code could be a standard for privacy attestations (for techies, obviously). If it's obscured & not audit-friendly - flag
+- tools like DERP are good for transactions & tools ops traceability & should be created by the community (potential direction for us) - "DERP" for "everything"
+- packets traceability is a nightmare for non-techie but could be a "level up" needed by a tech person to understand privacy leakages (via "extended audit tooling" track)
 
 _Product feature_
--
+- "DERP"-alike tool for the future privacy script-based "check-up" product releases
 
 **Waku**	
 
@@ -206,38 +203,41 @@ Answers:
 - The target audience are researchers and maintainers of Waku implementations. Not the easiest thing to read!
 
 _Observations_: 
--
+- bits of https://vac.dev/wakuv2-relay-anon could be used for educational materials, but it's still highly-technical (or even security officer-centric, researcher-ready) 
 
 _Product feature_
-- 
+- "attacks" (threats) 101
 
 **Rotki**	
 
 Answers:
-- Don't think u can. Gotta trust either me or someone who can read code	"The simplest thing a non-techie person can understand is:
-- Local application with all data stored in a local encrypted database (private by design)"	
+- Don't think u can. Gotta trust either me or someone who can read code	
+- The simplest thing a non-techie person can understand are: 
+- Local application with all data stored in a local encrypted database (private by design)	
 - Opensource, so your techy friend can see we are not lying. It really isn't complicated imo.
 - To be 100% sure read code	
-- But it does not take an expert to understand that an application that you download, run locally and keeps all data locally is 1000x more private than a webapp
-- We have been brainwashed to calling webapps, as "apps" now.
+- But it does not take an expert to understand that an application that you download, run locally and keeps all data locally is 1000x more private than a webapp. We have been brainwashed to call webapps, as "apps" now.
 
 _Observations_: 
--
+- Trust assumptions, again, are related to high risk. Trust assumptions use-cases could share light on different scenarios of trust compromises. 
+- encryption 101 is needed relating to decentralised or local storage
+- open-source could be a "nice to have" feature in relation to decreasing the amount of centralisation or control
+- local "storage" vs "webapps" privacy scenarios are needed to explain control over the privacy leakages / negative scenarios
 
 _Product feature_
--
+- encryption 101
 
 **Webb**	
 
 Answers:
 - you need to analyze the data they create through transactions. If that data (and metadata) can be analyzed for patterns then that can help define the degree of privacy of the solution.	
-- For our bridge solution, this is akin to rebuilding the tx graph and seeing if flows through such a graph can be identified. The main actions in our system are deposit, transfers, and withdrawals. We use the same zero knowledge proof based ideas to make it harder to track…
+- For our bridge solution, this is akin to rebuilding the tx graph and seeing if flows through such a graph can be identified. The main actions in our system are deposit, transfers, and withdrawals. We use the same zero-knowledge proof-based ideas to make it harder to track
 
 _Observations_: 
--
+- Zero-knowledge magic will lead to lots of privacy breakages. 
 
 _Product feature_
--
+- ZK x privacy 101 for future releases (like decentralised sequencer 101)
 
 **Boring protocol**	
 
@@ -246,18 +246,18 @@ Answers:
 - All we know is your wallet pubkey, with which we issue and assign to a network key.
 
 _Observations_: 
--
+- when the project claims "we don't know" - exactly this should be attested (returning to "DERP" alike solution)
 
 _Product feature_
--  
+- pubkey, network key, viewing key etc 101
 
 **Lit protocol**	
 
 Answers:
-- State of Network is available right here:  https://t.co/sgaOX5SPga
+- State of Network is available right here: https://t.co/sgaOX5SPga
 
 _Observations_: 
--
+- state of the network isn't linked to privacy - false assumption (even if, it's too hard for a non-techie to double-check it)
 
 _Product feature_
 -
@@ -306,11 +306,12 @@ _Product feature_
 
 Answers:
 - "It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 	
-- You can also obtain the @NighthawkWallet APK built with @fdroidorg and verify the “no anti-features” tag. We’ve worked hard to remove dependency on third-party services and strictly require users’ consent before opting into sharing information: https://t.co/YwYd4RUeVh	
+- You can also obtain the @NighthawkWallet APK built with @fdroidorg and verify the “no anti-features” tag. 
+- We’ve worked hard to remove dependency on third-party services and strictly require users’ consent before opting into sharing information: https://t.co/YwYd4RUeVh	
 - Anti-Features are organized into “flags” that packagers can use to mark apps, warning of possibly undesirable behaviour from the user’s perspective, often serving the interest of the developer or a third party: https://t.co/LEaBIh8LV7"
 
 _Observations_: 
--
+- existing third-party allows to check 
 
 _Product feature_
 -  
