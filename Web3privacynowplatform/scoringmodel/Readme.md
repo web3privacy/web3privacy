@@ -195,14 +195,14 @@ _Product feature_
 
 Answers:
 - rfc.vac.dev is a good start. The RFC repository contains the specification of Waku and other protocols. In terms of @ethstatus's privacy claims. It is good to first look at the base layer: @waku_org
-- The RFCs describe the protocol and also contains security assumptions/guarantees section."	
+- The RFCs describe the protocol and also contain security assumptions/guarantees section."	
 - The target audience are researchers and maintainers of Waku implementations. Not the easiest thing to read!
 
 _Observations_: 
 -
 
 _Product feature_
--
+- 
 
 **Rotki**	
 
@@ -212,7 +212,7 @@ Answers:
 - Opensource, so your techy friend can see we are not lying. It really isn't complicated imo.
 - To be 100% sure read code	
 - But it does not take an expert to understand that an application that you download, run locally and keeps all data locally is 1000x more private than a webapp
-- We have been brainwashed to calling webapps, as ""apps"" now.
+- We have been brainwashed to calling webapps, as "apps" now.
 
 _Observations_: 
 -
@@ -620,42 +620,47 @@ Answers:
 - You could check the generated configuration files. For example, make sure that proxy=127.0.0.1:9050 is in fact set in /var/lib/bitcoind/bitcoin.conf.				
 
 _Observations_: 
--
+- if a product requires tech proficiency - it's important to highlight it (entry-level into tech understanding)
+- Tor is a plus1 to privacy, but not a silver bullet (important to understand "privacy enhancement" & not just "1 solution to general privacy")
+- configuration files can't be checked by non-techies (but could be used as a signal on privacy transparency - if service hides clues on how to self-check it's privacy credibility or not)
 
 _Product feature_
--
+- "privacy stack" enhancement prototyping (1 solution + 1 solution = privacy "2x" (like Session messenger + dVPN)
 
 **Litecash**	
 
 Answers:
-- Litecash is the first fork of BEAM and we tweaked the fees to zero, and less congested to keep lightning fast transaction along with a sustainable coin supply for mass adoption while keeping inflation resistance. 	
+- Litecash is the first fork of BEAM and we tweaked the fees to zero, and less congested to keep lightning-fast transaction along with a sustainable coin supply for mass adoption while keeping inflation resistance. 	
 - Our privacy is built on the mimblewimble protocol which is unique compared to other privacy protocols. Litecash transactions are not held on a ledger and disappear as opposed to other methods of scrambling or clustering which could actually be decoded with new wave super computers.	
 - if a transfer does not complete due to a wrong address or defunct wallet, funds get sent back to the sender within 24 hours ensuring no lost coins. 			
 
 _Observations_: 
--
+- a fork can be misleading to non-techies mistaking it for a core protocol or misunderstanding as an original product
+- third party tech is proven within another community, original protocol engineers &/or researchers which could obscure search on audits, privacy validity
+- DeFi features aren't equal privacy features
 
 _Product feature_
--
+- forkability x privacy 101
+- privacy tech vocabulary (mimblewimble, scrambling, clustering etc)
 
 **Black Box**	
 
 Answers:
 - For the transactions anonymizer, privacy is preserved when the onchain link between SENDER and RECEIVER wallets is broken or untraceable.					
 
-_Observations_: 
--
+_Observations:_ 
+- general privacy storytelling missing proof on untraceability (linkage between sender & receiver)
 
-_Product feature_
--
+_Product feature:_
+- private transactions 101 
 
 **Ergo**	
 
 Answers:
 - Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions  https://t.co/KVNIk8amD1
 
-_Observations_: 
--
+_Observations:_ 
+- important to understand that protocols could be non-private, but activate private use-cases (partial implementation). Separate core tech from privacy narrative
 
-_Product feature_
--
+_Product feature:_
+- case-studies (privacy matching): protocol = transparent, but use-cases = private (like Ethereum)
