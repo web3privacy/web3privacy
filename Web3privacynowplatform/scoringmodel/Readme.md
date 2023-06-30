@@ -114,10 +114,12 @@ Answers:
 - you can start by reading Litentry’s explainers first	
 - then maybe then read through other privacy solutions to make the comparison?
 
-_Observations_: 
+Observations:
+- explainers could explain privacy features but should be helpful to make self-research (to be investigated)
+- not many privacy projects compare themselves within privacy features (extreme exception: Samurai team attack Wasabi) - opportunity for us
 
 _Product feature_
-
+- future: privacy features comparison within solutions (creating a comprehensive privacy market metrics set)
 
 **BrightID**
 
@@ -125,9 +127,12 @@ Answers:
 - You could rationalize from the fact that it does not ask you for any personally identifying information directly, so there is nothing to preserve and keep it safe in its infrastructure.	
 - technical things you could ask a technical person you trust to look at its oss code.		
 
-_Observations_: 
+_Observations:_
+- if there's nothing to ask - there's  nothing to hide, - interesting assumption, but services could collect data without asking (like IP)
+- need extra technical help to analyse the code (potential for a privacy QA automation)
 
-_Product feature_		
+_Product features:_
+- privacy data leakages 101
 
 **Swarm**	
 
