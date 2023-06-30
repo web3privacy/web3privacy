@@ -612,13 +612,13 @@ _Product feature_
 
 Answers:
 - we would recommend our docs: https://docs.mysterium.network	
-- "Also here is a study on decentralized VPN (featuring us) by @NorthwesternU, thread + paper here :https://twitter.com/MysteriumNet/status/1619616182964994049"				
+- Also here is a study on decentralized VPN (featuring us) by @NorthwesternU, thread + paper here: https://twitter.com/MysteriumNet/status/1619616182964994049"				
 
 _Observations_: 
--
+- third party study could be a nice entry into a category understanding (not directly linked with the project, team)
 
 _Product feature_
--
+- useful links (like dVPN studies in a DYOR section)
 
 **nix-bitcoin**	
 
