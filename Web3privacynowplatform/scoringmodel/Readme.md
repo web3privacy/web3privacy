@@ -286,8 +286,8 @@ _Observations_:
 - GitHub (updated, alive) could be a checkmark (formal)
 
 **Product feature**
-- GitHub basic score (flag system could be a part of second product release)
-- List of external third party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
+- GitHub basic score (flag system could be a part of the second product release)
+- List of external third-party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
 
 **Orbis**	
 
@@ -316,29 +316,31 @@ _Product feature_
 **KILT Protocol**	
 
 Answers:
-"KILT preserves privacy in the same way paper or plastic credentials do:
+KILT preserves privacy in the same way paper or plastic credentials do:
 
 1. they are not stored on any central entity but totally decentralised in the wallets of their owners. 
 2. users decide for what reason they share a credential with whom. 
 3. one can share credentials partially"	A DID is created on the user‘s device. Like your blockchain keypair. It’s an identifier like your face, your fingerprint or your signature. It’s not issued by any entity. This way it’s always decentralised and does not have a decentralisation status.
 
 _Observations_: 
--
+- web2 product comparison with the web3 is a valuable hint to not necessarily expect 100% privacy if it's a format, or product feature (not a bug) - applicable to a whole category
+- "free to share" ability could be communicated as a person's agency over privacy (similar to the "viewing key" approach in ZK)
+- a link between the different parts of DID should be more explored (like how age or geo could lead to identity discovery)
 
 _Product feature_
--			
+- did 101 (with a focus on the linkage between different data types)	
 
 **Onionclub**	
 
 Answers:
-- actually privacy is by default on our platform. It's not an option! 
+- actually, privacy is by default on our platform. It's not an option! 
 - So, every user will have this enabled and if they want to be doxxed then they need to jump through some hoops.		
 
 _Observations_: 
--
+- lack clear attestation
 
 _Product feature_
--
+- web3 comms 101 (with a focus on misleading comms that create an obscure understanding of the tech/product)
 
 **Sismo**
 
@@ -349,22 +351,18 @@ Answers:
 - Privacy & Security FAQ (the less technical part): https://t.co/M3eVLoYeUK				
 
 _Observations_: 
--
-
-_Product feature_
--
+- all concepts are too technical, & FAQ is missing from the docs
 
 **Krebit**	
 
 Answers:
-- Privacy-preserving: your credential's claims are stored encrypted off-chain. Self-sovereign: you control the access conditions to read your private data	
+- Privacy-preserving: your credential's claims are stored encrypted off-chain. 
+- Self-sovereign: you control the access conditions to read your private data	
 - This is possible thanks to @LitProtocol and @ceramicnetwork
 
-_Observations_: 
--
-
-_Product feature_
--
+_Observations_
+- self-sovereignty is still an obscure concept for many people online. Especially, when technical concepts like "access conditions" are shared with people
+- it's important to share public audits if a product uses privacy features of a third party (the more services are involved in the tech link - the easier is to obscure people's attention & understanding of privacy stack)
 
 **Puma browser**	
 
@@ -372,10 +370,7 @@ Answers:
 One of the reasons we started focusing more on enabling novel use-cases like ENS/HNS/IPFS and others is because it's really easy to demo in 10-15 seconds and prove, vs privacy is much harder to both demo and prove beyond company reputation.
 
 _Observations_: 
--
-
-_Product feature_
--
+- marketing language creates a vague understanding of privacy features. Moreover, people are bombarded by web3 slang, and third-party services & can't test privacy features with ease
 				
 **Hideyour.cash** 
 
@@ -384,10 +379,10 @@ Answers:
 - Our code is open source in case you wanna ask someone from your trust.
 
 _Observations_: 
--
+- would be good if services will share their security audit plans with a clear roadmap. Having a public commitment to privacy could be a part of positive behavior on behalf of the tech teams
 
 _Product feature_
--
+- security audits 101 (basics)
 
 **Spook**	
 
@@ -396,10 +391,10 @@ Answers:
 - You need this information from a trusted source that has done the job of checking its privacy.
 
 _Observations_: 
--
+- which leads to a necessity to have three actors relations: product-"trusted source"-person ("privacy trilemma") 
 
 _Product feature_
--
+- trusted sources checklist (&/or a list)
 
 **Elusiv**	
 
@@ -408,10 +403,10 @@ Answers:
 - you can expect more explanatory content covering various topics around privacy, ZKPs, MPC and more.
 
 _Observations_: 
--
+- no whitepaper, no docs - could be a soft flag on privacy features (more open data = higher potential privacy rate). Where "having a whitepaper" is a plus, but not a silver bullet
 
 _Product feature_
--
+- web3 open-source checklist (soft screening like whitepaper (yes/no), docs (yes/no) etc) 
 
 **Beam**	
 
@@ -421,10 +416,7 @@ Answers:
 - you can reach me here on Twitter, on Telegram @maxnflaxl or on Discord Maxnflaxl#8141		
 
 _Observations_: 
--
-
-_Product feature_
--
+- many projects still project "trust source" on themselves. Without sharing the results of hacker bounties, public QA, whitehacker audits & so on. The culture of third-party public discussions is almost non-existent (to be researched why except the price of audits)
 
 **Findora**	
 
@@ -432,21 +424,19 @@ Answers:
 Dapps using our privacy SDK will allow their users to transact with privacy. The evidence can be found on our block explorer when one attempts to view the details.				
 
 _Observations_: 
--
-
-_Product feature_
--
+- block explorers aren't made for the general public to understand the data flow (this could lead in the future to a human-friendly block explorer x privacy education)
 
 **Leo wallet**	
 
 Answers:
-- Here's a talk by our co-founder/CTO discussing Zero-Knowledge Proofs in general and some features our wallet utilizes to increase privacy (e.g. single-use addresses): https://t.co/BLeKu2ghmS		
+- Here's a talk by our co-founder/CTO discussing Zero-Knowledge Proofs in general and some features our wallet utilizes to increase privacy (e.g. single-use addresses): https://t.co/BLeKu2ghmS	
 
 _Observations_: 
--
+- visuals complimentary to the interview help to navigate non-techies with ease on the privacy subject. One of the rare projects talking about the limitations of their tech (o ZK tech in general). But still, everything related to ZK (proving schemes, for example) is highly technical.
+- ZK-products will see lots of exploitations & bugs in the future, so it's important to educate people on the state of general tech, so they won't transfer all the sensitive data because of the hype, attention etc
 
 _Product feature_
--
+- ZK 101 (with a focus on privacy, not scalability)
 
 **Scala**	
 
@@ -454,10 +444,8 @@ Answers:
 - You should probably start here: https://wiki.scalaproject.io and if you have questions send us a DM.			
 
 _Observations_: 
--
-
-_Product feature_
--
+- again, projects don't care about privacy validation as if it's a default trustless state. Which is incorrect.
+- the general wiki isn't the best source of knowledge (one opposite positive example: Waku)
 
 **Media network**	
 
@@ -467,22 +455,24 @@ Answers:
 - The client only needs to disclose the origin (i.e., the back-end IP) for the CDN marketplace and the Legacy dCDN.		
 
 _Observations_: 
--
+- people could be misinformed about the way blockchain works thinking that security means privacy
+- encryption doesn't mean you don't leak your data to RPC, hosting etc. Cross-services/products relations to data leakages should become a market standard of comms (example: using one privacy tool that is private, but connecting it to another that leaks your data equals privacy breaches).
 
 _Product feature_
--
+- web3 privacy 101 (focus on a misleading comms like blockchain security equals privacy)
 
 **Privacy & Scalability**	
 
 Answers:
-- one approach might be looking at the public data from the system. If you see user identifiers being used only once that's perhaps helpful? But a non-technical person doesn't know if identifiers are true random, or if they're backdoored somehow.	
+- one approach might be looking at the public data from the system. If you see user identifiers being used only once that's perhaps helpful? But a non-technical person doesn't know if identifiers are truly random, or if they're backdoored somehow.	
 - With the unirep protocol we're building an explorer that shows all the things happening in the system. So a user could see their epoch keys and attestations and see how they're distinct in the system. One thing we might do is write what can and can't be determined about the different identifiers.				
 
 _Observations_: 
--
+- hackathons on user identification could help to empower product privacy. Whitehackers role in a privacy market could be uplifted to a degree of product self-check/health check providing additional avenues for a third-parties to contribute to the open-source meaningfully.
+- identifiers could be created with a maximum anonymity set (and almost no linkage to a real person unlike a Covid passport)
 
 _Product feature_
--
+- different self-check recommendations by security audits, white hackers as a supplement (how would you test product privacy)
 
 **Automata**	
 
@@ -493,53 +483,55 @@ https://medium.com/atanetwork/whats-automata-ii-protocol-overview-witness-7c1fc2
 - https://medium.com/atanetwork/whats-automata-iv-conveyor-93c9335e4f43"			
 
 _Observations_: 
--
+- all materials are outdated & not supplied by a third-party attestation
+- medium is a centralised platform that could be edited at any time (read: information could be forged)
+- projects are creating long-reads as if people have a conscious need to dive deep on their journey of a product audit (misconception or you could say "web3 privacy products biases")
 
 _Product feature_
--
+- part of the wiki: web3 privacy products biases (in relation to privacy features x user experience)
 
 **Aleo**
 
 Answers:	
 - I'd start with the official Blog articles: www.aleo.org/post/welcome-to-aleo
 https://www.aleo.org/post/zero-knowledge-primitives-by-aleo	
-- Hi! there are so many info you can find in blog articles :Laughheart:  unofficial! 
-also there are so many videos on this topic you can find in 📸┃user-content our community has so many contributions and rich diversity of content				
-
+- also there are so many videos on this topic you can find in 📸┃user-content our community has so many contributions and rich diversity of content				
 _Observations_: 
--
-
-_Product feature_
--
+- products or ecosystem bombard people with messy content the same way as corporations (so answers can't be found fast & with the 1 link)
 
 **MASQ**	
 
 Answers:
 - Join our beta testing group and simply try it for yourself!	
 - You can run any local and in-browser IP tests you want, and use other tools to see how the data is transported to and from your machine.	
-- As a non-techie the first start is simply check an IP checker website while using		
+- As a non-techie the first start is simply to check an IP checker website while using		
 
 _Observations_: 
--
+- testing group or phase is a healthy point to the ecosystem & understanding the state of privacy and communal trust (test sandbox with a friendly UX/UI could be a solution here)
+- data transportation is a challenge (here we get back with the "DERP") to be explored
 
 _Product feature_
--
+- web3-native IP-checker for a beta version
+- web3-native privacy features checker to be R&D (what could be automated & coded for QA-automation) 
+
 
 **Lokinet**	
 
 Answers:
 - user education would absolutely be how. 
-- To be fair lokinet's docs arent really there rn, it's always on the todo list and never really gets done.	
-- once you do all the user education you can, you get to the point where you see that privacy is more of a bonus to seal the deal than a primary feature from the perspective of the consumer grade user.	
-- ideally we dont want lokinet to leak anything at all. 
+- To be fair lokinet's docs aren't really there rn, it's always on the todo list and never really gets done.	
+- once you do all the user education you can, you get to the point where you see that privacy is more of a bonus to seal the deal than a primary feature from the perspective of the consumer-grade user.	
+- ideally, we don't want Lokinet to leak anything at all. 
 - net usage statistics tools from projects like pihole provide great visualizations for some of it. 
-- i am sure there are ones for netflow data too not just dns. 			
+- I am sure there are ones for netflow data too not just dns. 			
 
 _Observations_: 
--
+- docs validity & proficiency is a hard field to analyse. Even the most up-to-date docs could be obscure & vague.
+- privacy as a bonus field should be more explored (when a person moves from a user-friendly, let's say, dVPN to a really private one) & mapped down as a user-flow
+- pihole is highly complex for a non-techie, but we could encourage services to prove via self-tests (blog posts, videos) when they test & prove how exactly private their services are raising a culture of privacy 
 
 _Product feature_
--
+- "net usage stats" services guide for the end user (but with a focus on empowering product managers to incorporate third-party tools to self-check their products & publicly report on their privacy features)
 
 **ActiList**	
 
@@ -547,36 +539,30 @@ Answers:
 We are running on the Secret Network blockchain, you can check out http://SCRT.network for more information.			
 
 _Observations_: 
--
-
-_Product feature_
--
+- product is obscuring the state of privacy to a bigger ecosystem entity without simple proves (usually, because such projects lacks privacy/security engineers in their teams)
 
 **Cheqd**	
 
 Answers:
 - You can start by learning about verifiable credentials, decentralised identifiers(DID), and the concept of Self-Sovereign identity.	
-- cheqd is quite technical, and in order to understand why it is privacy preserving, you'll need to get familiar with some terms.	
-- "You can also learn more about each of the components of the network, the credential types, co clots of payment rails and verification by visiting our learn pages
+- cheqd is quite technical, and in order to understand why it is privacy-preserving, you'll need to get familiar with some terms.	
+- "You can also learn more about each of the components of the network, the credential types, co-clots of payment rails and verification by visiting our learn pages
 https://t.co/8OQ0Fav16W" ("Concepts of payment rails")
-- As a final note, you'll find a range of useful content and project progress on our blog. If you have any questions, you can jump on our official telegram channel or tweet us: https://t.co/wHRkrrJ3F0"		
+- you'll find a range of useful content and project progress on our blog. If you have any questions, you can jump on our official telegram channel or tweet us: https://t.co/wHRkrrJ3F0"
 
 _Observations_: 
--
+- verifiable credentials are still highly technical (although, Dock is trying to simplify end-user understanding) in times when DID is one of the most common use-cases for the web3. Technical complexity created a challenge for non-techie to understand the state of privacy (especially, when it requires dozens of ours of reading materials & new skills development like doc reading, code analysis etc)
 
 _Product feature_
--
+- privacy-preserving vocabulary
 
 **PirateChain**	
 
 Answers:
-Look at the block explorer and see if you can figure out how much ARRR is in a wallet...	
+Look at the block explorer and see if you can figure out how much ARRR is in a wallet	
 
 _Observations_: 
--
-
-_Product feature_
--
+- obscure & too technical
 
 **Obscuro**	
 
@@ -588,7 +574,7 @@ Answers:
 - We'll deploy a game with significant funds that can only be won by breaking Obscuro's privacy. As long as the game isn't won, users can be confident privacy remains intact.			
 
 _Observations_: 
--
+- "trusted authorities" 
 
 _Product feature_
 -
