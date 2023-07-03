@@ -4,7 +4,7 @@
 - we made a survey on how privacy projects recommend analysing if they are private or not.
 - answers were assembled into 1 Excel sheet to be further analysed
 
-**Fileverse**	
+## **Fileverse**	
 
 Answers:
 - open sourcing our work
@@ -24,7 +24,7 @@ _Product feature_
 - documentation: exists/missing (+/-)
 - social recovery 101
 
-**Lava Network**	
+## **Lava Network**	
 
 Answers:
 - starting with our litepaper	
@@ -37,7 +37,7 @@ _Observations_:
 _Product feature_
 - in the future: collab with a security audit companies to create a new docs audit service description when a third-party will attest privacy-features of the initial idea x tooling description
 
-**Holonym**	
+## **Holonym**	
 
 Answers:
 - Check their website or docs	
@@ -48,13 +48,12 @@ _Observations_:
 - "check" is a highly abstract action related to the website or docs -> extract value should be related to understanding "privacy"-validity markers
 - "private data explainers" needed to be defined within use-cases (case studies for the market)
 
-
 _Product feature_:
 - website checklist (1-2-3-4-5..., yes/no validity)
 - case studies "private data" explainers
 - DYOR (that's our platform)
 
-**Spinner cash**	
+## **Spinner cash**	
 
 Answers
 - code is law. 
@@ -70,7 +69,7 @@ _Product feature_:
 - missing 3rd party audit potential risks 101
 - 3rd party list (yes/no) from security audit agencies to independent security engineers (+their reputation 101 in later versions)
 
-**Session**	
+## **Session**	
 
 Answers
 - There is the Session code audit	
@@ -84,7 +83,7 @@ _Product feature_:
 - code audit (yes/no). Case studies (how those audits could look alike with active links)
 - simplified media analysis 101
 
-**ZKBob**
+## **ZKBob**
 
 Answers
 - whether the solution forces users to preserve their privacy or if it's the user's responsibility. For example, Tornado Cash increases anonymity by requiring users to deposit a specific amount but doesn't require using different addresses for withdrawals	
@@ -108,7 +107,7 @@ _Product feature_:
 - privacy in ZK 101
 - later on - case studies when solutions actively embed privacy education within the workflow
 
-**Litentry**	
+## **Litentry**	
 
 Answers:
 - you can start by reading Litentry’s explainers first	
@@ -121,7 +120,7 @@ Observations:
 _Product feature_
 - future: privacy features comparison within solutions (creating a comprehensive privacy market metrics set)
 
-**BrightID**
+## **BrightID**
 
 Answers:
 - You could rationalize from the fact that it does not ask you for any personally identifying information directly, so there is nothing to preserve and keep it safe in its infrastructure.	
@@ -134,7 +133,7 @@ _Observations:_
 _Product features:_
 - privacy data leakages 101
 
-**Swarm**	
+## **Swarm**	
 
 Answers
 - reading our whitepaper, which provides a comprehensive overview of Swarm's technology and how it achieves privacy	
@@ -145,7 +144,7 @@ _Observations_:
 _Product feature_
 - web3 docs 101 (basic description in relation to privacy)	
 
-**Railgun**	
+## **Railgun**	
 
 Answers
 - Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 	
@@ -165,7 +164,7 @@ _Observations_
 _Product feature_
 - transaction traceability 101 (the basics on Etherscan example)
 
-**Penumbra**	
+## **Penumbra**	
 
 Answers:
 - maybe look for people you trust that are able to analyze the technical solution for its privacy merits and then get their opinion? it's prob difficult to analyze a technical protocol with a non-technical analysis.	
@@ -177,7 +176,7 @@ _Observations_:
 _Product feature:_
 - a checklist of when you need a "tech" person help to attest privacy features & when not (with a focus on a second scenario)
 
-**HOPR**	
+## **HOPR**	
 
 Answers:
 - FOSS. Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under GPLv3 license that allows you to do that (and also modify and re-distribute) hoprd freely.
@@ -195,7 +194,7 @@ _Observations_:
 _Product feature_
 - "DERP"-alike tool for the future privacy script-based "check-up" product releases
 
-**Waku**	
+## **Waku**	
 
 Answers:
 - rfc.vac.dev is a good start. The RFC repository contains the specification of Waku and other protocols. In terms of @ethstatus's privacy claims. It is good to first look at the base layer: @waku_org
@@ -208,7 +207,7 @@ _Observations_:
 _Product feature_
 - "attacks" (threats) 101
 
-**Rotki**	
+## **Rotki**	
 
 Answers:
 - Don't think u can. Gotta trust either me or someone who can read code	
@@ -227,7 +226,7 @@ _Observations_:
 _Product feature_
 - encryption 101
 
-**Webb**	
+## **Webb**	
 
 Answers:
 - you need to analyze the data they create through transactions. If that data (and metadata) can be analyzed for patterns then that can help define the degree of privacy of the solution.	
@@ -239,7 +238,7 @@ _Observations_:
 _Product feature_
 - ZK x privacy 101 for future releases (like decentralised sequencer 101)
 
-**Boring protocol**	
+## **Boring protocol**	
 
 Answers:
 - The "no logs" claims are generally very ambiguous. We make a point to know as little as technically possible about our users. We only know the bare minimum required to make the network function. 	
@@ -251,7 +250,7 @@ _Observations_:
 _Product feature_
 - pubkey, network key, viewing key etc 101
 
-**Lit protocol**	
+## **Lit protocol**	
 
 Answers:
 - State of Network is available right here: https://t.co/sgaOX5SPga
@@ -259,7 +258,7 @@ Answers:
 _Observations_: 
 - state of the network isn't linked to privacy - false assumption (even if, it's too hard for a non-techie to double-check it)
 
-**Alter network**	
+## **Alter network**	
 
 Answers:
 - Try the #dapp and join the chatroom for @AlterDapp community	
@@ -270,7 +269,7 @@ Answers:
 - Product usage rarely has sophisticated UX/UI that could correspond privacy features in a simple way with proves
 - Projects use socials like Discord to share product-centric materials (from analytics to audits) while websites are not often updated
 
-**Sons of crypto**	
+## **Sons of crypto**	
 
 Answers:
 - We have no (google) analytics or tracking	
@@ -289,7 +288,7 @@ _Observations_:
 - GitHub basic score (flag system could be a part of the second product release)
 - List of external third-party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
 
-**Orbis**	
+## **Orbis**	
 
 Answers:
 - You can check our open-sourced SDK, but that would require people to read some code :) https://t.co/iiA7lSaDdn
@@ -297,7 +296,7 @@ Answers:
 _Observations_: 
 - SDK is just too technical
 
-**Nighthawk Wallet**	
+## **Nighthawk Wallet**	
 
 Answers:
 - It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 
@@ -313,7 +312,7 @@ _Observations_:
 _Product feature_
 - "Anti-features" 101
 
-**KILT Protocol**	
+## **KILT Protocol**	
 
 Answers:
 KILT preserves privacy in the same way paper or plastic credentials do:
@@ -330,7 +329,7 @@ _Observations_:
 _Product feature_
 - did 101 (with a focus on the linkage between different data types)	
 
-**Onionclub**	
+## **Onionclub**	
 
 Answers:
 - actually, privacy is by default on our platform. It's not an option! 
@@ -342,7 +341,7 @@ _Observations_:
 _Product feature_
 - web3 comms 101 (with a focus on misleading comms that create an obscure understanding of the tech/product)
 
-**Sismo**
+## **Sismo**
 
 Answers:
 - Here are the public resources we have around the core of our ZK systems: 
@@ -353,7 +352,7 @@ Answers:
 _Observations_: 
 - all concepts are too technical, & FAQ is missing from the docs
 
-**Krebit**	
+## **Krebit**	
 
 Answers:
 - Privacy-preserving: your credential's claims are stored encrypted off-chain. 
@@ -364,7 +363,7 @@ _Observations_
 - self-sovereignty is still an obscure concept for many people online. Especially, when technical concepts like "access conditions" are shared with people
 - it's important to share public audits if a product uses privacy features of a third party (the more services are involved in the tech link - the easier is to obscure people's attention & understanding of privacy stack)
 
-**Puma browser**	
+## **Puma browser**	
 
 Answers:
 One of the reasons we started focusing more on enabling novel use-cases like ENS/HNS/IPFS and others is because it's really easy to demo in 10-15 seconds and prove, vs privacy is much harder to both demo and prove beyond company reputation.
@@ -372,7 +371,7 @@ One of the reasons we started focusing more on enabling novel use-cases like ENS
 _Observations_: 
 - marketing language creates a vague understanding of privacy features. Moreover, people are bombarded by web3 slang, and third-party services & can't test privacy features with ease
 				
-**Hideyour.cash** 
+## **Hideyour.cash** 
 
 Answers:
 - We’re in the process to conduct a security audit with a full report when going to mainnet.	
@@ -384,7 +383,7 @@ _Observations_:
 _Product feature_
 - security audits 101 (basics)
 
-**Spook**	
+## **Spook**	
 
 Answers:
 - If you’re non-technical you won’t be able to verify it yourself.
@@ -396,7 +395,7 @@ _Observations_:
 _Product feature_
 - trusted sources checklist (&/or a list)
 
-**Elusiv**	
+## **Elusiv**	
 
 Answers:
 - Once we are live, detailed docs including our whitepaper will be released!	
@@ -408,7 +407,7 @@ _Observations_:
 _Product feature_
 - web3 open-source checklist (soft screening like whitepaper (yes/no), docs (yes/no) etc) 
 
-**Beam**	
+## **Beam**	
 
 Answers:
 - You can read Beams whitepaper	
@@ -418,7 +417,7 @@ Answers:
 _Observations_: 
 - many projects still project "trust source" on themselves. Without sharing the results of hacker bounties, public QA, whitehacker audits & so on. The culture of third-party public discussions is almost non-existent (to be researched why except the price of audits)
 
-**Findora**	
+## **Findora**	
 
 Answers:
 Dapps using our privacy SDK will allow their users to transact with privacy. The evidence can be found on our block explorer when one attempts to view the details.				
@@ -426,7 +425,7 @@ Dapps using our privacy SDK will allow their users to transact with privacy. The
 _Observations_: 
 - block explorers aren't made for the general public to understand the data flow (this could lead in the future to a human-friendly block explorer x privacy education)
 
-**Leo wallet**	
+## **Leo wallet**	
 
 Answers:
 - Here's a talk by our co-founder/CTO discussing Zero-Knowledge Proofs in general and some features our wallet utilizes to increase privacy (e.g. single-use addresses): https://t.co/BLeKu2ghmS	
@@ -438,7 +437,7 @@ _Observations_:
 _Product feature_
 - ZK 101 (with a focus on privacy, not scalability)
 
-**Scala**	
+## **Scala**	
 
 Answers:
 - You should probably start here: https://wiki.scalaproject.io and if you have questions send us a DM.			
@@ -447,7 +446,7 @@ _Observations_:
 - again, projects don't care about privacy validation as if it's a default trustless state. Which is incorrect.
 - the general wiki isn't the best source of knowledge (one opposite positive example: Waku)
 
-**Media network**	
+## **Media network**	
 
 Answers:
 - Thanks to the blockchain and smart contracts, your personal and payment information is always secure. 	
@@ -461,7 +460,7 @@ _Observations_:
 _Product feature_
 - web3 privacy 101 (focus on a misleading comms like blockchain security equals privacy)
 
-**Privacy & Scalability**	
+## **Privacy & Scalability**	
 
 Answers:
 - one approach might be looking at the public data from the system. If you see user identifiers being used only once that's perhaps helpful? But a non-technical person doesn't know if identifiers are truly random, or if they're backdoored somehow.	
@@ -474,7 +473,7 @@ _Observations_:
 _Product feature_
 - different self-check recommendations by security audits, white hackers as a supplement (how would you test product privacy)
 
-**Automata**	
+## **Automata**	
 
 Answers:
 - You should go to the very beginning of the medium articles. There is explained how the architecture works:	
@@ -490,7 +489,7 @@ _Observations_:
 _Product feature_
 - part of the wiki: web3 privacy products biases (in relation to privacy features x user experience)
 
-**Aleo**
+## **Aleo**
 
 Answers:	
 - I'd start with the official Blog articles: www.aleo.org/post/welcome-to-aleo
@@ -499,7 +498,7 @@ https://www.aleo.org/post/zero-knowledge-primitives-by-aleo
 _Observations_: 
 - products or ecosystem bombard people with messy content the same way as corporations (so answers can't be found fast & with the 1 link)
 
-**MASQ**	
+## **MASQ**	
 
 Answers:
 - Join our beta testing group and simply try it for yourself!	
@@ -514,8 +513,7 @@ _Product feature_
 - web3-native IP-checker for a beta version
 - web3-native privacy features checker to be R&D (what could be automated & coded for QA-automation) 
 
-
-**Lokinet**	
+## **Lokinet**	
 
 Answers:
 - user education would absolutely be how. 
@@ -533,7 +531,7 @@ _Observations_:
 _Product feature_
 - "net usage stats" services guide for the end user (but with a focus on empowering product managers to incorporate third-party tools to self-check their products & publicly report on their privacy features)
 
-**ActiList**	
+## **ActiList**	
 
 Answers:
 We are running on the Secret Network blockchain, you can check out http://SCRT.network for more information.			
@@ -541,7 +539,7 @@ We are running on the Secret Network blockchain, you can check out http://SCRT.n
 _Observations_: 
 - product is obscuring the state of privacy to a bigger ecosystem entity without simple proves (usually, because such projects lacks privacy/security engineers in their teams)
 
-**Cheqd**	
+## **Cheqd**	
 
 Answers:
 - You can start by learning about verifiable credentials, decentralised identifiers(DID), and the concept of Self-Sovereign identity.	
@@ -556,7 +554,7 @@ _Observations_:
 _Product feature_
 - privacy-preserving vocabulary
 
-**PirateChain**	
+## **PirateChain**	
 
 Answers:
 Look at the block explorer and see if you can figure out how much ARRR is in a wallet	
@@ -564,7 +562,7 @@ Look at the block explorer and see if you can figure out how much ARRR is in a w
 _Observations_: 
 - obscure & too technical
 
-**Obscuro**	
+## **Obscuro**	
 
 Answers:
 - we'll build tools that have been audited by trusted authorities to verify attestation of software versions along with audits showing the software doesn't leak privacy
@@ -582,7 +580,7 @@ _Observations_:
 _Product feature_
 - examples of how products enhance privacy creatively (like a game mention by Obscuro) -> potential market benchmarks
 
-**SendingMe**	
+## **SendingMe**	
 
 Answers:
 - you can visit @Sending_Network account to learn more about what is under the hood	
@@ -591,7 +589,7 @@ Answers:
 _Observations_: 
 - too technical
 
-**Mysterium Network**	
+## **Mysterium Network**	
 
 Answers:
 - we would recommend our docs: https://docs.mysterium.network	
@@ -603,13 +601,12 @@ _Observations_:
 _Product feature_
 - useful links (like dVPN studies in a DYOR section)
 
-**nix-bitcoin**	
+## **nix-bitcoin**	
 
 Answers:
 - For one, you need to be fairly technical to setup nix-bitcoin at this point.	
 - One important aspect is whether all outbound connections are tunnelled through Tor by default. 
 - You could check the generated configuration files. For example, make sure that proxy=127.0.0.1:9050 is in fact set in /var/lib/bitcoind/bitcoin.conf.				
-
 _Observations_: 
 - if a product requires tech proficiency - it's important to highlight it (entry-level into tech understanding)
 - Tor is a plus1 to privacy, but not a silver bullet (important to understand "privacy enhancement" & not just "1 solution to general privacy")
@@ -618,7 +615,7 @@ _Observations_:
 _Product feature_
 - "privacy stack" enhancement prototyping (1 solution + 1 solution = privacy "2x" (like Session messenger + dVPN)
 
-**Litecash**	
+## **Litecash**	
 
 Answers:
 - Litecash is the first fork of BEAM and we tweaked the fees to zero, and less congested to keep lightning-fast transaction along with a sustainable coin supply for mass adoption while keeping inflation resistance. 	
@@ -634,18 +631,17 @@ _Product feature_
 - forkability x privacy 101
 - privacy tech vocabulary (mimblewimble, scrambling, clustering etc)
 
-**Black Box**	
+## **Black Box**	
 
 Answers:
 - For the transactions anonymizer, privacy is preserved when the onchain link between SENDER and RECEIVER wallets is broken or untraceable.					
-
 _Observations:_ 
 - general privacy storytelling missing proof on untraceability (linkage between sender & receiver)
 
 _Product feature:_
 - private transactions 101 
 
-**Ergo**	
+## **Ergo**	
 
 Answers:
 - Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions  https://t.co/KVNIk8amD1
