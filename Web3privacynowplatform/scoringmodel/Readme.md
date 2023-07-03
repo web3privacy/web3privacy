@@ -259,37 +259,35 @@ Answers:
 _Observations_: 
 - state of the network isn't linked to privacy - false assumption (even if, it's too hard for a non-techie to double-check it)
 
-_Product feature_
--
-
 **Alter network**	
 
 Answers:
-- "Try the #dapp and join the chatroom for @AlterDapp community	
-- "You can check out this video to see how to create an account on mobile: https://youtu.be/ZgpCHDnR9WU"	
-- The discord has a lot of resources as well, depending in what you need.
+- Try the #dapp and join the chatroom for @AlterDapp community	
+- You can check out this video to see how to create an account on mobile: https://youtu.be/ZgpCHDnR9WU	
+- The discord has a lot of resources as well, depending on what you need.
 
-_Observations_: 
--
-
-_Product feature_
-- 
+**Observations**: 
+- Product usage rarely has sophisticated UX/UI that could correspond privacy features in a simple way with proves
+- Projects use socials like Discord to share product-centric materials (from analytics to audits) while websites are not often updated
 
 **Sons of crypto**	
 
 Answers:
 - We have no (google) analytics or tracking	
 - We do not run any backend	
-- We will have built in mixers	
-- We dont know or what to know who or where users are. For non-techie that would not be straight forward. 
+- We will have built-in mixers	
+- We don't know or what to know who or where users are. For non-techie that would not be straightforward. 
 - Perhaps using something like https://charlesproxy.com to see all the traffic. Still fairly techie though.
 - For devs all of our code is open source on github, anyone can read it.
 
 _Observations_: 
--
+- Tracking could be by a third party like Google (also compromises privacy & fake conscious consent)
+- External services like Charleproxy is really valuable, but create a burden on a non-techie, because of it's complexity (but will work for a techie)
+- GitHub (updated, alive) could be a checkmark (formal)
 
-_Product feature_
--
+**Product feature**
+- GitHub basic score (flag system could be a part of second product release)
+- List of external third party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
 
 **Orbis**	
 
@@ -297,24 +295,23 @@ Answers:
 - You can check our open-sourced SDK, but that would require people to read some code :) https://t.co/iiA7lSaDdn
 
 _Observations_: 
--
-
-_Product feature_
--  
+- SDK is just too technical
 
 **Nighthawk Wallet**	
 
 Answers:
-- "It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 	
+- It’s been a while since @NighthawkWallet APK was analyzed for privacy concerns. Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 
 - You can also obtain the @NighthawkWallet APK built with @fdroidorg and verify the “no anti-features” tag. 
 - We’ve worked hard to remove dependency on third-party services and strictly require users’ consent before opting into sharing information: https://t.co/YwYd4RUeVh	
 - Anti-Features are organized into “flags” that packagers can use to mark apps, warning of possibly undesirable behaviour from the user’s perspective, often serving the interest of the developer or a third party: https://t.co/LEaBIh8LV7"
 
 _Observations_: 
-- existing third-party allows to check 
+- existing third-party allows checking privacy validity (but it's not up to date)
+- "no anti-features" should be researched further for qualitative recommendations (DYOR track)
+- consent in the web3 privacy services is a field for further research (how it differs from web3 GDPR-centric consent, do services share their state of privacy features etc?) 
 
 _Product feature_
--  
+- "Anti-features" 101
 
 **KILT Protocol**	
 
