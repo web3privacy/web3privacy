@@ -654,6 +654,12 @@ _Product feature:_
 
 # Product summary
 
+Web3Privacy Now platform (for non-techies track) will consist of the multiple scoring model directions:
+1. 101 educational materials.
+2. Validity track ("yes/no" applicability like if "docs" exist or not).
+3. Checklists (example: trusted sources list).
+4. Academy (content from case studies to third-party services to check net data, leakages).
+
 _Education track 101_
 * privacy tech vocabulary (mimblewimble, scrambling, clustering etc)
 * open source 101 (short version)
@@ -690,7 +696,7 @@ _Checklists_
 * a checklist of when you need a "tech" person help to attest privacy features & when not (with a focus on a second scenario)
 
 _Additional content_
-- case studies when solutions actively embed privacy education within the workflow
+* case studies when solutions actively embed privacy education within the workflow
 * List of external third-party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
 * case-studies (privacy matching): protocol = transparent, but use-cases = private (like Ethereum)
 * future: privacy features comparison within solutions (creating a comprehensive privacy market metrics set)
