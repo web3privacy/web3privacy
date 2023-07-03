@@ -651,3 +651,62 @@ _Observations:_
 
 _Product feature:_
 - case-studies (privacy matching): protocol = transparent, but use-cases = private (like Ethereum)
+
+# Product summary
+
+_Education track 101_
+* privacy tech vocabulary (mimblewimble, scrambling, clustering etc)
+* open source 101 (short version)
+* e2ee 101
+* social recovery 101
+* missing 3rd party audit potential risks 101
+* simplified media analysis 101
+* trust assumptions 101
+* privacy in ZK 101
+* privacy data leakages 101
+* "attacks" (threats) 101
+* encryption 101
+* transaction traceability 101 (the basics on Etherscan example)
+* web3 docs 101 (basic description in relation to privacy)
+* pubkey, network key, viewing key etc 101
+* "Anti-features" 101
+* did 101 (with a focus on the linkage between different data types)
+* web3 comms 101 (with a focus on misleading comms that create an obscure understanding of the tech/product)
+* security audits 101 (basics)
+* web3 privacy 101 (focus on a misleading comms like blockchain security equals privacy)
+* forkability x privacy 101
+
+_Validity_
+* documentation: exists/missing (+/-)
+* 3rd party list (yes/no) from security audit agencies to independent security engineers (+their reputation 101 in later versions)
+* website checklist (1-2-3-4-5..., yes/no validity)
+* code audit (yes/no). Case studies (how those audits could look alike with active links)
+
+_Checklists_
+* trusted sources checklist (&/or a list)
+* web3 open-source checklist (soft screening like whitepaper (yes/no), docs (yes/no) etc)
+* different self-check recommendations by security audits, white hackers as a supplement (how would you test product privacy)
+* GitHub basic score (flag system could be a part of the second product release)
+* a checklist of when you need a "tech" person help to attest privacy features & when not (with a focus on a second scenario)
+
+_Additional content_
+- case studies when solutions actively embed privacy education within the workflow
+* List of external third-party resources in a Wiki (for those, who like to make extra effort -> influence micro-services creation)
+* case-studies (privacy matching): protocol = transparent, but use-cases = private (like Ethereum)
+* future: privacy features comparison within solutions (creating a comprehensive privacy market metrics set)
+* later on - case studies when solutions actively embed privacy education within the workflow
+* "net usage stats" services guide for the end user (but with a focus on empowering product managers to incorporate third-party tools to self-check their products & publicly report on their privacy features)
+* "privacy stack" enhancement prototyping (1 solution + 1 solution = privacy "2x" (like Session messenger + dVPN)
+* examples of how products enhance privacy creatively (like a game mentioned by Obscuro) -> potential market benchmarks
+* part of the wiki: web3 privacy products biases (in relation to privacy features x user experience)
+
+_DYOR section_
+* useful links (like dVPN studies in a DYOR section)
+
+_Automation (beta)_
+* "DERP"-alike tool for the future privacy script-based "check-up" product releases
+* web3-native IP-checker for a beta version
+* web3-native privacy features checker to be R&D (what could be automated & coded for QA-automation)
+
+_Future releases_
+* in the future: collab with a security audit company to create a new docs audit service description when a third party will attest privacy features of the initial idea x tooling description
