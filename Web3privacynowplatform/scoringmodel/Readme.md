@@ -574,28 +574,28 @@ Answers:
 - We'll deploy a game with significant funds that can only be won by breaking Obscuro's privacy. As long as the game isn't won, users can be confident privacy remains intact.			
 
 _Observations_: 
-- "trusted authorities" 
+- "trusted authorities" should be investigated: what are their types, why they are "authorities", who authorise them etc
+- block explorers demonstrate privacy to a tech people
+- "anyone can run a node" is a false concept, because it's a highly technical procedure
+- privacy gamification test is a nice demonstration of "unbreakability" (or a public commitment to privacy) - it's similar to whitehackers bounties
 
 _Product feature_
--
+- examples of how products enhance privacy creatively (like a game mention by Obscuro) -> potential market benchmarks
 
 **SendingMe**	
 
 Answers:
-- you can visit  @Sending_Network account to learn more about what is under the hood	
+- you can visit @Sending_Network account to learn more about what is under the hood	
 - our GitBook is pretty easy to read even if you are not techie :)				
 
 _Observations_: 
--
-
-_Product feature_
--
+- too technical
 
 **Mysterium Network**	
 
 Answers:
 - we would recommend our docs: https://docs.mysterium.network	
-- Also here is a study on decentralized VPN (featuring us) by @NorthwesternU, thread + paper here: https://twitter.com/MysteriumNet/status/1619616182964994049"				
+- Also here is a study on decentralized VPN (featuring us) by @NorthwesternU, thread + paper here: https://twitter.com/MysteriumNet/status/1619616182964994049"		
 
 _Observations_: 
 - third party study could be a nice entry into a category understanding (not directly linked with the project, team)
