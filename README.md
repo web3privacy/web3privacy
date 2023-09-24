@@ -82,6 +82,8 @@ Feel free to update the list!
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | ([GitHub](https://github.com/ConcealNetwork)) | live | Conceal | ([anon](https://conceal.network/team/)) | 
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | Ethereum | anon | 
 | [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | - | - | multichain | anon | 
+| [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - |
+| [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -193,7 +195,8 @@ Feel free to update the list!
 | [Incognet](https://incognet.io/) | Privacy respecting ISP, hosting and VPS provider that can be accessed on I2P, TOR, and Yggdrasil - accepts various cryptocurrencies as payment. | - | live | no |
 | [Njalla](https://njal.la) | Anonymous domain name registrar and VPS provider based in Sweden, accepts various cryptocurrencies as payment. | - | live | no |
 | [Comit Network](https://comit.network/) | COMIT is an open protocol facilitating trustless cross-blockchain applications, connecting all blockchains without adding yet another. Working on [BTC-XMR atomic swaps](https://github.com/comit-network/xmr-btc-swap) as well as various libraries and clients. | [Github](https://github.com/comit-network) | TBD | no |
-
+| [Asterizm](https://asterizm.io) | Plug and play blockchain interoperability solution for enterprises, web3 protocols and fintech with privacy at the core | ([GitHub](https://github.com/Asterizm-Protocol)) | - | - | - | - |
+| [Tonnel Network](https://www.tonnel.network) | Zero-Knowledge Privacy Preserving DeFi protocol in Ton Network | - | - | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -253,6 +256,7 @@ Feel free to update the list!
 | [ZKCHAOS](https://www.zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. | - | TBD | TBD | TBD |
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | ([GitHub](https://github.com/starkware-libs/starkex-resources)) | live | Ethereum | ([Public](https://starkware.co/about-us/)) |
 | [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | ([GitHub](https://github.com/root1m3/plebble)) | TBD | TBD | anon |
+| [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | ([Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima)) | - | - | - | - |
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
@@ -315,6 +319,8 @@ Feel free to update the list!
 | [Quadrata](https://quadrata.com) | Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain | - | - | - | - | - |
 | [SEER sdid](https://sdid.seer.eco/) | Building your own community identity like a brand | - | - | - | - |
 | [Valid.id](https://valid3.id) | Build the root of trust for your entity in a way that is both cryptographic and legally binding. | - | - | - | - | - |
+| [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | ([GitHub](https://github.com/zkPassOfficial) | - | - | - | - |
+
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -338,6 +344,7 @@ Feel free to update the list!
 | [Rialto bridge](https://rialtobridge.io) | Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain | ([Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge)) | - | - | - |
 | [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. | ([0xMonero](https://0xmonero.com/)) | - | - | - |
 | [Carrier](https://www.carrier.so) | A powerful token and NFT bridge for Web3 natives | ([Docs](https://docs.carrier.so/introduction/about)) | - | - | - |
+| [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
@@ -479,7 +486,7 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [certUP](https://certup.net) | SecretNFT Certificates revolutionising official document distribution, verification and publication | ([GitHub](https://github.com/CertUP)) | - | - | - |
 | [Actilist](https://test.actilist.io) | Secret NFT auctions | ([GitHub](https://github.com/actilabs)) | - | - | - |
 | [Fade WTF](http://mint.fade.wtf) | Privacy for NFTs powered by Light Protocol | - | - | - | - |
-
+| [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -620,6 +627,7 @@ If you are running a Linux distribution consider looking over these guides on [h
 - [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) - Practical Experiments on how to add complete privacy to flashbots. ([GitHub](https://github.com/hashcloak/flashbots-privacy))
 - [ONEG8](https://oneg8.one) - builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem 
 - [Aztec Network](https://aztec.network/index.html) - Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution. [Github](https://github.com/AztecProtocol)
+- [Pre Search ](https://presearch.com) - a decentralized Search Engine. ([GitHub](https://github.com/presearchofficial))
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
