@@ -230,6 +230,7 @@ Feel free to update the list!
 | [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | launching beta, Q2 2023 | multichain | anon |
 | [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | ([GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet)) | PoC | - | anon |
 | [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | live | multichain | anon |
+| [Beam](https://beam.eco/) | self-custodial wallet | - | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -407,6 +408,7 @@ Feel free to update the list!
 | [RPCh](https://rpch.net/) | RPCh is a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain ([GitHub](https://github.com/Rpc-h/RPCh)) | - | - | - |
 | [Ethereum Portal Network](https://www.ethportal.net/) | Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests.  | - | - | - | - |
 | [Spook](https://github.com/EdenBlockVC/spook) | Mixing service using the Nym network to anonymize Ethereum RPC calls.  | - | - | - | - |
+| [Zoci](https://zoci.io) | private RPC services | ([GitHub](https://github.com/zoci-io)) | - | - | - | - |
 
 ## Storage
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -455,6 +457,7 @@ Feel free to update the list!
 | [Privacy Pools](https://www.privacypools.com) | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. | ([GitHub](https://github.com/ameensol/privacy-pools)) | - | - | - |
 | [Sociogram](https://sociogram.org) | Web3Social Media focused on privacy. | - | - | - | - |
 | [Blockyfile](https://blockyfile.org) | The new way to upload files anonymously and without censorship. | - | - | - | - |
+| [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -487,6 +490,8 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [Actilist](https://test.actilist.io) | Secret NFT auctions | ([GitHub](https://github.com/actilabs)) | - | - | - |
 | [Fade WTF](http://mint.fade.wtf) | Privacy for NFTs powered by Light Protocol | - | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
+| [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | ([GitHub](https://github.com/BluumProtocol) | - | - | - | - |
+
 
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
