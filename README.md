@@ -84,6 +84,7 @@ Feel free to update the list!
 | [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | - | - | multichain | anon | 
 | [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - |
 | [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - |
+| [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | ([GitHub](https://github.com/zkUSDLabs)) | - | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -198,6 +199,7 @@ Feel free to update the list!
 | [Asterizm](https://asterizm.io) | Plug and play blockchain interoperability solution for enterprises, web3 protocols and fintech with privacy at the core | ([GitHub](https://github.com/Asterizm-Protocol)) | - | - | - | - |
 | [Tonnel Network](https://www.tonnel.network) | Zero-Knowledge Privacy Preserving DeFi protocol in Ton Network | - | - | - | - | - |
 | [GotaBit](https://gotabit.io) | an open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts | ([GitHub](https://github.com/gotabit) | - | - | - |
+| [Logion](https://logion.network) | Substrate-based public blockchain operated by a decentralized network of legal officers | ([GitHub](https://github.com/logion-network)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -327,6 +329,7 @@ Feel free to update the list!
 | [Valid.id](https://valid3.id) | Build the root of trust for your entity in a way that is both cryptographic and legally binding. | - | - | - | - | - |
 | [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | ([GitHub](https://github.com/zkPassOfficial) | - | - | - | - |
 | [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | ([GitHub](https://github.com/anagolay) | - | - | - |
+| [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -433,6 +436,7 @@ Feel free to update the list!
 | [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | ([GitHub](https://github.com/fileverse)) | - | - | - |
 | [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subsciption model for storage. | [Github](https://github.com/Storj/) | - | - | - |
 | [Synx](https://synx.xyz) | The Web3 storage platform | - | - | - | - |
+| [Oort](https://www.oortech.com) | a decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.  | - | - | - | - |
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
@@ -467,6 +471,10 @@ Feel free to update the list!
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 | [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | ([Docs](https://juno.build/docs/build/analytics#getting-started)) | - | - | - |
 | [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
+| [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts  | ([GitHub](https://github.com/sigle/sigle)) | - | - | - |
+| [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | ([GitHub](https://github.com/flock-io)) | - | - | - |
+| [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - | - |
+| [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -501,13 +509,14 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 | [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | ([GitHub](https://github.com/BluumProtocol) | - | - | - | - |
 
-## Alliances
+## Alliances & NGOs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Leading Privacy Alliance](https://www.leadingprivacy.com) | The purpose of the LPA of Web3 is to speak up for everyone working in the Web3 industry and make them aware of the need for privacy (by design). | - | - | - | - |
 | [Universal Privacy Alliance](https://privacyalliance.com) | The Universal Privacy Alliance seeks to advance the understanding of privacy as the very basis of free and flourishing digital societies. | - | - | - | - |
 | [BPSAA](https://bpsaa.vision) | The Blockchain Privacy, Security & Adoption Alliance educates the public on privacy, security and decentralization. | - | - | - | - |
+| [Private Finance Syndicate ](https://privatefinancesyndicate.io) | privacy-oriented investment fund | - | - | - | - |
 
 ## R&D
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/R&D.png?raw=true)
