@@ -231,6 +231,7 @@ Feel free to update the list!
 | [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | ([GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet)) | PoC | - | anon |
 | [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | live | multichain | anon |
 | [Beam](https://beam.eco/) | self-custodial wallet | - | - | - | - | - |
+| [Elite](https://elitewallet.sc) | Android and IOS Wallet that respects your privacy | - | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
