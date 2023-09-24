@@ -197,6 +197,7 @@ Feel free to update the list!
 | [Comit Network](https://comit.network/) | COMIT is an open protocol facilitating trustless cross-blockchain applications, connecting all blockchains without adding yet another. Working on [BTC-XMR atomic swaps](https://github.com/comit-network/xmr-btc-swap) as well as various libraries and clients. | [Github](https://github.com/comit-network) | TBD | no |
 | [Asterizm](https://asterizm.io) | Plug and play blockchain interoperability solution for enterprises, web3 protocols and fintech with privacy at the core | ([GitHub](https://github.com/Asterizm-Protocol)) | - | - | - | - |
 | [Tonnel Network](https://www.tonnel.network) | Zero-Knowledge Privacy Preserving DeFi protocol in Ton Network | - | - | - | - | - |
+| [GotaBit](https://gotabit.io) | an open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts | ([GitHub](https://github.com/gotabit) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -260,6 +261,8 @@ Feel free to update the list!
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | ([GitHub](https://github.com/starkware-libs/starkex-resources)) | live | Ethereum | ([Public](https://starkware.co/about-us/)) |
 | [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | ([GitHub](https://github.com/root1m3/plebble)) | TBD | TBD | anon |
 | [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | ([Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima)) | - | - | - | - |
+| [OLA](https://sin7y.org) | ZK-ZKVM Bringing Programmable Privacy to Blockchains | ([GitHub](https://github.com/Sin7Y) | - | - | - |
+| [Polybase](https://polybase.xyz) | a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs | ([Docs](https://polybase.xyz/docs/introduction) | - | - | - |
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
@@ -323,6 +326,7 @@ Feel free to update the list!
 | [SEER sdid](https://sdid.seer.eco/) | Building your own community identity like a brand | - | - | - | - |
 | [Valid.id](https://valid3.id) | Build the root of trust for your entity in a way that is both cryptographic and legally binding. | - | - | - | - | - |
 | [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | ([GitHub](https://github.com/zkPassOfficial) | - | - | - | - |
+| [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | ([GitHub](https://github.com/anagolay) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -387,6 +391,7 @@ Feel free to update the list!
 | [Carbon Browser](https://carbon.website) | Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy | ([GitHub](https://github.com/Carbon-Browser)) | - | - | - |
 | [Status Web3 Browser](https://status.im/web-three-browser/) | Access the latest defi dapps, exchanges, marketplaces, games and more with the Web3 Browser. | - | - | - | - |
 | [Mullvad Browser](https://github.com/mullvad/mullvad-browser) | The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. | [Github](https://github.com/mullvad/mullvad-browser) | - | - | - |
+| [Fulldive](https://www.fulldive.com) | web3 browser that respects your privacy | - | - | - | - |
 
 ## KYC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
@@ -427,6 +432,7 @@ Feel free to update the list!
 | [Crust](https://crust.network) | Web3.0 Storage for the Metaverse | ([GitHub](https://github.com/crustio)) | - | - | - |
 | [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | ([GitHub](https://github.com/fileverse)) | - | - | - |
 | [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subsciption model for storage. | [Github](https://github.com/Storj/) | - | - | - |
+| [Synx](https://synx.xyz) | The Web3 storage platform | - | - | - | - |
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
@@ -459,6 +465,8 @@ Feel free to update the list!
 | [Sociogram](https://sociogram.org) | Web3Social Media focused on privacy. | - | - | - | - |
 | [Blockyfile](https://blockyfile.org) | The new way to upload files anonymously and without censorship. | - | - | - | - |
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
+| [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | ([Docs](https://juno.build/docs/build/analytics#getting-started)) | - | - | - |
+| [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
