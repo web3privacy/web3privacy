@@ -232,6 +232,7 @@ Feel free to update the list!
 | [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | live | multichain | anon |
 | [Beam](https://beam.eco/) | self-custodial wallet | - | - | - | - | - |
 | [Elite](https://elitewallet.sc) | Android and IOS Wallet that respects your privacy | - | - | - | - | - |
+| [Anon/Nero](https://t.me/anoneroapks) | private wallet | - | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -322,7 +323,6 @@ Feel free to update the list!
 | [SEER sdid](https://sdid.seer.eco/) | Building your own community identity like a brand | - | - | - | - |
 | [Valid.id](https://valid3.id) | Build the root of trust for your entity in a way that is both cryptographic and legally binding. | - | - | - | - | - |
 | [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | ([GitHub](https://github.com/zkPassOfficial) | - | - | - | - |
-
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -493,7 +493,6 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 | [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | ([GitHub](https://github.com/BluumProtocol) | - | - | - | - |
 
-
 ## Alliances
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -531,6 +530,7 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [myNode](https://mynodebtc.com) | The easiest, most powerful way to run a Bitcoin and Lightning node ([GitHub](https://github.com/mynodebtc/mynode)) | - | - | - |
 | [NiceNode](https://nicenode.xyz) | Launcher with a simple user experience to run an Ethereum node on your computer. | - | - | - | - |
 | [Stereum](https://stereum.net/ethereum-node-setup/) | Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. | - | - | - | - |
+| [Monero PocketNode](https://github.com/CryptoGrampy/xmr-pocket-node) | A Monero node for your Android Device. | - | - | - | - |
 
 ## Mixing services
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true)
