@@ -85,6 +85,8 @@ Feel free to update the list!
 | [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - |
 | [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - |
 | [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | ([GitHub](https://github.com/zkUSDLabs)) | - | - | - |
+| [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | - | - |
+| [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | ([GitHub](https://github.com/Fairyswap)) | - | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -200,6 +202,7 @@ Feel free to update the list!
 | [Tonnel Network](https://www.tonnel.network) | Zero-Knowledge Privacy Preserving DeFi protocol in Ton Network | - | - | - | - | - |
 | [GotaBit](https://gotabit.io) | an open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts | ([GitHub](https://github.com/gotabit) | - | - | - |
 | [Logion](https://logion.network) | Substrate-based public blockchain operated by a decentralized network of legal officers | ([GitHub](https://github.com/logion-network)) | - | - | - |
+| [Mind Network](https://mindnetwork.xyz ) | decentralized zero trust data lake | ([GitHub](https://github.com/mind-network)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -236,6 +239,8 @@ Feel free to update the list!
 | [Beam](https://beam.eco/) | self-custodial wallet | - | - | - | - | - |
 | [Elite](https://elitewallet.sc) | Android and IOS Wallet that respects your privacy | - | - | - | - | - |
 | [Anon/Nero](https://t.me/anoneroapks) | private wallet | - | - | - | - | - |
+| [Imperiume](https://www.imperiume.io/wallet) | non-custodial wallet | - | - | - | - |
+| [Cool Wallet](www.coolwallet.io ) | non-custodial wallet | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -265,6 +270,7 @@ Feel free to update the list!
 | [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | ([Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima)) | - | - | - | - |
 | [OLA](https://sin7y.org) | ZK-ZKVM Bringing Programmable Privacy to Blockchains | ([GitHub](https://github.com/Sin7Y) | - | - | - |
 | [Polybase](https://polybase.xyz) | a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs | ([Docs](https://polybase.xyz/docs/introduction) | - | - | - |
+| [TrueZK](https://www.truezk.com) | Post-Quantum ZK Rollup as a service x private DIDs | ([Docs](https://docs.truezk.com)) | - | - | - |
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
@@ -330,6 +336,7 @@ Feel free to update the list!
 | [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | ([GitHub](https://github.com/zkPassOfficial) | - | - | - | - |
 | [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | ([GitHub](https://github.com/anagolay) | - | - | - |
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
+| [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -475,6 +482,9 @@ Feel free to update the list!
 | [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | ([GitHub](https://github.com/flock-io)) | - | - | - |
 | [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - | - |
 | [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
+| [Sirius Sync](https://siriussync.io ) | Web3 Social Ecosystem | - | - | - | - |
+| [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
+| [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -488,8 +498,6 @@ Feel free to update the list!
 | [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | ([GitHub](https://github.com/QubesOS)) | - | - | - |
 | [TAILS OS](https://tails.boum.org) | Tails is a portable operating system that protects your privacy and helps you avoid censorship. | ([GitLab](https://gitlab.tails.boum.org/tails/tails)) | - | - | - |
 | [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | ([GitHub](https://github.com/fort-nix/nix-bitcoin)) | - | - | - |
-
-If you are running a Linux distribution consider looking over these guides on [how to best choose a distribution](https://privsec.dev/posts/linux/choosing-your-desktop-linux-distribution/) and on how to harden your OS - [Guide 1](https://madaidans-insecurities.github.io/linux.html) | [Guide 2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) | [Guide 3](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
@@ -535,6 +543,7 @@ If you are running a Linux distribution consider looking over these guides on [h
 | [Trivium](https://trivium.network) | provides validator services to serveral networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode)) | - | - | - |
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran)) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak)) | - | - | - |
+| [Discreet Labs]( https://discreetlabs.io) | build blockchain systems for a more private, self-sovereign future on Fidora | - | - | - | - |
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
