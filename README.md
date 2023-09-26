@@ -677,12 +677,11 @@ Feel free to update the list!
 
 - [ETH Berlin](https://ethberlin.ooo/contributors/) - a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward. **100 projects**: ([Devfolio](https://ethberlin.devfolio.co/projects?show_winners=false))
 
+- [ETHDam](https://www.ethdam.com/hackathon) - Ethereum-focused privacy & DeFi hackathon. [Projects](https://taikai.network/cryptocanal/hackathons/ethdam)
+
 | Winner  | Description |
 | ------------- | ------------- |
 | [zikiLeaks](https://zikileaks.vercel.app)  | Privacy-preserving posting, non-invasive content verification, & anonymous donations empower whistleblowers to fight for human rights globally. ([GitHub](https://github.com/mattiapomelli/zikileaks)) |
-
-| [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4)  | the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))  |
-
 
 - [Hackers Congress Paralelní Polis](https://last-shot.hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
 - [ETH #Privacy](https://www.leadingprivacy.com/istanbul) - ETH #Privacy is the hackathon around privacy, organized by the Leading Privacy Alliance of web3.
