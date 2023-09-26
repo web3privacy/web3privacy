@@ -679,7 +679,10 @@ Feel free to update the list!
 
 | Winner  | Description |
 | ------------- | ------------- |
-| [rsociety](https://devfolio.co/projects/rsociety-hack-ethberlin-and-receive-dai-d240)  | LET'S HACK ETHBERLIN. We redistribute the 10k winner DAI from the Open Track to all the hackers, claimable from our smart contract. ([GitHub](https://github.com/maggo/rsociety)) or ([GitHub](https://github.com/kevincharm/rsociety-contracts)) |
+| [zikiLeaks](https://zikileaks.vercel.app)  | Privacy-preserving posting, non-invasive content verification, & anonymous donations empower whistleblowers to fight for human rights globally. ([GitHub](https://github.com/mattiapomelli/zikileaks)) |
+
+| [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4)  | the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))  |
+
 
 - [Hackers Congress Paralelní Polis](https://last-shot.hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
 - [ETH #Privacy](https://www.leadingprivacy.com/istanbul) - ETH #Privacy is the hackathon around privacy, organized by the Leading Privacy Alliance of web3.
