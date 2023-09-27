@@ -370,7 +370,7 @@ Feel free to update the list!
 | [Status](https://status.im) | Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology | ([GitHub](https://github.com/status-im/)) | - | - | - |
 | [xx messenger](https://elixxir.io) | An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network | ([GitHub](https://git.xx.network/elixxir/client-android)) | - | - | - |
 | [ALTER](https://altermail.co) | Private & Secure Communication App Utilizing Secret Nework's secret contract technology. | - | - | - | - |
-| [Session](https://getsession.org) | An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. | - | - | - | - |
+| [Session](https://getsession.org) | An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. | [GitHub](https://github.com/oxen-io) | Live | Cryptonote | [Public](https://www.linkedin.com/company/sessionmessenger/people/) |
 | [BCchat](https://bchat.beldex.io) | A decentralized, privacy messenger built over the Beldex blockchain. | - | - | - | - |
 | [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | - | - | - |
 | [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app)) | - | - | - |
