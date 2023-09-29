@@ -240,7 +240,8 @@ Feel free to update the list!
 | [Elite](https://elitewallet.sc) | Android and IOS Wallet that respects your privacy | - | - | - | - | - |
 | [Anon/Nero](https://t.me/anoneroapks) | private wallet | - | - | - | - | - |
 | [Imperiume](https://www.imperiume.io/wallet) | non-custodial wallet | - | - | - | - |
-| [Cool Wallet](www.coolwallet.io ) | non-custodial wallet | - | - | - | - |
+| [Cool Wallet](www.coolwallet.io) | non-custodial wallet | - | - | - | - |
+| [Monerujo](https://www.monerujo.io) | Android wallet for Moneto | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
