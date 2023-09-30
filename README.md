@@ -87,6 +87,7 @@ Feel free to update the list!
 | [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | ([GitHub](https://github.com/zkUSDLabs)) | - | - | - |
 | [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | - | - |
 | [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | ([GitHub](https://github.com/Fairyswap)) | - | - | - |
+| [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | ([GitHub](https://github.com/ShadeCash)) | - | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
