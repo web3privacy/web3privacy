@@ -243,6 +243,7 @@ Feel free to update the list!
 | [Imperiume](https://www.imperiume.io/wallet) | non-custodial wallet | - | - | - | - |
 | [Cool Wallet](www.coolwallet.io) | non-custodial wallet | - | - | - | - |
 | [Monerujo](https://www.monerujo.io) | Android wallet for Moneto | - | - | - | - |
+| [Phoenix](https://phoenix.acinq.co) | Non-custodial wallet on Lightning network | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
