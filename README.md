@@ -204,6 +204,7 @@ Feel free to update the list!
 | [GotaBit](https://gotabit.io) | an open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts | ([GitHub](https://github.com/gotabit) | - | - | - |
 | [Logion](https://logion.network) | Substrate-based public blockchain operated by a decentralized network of legal officers | ([GitHub](https://github.com/logion-network)) | - | - | - |
 | [Mind Network](https://mindnetwork.xyz ) | decentralized zero trust data lake | ([GitHub](https://github.com/mind-network)) | - | - | - |
+| [Nomos](http://nomos.tech) | Nomos is a novel blockchain project that will address a network state's fundamental need for adaptable privacy and sovereignty. | ([GitHub](https://github.com/logos-co)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
