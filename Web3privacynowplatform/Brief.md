@@ -77,10 +77,14 @@
 | Upgradability  | specify |
 | Social dependency  | team, CEO |
 | Third-parties dependency | specify |
+| Technical dependency | specify: Ethereum, ZK etc |
 | Have you been audited by a third-party | yes/no |
 | What company audited | specify (one &/or many) |
 | When you were audited | date: D/M/Y (one &/or many) |
+| Add links to the audits | here |
 
-
-| Sign-in requirments | specify what data is needed to start using service |
-| Identity integrations | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
+**Roadmap (technical)**
+| Request  | Data point | 
+| ------------- | ------------- |
+| When product had been launched | specify test-net (infra), MVP (dApp): date D/M/Y | 
+| When mainnet, beta had been launched  | specify main-net (infra), alpha (dApp): date D/M/Y | 
