@@ -68,7 +68,7 @@
 | **KYC**  | yes/no |
 | **Privacy policy** | add link |
 | **Collected data**  | specify what data do you collect |
-| **Data sharing ** | specify what data you share with third-parties |
+| **Data sharing** | specify what data you share with third-parties |
 | **Sign-in requirments** | specify what data is needed to start using service |
 | **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
 
