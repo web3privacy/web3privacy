@@ -87,4 +87,4 @@
 | Request  | Data point | 
 | ------------- | ------------- |
 | When product had been launched | specify test-net (infra), MVP (dApp): date D/M/Y | 
-| When mainnet, beta had been launched  | specify main-net (infra), alpha (dApp): date D/M/Y | 
+| When mainnet, beta had been launched  | specify main-net (infra), alpha (dApp): date D/M/Y |
