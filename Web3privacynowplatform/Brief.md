@@ -9,89 +9,89 @@ How it works:
 
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Project name**  | add here |
-| **Logotype**  | add here |
-| **Short project description (1 sentence)** | add here |
-| **Launch date** | add here |
-| **Is it open source?** | specify here |
-| **Website**  | add here |
-| **Github**  | add here |
+| **Project name**  | Lit Protocol |
+| **Logotype**  | https://www.figma.com/file/Sei64PL5DdYHCMffGUXMGS/Lit-Protocol-Brand-Assets?type=design&node-id=1%3A7&mode=design&t=PQ43wWoGfNRRNWcT-1 |
+| **Short project description (1 sentence)** | A decentralized key management network for encryption, signing, and compute |
+| **Launch date** | October 2021 (beta) |
+| **Is it open source?** | yes |
+| **Website**  | https://litprotocol.com |
+| **Github**  | https://github.com/LIT-Protocol |
 
 **Token**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Do you have a token** | add here Coingecko link |
+| **Do you have a token** | no |
 
 **Socials**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Blog** | add link |
-| **Twitter (X)** | add link |
+| **Blog** | https://spark.litprotocol.com/ |
+| **Twitter (X)** | https://twitter.com/LitProtocol |
 | **Telegram** | add link |
-| **Discord** | add link |
+| **Discord** | https://discord.gg/N23AsGUzwN |
 | **Other** | add link |
 
 **Docs**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Docs** | add link |
+| **Docs** | https://developer.litprotocol.com/v3/|
 | **Whitepaper** | add link |
 | **Litepaper** | add link |
 
 **Team**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is your team anon or public**  | choose one: anon, public | 
-| **List core contributors** | Github links | 
+| **Is your team anon or public**  | public | 
+| **List core contributors** | https://github.com/orgs/LIT-Protocol/people | 
 
 **Funding**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **How are you funded**  | self-funded, VC, donations, mixed | 
-| **List VCs backing you**  | if aplicable |
-| **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
-| **Raised money** | add a Crunchbase link | 
+| **How are you funded**  | VC | 
+| **List VCs backing you**  | 1kx, Collab+Currency, gumi Cryptos Capital, 6th Man Ventures |
+| **List VCs round**  | Series A | 
+| **Raised money** | https://www.crunchbase.com/organization/lit-protocol | 
 
 **Github**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **What licence is in use**  | add link to Github repo | 
+| **What licence is in use**  | https://github.com/LIT-Protocol/js-sdk/blob/70a041a97b56ba1a75724ba2cd56952b622e8a7f/LICENSE#L4 | 
 
 **Technology**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
-| **Specify technology readiness**  | infra: testnet/mainnet, apps: MVP/beta/alpha | 
-| **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Technical specialisation**  | Key management | 
+| **Specify technology readiness**  | infra: testnet | 
+| **Features**  | Threshold cryptography, secure encrypted virtualization (SEV), blockchain rollup | 
+| **Encryption method**  | Threshold identity-based encryption | 
 
 **Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is it peer-to-peer**  | yes/no | 
-| **Complience**  | yes/no |
-| **KYC**  | yes/no |
+| **Is it peer-to-peer**  | yes | 
+| **Complience**  | |
+| **KYC**  | no |
 | **Privacy policy** | add link |
-| **Collected data**  | specify what data do you collect |
-| **Data sharing** | specify what data you share with third-parties |
-| **Sign-in requirments** | specify what data is needed to start using service |
-| **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
+| **Collected data**  | none |
+| **Data sharing** | none |
+| **Sign-in requirments** | |
+| **Identity integrations** |  |
 
 **Security**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Asset custody** | specify | 
-| **Upgradability**  | specify |
-| **Social dependency**  | team, CEO |
+| **Asset custody** | non-custodial (keys are distributed as shares across the Lit network) | 
+| **Upgradability**  | via Governance (after mainnet is live) |
+| **Social dependency**  | DevCo (until mainnet is live) |
 | **Third-parties dependency** | specify |
-| **Technical dependency** | specify: Ethereum, ZK etc |
-| **Have you been audited by a third-party** | yes/no |
-| **What company audited** | specify (one &/or many) |
-| **When you were audited** | date: D/M/Y (one &/or many) |
+| **Technical dependency** | Polygon (state coordination) and AMD SEV-SNP hardware for node operators |
+| **Have you been audited by a third-party** | yes |
+| **What company audited** | Trail of Bits and Kudelski |
+| **When you were audited** | Multiple |
 | **Add links to the audits** | here |
 
 **Roadmap (technical)**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
-| **When mainnet, beta had been launched**  | specify main-net (infra), alpha (dApp): date D/M/Y |
+| **When product had been launched** | Test networks live since October 2021 | 
+| **When mainnet, beta had been launched**  | Mainnet launching December 1st |
