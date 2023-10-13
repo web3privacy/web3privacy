@@ -343,6 +343,8 @@ Feel free to update the list!
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
 
+| [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation, you can gain access to the most trustworthy web3 experiences and maximize your ability to benefit from platforms like Gitcoin Grants. | [Github](https://github.com/gitcoinco/passport) | - | - | - |
+
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -418,6 +420,9 @@ Feel free to update the list!
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
 | [OutDID](https://www.outdid.io) | Your Zero-Knowledge, Decentralized KYC filter of Blockchain users. | - | - | - | - |
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation)) | - | - | - |
+| Know Your Coin Privacy | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy. Based on OXT datas. | [Github](https://github.com/kycp/) | - | -  | - |
+
+https://kycp.org/#/
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
@@ -596,80 +601,82 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-- [Privy](https://www.privy.io) - Privy's simple, powerful APIs help you manage user data off-chain ([GitHub](https://github.com/privy-io))
-- [Conveyor](https://conveyor.ata.network/#/swap) - Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution) ([GitHub](https://github.com/automata-network/conveyor-sdk))
-- [Particl](https://particl.io/marketplace) - The only marketplace for private and unrestricted e-commerce ([GitHub](https://github.com/particl))
-- [AcceptedHere](https://acceptedhere.io/) - directory for online and offline businesses accepting cryptocurrency
-- [CryptWerk](https://cryptwerk.com/) - Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies.
-- [Bitcoin Bookmarks](https://bitcoinbookmarks.com/) - directory for premium crypto websites sorted by quality [Github](https://github.com/BitcoinBookmarks/BitcoinBookmarks.com)
-- [Monerica](https://monerica.com/) - directory for the Monero circular economy. [Github](https://github.com/monerica-project/monerica)
-- [Lightning Network Stores](https://lightningnetworkstores.com/) - directory for stores that accept bitcoin through the lightning network [Github](https://github.com/lightningnetworkstores/lightningnetworkstores.github.io)
-- [Spinner](https://spinner.cash) - Private transactions for ICP and BTC ([GitHub](https://github.com/spinner-cash))
-- [Incognito](https://incognito.org) - The privacy marketplace for crypto assets ([GitHub](https://github.com/incognitochain))
-- [EtherMail](https://ethermail.io) - EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox
-- [Nucleo](https://www.gonucleo.xyz) - Private, auditable shared multisig to shield & send assets
-- [Meson](https://mesonmix.net) - a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions ([GitHub](https://github.com/hashcloak/Meson))
-- [Lava](https://lavanet.xyz) - Lava pairs Providers with Applications for scalable, private and uncensored access to Web3.
-- [rotki](https://rotki.com) - rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy ([GitHub](https://github.com/rotki))
-- [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) - Foundations of Private Smart Contracts (predecessor to IOG's Midnight)
-- [Beetroot](https://www.beetroot.world) - BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat.
-- [Ronin DOJO software stack](https://ronindojo.io/en/roninui) - Manage your bitcoin privacy and sovereignty with ease ([GitLab](https://code.samourai.io/ronindojo))
-- [Semaphore Protocol](http://semaphore.appliedzkp.org) - Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** ([GitHub](https://github.com/semaphore-protocol/semaphore))
-- [BTC Pay](https://btcpayserver.org) - a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free ([GitHub](https://github.com/btcpayserver))
-- [Nostr](https://nostr.com/) - A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. 
-- [Zkitter](https://www.zkitter.com/) - ZK social protocol, anonymous social network
-- [Abakhus protocol](https://www.abakhus.io) - A privacy-preserving protocol for Health and Life Sciences ([GutHub](https://github.com/Abakhus/))
-- [Minds](https://www.minds.com) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
-- [Shadow](https://github.com/Comdex/shadow) - A Private Account System On Mina ([GitHub](https://github.com/Comdex/shadow)) 
-- [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) - Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC) ([GitHub](https://github.com/timoth-y/spy-pets))  
-- [Media Network](https://www.media.network) - a privacy-first and community-governed CDN ([GitHub](https://github.com/mediafoundation))
-- [Tezos sapling via åirGap](https://support.airgap.it/features/tezos-sapling/) - sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment
-- [Datum](https://datumtechs.com) - Web3 Privacy-preserving Data Service ([GitHub](https://github.com/datumtechs))
-- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - a privacy-preserving framework based on TensorFlow
-- [OpenTss](https://opentss.com/) - MPC-based Key Management Protocol
-- [ZK-Groups](https://github.com/privacy-scaling-explorations/zk-groups) - a comprehensive infrastructure to allow anyone to create and manage their own groups privately ([GitHub](https://github.com/privacy-scaling-explorations/zk-groups))
-- [Crypt-Keeper](https://github.com/CryptKeeperZK/crypt-keeper-extension) - a browser extension which enables Zero knowledge identity management and proof generation  ([GitHub](https://github.com/CryptKeeperZK/crypt-keeper-extension))
-- [3num](https://www.3num.co) - the first anonymous Web3 mobile number that protects your identity and provides private, secure messaging ([GitHub](https://github.com/3numdao))
-- [Moby](https://get.moby.app) - Pay privately. You hold the keys so we can't see your balance, let alone touch it.
-- [AesirX SSO](https://sso.aesirx.io) - a 1st-party based Web2 + Web3 single sign on service for any JavaScript-based website or app. ([GitHub](https://github.com/aesirxio/sso-template))
-- [Better call Raul](https://bettercallraul.it) - Advanced Security Measures to automatically and securely transfer your initial liquidity with no traceability.
-- [ZKTsunami](https://www.zktsunami.io) - ZK-AnonSNARK powered transactional anonymity at your fingertips
-- [Handshake](https://hnsdns.com) - a Handshake DNS resolver and nameserver provider that aims to create an easy Handshake experience for everyone. No apps to install. No logs. No censorship. Just privacy. ([GitHub](https://github.com/HNSDNS))
-- [blyss](https://blyss.dev) - Access data privately using homomorphic encryption. Privately scan for breached credentials, block malicious URLs, access blockchain data, and more. ([GitHub](https://github.com/blyssprivacy/sdk))
-- [Self](https://www.joinself.com) - Web3 fraud prevention for everyone ([GitHub](https://github.com/joinself))
-- [DoxyChain](https://www.doxychain.com) - Certificates and eSignatures on the blockchain
-- [Web3Shield](https://www.web3shield.com) - a platform providing insurance, security and privacy focused products for all things Web3.
-- [Black Box](https://bbtt.io) - a sophisticated cryptocurrency transfer anonymiser. 
-- [GostPay](https://gostpay.net) - A transaction layer that obfuscates the transaction data so it can be veiled on-chain, thereby applying privacy to the transaction.
-- [Void cash](https://void.cash) - Decentralized payment protocol. ([Docs](https://void-cash.gitbook.io/void.cash/))
-- [Foundation Cash](https://foundationtoken.io) - a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer.
-- [Ergo](https://ergoplatform.org/en/) - a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. ([GitHub](https://github.com/ergoplatform))
-- [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) - Personalized Social Network with Privacy-Preserving Module
-- [Daml](https://www.digitalasset.com/developers) - Daml is the only smart-contract language and blockchain that allows sub-transaction privacy. ([GitHub](https://github.com/digital-asset/daml))
-- [CryptoChill](https://cryptochill.com) - a highly customizable cryptocurrency payment gateway and custodial wallets provider focused on security, privacy and scalability.
-- [Redacted Money](https://twitter.com/redacted_money) - a trustless Zero Knowledge protocol that exists to bring you an easy to use way of securing your transactions from prying eyes.
-- [Decentra Life](https://www.decentralife.app) - Welcome to the future of social media: a decentralized platform built for you, by you.
-- [ZK-DEX](https://zk-dex.io) - we set your personal information private, you govern your own asset.
-- [Anon virtual cards](https://vcc.anonzk.io) - Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store.
-- CakePay -  purchase gift cards and related products for use worldwide with XMR, BTC, LTC - Cake Pay cards are brand new from authorized sellers. Buy the exact amount you need for many providers. [Github](https://github.com/cake-tech)
-- [AnonCards](https://anoncards.io/) -  buy SIM, ESIM and gift cards with XMR.
-- [0x0](https://0x0.ai) - All-in-One Privacy Hub and AI Smart Contract Auditor ([Docs](https://docs.0x0.ai/0x0.ai-ai-smart-contract-auditor/overview))
-- [Vocdoni](https://vocdoni.io) - We are the most open, secure, and universally verifiable voting protocol, used by hundreds of organizations worldwide. ([GitHub](https://github.com/vocdoni))
-- [Mailchain](https://mailchain.com) - Send and receive messages directly between wallets. ([Docs](https://docs.mailchain.com/developer/))
-- [Ledgermail](https://ledgermail.io) - World's First Blockchain Email Service ([Docs](https://docs.mailchain.com/developer/))
-- [Humanode](https://humanode.io) - Humanode conducts private biometric verification of its validators to ensure that there is only one unique living human being behind each node. ([Docs](https://gitbook.humanode.io/oauth2-service))
-- [FNS](https://fns.gg) - Your .fra username lets you send and receive assets on any chain or dApp while protecting your actual on-chain address. Its a simple way to manage assets and protect your privacy. ([GitHub](https://github.com/orgs/findora-name-service/repositories))
-- [Namachain](https://namachain.com) - A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication 
-- [MyDataCoin](https://mydatacoin.io) - a blockchain-based platform that utilizes Cosmos SDK Tendermint technology to enable secure and transparent exchange of personal data between individuals and companies. ([GitHub](https://github.com/MyDataCoin))
-- [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) - Practical Experiments on how to add complete privacy to flashbots. ([GitHub](https://github.com/hashcloak/flashbots-privacy))
-- [ONEG8](https://oneg8.one) - builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem 
-- [Aztec Network](https://aztec.network/index.html) - Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution. [Github](https://github.com/AztecProtocol)
-- [Pre Search ](https://presearch.com) - a decentralized Search Engine. ([GitHub](https://github.com/presearchofficial))
-- [TOME](https://tome.fm) - anonymous, uncensorable broadcast service that allows anyone to publish any string onto Ethereum ([GitHub](https://github.com/firnprotocol/tome))
+| [Privy](https://www.privy.io) | Privy's simple, powerful APIs help you manage user data off-chain | ([GitHub](https://github.com/privy-io)) | - | - | - |
+| [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | ([GitHub](https://github.com/automata-network/conveyor-sdk)) | - | - | - |
+| [Particl](https://particl.io/marketplace) | The only marketplace for private and unrestricted e-commerce. | ([GitHub](https://github.com/particl)) | - | - | - |
+| [AcceptedHere](https://acceptedhere.io/) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
+| [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
+| [Bitcoin Bookmarks](https://bitcoinbookmarks.com/) | directory for premium crypto websites sorted by quality. | [Github](https://github.com/BitcoinBookmarks/BitcoinBookmarks.com)  | - | - | - |
+| [Monerica](https://monerica.com/) | directory for the Monero circular economy. | [Github](https://github.com/monerica-project/monerica) | - | - | - | - |
+| [Lightning Network Stores](https://lightningnetworkstores.com/) | directory for stores that accept bitcoin through the lightning network. | [Github](https://github.com/lightningnetworkstores/lightningnetworkstores.github.io) | - | - | - |
+| [Spinner](https://spinner.cash) | Private transactions for ICP and BTC. | ([GitHub](https://github.com/spinner-cash)) | - | - | - |
+| [Incognito](https://incognito.org) | The privacy marketplace for crypto assets. | ([GitHub](https://github.com/incognitochain)) | - | - | - |
+| [EtherMail](https://ethermail.io) | EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox | - | - | - | - |
+| [Nucleo](https://www.gonucleo.xyz) | Private, auditable shared multisig to shield & send assets | - | - | - | - |
+| [Meson](https://mesonmix.net) | a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions. | ([GitHub](https://github.com/hashcloak/Meson)) | - | - | - |
+| [Lava](https://lavanet.xyz) | Lava pairs Providers with Applications for scalable, private and uncensored access to Web3. | - | - | - | - |
+| [rotki](https://rotki.com) | rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy. | ([GitHub](https://github.com/rotki)) | - | - | - |
+| [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) | Foundations of Private Smart Contracts (predecessor to IOG's Midnight) | - | - | - | - |
+| [Beetroot](https://www.beetroot.world) | BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat. | - | - | - | - |
+| [Ronin DOJO software stack](https://ronindojo.io/en/roninui) | Manage your bitcoin privacy and sovereignty with ease. | ([GitLab](https://code.samourai.io/ronindojo)) | - | - | - |
+| [Semaphore Protocol](http://semaphore.appliedzkp.org) | Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** | ([GitHub](https://github.com/semaphore-protocol/semaphore)) | - | - | - |
+| [BTC Pay](https://btcpayserver.org) | Self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free ([GitHub](https://github.com/btcpayserver)) | - | - | - |
+| [Nostr](https://nostr.com/) | A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. | [Github](https://github.com/nostr-protocol/nostr) | - | - | - |
+| [Zkitter](https://www.zkitter.com/) | ZK social protocol, anonymous social network | - | - | - | - |
+| [Abakhus protocol](https://www.abakhus.io) | A privacy-preserving protocol for Health and Life Sciences. | ([GutHub](https://github.com/Abakhus/))
+| [Minds](https://www.minds.com) | Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media. | - | - | - | - |
+| [Shadow](https://github.com/Comdex/shadow) | A Private Account System On Mina. | ([GitHub](https://github.com/Comdex/shadow))  | - | - | - |
+| [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) | Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC). | ([GitHub](https://github.com/timoth-y/spy-pets))   | - | - | - |
+| [Media Network](https://www.media.network) | a privacy-first and community-governed CDN. | ([GitHub](https://github.com/mediafoundation)) | - | - | - |
+| [Tezos sapling via åirGap](https://support.airgap.it/features/tezos-sapling/) | Sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment | - | - | - | - |
+| [Datum](https://datumtechs.com) | Web3 Privacy-preserving Data Service. | ([GitHub](https://github.com/datumtechs)) | - | - | - |
+| [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) | a privacy-preserving framework based on TensorFlow | - | - | - | - |
+| [OpenTss](https://opentss.com/) | MPC-based Key Management Protocol | - | - | - | - |
+| [ZK-Groups](https://github.com/privacy-scaling-explorations/zk-groups) | a comprehensive infrastructure to allow anyone to create and manage their own groups privately ([GitHub](https://github.com/privacy-scaling-explorations/zk-groups)) | - | - | - |
+| [Crypt-Keeper](https://github.com/CryptKeeperZK/crypt-keeper-extension) | a browser extension which enables Zero knowledge identity management and proof generation  ([GitHub](https://github.com/CryptKeeperZK/crypt-keeper-extension)) | - | - | - |
+| [3num](https://www.3num.co) | the first anonymous Web3 mobile number that protects your identity and provides private, secure messaging. | ([GitHub](https://github.com/3numdao)) | - | - | - |
+| [Moby](https://get.moby.app) | Pay privately. You hold the keys so we can't see your balance, let alone touch it. | - | - | - | - |
+| [AesirX SSO](https://sso.aesirx.io) | a 1st-party based Web2 + Web3 single sign on service for any JavaScript-based website or app. | ([GitHub](https://github.com/aesirxio/sso-template)) | - | - | - |
+| [Better call Raul](https://bettercallraul.it) | Advanced Security Measures to automatically and securely transfer your initial liquidity with no traceability.  | - | - | - | - |
+| [ZKTsunami](https://www.zktsunami.io) | ZK-AnonSNARK powered transactional anonymity at your fingertips  | - | - | - | - |
+| [Handshake](https://hnsdns.com) | a Handshake DNS resolver and nameserver provider that aims to create an easy Handshake experience for everyone. No apps to install. No logs. No censorship. Just privacy. | ([GitHub](https://github.com/HNSDNS)) | - | - | - |
+| [blyss](https://blyss.dev) | Access data privately using homomorphic encryption. Privately scan for breached credentials, block malicious URLs, access blockchain data, and more. | ([GitHub](https://github.com/blyssprivacy/sdk)) | - | - | - |
+| [Self](https://www.joinself.com) | Web3 fraud prevention for everyone. | ([GitHub](https://github.com/joinself)) | - | - | - |
+| [DoxyChain](https://www.doxychain.com) | Certificates and eSignatures on the blockchain. | - | - | - | - |
+| [Web3Shield](https://www.web3shield.com) | a platform providing insurance, security and privacy focused products for all things Web3. | - | - | - | - |
+| [Black Box](https://bbtt.io) | a sophisticated cryptocurrency transfer anonymiser.  | - | - | - | - |
+| [GostPay](https://gostpay.net) | A transaction layer that obfuscates the transaction data so it can be veiled on-chain, thereby applying privacy to the transaction. | - | - | - | - |
+| [Void cash](https://void.cash) | Decentralized payment protocol. | ([Docs](https://void-cash.gitbook.io/void.cash/)) | - | - | - |
+| [Foundation Cash](https://foundationtoken.io) | a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer. | - | - | - | - |
+| [Ergo](https://ergoplatform.org/en/) | a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. | ([GitHub](https://github.com/ergoplatform)) | - | - | - |
+| [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) | Personalized Social Network with Privacy-Preserving Module | - | - | - | - |
+| [Daml](https://www.digitalasset.com/developers) | Daml is the only smart-contract language and blockchain that allows sub-transaction privacy. | ([GitHub](https://github.com/digital-asset/daml)) | - | - | - |
+| [CryptoChill](https://cryptochill.com) | a highly customizable cryptocurrency payment gateway and custodial wallets provider focused on security, privacy and scalability. | - | - | - | - |
+| [Redacted Money](https://twitter.com/redacted_money) | a trustless Zero Knowledge protocol that exists to bring you an easy to use way of securing your transactions from prying eyes. | - | - | - | - |
+| [Decentra Life](https://www.decentralife.app) | Welcome to the future of social media: a decentralized platform built for you, by you. | - | - | - | - |
+| [ZK-DEX](https://zk-dex.io) | we set your personal information private, you govern your own asset. | - | - | - | - |
+| [Anon virtual cards](https://vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | - | - | - |
+| [CakePay](https://cakepay.com/) | purchase gift cards and related products for use worldwide with XMR, BTC, LTC - Cake Pay cards are brand new from authorized sellers. Buy the exact amount you need for many providers. | [Github](https://github.com/cake-tech) | - | - | - |
+| [AnonCards](https://anoncards.io/)  | buy SIM, ESIM and gift cards with XMR. | - | - | - | - |
+| [0x0](https://0x0.ai)  | All-in-One Privacy Hub and AI Smart Contract Auditor. | ([Docs](https://docs.0x0.ai/0x0.ai-ai-smart-contract-auditor/overview)) | - | - | - |
+| [Vocdoni](https://vocdoni.io)  | We are the most open, secure, and universally verifiable voting protocol, used by hundreds of organizations worldwide. | ([GitHub](https://github.com/vocdoni)) | - | - | - |
+| [Mailchain](https://mailchain.com) | Send and receive messages directly between wallets. | ([Docs](https://docs.mailchain.com/developer/)) | - | - | - |
+| [Ledgermail](https://ledgermail.io) | World's First Blockchain Email Service. | ([Docs](https://docs.mailchain.com/developer/)) | - | - | - |
+| [Humanode](https://humanode.io) | Humanode conducts private biometric verification of its validators to ensure that there is only one unique living human being behind each node. | ([Docs](https://gitbook.humanode.io/oauth2-service)) | - | - | - |
+| [FNS](https://fns.gg) | Your .fra username lets you send and receive assets on any chain or dApp while protecting your actual on-chain address. Its a simple way to manage assets and protect your privacy. | ([GitHub](https://github.com/orgs/findora-name-service/repositories)) | - | - | - |
+| [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | - | - | - | - |
+| [MyDataCoin](https://mydatacoin.io) | a blockchain-based platform that utilizes Cosmos SDK Tendermint technology to enable secure and transparent exchange of personal data between individuals and companies. | ([GitHub](https://github.com/MyDataCoin)) | - | - | - |
+| [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) | Practical Experiments on how to add complete privacy to flashbots. ([GitHub](https://github.com/hashcloak/flashbots-privacy)) | - | - | - |
+| [ONEG8](https://oneg8.one) | builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem.  | - | - | - | - |
+| [Aztec Network](https://aztec.network/index.html) | Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution.  [Github](https://github.com/AztecProtocol) | - | - | - |
+| [Pre Search ](https://presearch.com) | A decentralized Search Engine. | ([GitHub](https://github.com/presearchofficial)) | - | - | - |
+| [TOME](https://tome.fm) | anonymous, uncensorable broadcast service that allows anyone to publish any string onto Ethereum | ([GitHub](https://github.com/firnprotocol/tome)) | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
-- [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet
+- [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet.
+- [Freedom Tech](https://freedom.tech) - Enabling human freedom and flourishing through technology.
+- [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil. 
 - [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
 
 ## Events
