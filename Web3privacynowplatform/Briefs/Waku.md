@@ -35,28 +35,28 @@
 | **Is your team anon or public**  | public | 
 | **List core contributors** | https://github.com/orgs/waku-org/people |
 
-**Funding** 
+**Funding** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
-| **How are you funded**  | self-funded, VC, donations, mixed | 
-| **List VCs backing you**  | if aplicable |
+| **How are you funded**  | mixed | 
+| **List VCs backing you**  | Logos Collective |
 | **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
 | **Raised money** | add a Crunchbase link | 
 
-**Github** 
+**Github** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
 | **What licence is in use**  | add link to Github repo | 
 
-**Technology**
+**Technology** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
-| **Specify technology readiness**  | infra: testnet/mainnet, apps: MVP/beta/alpha | 
-| **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Specify technology readiness**  | infra: mainnet, apps: alpha | 
+| **Features**  | peer-to-peer, decentralized, censorship-resistance | 
+| **Encryption method**  | !!! | 
 
-**Privacy**
+**Privacy** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
@@ -68,7 +68,7 @@
 | **Sign-in requirments** | specify what data is needed to start using service |
 | **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
 
-**Security**
+**Security** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Asset custody** | specify | 
@@ -81,7 +81,7 @@
 | **When you were audited** | date: D/M/Y (one &/or many) |
 | **Add links to the audits** | here |
 
-**Roadmap (technical)**
+**Roadmap (technical)** -- NEEDS REVIEW
 | Request  | Data point | 
 | ------------- | ------------- |
 | **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
