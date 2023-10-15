@@ -305,6 +305,7 @@ Feel free to update the list!
 | [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check thier Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | ([GitHub](https://github.com/mullvad)). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. |  live | no chain | no | ([Public]([https://mullvad.net/en/about)) |
 | [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | ([GitHub](https://github.com/ProtonVPN)) |  live | no chain | no | ([Public]([[https://protonvpn.com/about)) |
 | [Solar labs](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service. | - | - | - | - |
+| [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
 
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
