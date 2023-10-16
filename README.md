@@ -343,8 +343,8 @@ Feel free to update the list!
 | [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | ([GitHub](https://github.com/anagolay) | - | - | - |
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
-
 | [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation, you can gain access to the most trustworthy web3 experiences and maximize your ability to benefit from platforms like Gitcoin Grants. | [Github](https://github.com/gitcoinco/passport) | - | - | - |
+| [Internet Identity](https://internetcomputer.org/internet-identity) | authentication framework that enables users to sign into dapps using passkeys (fingerprint, FaceID). Also, sets new authentication keys for each domain to protects users from being tracked across domains. | ([GitHub](https://github.com/dfinity/internet-identity) | live | multichain | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
