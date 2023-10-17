@@ -1,5 +1,7 @@
 # Scoring model analytics based on a 50+ privacy projects [survey](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 
+_We are shipping an educational website to help the general public understand whether a web3-service is private or not. Its core feature - scoring mechanism validated by the market (reference: web3 - l2beat, web2 - IMDB)._
+
 **17 Oct, 2023 update**
 
 **2 DO list**
