@@ -11,7 +11,7 @@
 | [ZK privacy-enhancing solutions database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)  | Unified database of the privacy-enhancing ZK solutions |
 | [Web3privacy now analytical platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)  | Creating analytical service for privacy |
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/static-assets/logo3.png?raw=true)
 
 ⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
