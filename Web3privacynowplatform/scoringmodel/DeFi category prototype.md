@@ -55,6 +55,7 @@
 | [RAILGUN](https://railgun.org) | [Github](https://github.com/Railgun-Community) | live, Jul 2021 | Ethereum, BNB, Polygon | ([Public](https://railgun.org/#/contributors)) | [Docs](https://docs.railgun.org/developer-guide/cookbook/cookbook-overview) | [5 audits](https://assets.railgun.org/docs/audits/) | 100% |  
 
 **total**: 2 projects
+
 **Details**:
 - 1 red flag 🚩
 
@@ -73,6 +74,7 @@
 | [Fairy](https://fairyswap.finance/swap) | **dead** ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | 🚩 2022: [Certik](https://skynet.certik.com/projects/fairyswap) | 75% |
 
 **total**: 9 projects
+
 **Details**:
 - 7 red flags 🚩
 - 1 sunset
@@ -95,6 +97,7 @@
 | [Shade Cash](https://shade.cash) | 🚩 **no code** ([GitHub](https://github.com/ShadeCash)) | - | - | - | 🚩 **marketing** [Docs](https://shadecash.gitbook.io/shadecash) | - | 50% |
 
 **total**: 12 projects
+
 **Details**:
 - 11 red flags 🚩
 - 1 sunset
@@ -114,6 +117,7 @@
 | [Spiral Finance](https://www.spiralfi.io) | - | - | - | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 25% |
 
 **total**: 9 projects
+
 **Details**:
 - 6 red flags 🚩
 - 3 sunsets
@@ -130,6 +134,7 @@
 | [NonKYC](https://nonkyc.io) | - | - | - | - | - | - | - | 0% |
 
 **total**: 6 projects
+
 **Details**:
 - 1 red flag 🚩
 - 1 sunset
