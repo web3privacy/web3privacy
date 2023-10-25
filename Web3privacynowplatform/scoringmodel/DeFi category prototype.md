@@ -52,7 +52,7 @@
 
 # Post-assesment breakdown
 
-## :large_green_circle: 100% scoring
+## 100% scoring
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -64,7 +64,7 @@
 **Details**:
 - 1 red flag 🚩
 
-## :large_orange_circle: 75% scoring
+## 75% scoring
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -84,7 +84,7 @@
 - 7 red flags 🚩
 - 1 sunset
 
-## :large_yellow_circle: 50% scoring 
+## 50% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -107,7 +107,7 @@
 - 11 red flags 🚩
 - 1 sunset
 
-## :large_red_circle: 25% scoring 
+## 25% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -127,7 +127,7 @@
 - 6 red flags 🚩
 - 3 sunsets
 
-## :large_black_circle: 0% scoring 
+## 0% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -150,7 +150,7 @@
 - 🚩 - represents - 25% of scoring
 - sunset - decreases scoring to 0%
 
-## :large_green_circle: 100% scoring
+## 100% scoring
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -158,7 +158,7 @@
 
 **total**: 1 project
 
-## :large_orange_circle: 75% scoring
+## 75% scoring
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -173,7 +173,7 @@
 **Details**:
 - 1 red flag 🚩
 
-## :large_yellow_circle: 50% scoring 
+## 50% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -191,7 +191,7 @@
 **Details**:
 - 3 red flags 🚩
 
-## :large_red_circle: 25% scoring 
+## 25% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -208,7 +208,7 @@
 **Details**:
 - 5 red flags 🚩
 
-## :large_black_circle: 0% scoring 
+## 0% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
