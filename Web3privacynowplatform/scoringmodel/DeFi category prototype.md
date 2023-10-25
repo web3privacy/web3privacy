@@ -44,3 +44,78 @@
 | [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 25% |
 | [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | **dead** ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | 🚩 2022: [Certik](https://skynet.certik.com/projects/fairyswap) | 75% |
 | [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | 🚩 **no code** ([GitHub](https://github.com/ShadeCash)) | - | - | - | 🚩 **marketing** [Docs](https://shadecash.gitbook.io/shadecash) | - | 50% |
+
+# Post-assesment breakdown
+
+## 100% scoring
+
+| Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
+| ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Panther Protocol](https://www.pantherprotocol.io) | ([GitHub](https://github.com/pantherprotocol))  | testnet launch Q2 2023, mainnet launch Q3 2023 | Ethereum, Elrond, Polkadot, Avalanche, Near, Flare | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | 🚩 2021: [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) | 100% |
+| [RAILGUN](https://railgun.org) | [Github](https://github.com/Railgun-Community) | live, Jul 2021 | Ethereum, BNB, Polygon | ([Public](https://railgun.org/#/contributors)) | [Docs](https://docs.railgun.org/developer-guide/cookbook/cookbook-overview) | [5 audits](https://assets.railgun.org/docs/audits/) | 100% |  
+
+**total**: 2 projects
+
+## 75% scoring
+
+| Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
+| ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Firn Protocol](https://app.firn.cash) | ([GitHub](https://github.com/firnprotocol)) | live, june 2022 | Ethereum | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) | 75% |
+| [Shade](https://shadeprotocol.io)  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | 🚩 2022: [2 audits](https://docs.shadeprotocol.io/shade-protocol/research/audit-log) | 75% |
+| [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | Q2 2023 | Secret Network | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 75% |
+| [Elusiv](https://elusiv.io) | ([GitHub](https://github.com/elusiv-privacy)) | live, march 2023 | Solana | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40)) | 🚩 **marketing** [Docs](https://docs.elusiv.io/) | - | 75% |
+| [Manta Pay](https://app.manta.network/dolphin/transact) | ([GitHub](https://github.com/Manta-Network)) | testnet v3 | Polkadot | anon | [Docs](https://docs.manta.network/docs/Introduction) | - | 75% |
+| [Webb](https://app.webb.tools/#/tornado) | ([GitHub](https://github.com/webb-tools)) | beta | Tangle | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 75% |
+| [Diva](https://www.diva.exchange/en/) | ([GitHub](https://github.com/diva-exchange)) | TBD | - | ([Public](https://www.diva.exchange/en/team-and-contact/)) | [Docs](https://docs.lightprotocol.com) | - | - | 75% |
+| 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | beta | DeFiner | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 75% |
+| [Fairy](https://fairyswap.finance/swap) | **dead** ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | 🚩 2022: [Certik](https://skynet.certik.com/projects/fairyswap) | 75% |
+
+**total**: 9 projects
+
+## 50% scoring 
+
+| Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
+| ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | testnet | Ethereum | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 50% |
+| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | testnet | Dusk | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
+| [Umbra](https://app.umbra.cash) | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | mainnet, june 2021 | Ethereum | anon | - | 🚩 2021: [3 audits](https://app.umbra.cash/faq#security) | 50% |
+| [Light Shield](https://shield.lightprotocol.com) |  - | mainnet-beta | Solana  | anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 50% |
+| [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | - | TBD | - | anon | 🚩 **marketing** [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) | 50% |
+| [BasicSwap](https://basicswapdex.com) | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | beta, December 2022 | SMSG | ([anon](https://particl.io/)) | - | - | 50% |
+| 🚩 **sunset** [Sahara](https://sahara.network) | - | coming in 2023 | Ethereum, BNB, Polygon, Solana, Avalanche | ([Public](https://sahara.network/)) | - | 🚩 2022: [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) | 50% |
+| [Hurricane Protocol](https://hurricane.money) | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | TBD | Terra, Near | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 50% |
+| [Hinkal](https://hinkal.pro) | - | mainnet | Polygon | ([Public](https://hinkal.pro/#section-team)) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) | 50% |
+| [Conceal Network](https://conceal.network) | ([GitHub](https://github.com/ConcealNetwork)) | live | Conceal | ([anon](https://conceal.network/team/)) | [Docs](https://conceal.network/wiki/doku.php) | - | 50% |
+| [zkUSD](https://zkusd.money/#Features) |  🚩 **no code** ([GitHub](https://github.com/zkUSDLabs)) | - | - | - | 🚩 **marketing** [Docs](https://zkusd.gitbook.io/zkusd-documentation) | - | 50% |
+| [Shade Cash](https://shade.cash) | 🚩 **no code** ([GitHub](https://github.com/ShadeCash)) | - | - | - | 🚩 **marketing** [Docs](https://shadecash.gitbook.io/shadecash) | - | 50% |
+
+**total**: 12 projects
+
+## 25% scoring 
+
+| Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
+| ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 🚩 **sunset** [XATA](https://www.xata.fi) | - | TBD | Automata | anon | ([Docs](https://docs.xata.fi)) | - | 25% |
+| [Offshift](https://www.offshift.io) | 🚩 **LOW** ([GitLab](https://open.offshift.io/offshiftXFT)) | live, march 2023 | Ethereum | ([anon](https://offshift.io/#team)) | - | - | 25% |
+| [Evanesco](https://evanesco.org) | ([GitHub](https://github.com/Evanesco-Labs)) | live, december 2021 | Eva | anon | - | - | 25% |
+| 🚩 **sunset** [zk.money](https://zk.money) | ([Docs](https://docs.aztec.network/zk-money/userguide)) | live, july 2022 | Ethereum | anon | [Docs](https://docs.aztec.network) | - |  25% |
+| 🚩 **sunset** [Yellow Submarine](https://ys.finance) | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | TBD | EVM compatible | anon | - | - | 25% |
+| [Sacred](https://sacred.finance) | 🚩 **LOW** ([GitHub](https://github.com/Sacred-Finance)) | TBD | Ethereum, Polygon | anon | - | - | 25% |
+| [StealthPay](https://www.stealthpay.cash) | 🚩 **dead** ([GitHub](https://github.com/cryptoadong)) | TBD | Ethereum | anon | - | - | 25% |
+| [BlackBox](https://blackbox.cash) | ([GitHub](https://github.com/TriviumNode)) | TBD | Secret Network | anon | - | - | 25% |
+| [Spiral Finance](https://www.spiralfi.io) | - | - | - | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 25% |
+
+**total**: 9 projects
+
+## 0% scoring 
+
+| Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
+| ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Silent protocol](https://www.silentprotocol.org)  | - | TBD | Ethereum | anon | - | - | 0% |
+| [Common](https://common.fi) | - | coming in 2023 | Near, Ethereum, Solana, Kusama, Azero | anon | - | - | 0% |
+| [CIA protocol](https://ciaprotocol.com) | - | TBD | Ethereum | anon | - | - | 0% |
+| 🚩 **sunset** [CoinBook](https://www.coinbook.app) | - | - | multichain | anon | - | - | 0% |
+| [Seven Seas](https://www.sevenseas.exchange) | - | - | - | - | - | - | - | 0% |
+| [NonKYC](https://nonkyc.io) | - | - | - | - | - | - | - | 0% |
+
+**total**: 6 projects
