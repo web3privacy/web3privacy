@@ -5,7 +5,7 @@
 **Simplified overview**
 | Project | GitHub | Team | Docs | Audit | Score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Test project** | available & active GitHub / not (25%) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to datw third-party audit / not (25%) | total |
+| **Test project** | available & active GitHub / not (25%) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | total |
 | -> | 25% | 25% | 25% | 25% | from 0% to 100% |
 
 **Note**:
