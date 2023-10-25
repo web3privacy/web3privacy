@@ -1,3 +1,7 @@
+Scoring model testing repo
+
+[Applied scoring approach](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
+
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
