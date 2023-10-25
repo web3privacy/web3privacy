@@ -2,7 +2,8 @@
 
 [Applied scoring approach](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
 
-**Note**: 
+**Note**:
+- persona: non-techie
 - max score: 100% (public GitHub, third-party audit, public Docs, public team)  
 - min score: 0%
 - 🚩 - represents project sunset, empty or inactive Github, marketing docs
