@@ -56,6 +56,9 @@
 
 **total**: 2 projects
 
+_Details_:
+- 1 red flag 🚩
+
 ## 75% scoring
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
@@ -71,6 +74,10 @@
 | [Fairy](https://fairyswap.finance/swap) | **dead** ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | 🚩 2022: [Certik](https://skynet.certik.com/projects/fairyswap) | 75% |
 
 **total**: 9 projects
+
+_Details_:
+- 7 red flags 🚩
+- 1 sunset
 
 ## 50% scoring 
 
@@ -91,6 +98,10 @@
 
 **total**: 12 projects
 
+_Details_:
+- 11 red flags 🚩
+- 1 sunset
+
 ## 25% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
@@ -107,6 +118,10 @@
 
 **total**: 9 projects
 
+_Details_:
+- 6 red flags 🚩
+- 3 sunsets
+
 ## 0% scoring 
 
 | Project  | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit | Score |
@@ -119,3 +134,7 @@
 | [NonKYC](https://nonkyc.io) | - | - | - | - | - | - | - | 0% |
 
 **total**: 6 projects
+
+_Details_:
+- 1 red flag 🚩
+- 1 sunset
