@@ -2,6 +2,12 @@
 
 [Applied scoring approach](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
 
+**Simplified overview**
+| Project | GitHub | Team | Docs | Audit | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test project** | available & active GitHub / not (25%) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to datw third-party audit / not (25%) | total |
+| -> | 25% | 25% | 25% | 25% | from 0% to 100% |
+
 **Note**:
 - persona: non-techie
 - max score: 100% (public GitHub, third-party audit, public Docs, public team)  
