@@ -257,9 +257,9 @@ _high-risk category_
 - 63.1% of the total projects - high-risk category (0-25%)
 
 _low-risk category_
-1% of the projects hit 100%
-13.1% hit 75%
-14.1% combined - low-risk category
+- 1% of the projects hit 100%
+- 13.1% hit 75%
+- 14.1% combined - low-risk category
 
 _moderate risk-category_
-21% - moderate risk-category
+- 21% - moderate risk-category
