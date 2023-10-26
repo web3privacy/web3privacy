@@ -263,3 +263,15 @@ _low-risk category_
 
 _moderate risk-category_
 - 21% - moderate risk-category
+
+**GitHub**
+- 27 projects (71%) have public GitHub
+- 8 projects (29% among them) have dead or inactive GitHub (6 months +)
+
+**security audits**
+- 13 projects or 34.2% have third-party audits
+- 8 projects have outdated audits (1 year+) - 61% (among those attested by a third party)
+
+**docs**
+- 21 projects (or 55%) have docs 
+- 5 projects (or 23%) among them = marketing docs
