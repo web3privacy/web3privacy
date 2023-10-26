@@ -237,7 +237,7 @@
 | [Hurricane Protocol](https://hurricane.money) | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | TBD | Terra, Near | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 0% |
 | 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | beta | DeFiner | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 75% |
 
-**total**: 6 projects
+**total**: 17 projects
 
 **Details**:
 - 17 red flags 🚩
