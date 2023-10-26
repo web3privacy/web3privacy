@@ -242,3 +242,20 @@
 **Details**:
 - 17 red flags 🚩
 - 6 sunsets
+
+# Findings
+
+## DeFi category
+
+_high-risk category_
+- 44.7% of the projects scored 0%
+- 18.4% scored 25%
+- 63.1% of the total projects - high-risk category (0-25%)
+
+_low-risk category_
+1% of the projects hit 100%
+13.1% hit 75%
+14.1% combined - low-risk category
+
+_moderate risk-category_
+21% - moderate risk-category
