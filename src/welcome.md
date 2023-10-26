@@ -11,7 +11,9 @@ Our goal is to build a culture of privacy industry in web3: make market reports,
 | [ZK privacy-enhancing solutions database](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)  | Unified database of the privacy-enhancing ZK solutions |
 | [Web3privacy now analytical platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)  | Creating analytical service for privacy |
 
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/logo2.png?raw=true)
+
+![Group 3692(3)](https://github.com/web3privacy/web3privacy/assets/101947219/592a6890-c617-4827-b486-df72c58d2e1c)
+
 
 # If you care about privacy - support us
 | Collaboration  | Description |
