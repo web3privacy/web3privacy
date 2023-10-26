@@ -247,6 +247,10 @@
 
 ## DeFi category
 
+1. 38 projects
+2. 25 red flags
+3. 6 sunsets
+
 _high-risk category_
 - 44.7% of the projects scored 0%
 - 18.4% scored 25%
