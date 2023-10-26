@@ -1,4 +1,4 @@
-# web3privacy now - a think tank dedicated to research & education within privacy x Web3 industry
+# Web3Privacy Now - a think-tank dedicated to research & education within privacy x Web3 industry
 Our goal is to build a culture of privacy industry in web3: make market reports, aggregate knowledge on the state of privacy tech development, deliver new privacy concepts, train builders & explore potential use-case.
 
 | Block  | Info |
