@@ -14,8 +14,8 @@ We make market reports, aggregate knowledge and people, foster the state of priv
 | [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)  | Forthcoming activities that will empower humans & industry privacy-level  |
 | [Web3 Privacy Hiring](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)  | Find your next work in the Web3 x Privacy market |
 
-
-![Group 3692(3)](https://github.com/web3privacy/web3privacy/assets/101947219/592a6890-c617-4827-b486-df72c58d2e1c)
+![Group 3627(4)](https://github.com/web3privacy/web3privacy/assets/101947219/899689af-e6ce-44fc-8358-4f23e5165f0e)
+![web3privxsaacynow](https://github.com/web3privacy/web3privacy/assets/101947219/07232efb-408c-4f53-991d-31ab4d265a9e)
 
 
 # If you care about privacy - support us
