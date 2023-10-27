@@ -1,6 +1,6 @@
 ![Group 3627(4)](https://github.com/web3privacy/web3privacy/assets/101947219/899689af-e6ce-44fc-8358-4f23e5165f0e)
 
-### A think-tank dedicated to foster research, tools & education within privacy x Web3 industry.
+# A think-tank dedicated to foster research, tools & education within privacy x Web3 industry.
 
 We make market reports, aggregate knowledge and people, foster the state of privacy-tech development, deliver new privacy concepts and tools, train builders & explore potential use-case.
 
