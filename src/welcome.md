@@ -15,6 +15,7 @@ We make market reports, aggregate knowledge and people, foster the state of priv
 | [ZK privacy-enhancing solutions db](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)  | Unified database of the privacy-enhancing ZK solutions |
 | [Web3privacy now analytical platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)  | Creating analytical service for privacy |
 
+[Fund requests x Projects](https://github.com/web3privacy/grants/tree/main) ⇨ Showcase of projects under development and specific verticals to seek financial support
 
 ![Group 3692(3)](https://github.com/web3privacy/web3privacy/assets/101947219/592a6890-c617-4827-b486-df72c58d2e1c)
 
