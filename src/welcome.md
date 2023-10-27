@@ -1,7 +1,6 @@
 # Web3Privacy Now
-A think-tank dedicated to foster research, tools & education within privacy x Web3 industry
-
-We make market reports, aggregate knowledge, foster the state of privacy-tech development, deliver new privacy concepts and tools, train builders & explore potential use-case.
+A think-tank dedicated to foster research, tools & education within privacy x Web3 industry.
+We make market reports, aggregate knowledge and people, foster the state of privacy-tech development, deliver new privacy concepts and tools, train builders & explore potential use-case.
 
 | Block  | Info |
 | ------------- | ------------- |
