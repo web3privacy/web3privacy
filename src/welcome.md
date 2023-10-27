@@ -3,7 +3,15 @@
 
 # A think-tank dedicated to foster research, tools & education within privacy x Web3 industry.
 
-We aggregate knowledge and people, make market reports, foster the state of privacy-tech development, deliver new privacy concepts and tools, train builders & explore potential use-cases.
+We aggregate knowledge and people, produce market reports, foster the state of privacy-tech development, deliver new privacy concepts and tools, train builders & explore potential use-cases.
+
+### ⚛ Activities
+- Aggregate knowledge and people
+- Produce market reports
+- Foster the state of privacy-tech development
+- Deliver new privacy concepts and tools
+- Train builders
+- Explore potential use-cases
 
 | Block  | Info |
 | ------------- | ------------- |
