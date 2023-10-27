@@ -9,10 +9,10 @@ We make market reports, aggregate knowledge and people, foster the state of priv
 | [Privacy Market Outlook](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae)  | A unique 134-page long report on Web3-privacy |
 | [Privacy Use-Cases](https://github.com/Msiusko/web3privacy/blob/main/Use-cases.md)  | 400+ privacy web3-services in practice |
 | [Pagency framework](https://github.com/Msiusko/web3privacy/tree/main/Pagency)  | A tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3 |
-| [ZK privacy-enhancing solutions](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)  | Unified database of the privacy-enhancing ZK solutions |
+| [ZK privacy-enhancing solutions](https://github.com/Msiusko/web3privacy/tree/main/ZKprivacylandscape)  | Unified DB of the privacy-enhancing ZK solutions |
 | [Web3privacy now analytical platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)  | Creating analytical service for privacy |
 | [2023 Roadmap](https://github.com/Msiusko/web3privacy/blob/main/Roadmap%202023.md)  | Forthcoming activities that will empower humans & industry privacy-level  |
-| [Web3 Privacy Hiring](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)  | find your next privacy work  |
+| [Web3 Privacy Hiring](https://docs.google.com/spreadsheets/d/1dN6bIWyOh01Dl-y1iZh-1TASZxKUefD098BUALcnUb8/edit?usp=sharing)  | Find your next work in the Web3 x Privacy market |
 
 
 ![Group 3692(3)](https://github.com/web3privacy/web3privacy/assets/101947219/592a6890-c617-4827-b486-df72c58d2e1c)
