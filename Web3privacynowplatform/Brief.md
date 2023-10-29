@@ -50,7 +50,7 @@ How it works:
 | **How are you funded**  | self-funded, VC, donations, mixed | 
 | **List VCs backing you**  | if aplicable |
 | **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
-| **Raised money** | add a Crunchbase link | 
+| **Raised money** | add a public link | 
 
 **Github**
 | Request  | Data point | 
