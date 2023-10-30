@@ -378,7 +378,7 @@ _moderate risk-category_
 - 5 projects (or 23%) among them = marketing docs
 
 **After 🚧 criteria has been applied**
-- 44.7% - 🚧 (0%)
+- 44.7% - 🚧
 - 71% - 0%
 - 13.1% - 50%
 - 7.8% - 25%
