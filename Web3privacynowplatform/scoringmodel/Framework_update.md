@@ -37,3 +37,6 @@
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png?raw=true)
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset2%20(Coinbook).png?raw=true)
+
+# **Summary**
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Red%20flag%20summary.png?raw=true)
