@@ -20,7 +20,7 @@
 | **Test project** | 1. Exist. 2. Active (last 6 months). 3. Lots of commits (not fake). | 1. Live (main-net, Beta). | Public team | 1. Exist. 2. Dev-centric. | 1. Exist. 2. Up to date (last 6 months). 3. Complex. | External contributors | Open-source licenses in use | Availbale | from 0 to 100% |
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
-## **Examples**
+## **Red flag examples**
 
 # **Poor GitHub**
 🚩
