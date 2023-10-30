@@ -334,7 +334,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Hurricane Protocol](https://hurricane.money) | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | 🚩 | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 0% |
 | 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | 🚩 | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 75% |
 
-**total**: 17 projects
+**total**: 27 projects
 
 **Details**:
 - 17 🚧
@@ -346,8 +346,11 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 ## DeFi category
 
 1. 38 projects
-2. 25 red flags
-3. 6 sunsets
+2. 25 🚩red flags
+3. 17 🚧
+4. 6 sunsets
+
+**Before 🚧 criteria has been applied**
 
 _high-risk category_
 - 44.7% of the projects scored 0%
@@ -355,7 +358,7 @@ _high-risk category_
 - 63.1% of the total projects - high-risk category (0-25%)
 
 _low-risk category_
-- 1% of the projects hit 100%
+- 2.6% of the projects hit 100%
 - 13.1% hit 75%
 - 14.1% combined - low-risk category
 
@@ -373,3 +376,20 @@ _moderate risk-category_
 **docs**
 - 21 projects (or 55%) have docs 
 - 5 projects (or 23%) among them = marketing docs
+
+**After 🚧 criteria has been applied**
+- 44.7% - 🚧 (0%)
+- 71% - 0%
+- 13.1% - 50%
+- 7.8% - 25%
+- 5.2% - 75%
+
+**Basic assessment, 🚩& 🚧 criterias applicability comparison**
+
+| Observation | Basic | 🚩 | Team | 🚧 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 100% | 5.2% | 🚧 | 2.6% | 2.6% | 
+| 75% | 23.6% | 🚧 | 13.1% | 5.2% | 
+| 50% | 31.5% | 🚧 | 21% | 13.1% | 
+| 25% | 23.6% | 🚧 | 18.4% | 7.8% | 
+| 0 | 15.7% | 🚧 | 44.7% | 71% | 
