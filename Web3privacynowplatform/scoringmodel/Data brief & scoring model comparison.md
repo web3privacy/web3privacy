@@ -94,6 +94,57 @@ What could be scored in general & with am MVP specifically.
 | **When product had been launched** | + | :white_check_mark: | 
 | **When mainnet, beta had been launched**  | + | :white_check_mark: |
 
+# MVP
+Here we cover scope within scoring MVP
+
+**Basic info**
+
+| Brief |  MVP |
+| ------------- | ------------- |
+| **Launch date** | :white_check_mark: |
+| **Website**  | :white_check_mark: |
+| **Github**  | :white_check_mark: |
+
+**Socials**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **Blog** | :white_check_mark: |
+| **Twitter (X)** | :white_check_mark: |
+| **Telegram** | :white_check_mark: |
+| **Discord** | :white_check_mark: |
+| **Other** | :white_check_mark: |
+
+**Docs**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **Docs** | :white_check_mark: |
+| **Whitepaper** | :white_check_mark: |
+
+**Team**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **Is your team anon or public**  | :white_check_mark: | 
+| **List core contributors** | :white_check_mark: | 
+
+**Technology**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **Specify technology readiness**  | :white_check_mark: | 
+
+**Security**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **Have you been audited by a third-party** | :white_check_mark: |
+| **What company audited** | :white_check_mark: |
+| **When you were audited** | :white_check_mark: |
+| **Add links to the audits** | :white_check_mark: |
+
+**Roadmap (technical)**
+| Brief  | MVP | 
+| ------------- | ------------- |
+| **When product had been launched** | :white_check_mark: | 
+| **When mainnet, beta had been launched**  | :white_check_mark: |
+
 # MVP & Full scoring scope of work
 Here we cover scope that's beyond MVP & is necessary to develop the next versions of the scoring framework.
 
