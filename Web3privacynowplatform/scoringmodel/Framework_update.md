@@ -38,5 +38,8 @@
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset2%20(Coinbook).png?raw=true)
 
+# **Team**
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Anon%20team%20(CIT%20Protocol).png?raw=true)
+
 # **Summary**
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Red%20flag%20summary.png?raw=true)
