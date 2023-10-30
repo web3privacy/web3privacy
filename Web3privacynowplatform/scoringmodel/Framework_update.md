@@ -32,3 +32,8 @@
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png?raw=true)
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png?raw=true)
+
+# **Sunset**
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png?raw=true)
+
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset2%20(Coinbook).png?raw=true)
