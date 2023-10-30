@@ -1,5 +1,7 @@
 # Scoring model testing repo
 
+_Here we test the latest scoring approach for non-techies (30 Oct, 2023) whenever service is private or not._
+
 [Applied scoring approach](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
 
 **Simplified overview**
