@@ -145,6 +145,8 @@ Here we cover scope within scoring MVP
 | **When product had been launched** | :white_check_mark: | 
 | **When mainnet, beta had been launched**  | :white_check_mark: |
 
+**Total data sets: 19**
+
 # MVP & Full scoring scope of work
 Here we cover scope that's beyond MVP & is necessary to develop the next versions of the scoring framework.
 
@@ -184,3 +186,5 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 | **Social dependency**  | + | 
 | **Third-parties dependency** | + |
 | **Technical dependency** | + |
+
+**Total data sets: 16**
