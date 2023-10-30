@@ -1,4 +1,5 @@
-## Here we compare data brief to fill for privacy companies via Pull request at GitHub (source of latest updates within the market) & our scoring MVP: what could be scored in general & with am MVP specifically. 
+## Here we compare data brief to fill for privacy companies via Pull request at GitHub (source of latest updates within the market) & our scoring MVP
+What could be scored in general & with am MVP specifically. 
 
 **Sandbox**
 - _Brief_ covers generic data for privacy service "profile page" (beyond just privacy features)
