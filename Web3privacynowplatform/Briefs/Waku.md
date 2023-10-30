@@ -19,7 +19,7 @@
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Blog** | https://blog.waku.org/ |
-| **Twitter (X)** | https://x.com/waku_org/waku_org |
+| **Twitter (X)** | https://x.com/waku_org |
 | **Telegram** | https://t.me/waku_org |
 | **Discord** | https://discord.waku.org |
 | **Other** | https://logos.co |
