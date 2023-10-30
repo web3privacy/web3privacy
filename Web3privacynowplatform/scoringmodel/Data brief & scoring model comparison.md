@@ -98,37 +98,37 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 
 **Basic info**
 
-| Brief | Scoring | MVP |
-| ------------- | ------------- | ------------- |
-| **Is it open source?** | + | - |
+| Brief | Scoring | 
+| ------------- | ------------- | 
+| **Is it open source?** | + | 
 
 **Docs**
-| Brief  | Scoring | MVP | 
-| ------------- | ------------- | ------------- |
-| **Litepaper** | + | - |
+| Brief  | Scoring || 
+| ------------- | ------------- | 
+| **Litepaper** | + |
 
 **Github**
-| Brief  | Scoring | MVP | 
-| ------------- | ------------- | ------------- |
-| **What licence is in use**  | + | - | 
+| Brief  | Scoring | 
+| ------------- | ------------- | 
+| **What licence is in use**  | + |
 
 **Privacy**
-| Brief  | Scoring | MVP | 
-| ------------- | ------------- | ------------- |
-| **Is it peer-to-peer**  | + | - | 
-| **Complience**  | + | - |
-| **KYC**  | + | - |
-| **Privacy policy** | + | - |
-| **Collected data**  | + | - |
-| **Data sharing** | + | - |
-| **Sign-in requirments** | + | - |
-| **Identity integrations** | + | - |
+| Brief  | Scoring |  
+| ------------- | ------------- |
+| **Is it peer-to-peer**  | + | 
+| **Complience**  | + |
+| **KYC**  | + | 
+| **Privacy policy** | + | 
+| **Collected data**  | + | 
+| **Data sharing** | + | 
+| **Sign-in requirments** | + | 
+| **Identity integrations** | + | 
 
 **Security**
-| Brief  | Scoring | MVP | 
-| ------------- | ------------- | ------------- |
-| **Asset custody** | + | - | 
-| **Upgradability**  | + | - |
-| **Social dependency**  | + | - |
-| **Third-parties dependency** | + | - |
-| **Technical dependency** | + | - |
+| Brief  | Scoring | 
+| ------------- | ------------- | 
+| **Asset custody** | + | 
+| **Upgradability**  | + | 
+| **Social dependency**  | + | 
+| **Third-parties dependency** | + |
+| **Technical dependency** | + |
