@@ -26,7 +26,11 @@ _Delivery_
 
 - MVP description: [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf) 
 - Initial idea: [here](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform) 
-- Privacy players' survey: [here](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel)
+- [Privacy players' survey](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey)
 - Test framework: [PDF](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)
 - Latest scoring assessment: [here](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU)
-- ETHRome prototype: [here](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+- [ETHRome prototype](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea)
+- [DeFi category testing](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
+- [Scoring assessment 1.0 explainer](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Framework_update.md)
+- [Data brief x 1.0 comparison](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Data%20brief%20%26%20scoring%20model%20comparison.md)
+- [Platform features backlog](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Product%20features)
