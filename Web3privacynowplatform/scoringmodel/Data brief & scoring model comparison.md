@@ -5,13 +5,6 @@
 - _Scoring_ - possible non-techies' independent assessment (future version): + - yes, - no
 - _MVP_ - what lies within the scope of the first scoring version: :white_check_mark: - yes
 
-| Brief | Scoring | MVP |
-| ------------- | ------------- | ------------- |
-| **Launch date** | + | :white_check_mark: |
-| **Is it open source?** | + | - |
-| **Website**  | + | :white_check_mark: |
-| **Github**  | + | :white_check_mark: |
-
 **Basic info**
 
 | Brief | Scoring | MVP |
@@ -99,3 +92,43 @@
 | ------------- | ------------- | ------------- |
 | **When product had been launched** | + | :white_check_mark: | 
 | **When mainnet, beta had been launched**  | + | :white_check_mark: |
+
+# MVP & Full scoring scope of work
+Here we cover scope that's beyond MVP & is necessary to develop the next versions of the scoring framework.
+
+**Basic info**
+
+| Brief | Scoring | MVP |
+| ------------- | ------------- | ------------- |
+| **Is it open source?** | + | - |
+
+**Docs**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **Litepaper** | + | - |
+
+**Github**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **What licence is in use**  | + | - | 
+
+**Privacy**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **Is it peer-to-peer**  | + | - | 
+| **Complience**  | + | - |
+| **KYC**  | + | - |
+| **Privacy policy** | + | - |
+| **Collected data**  | + | - |
+| **Data sharing** | + | - |
+| **Sign-in requirments** | + | - |
+| **Identity integrations** | + | - |
+
+**Security**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **Asset custody** | + | - | 
+| **Upgradability**  | + | - |
+| **Social dependency**  | + | - |
+| **Third-parties dependency** | + | - |
+| **Technical dependency** | + | - |
