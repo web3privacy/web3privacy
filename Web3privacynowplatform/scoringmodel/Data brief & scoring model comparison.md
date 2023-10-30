@@ -188,3 +188,27 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 | **Technical dependency** | + |
 
 **Total data sets: 16**
+
+# Out of scope
+
+**Basic info**
+
+**Token**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **Do you have a token** | - | - |
+
+**Funding**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **How are you funded**  | - | - | 
+| **List VCs backing you**  | - | - |
+| **List VCs round**  | - | - | 
+| **Raised money** | - | - | 
+
+**Technology**
+| Brief  | Scoring | MVP | 
+| ------------- | ------------- | ------------- |
+| **Technical specialisation**  | - | - | 
+| **Privacy features**  | - | - | 
+| **Encryption method**  | - | - | 
