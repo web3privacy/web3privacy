@@ -1,4 +1,5 @@
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Visual%20prototype.png?raw=true)
+_visual prototype_
 
 # Project description
 [![Contact](https://img.shields.io/twitter/follow/nicksvyaznoy?style=social)](https://twitter.com/intent/follow?screen_name=nicksvyaznoy)
