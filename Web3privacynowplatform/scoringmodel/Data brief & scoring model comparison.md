@@ -147,7 +147,7 @@ Here we cover scope within scoring MVP
 
 **Total data sets: 19**
 
-# MVP & Full scoring scope of work
+# Full scoring scope of work
 Here we cover scope that's beyond MVP & is necessary to develop the next versions of the scoring framework.
 
 **Basic info**
