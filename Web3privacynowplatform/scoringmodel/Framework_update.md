@@ -20,15 +20,15 @@
 | **Test project** | 1. Exist. 2. Active (last 6 months). 3. Lots of commits (not fake). | 1. Live (main-net, Beta). | Public team | 1. Exist. 2. Dev-centric. | 1. Exist. 2. Up to date (last 6 months). 3. Complex. | External contributors | Open-source licenses in use | Availbale | from 0 to 100% |
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
-**Examples**
+## **Examples**
 
-**Poor GitHub**
+# **Poor GitHub**
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Poor%20Github%20(Hurricane%20protocol).png?raw=true)
 
-**Outdated Audit**
+# **Outdated Audit**
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Outdated%20audits%20(DeFiner%20Protocol).png?raw=true)
 
-**Marketing docs**
+# **Marketing docs**
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png?raw=true)
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png?raw=true)
