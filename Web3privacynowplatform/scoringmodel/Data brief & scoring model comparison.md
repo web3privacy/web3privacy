@@ -103,7 +103,7 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 | **Is it open source?** | + | 
 
 **Docs**
-| Brief  | Scoring || 
+| Brief  | Scoring |
 | ------------- | ------------- | 
 | **Litepaper** | + |
 
