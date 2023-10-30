@@ -19,6 +19,9 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
+
+**Total**: 38 projects
+
 | Project  | Description | GitHub | Product-readiness | Team | Docs | Audit | Score |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | [Firn Protocol](https://app.firn.cash) | Firn is the first-ever zero-knowledge privacy platform in the _account-based_ model, and introduces pluggable, flexible privacy to Ethereum-based chains. ✨️**ZK** | ([GitHub](https://github.com/firnprotocol)) | live | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) | 75% |
