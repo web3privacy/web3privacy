@@ -55,7 +55,7 @@ https://docs.definer.org/v/copy-of-definer.org/security/audits
 
 ## **Marketing docs**
 🚩check: language (verbal & visual), if it's for developers & how complex (# of pages) it is; _result_: marketing - non-technical
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png?raw=true)
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png" width="900"/>
 https://shadecash.gitbook.io/shadecash/token/token-and-distribution
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png?raw=true)
@@ -63,10 +63,12 @@ https://shadecash.gitbook.io/shadecash/get-started/how-to-withdraw-relayer
 
 ## **Sunset**
 🚩check: the last updates; _result_: inactive since 2021
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png?raw=true)
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png" width="600"/>
+
 http://coinbook.app
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset2%20(Coinbook).png?raw=true)
+
 https://twitter.com/coinbook_com
 
 ## **Team**
