@@ -51,6 +51,7 @@ https://github.com/Hurricane-Protocol
 ## **Outdated Audit**
 🚩check: date; _result_: outdated (1 year+)
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Outdated%20audits%20(DeFiner%20Protocol).png?raw=true)
+https://docs.definer.org/v/copy-of-definer.org/security/audits
 
 ## **Marketing docs**
 🚩check: language (verbal & visual), if it's for developers & how complex (# of pages) it is; _result_: marketing - non-technical
