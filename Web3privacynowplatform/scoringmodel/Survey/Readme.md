@@ -7,36 +7,19 @@ We asked 50+ privacy opinion leaders how they will attest privacy claims behind 
 
 ## **Fileverse**	
 
-Answers:
-- open sourcing our work
-- you literally generate and download your own e2ee keys
-- documentation
-- social recovery options
+| Answers  | Observations | Product feature |  
+| ------------- |------------- |------------- | 
+| open sourcing our work | open source non-techies should know what "open source" means & how to measure it (solution: Open source 101 education) | open source 101 (short version) |
+| you literally generate and download your own e2ee keys | key ownership is another knowledge person should know (contrast: Google or Meta "owns" your ID/key) + e2ee 101 is a must here | e2ee 101 |
+| documentation | clicking on the documentation link & understanding it are different skills | documentation: exists/missing (+/-) |
+| social recovery options | social recovery is a less techy assessment & is linked to a persona (data ownership) | social recovery 101 |
 
-_Observations_: 
-- open source non-techies should know what "open source" means & how to measure it (solution: Open source 101 education)
-- key ownership is another knowledge person should know (contrast: Google or Meta "owns" your ID/key) + e2ee 101 is a must here
-- clicking on the documentation link & understanding it are different skills
-- social recovery is a less techy assessment & is linked to a persona (data ownership)
+## **Lava Network**
 
-_Product feature_
-- open source 101 (short version)
-- e2ee 101
-- documentation: exists/missing (+/-)
-- social recovery 101
-
-## **Lava Network**	
-
-Answers:
-- starting with our litepaper	
-- further questions feel free to drop them in our discord
-
-_Observations_:
-- "read the docs" is a popular answer without any third-party attestation that docs are correct, care for privacy etc
-- Discord serves as a two-way comms platform (but depends on the project) & it creates additional dependence of user on the core team
-
-_Product feature_
-- in the future: collab with a security audit companies to create a new docs audit service description when a third-party will attest privacy-features of the initial idea x tooling description
+| Answers  | Observations | Product feature |  
+| ------------- |------------- |------------- | 
+| starting with our litepaper | "read the docs" is a popular answer without any third-party attestation that docs are correct, care for privacy etc | in the future: collab with a security audit companies to create a new docs audit service description when a third-party will attest privacy-features of the initial idea x tooling description |
+| further questions feel free to drop them in our discord | Discord serves as a two-way comms platform (but depends on the project) & it creates additional dependence of user on the core team | - |
 
 ## **Holonym**	
 
