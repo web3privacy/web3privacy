@@ -49,23 +49,23 @@ We use % as a simplified way to prototype scoring model (from % to 100%). Later 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Poor%20Github%20(Hurricane%20protocol).png?raw=true)
 
 ## **Outdated Audit**
-🚩_check_: date; _result_: outdated (1 year+)
+🚩check: date; _result_: outdated (1 year+)
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Outdated%20audits%20(DeFiner%20Protocol).png?raw=true)
 
 ## **Marketing docs**
-🚩_check_: language (verbal & visual), if it's for developers & how complex (# of pages) it is; _result_: marketing - non-technical
+🚩check: language (verbal & visual), if it's for developers & how complex (# of pages) it is; _result_: marketing - non-technical
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png?raw=true)
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png?raw=true)
 
 ## **Sunset**
-🚩_check_: the last updates; _result_: inactive since 2021
+🚩check: the last updates; _result_: inactive since 2021
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png?raw=true)
 
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset2%20(Coinbook).png?raw=true)
 
 ## **Team**
-🚩_check_: public team; _result_: anon
+🚩check: public team; _result_: anon
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Anon%20team%20(CIT%20Protocol).png?raw=true)
 
 # **Summary**
