@@ -306,16 +306,16 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 
 | Project  | GitHub | Product-readiness |  Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| [Manta Pay](https://app.manta.network/dolphin/transact) | ([GitHub](https://github.com/Manta-Network)) | 🚧 | public | [Docs](https://docs.manta.network/docs/Introduction) | - | 75% |
-| [Webb](https://app.webb.tools/#/tornado) | ([GitHub](https://github.com/webb-tools)) | 🚧 | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 75% |
-| [Diva](https://www.diva.exchange/en/) | ([GitHub](https://github.com/diva-exchange)) | 🚧 | ([Public](https://www.diva.exchange/en/team-and-contact/)) | [Docs](https://docs.lightprotocol.com) | - | - | 75% |
-| [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | 🚧 | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 50% |
-| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
-| [BasicSwap](https://basicswapdex.com) | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | 🚧 | ([anon](https://particl.io/)) | - | - | 50% |
-| [BlackBox](https://blackbox.cash) | ([GitHub](https://github.com/TriviumNode)) | 🚧 | anon | - | 25% |
-| [Spiral Finance](https://www.spiralfi.io) | - | 🚧 | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 25% |
-| [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | - | 🚧 | anon | 🚩 **marketing** [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) | 25% |
-| [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | 🚧 | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 25% |
+| [Manta Pay](https://app.manta.network/dolphin/transact) | ([GitHub](https://github.com/Manta-Network)) | 🚧 | public | [Docs](https://docs.manta.network/docs/Introduction) | - | 0% |
+| [Webb](https://app.webb.tools/#/tornado) | ([GitHub](https://github.com/webb-tools)) | 🚧 | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 0% |
+| [Diva](https://www.diva.exchange/en/) | ([GitHub](https://github.com/diva-exchange)) | 🚧 | ([Public](https://www.diva.exchange/en/team-and-contact/)) | [Docs](https://docs.lightprotocol.com) | - | - | 0% |
+| [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | 🚧 | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 0% |
+| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 0% |
+| [BasicSwap](https://basicswapdex.com) | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | 🚧 | ([anon](https://particl.io/)) | - | - | 0% |
+| [BlackBox](https://blackbox.cash) | ([GitHub](https://github.com/TriviumNode)) | 🚧 | anon | - | 0% |
+| [Spiral Finance](https://www.spiralfi.io) | - | 🚧 | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 0% |
+| [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | - | 🚧 | anon | 🚩 **marketing** [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) | 0% |
+| [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | 🚧 | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 0% |
 | [Silent protocol](https://www.silentprotocol.org)  | - | 🚧 | anon | - | - | 0% |
 | [Common](https://common.fi) | - | 🚧 | anon | - | - | 0% |
 | [CIA protocol](https://ciaprotocol.com) | - | 🚧 | anon | - | - | 0% |
@@ -332,7 +332,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Offshift](https://www.offshift.io) | 🚩 **LOW** ([GitLab](https://open.offshift.io/offshiftXFT)) | live | ([anon](https://offshift.io/#team)) | - | - | 0%  |
 | 🚩 **sunset** [Sahara](https://sahara.network) | - | 🚩 | ([Public](https://sahara.network/)) | - | 🚩 2022: [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) | 0% |
 | [Hurricane Protocol](https://hurricane.money) | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | 🚩 | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 0% |
-| 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | 🚩 | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 75% |
+| 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | 🚩 | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 0% |
 
 **total**: 27 projects
 
