@@ -213,7 +213,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Spiral Finance](https://www.spiralfi.io) | - | 🚧 | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 25% |
 | [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | - | 🚧 | anon | 🚩 **marketing** [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) | 25% |
 | [Umbra](https://app.umbra.cash) | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | live | anon | - | 🚩 2021: [3 audits](https://app.umbra.cash/faq#security) | 25% |
-| [Light Shield](https://shield.lightprotocol.com) |  - | mlive | anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 25% |
+| [Light Shield](https://shield.lightprotocol.com) |  - | live | anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 25% |
 | [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | 🚧 | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 25% |
 
 **total**: 7 projects
@@ -232,9 +232,9 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Seven Seas](https://www.sevenseas.exchange) | - | 🚧 | - | - | - | - | 0% |
 | [NonKYC](https://nonkyc.io) | - | 🚧 | - | - | - | - | 0% |
 | 🚩 **sunset** [zk.money](https://zk.money) | ([Docs](https://docs.aztec.network/zk-money/userguide)) | 🚩 | anon | [Docs](https://docs.aztec.network) | - |  0% |
-| 🚩 **sunset** [Yellow Submarine](https://ys.finance) | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | TBD | anon | - | - | 0% |
-| [Sacred](https://sacred.finance) | 🚩 **LOW** ([GitHub](https://github.com/Sacred-Finance)) | TBD | anon | - | - | 0% |
-| [StealthPay](https://www.stealthpay.cash) | 🚩 **dead** ([GitHub](https://github.com/cryptoadong)) | TBD | anon | - | - | 0% |
+| 🚩 **sunset** [Yellow Submarine](https://ys.finance) | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | 🚧 | anon | - | - | 0% |
+| [Sacred](https://sacred.finance) | 🚩 **LOW** ([GitHub](https://github.com/Sacred-Finance)) | 🚧 | anon | - | - | 0% |
+| [StealthPay](https://www.stealthpay.cash) | 🚩 **dead** ([GitHub](https://github.com/cryptoadong)) | 🚧 | anon | - | - | 0% |
 | 🚩 **sunset** [XATA](https://www.xata.fi) | - | 🚩 | anon | ([Docs](https://docs.xata.fi)) | - | 0%  |
 | [Offshift](https://www.offshift.io) | 🚩 **LOW** ([GitLab](https://open.offshift.io/offshiftXFT)) | live | ([anon](https://offshift.io/#team)) | - | - | 0%  |
 | [zkUSD](https://zkusd.money/#Features) |  🚩 **no code** ([GitHub](https://github.com/zkUSDLabs)) | 🚧 | - | 🚩 **marketing** [Docs](https://zkusd.gitbook.io/zkusd-documentation) | - | 0% |
