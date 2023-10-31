@@ -1,6 +1,6 @@
 # Community feedback x our Scoring model 1.2 version.
 
-**Main goal**: to have an MVP on how non-techies could analyze if the project is private or not.
+**Main goal**: to have an MVP on how non-techies could analyze if the project is private or not (think of "IMDB" or "L2beat" for privacy)
 
 **Sub-goal**: to have a more objective scoring model made in collaboration with the privacy community.
 
