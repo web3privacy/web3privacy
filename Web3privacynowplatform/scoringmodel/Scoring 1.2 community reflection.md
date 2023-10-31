@@ -55,14 +55,16 @@ https://docs.definer.org/v/copy-of-definer.org/security/audits
 
 ## **Marketing docs**
 🚩check: language (verbal & visual), if it's for developers & how complex (# of pages) it is; _result_: marketing - non-technical
-<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png" width="900"/>
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs%20(ShadeCash).png" width="600"/>
+
 https://shadecash.gitbook.io/shadecash/token/token-and-distribution
 
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png?raw=true)
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Marketing%20docs2%20(ShadeCash).png" width="700"/>
 https://shadecash.gitbook.io/shadecash/get-started/how-to-withdraw-relayer
 
 ## **Sunset**
 🚩check: the last updates; _result_: inactive since 2021
+
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Sunset%20(Coinbook).png" width="600"/>
 
 http://coinbook.app
@@ -73,7 +75,10 @@ https://twitter.com/coinbook_com
 
 ## **Team**
 🚩check: public team; _result_: anon
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Anon%20team%20(CIT%20Protocol).png?raw=true)
+
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Anon%20team%20(CIT%20Protocol).png" width="600"/>
+
 https://ciaprotocol.com/#about
 
 # **Summary**
