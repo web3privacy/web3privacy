@@ -2,7 +2,9 @@
 
 Here we prototype potential product features within our "l2beat for privacy" platform. All they are based on market survey available [here]((https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing))
 
-1. **Validity track** ("yes/no" applicability like if "docs" exist or not).
+# Validity track 
+
+"yes/no" applicability like if "docs" exist or not.
 _Benefit_: easy to source manually & empower scoring model with the links.
 _Downside_: the existence of Git repo or docs doesn't guarantee the state of privacy within a certain solution.
 
@@ -16,7 +18,7 @@ _Validity examples_ (yes, no):
 
 This could be broken down into 100% (4 yes, each - 25%; where 2 no & 2 yes = 50%)
    
-2. **101 educational materials**.
+## 101 educational materials.
 _Benefit_: significantly upgrades DYOR & flags main misconceptions about privacy execution plus 1 guide could serve all audiences
 _Downside_: too many content pieces to write or assemble to encompass the whole privacy services & nuances spectrum (needed to be broken down into delivery phases)
 
@@ -32,7 +34,7 @@ _Selected 101s_:
 
 The scoring model could consist of passive & active parts. When passive means what could be automated or req no subjective gaze, active - for personal consideration (research).
    
-3. **Checklists** (example: trusted sources list).
+## Checklists (example: trusted sources list).
 
 _Benefit_: serves as a self-check navigation within the complex audit stream (and a predecessor of an actionable database)
 _Downside_: there will be always something missing from the list
@@ -53,7 +55,7 @@ _Checklist MVP_:
 This is a mix of objective metrics & subjective takeaways (like an old product release can be a negative sentiment for privacy & vice versa). Case studies will help to empower these assumptions.
 If we will collect good case studies lib -> it will help people to have market benchmarks for every step of scoring system.
 
-4. **Academy** (content from case studies to third-party services to check net data, leakages).
+# Academy (content from case studies to third-party services to check net data, leakages).
 
 _Benefit_: this will be the backbone of our platform in the future that will bridge the gap between lack of privacy-centric education, lack of third-party services to check-up solutions & poor transparency on behalf of privacy-devs.
 _Downside_: usually takes too long time to deliver & many different contributors (should be simplified via tracks like Web3 Privacy 101).
