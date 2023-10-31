@@ -25,7 +25,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 We use % as a simplified way to prototype scoring model (from % to 100%). Later versions will include a mixmodel of %, yes/no assumptions & much complex observations.
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scroing%201.2%20validity%20track%20breakdown.png?raw=true)
 
-**Practical examples**
+# Practical examples
 ## 100% scoring
 
 | Project  | GitHub | Product-readiness | Team | Docs | Audit | Score |
