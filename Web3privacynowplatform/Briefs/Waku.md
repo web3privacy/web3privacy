@@ -54,7 +54,7 @@
 | **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
 | **Specify technology readiness**  | infra: mainnet, apps: alpha | 
 | **Features**  | peer-to-peer, decentralized, censorship-resistance | 
-| **Encryption method**  | !!! | 
+| **Encryption method**  | Noise, ECIES,  AES available to app builders | 
 
 **Privacy** -- NEEDS REVIEW
 | Request  | Data point | 
