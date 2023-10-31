@@ -32,7 +32,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 ## 0% scoring
 | Project  | GitHub | Product-readiness |  Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | 🚧 | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 25% |
+| [Sienna Network](https://sienna.network) | 🚩`LOW` ([GitHub](https://github.com/SiennaNetwork)) | 🚧 | anon | [Docs](https://docs.sienna.network/main/) | 🚩 2022: [9 audits](https://sienna.network/audits/) | 0% |
 | [Silent protocol](https://www.silentprotocol.org)  | - | 🚧 | anon | - | - | 0% |
 | [Common](https://common.fi) | - | 🚧 | anon | - | - | 0% |
 | [CIA protocol](https://ciaprotocol.com) | - | 🚧 | anon | - | - | 0% |
