@@ -45,7 +45,6 @@ We use % as a simplified way to prototype scoring model (from % to 100%). Later 
 # **Red flag examples**
 
 ## **Poor GitHub**
-🚩
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Poor%20Github%20(Hurricane%20protocol).png?raw=true)
 https://github.com/Hurricane-Protocol
 
