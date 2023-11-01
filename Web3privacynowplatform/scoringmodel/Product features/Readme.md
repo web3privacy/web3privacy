@@ -2,6 +2,8 @@
 
 Here we prototype potential product features within our "l2beat for privacy" platform. All they are based on market survey available [here]((https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing))
 
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Platform%20MVP%20components.png?raw=true)
+
 # Validity track 
 
 "yes/no" applicability like if "docs" exist or not.
