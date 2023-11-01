@@ -23,18 +23,13 @@ This could be broken down into 100% (4 yes, each - 25%; where 2 no & 2 yes = 50%
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Scoring%20x%20Data%20Aggregation%20sync.png?raw=true)
    
 ## 101 educational materials.
-_Benefit_: significantly upgrades DYOR & flags main misconceptions about privacy execution plus 1 guide could serve all audiences
-_Downside_: too many content pieces to write or assemble to encompass the whole privacy services & nuances spectrum (needed to be broken down into delivery phases)
 
-**Approach**: 
-- select essential educational materials for the first audiences (example: crypto, but not privacy native instead of "non-crypto" first served)
-- make 101 modular (block system) + composable (to be reused in other guides)
-
-_Selected 101s_:
-- privacy tech vocabulary
-- privacy data leakages 101
-- transaction traceability 101 (the basics on Etherscan example)
-- web3 comms 101 (with a focus on misleading comms that create an obscure understanding of the tech/product)
+| _Benefit_ | _Downside_ | **Approach** | _Selected 101s_ |
+| ------------- | ------------- | ------------- | ------------- |
+| significantly upgrades DYOR & flags main misconceptions about privacy execution plus 1 guide could serve all audiences | too many content pieces to write or assemble to encompass the whole privacy services & nuances spectrum (needed to be broken down into delivery phases) | select essential educational materials for the first audiences (example: crypto, but not privacy native instead of "non-crypto" first served) | privacy tech vocabulary |
+| | | make 101 modular (block system) + composable (to be reused in other guides) | privacy data leakages 101 |
+| | | | transaction traceability 101 (the basics on Etherscan example) |
+| | | | web3 comms 101 (with a focus on misleading comms that create an obscure understanding of the tech/product) |
 
 The scoring model could consist of passive & active parts. When passive means what could be automated or req no subjective gaze, active - for personal consideration (research).
    
