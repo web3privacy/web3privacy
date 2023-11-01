@@ -82,8 +82,8 @@ If we will collect good case studies lib -> it will help people to have market b
 |  | "Anti-features" 101 |  ||
 |  | did 101 (with a focus on the linkage between different data types) |  ||
 
-_DYOR section_
+## _DYOR section_
 * useful links (like dVPN studies in a DYOR section)
 
-_Future releases_
+## _Future releases_
 * in the future: collab with a security audit company to create a new docs audit service description when a third party will attest privacy features of the initial idea x tooling description
