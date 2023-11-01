@@ -19,6 +19,8 @@ _Validity examples_ (yes, no):
 - Third-party audit
 
 This could be broken down into 100% (4 yes, each - 25%; where 2 no & 2 yes = 50%)
+
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Scoring%20x%20Data%20Aggregation%20sync.png?raw=true)
    
 ## 101 educational materials.
 _Benefit_: significantly upgrades DYOR & flags main misconceptions about privacy execution plus 1 guide could serve all audiences
