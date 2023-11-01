@@ -35,37 +35,28 @@ The scoring model could consist of passive & active parts. When passive means wh
    
 ## Checklists (example: trusted sources list).
 
-_Benefit_: serves as a self-check navigation within the complex audit stream (and a predecessor of an actionable database)
-_Downside_: there will be always something missing from the list
-
-**Approach**: 
-- pick a direction (like "trusted sources")
-- write down it as an actionable plan
-- help a person spend less time on data aggregation (the easiest to follow checklist - the better)
-
-_Checklist MVP_:
-- **Storage**: What user information is stored? (username, IP address, last connection, wallets associate, etc) -> the less the better
-- **Infra**: Number of nodes/servers/ -> the larger the footprint the best privacy
-- **Signup**: no email or tel number for signup -> the less data the better
-- **Traction**: number of people using it -> the more the better (with examples)
-- **Public comms**: simplified socials analysis (for a negative sentiment)
-- **Product-readiness**: test-net, mainnet; date of the release.
+| _Benefit_ | _Downside_ | **Approach** | _Checklist MVP_ |
+| ------------- | ------------- | ------------- | ------------- |
+| serves as a self-check navigation within the complex audit stream (and a predecessor of an actionable database) | there will be always something missing from the list | pick a direction (like "trusted sources") | **Storage**: What user information is stored? (username, IP address, last connection, wallets associate, etc) -> the less the better |
+| | | write down it as an actionable plan | **Infra**: Number of nodes/servers/ -> the larger the footprint the best privacy |
+| | | help a person spend less time on data aggregation (the easiest to follow checklist - the better) | **Signup**: no email or tel number for signup -> the less data the better |
+| | | | **Traction**: number of people using it -> the more the better (with examples) |
+| | | | **Public comms**: simplified socials analysis (for a negative sentiment) |
+| | | | **Product-readiness**: test-net, mainnet; date of the release. |
 
 This is a mix of objective metrics & subjective takeaways (like an old product release can be a negative sentiment for privacy & vice versa). Case studies will help to empower these assumptions.
 If we will collect good case studies lib -> it will help people to have market benchmarks for every step of scoring system.
 
 # Academy (content from case studies to third-party services to check net data, leakages).
 
-_Benefit_: this will be the backbone of our platform in the future that will bridge the gap between lack of privacy-centric education, lack of third-party services to check-up solutions & poor transparency on behalf of privacy-devs.
-_Downside_: usually takes too long time to deliver & many different contributors (should be simplified via tracks like Web3 Privacy 101).
-
-**Approach**:
-1. Stick with privacy 101 (basics).
-2. Brake down the most crucial knowledge into simplified blocks.
-3. Create a simplified & actionable "lecture framework" for guest lectors.
-4. Invite lectors within a micro-learning format.
-5. Cover basic 10 lectures via "Web3 privacy 101 introduction".
-6. Deploy via videos + texts > test them out.
+| _Benefit_ | _Downside_ | **Approach** | 
+| ------------- | ------------- | ------------- | 
+| this will be the backbone of our platform in the future that will bridge the gap between lack of privacy-centric education, lack of third-party services to check-up solutions & poor transparency on behalf of privacy-devs. | usually takes too long time to deliver & many different contributors (should be simplified via tracks like Web3 Privacy 101). | Stick with privacy 101 (basics). | 
+| | | Brake down the most crucial knowledge into simplified blocks. |
+| | | Create a simplified & actionable "lecture framework" for guest lectors. |
+| | | Invite lectors within a micro-learning format. |
+| | | Cover basic 10 lectures via "Web3 privacy 101 introduction". |
+| | | Deploy via videos + texts > test them out. |
 
 ## _Long 2do list (filtered out product features)_
 
