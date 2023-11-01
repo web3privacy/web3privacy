@@ -2,6 +2,10 @@
 
 _We are shipping an educational website to help the general public understand whether a web3-service is private or not. Its core feature - scoring mechanism validated by the market (reference: web3 - l2beat, web2 - IMDB)._
 
+| Original idea  | Privacy market survey | Scoring model MVP | Community feedback model 1.1 | ETHRome data set | DeFi category scoring x model 1.2 |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- | 
+| [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform)  | [link](https://github.com/web3privacy/web3privacy/tree/main/Web3privacynowplatform/scoringmodel/Survey) | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Web3Privacy%20Now%20scoring%20platform_test%20framework.pdf)  | [link](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/E9QPx9iKgPXPqEsAN-YklipSRJy9VTBMOLwwEcqqVpU) | [link](https://taikai.network/ethrome/hackathons/ethrome-23/projects/clng508ts00lswu01030hpfuq/idea) | [link](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md) |
+
 **17 Oct, 2023 update**
 
 **2 DO list**
