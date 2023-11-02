@@ -27,8 +27,8 @@ Here we highlight iterations of platform UI
 
 **Privacy services DB x scoring (mobile)**
 
-<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20(mobile).png" width="700"/>
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20(mobile).png" width="500"/>
 
 **Privacy service full profile (mobile, short)**
 
-<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20service%20full%20profile%20(mobile%2C%20short).png" width="700"/>
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20service%20full%20profile%20(mobile%2C%20short).png" width="500"/>
