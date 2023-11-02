@@ -3,6 +3,7 @@
 Here we highlight iterations of platform UI
 
 **UI delivery summary, 2.11**
+
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Platform%20UI%20delivery%2C%202.11.png" width="700"/>
 
 ## V1.0: ETH Rome prototype
