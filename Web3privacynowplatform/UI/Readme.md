@@ -36,3 +36,11 @@ Here we highlight iterations of platform UI
 **Privacy service full profile (mobile, short)**
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20service%20full%20profile%20(mobile%2C%20short).png" width="500"/>
+
+# Bonus
+
+## V1.0: post-ETH Rome asset router microservice
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Asset%20router%20microservice%20prototype.png" width="700"/>
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Asset%20router%20microservice%20prototype2.png" width="700"/>
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Asset%20router%20microservice%20prototype3.png" width="700"/>
