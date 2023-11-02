@@ -1,8 +1,11 @@
 _visual prototype_
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Visual%20prototype.png?raw=true)
 
-## **Scoring progress** [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Readme.md)
-## **UI progress** [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md)
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Visual%20prototype.png" width="700"/>
+
+# Progress
+
+**Scoring progress** [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Readme.md)
+**UI progress** [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/UI/Readme.md)
 
 # Project description
 [![Contact](https://img.shields.io/twitter/follow/nicksvyaznoy?style=social)](https://twitter.com/intent/follow?screen_name=nicksvyaznoy)
