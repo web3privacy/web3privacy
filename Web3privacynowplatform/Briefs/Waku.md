@@ -35,7 +35,7 @@
 | **Is your team anon or public**  | public | 
 | **List core contributors** | https://github.com/orgs/waku-org/people |
 
-**Funding** -- NEEDS REVIEW
+**Funding**
 | Request  | Data point | 
 | ------------- | ------------- |
 | **How are you funded**  | mixed | 
@@ -43,45 +43,42 @@
 | **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
 | **Raised money** | add a Crunchbase link | 
 
-**Github** -- NEEDS REVIEW
+**Github**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **What licence is in use**  | add link to Github repo | 
+| **What licence is in use**  | MIT+Apache2.0 / CC0 | 
 
-**Technology** -- NEEDS REVIEW
+**Technology**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
-| **Specify technology readiness**  | infra: mainnet, apps: alpha | 
-| **Features**  | peer-to-peer, decentralized, censorship-resistance | 
+| **Technical specialisation**  | communication, off-chain ephemeral messaging, sending arbitrary payload 1:1, 1:n, n:n | 
+| **Specify technology readiness**  | pre-MVP | 
+| **Features**  | censorship-resistant, privacy-minded, modular, scalable, caters for resource-restricted devices | 
 | **Encryption method**  | Noise, ECIES,  AES available to app builders | 
 
-**Privacy** -- NEEDS REVIEW
+**Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
 | **Complience**  | no |
 | **KYC**  | no |
 | **Privacy policy** | https://waku.org/terms |
-| **Collected data**  | specify what data do you collect |
-| **Data sharing** | specify what data you share with third-parties |
-| **Sign-in requirments** | specify what data is needed to start using service |
-| **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
+| **Collected data**  | none |
+| **Data sharing** | none |
+| **Sign-in requirments** | none |
+| **Identity integrations** | none |
 
-**Security** -- NEEDS REVIEW
+**Security**
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Asset custody** | specify | 
 | **Upgradability**  | specify |
 | **Social dependency**  | team, CEO |
-| **Third-parties dependency** | specify |
-| **Technical dependency** | specify: Ethereum, ZK etc |
-| **Have you been audited by a third-party** | yes/no |
-| **What company audited** | specify (one &/or many) |
-| **When you were audited** | date: D/M/Y (one &/or many) |
-| **Add links to the audits** | here |
+| **Third-parties dependency** | none |
+| **Technical dependency** | none |
+| **Have you been audited by a third-party** | no |
 
-**Roadmap (technical)** -- NEEDS REVIEW
+**Roadmap (technical)**
 | Request  | Data point | 
 | ------------- | ------------- |
 | **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
