@@ -33,7 +33,7 @@
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is your team anon or public**  | public | 
-| **List core contributors** | https://github.com/orgs/waku-org/people |
+| **List core contributors** | Available on Waku website soon. |
 
 **Funding**
 | Request  | Data point | 
@@ -50,7 +50,7 @@
 | ------------- | ------------- |
 | **Technical specialisation**  | communication, off-chain ephemeral messaging, sending arbitrary payload 1:1, 1:n, n:n | 
 | **Specify technology readiness**  | pre-MVP | 
-| **Features**  | censorship-resistant, privacy-minded, modular, scalable, caters for resource-restricted devices | 
+| **Features**  | censorship-resistant, privacy-focused, modular, scalable, caters for resource-restricted devices | 
 | **Encryption method**  | Noise, ECIES, AES available to app builders out of the box. Bring-your-own also possible. | 
 
 **Privacy**
