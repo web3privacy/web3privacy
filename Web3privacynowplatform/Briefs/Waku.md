@@ -38,10 +38,7 @@
 **Funding**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **How are you funded**  | mixed | 
-| **List VCs backing you**  | Logos Collective |
-| **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
-| **Raised money** | add a Crunchbase link | 
+| **How are you funded**  | Self funded |
 
 **Github**
 | Request  | Data point | 
@@ -54,7 +51,7 @@
 | **Technical specialisation**  | communication, off-chain ephemeral messaging, sending arbitrary payload 1:1, 1:n, n:n | 
 | **Specify technology readiness**  | pre-MVP | 
 | **Features**  | censorship-resistant, privacy-minded, modular, scalable, caters for resource-restricted devices | 
-| **Encryption method**  | Noise, ECIES,  AES available to app builders | 
+| **Encryption method**  | Noise, ECIES, AES available to app builders out of the box. Bring-your-own also possible. | 
 
 **Privacy**
 | Request  | Data point | 
@@ -71,15 +68,13 @@
 **Security**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Asset custody** | specify | 
-| **Upgradability**  | specify |
 | **Social dependency**  | team, CEO |
 | **Third-parties dependency** | none |
 | **Technical dependency** | none |
 | **Have you been audited by a third-party** | no |
 
-**Roadmap (technical)**
+**Roadmap (technical)** 
 | Request  | Data point | 
 | ------------- | ------------- |
-| **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
-| **When mainnet, beta had been launched**  | specify main-net (infra), alpha (dApp): date D/M/Y |
+| **When product had been launched** | Available for permission-less usage since late 2021. MVP launch Dec 2023.|
+| **When mainnet, beta had been launched**  | December 2023 |
