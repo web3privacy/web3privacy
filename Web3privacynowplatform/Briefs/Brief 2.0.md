@@ -23,11 +23,11 @@ How it works:
 
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Product-readiness** | specify state & date (testnet, mainnet) |
+| **Product-readiness** | specify state & date (testnet, mainnet; date D/M/Y) |
 | **Github**  | add link |
 | **Documentation**  | add link |
 | **Team**  | add link to a team page (website or GitHub) |
-| **Third-party audit**  | add links on actual audits |
+| **Third-party audit**  | add links on actual audits + date D/M/Y |
 
 # Additional data (non-mandatory)
 
