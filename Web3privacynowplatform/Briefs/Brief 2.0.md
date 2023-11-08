@@ -5,7 +5,7 @@ How it works:
 2. Our team reviews application.
 3. Verified data will be published at The Web3Privacy now platform.
 
-# Mandatory info
+# Mandatory data
 
 ## Basic info
 
@@ -29,7 +29,7 @@ How it works:
 | **Team**  | add link to a team page (website or GitHub) |
 | **Third-party audit**  | add links on actual audits |
 
-# Additional info (non-mandatory)
+# Additional data (non-mandatory)
 
 **Token**
 | Request  | Data point | 
