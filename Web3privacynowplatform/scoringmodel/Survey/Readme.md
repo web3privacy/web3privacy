@@ -22,36 +22,18 @@ We asked 50+ privacy opinion leaders how they will attest privacy claims behind 
 | further questions feel free to drop them in our discord | Discord serves as a two-way comms platform (but depends on the project) & it creates additional dependence of user on the core team | - |
 
 ## **Holonym**	
-
-Answers:
-- Check their website or docs	
-- If they vaguely say “data is kept private” and provide no explanation how, run	
-- If they provide an explanation, check with an expert or DYOR
-
-_Observations_:
-- "check" is a highly abstract action related to the website or docs -> extract value should be related to understanding "privacy"-validity markers
-- "private data explainers" needed to be defined within use-cases (case studies for the market)
-
-_Product feature_:
-- website checklist (1-2-3-4-5..., yes/no validity)
-- case studies "private data" explainers
-- DYOR (that's our platform)
+| Answers  | Observations | Product feature |  
+| ------------- |------------- |------------- | 
+| Check their website or docs | "check" is a highly abstract action related to the website or docs -> extract value should be related to understanding "privacy"-validity markers | website checklist (1-2-3-4-5..., yes/no validity) |
+| If they vaguely say “data is kept private” and provide no explanation how, run | "private data explainers" needed to be defined within use-cases (case studies for the market) | case studies "private data" explainers |
+| If they provide an explanation, check with an expert or DYOR | - | DYOR (that's our platform) |
 
 ## **Spinner cash**	
-
-Answers
-- code is law. 
-- So how about "don't trust, verify"?	But to verify, it would require certain technical skills... like reading source code 😅	
-- We hope to bring in 3rd party auditors at some point
-
-_Observations_:
-- the more ideological language is on the website - the harder to navigate the factual privacy features 
-- source code reading is a highly technical skill (moreover: Ethereum dev could struggle with Solana code & vice versa)
-- 3rd party list is needed here to be transformed into privacy signalling features
-
-_Product feature_:
-- missing 3rd party audit potential risks 101
-- 3rd party list (yes/no) from security audit agencies to independent security engineers (+their reputation 101 in later versions)
+| Answers  | Observations | Product feature |  
+| ------------- |------------- |------------- | 
+| code is law | the more ideological language is on the website - the harder to navigate the factual privacy features  | missing 3rd party audit potential risks 101 |
+| So how about "don't trust, verify"? But to verify, it would require certain technical skills... like reading source code 😅 | source code reading is a highly technical skill (moreover: Ethereum dev could struggle with Solana code & vice versa) | 3rd party list (yes/no) from security audit agencies to independent security engineers (+their reputation 101 in later versions) |
+|We hope to bring in 3rd party auditors at some point | 3rd party list is needed here to be transformed into privacy signalling features | - |
 
 ## **Session**	
 
