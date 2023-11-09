@@ -5,9 +5,9 @@
 **Sandbox: DeFi category that has been analyzed**
 
 **How to use sandbox?**
-1. Read takeaways.
+1. Read scoring assumptions below.
 2. Give us feedback via Pull request here.
-3. You can always explore 38 DeFi project' assessment [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
+3. You can always explore [scoring MVP](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) based on 38 DeFi project' assessment [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
 
 # Scoring model 1.2: validity track
 
