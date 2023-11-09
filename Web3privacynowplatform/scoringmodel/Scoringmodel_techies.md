@@ -1,90 +1,8 @@
 # Privacy scoring modelling > Web3privacy now analytical [platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
 
-# General
-| Scoring  | Techie |
-| ------------- | ------------- |
-| Immutability | + |
-| Decentralised throughout, including hosting | + |
-| Permissionless & accessible to all | + |
-| Open-source | + | 
- 
-# Docs
-| Scoring  |  Techie |
-| ------------- | ------------- |
-| read the documentation | + |
-| Good and comprehensive documentation | + |
-
-# Third-party analysis
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Where's the code? Has it been audited? | + |
-| Validation by trusted and respected independent scientists and researchers | + |
-
-# Team
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| ideological team | + |
-| Reputation of the team | + |
-| is it purely marketing oriented, or it seems created by researchers/developers, are the developers anons? | + |
-
-# Privacy policy
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Privacy Policy content | + |
-| Non-vague and non-intrusive privacy policy | + |
-
-# Infrastructure
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| How much to run a node |  + |
-| Where are the nodes | + |
-|  Number of nodes/servers/ -> the larger the footprint the best privacy | + |
-
-# Storage
-| Scoring  | Techie |
-| ------------- | ------------- | 
-|  e2e encrypted LOCAL storage | + |
-| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
-| Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | + |
-
-# Data aggregation
-| Scoring  | Techie |
-| ------------- | ------------- |
-| no email or tel nr for signup | + |
-| does not implement KYC or AML | + |
-
-# Traction
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Amount of transactions  | + |
-| number of people using it | + |
-| is it famous | + |
-
-# Governance
-| Scoring  | Techie |
-| ------------- | ------------- |
-| DAO structure (if applied)  | + |
-
-# Privacy execution
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| p2p / no central server | + |
-| Trustless - No ID required (this is where ZKs are useful) | + |
-
-# Product-centric
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Onboarding steps  | + |
-
-# Testing
-| Scoring  | Techie |
-| ------------- | ------------- |
-| try to trace a transaction | + |
-| Other tooling to verify e.g. block explorers  | + |
-
 # MVP for non-tecies expanded to techies
 
-# Sandbox: DeFi category that has been analyzed
+## Sandbox: DeFi category that has been analyzed
 
 **How to use sandbox?**
 1. Read takeaways.
@@ -111,14 +29,81 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 * Are there external contributors outside of the team members?
 
 **Docs**
-- TBD
+- read the documentation: is it comprehensive?
 
 **Team**
 * Check if there are known contributors (reputation 101)
 * Check commits at GitHub
 * How many community contributors beyond core team?
+* How many technical specialists in the team?
+* How mature are core contributors (previous projects, GitHub commits)?
 
 **Third-party audit**
 - Were bugs fixed?
 - How centralized is the protocol governance?
 - How centralized are product updates?
+
+# Backlog
+
+## General
+| Scoring  | Techie |
+| ------------- | ------------- |
+| Immutability | + |
+| Decentralised throughout, including hosting | + |
+| Permissionless & accessible to all | + |
+| Open-source | + | 
+
+## Privacy policy
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| Privacy Policy content | + |
+| Non-vague and non-intrusive privacy policy | + |
+
+## Infrastructure
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| How much to run a node |  + |
+| Where are the nodes | + |
+|  Number of nodes/servers/ -> the larger the footprint the best privacy | + |
+
+## Storage
+| Scoring  | Techie |
+| ------------- | ------------- | 
+|  e2e encrypted LOCAL storage | + |
+| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
+| Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | + |
+
+## Data aggregation
+| Scoring  | Techie |
+| ------------- | ------------- |
+| no email or tel nr for signup | + |
+| does not implement KYC or AML | + |
+
+## Traction
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| Amount of transactions  | + |
+| number of people using it | + |
+| is it famous | + |
+
+## Governance
+| Scoring  | Techie |
+| ------------- | ------------- |
+| DAO structure (if applied)  | + |
+
+## Privacy execution
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| p2p / no central server | + |
+| Trustless - No ID required (this is where ZKs are useful) | + |
+
+## Product-centric
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| Onboarding steps  | + |
+
+## Testing
+| Scoring  | Techie |
+| ------------- | ------------- |
+| try to trace a transaction | + |
+| Other tooling to verify e.g. block explorers  | + |
