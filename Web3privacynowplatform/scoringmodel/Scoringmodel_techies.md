@@ -2,7 +2,7 @@
 
 # MVP for non-tecies expanded to techies
 
-## Sandbox: DeFi category that has been analyzed
+**Sandbox: DeFi category that has been analyzed**
 
 **How to use sandbox?**
 1. Read takeaways.
