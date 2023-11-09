@@ -54,7 +54,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Infrastructure**
 | Scoring  | Techie |
 | ------------- | ------------- | 
-| Where are the nodes (check block explorer) | + |
+| Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
 | Number of nodes/servers/ (the larger the footprint the best privacy) | + |
 
 **Data aggregation**
