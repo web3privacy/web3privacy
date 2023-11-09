@@ -80,7 +80,11 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **Traceability**
 
-example: https://t.co/PqkUJWwmPD
+example:
+1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
+2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
+
+https://t.co/PqkUJWwmPD
 * This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another. You'll note that the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation).
 * User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.
 * The To address is simply the RAILGUN smart contract on @0xPolygon in this case. So nothing is revealed about the recipient.
