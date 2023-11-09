@@ -27,6 +27,9 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 * Is it in stable release, 1.0 and not an alpha or untested code?
 * Are there many PRs and Issues pending?
 * Are there external contributors outside of the team members?
+* What are licenses in use?
+
+**example**: _Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under GPLv3 license that allows you to do that (and also modify and re-distribute) Hoprn freely_
 
 **Docs**
 - read the documentation: is it comprehensive?
