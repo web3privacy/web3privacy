@@ -104,3 +104,21 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | from 0 to 100% |
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
+
+**GitHub**
+* Is it in stable release, 1.0 and not an alpha or untested code?
+* Are there many PRs and Issues pending?
+* Are there external contributors outside of the team members?
+
+**Docs**
+- TBD
+
+**Team**
+* Check if there are known contributors (reputation 101)
+* Check commits at GitHub
+* How many community contributors beyond core team?
+
+**Third-party audit**
+- Were bugs fixed?
+- How centralized is the protocol governance?
+- How centralized are product updates?
