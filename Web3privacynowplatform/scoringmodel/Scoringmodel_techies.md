@@ -29,8 +29,8 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **GitHub**
 * Is it in stable release, 1.0 and not an alpha or untested code?
 * Are there many PRs and Issues pending?
-* Are there external contributors outside of the team members?
-* What are licenses in use?
+* Are there external contributors outside of the team members? [Waku example](https://github.com/waku-org/go-waku)
+* What are licenses in use? [Privy Apache-2.0 license](https://github.com/privy-io/shamir-secret-sharing)
 
 **example**: _Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under [GPLv3 license](https://github.com/hoprnet/hoprnet/blob/master/LICENSE) that allows you to do that (and also modify and re-distribute) Hoprn freely_
 
