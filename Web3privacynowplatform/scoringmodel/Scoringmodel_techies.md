@@ -106,6 +106,8 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | p2p / no central server | + |
 | Trustless - No ID required (this is where ZKs are useful) | + |
 
+**example**: "with the unirep protocol we're building an explorer that shows all the things happening in the system. So a user could see their epoch keys and attestations and see how they're distinct in the system. One thing we might do is write what can and can't be determined about the different identifiers".
+
 ## Testing
 | Scoring  | Techie |
 | ------------- | ------------- |
