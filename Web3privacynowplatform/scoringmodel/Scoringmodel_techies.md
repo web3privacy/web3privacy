@@ -98,5 +98,9 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Note**: quick assessment helps to decrease privacy dark patterns from obscure language to test-net claiming it has a "state of art privacy".
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%201.2%20validity%20track.png?raw=true)
 
-We use % as a simplified way to prototype scoring model (from % to 100%). Later versions will include a mixmodel of %, yes/no assumptions & much complex observations.
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scroing%201.2%20validity%20track%20breakdown.png?raw=true)
+## Sandbox
+**Extended**
+| Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | from 0 to 100% |
+| **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
