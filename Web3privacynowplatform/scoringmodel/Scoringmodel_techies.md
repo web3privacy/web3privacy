@@ -40,6 +40,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 - read the documentation: is it comprehensive?
 - how well-written are privacy & security assumptions/guarantees?
 - if aplicable: how well-written is encryption method? [example](https://developer.litprotocol.com/v3/sdk/access-control/encryption)
+- is Whitepaper marketing or dev-centric?
 
 **Team**
 * Check if there are known contributors (reputation 101)
