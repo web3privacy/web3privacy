@@ -47,7 +47,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 * How mature are core contributors (previous projects, GitHub commits)?
 
 **Third-party audit**
-- Were bugs fixed?
+- Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf)
 - How centralized is the protocol governance?
 - How centralized are product updates?
 
