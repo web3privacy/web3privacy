@@ -1,6 +1,6 @@
 # Privacy scoring modelling > Web3privacy now analytical [platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
 
-# MVP for non-tecies expanded to techies
+# MVP for non-techies expanded to techies
 
 **Sandbox: DeFi category that has been analyzed**
 
