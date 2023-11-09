@@ -6,7 +6,7 @@
 
 **How to use sandbox?**
 1. Read takeaways.
-2. Give us feedback via general comments in the Community on [Signal](https://chat.web3privacy.info/) or make a Pull request here.
+2. Give us feedback via Pull request here.
 3. You can always explore 38 DeFi project' assessment [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
 
 # Scoring model 1.2: validity track
