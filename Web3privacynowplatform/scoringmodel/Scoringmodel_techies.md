@@ -51,27 +51,26 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 - How centralized is the protocol governance?
 - How centralized are product updates?
 
-## Infrastructure
+**Infrastructure**
 | Scoring  | Techie |
 | ------------- | ------------- | 
-| How much to run a node |  + |
-| Where are the nodes | + |
-| Number of nodes/servers/ -> the larger the footprint the best privacy | + |
+| Where are the nodes (check block explorer) | + |
+| Number of nodes/servers/ (the larger the footprint the best privacy) | + |
 
-## Data aggregation
+**Data aggregation**
 | Scoring  | Techie |
 | ------------- | ------------- |
-| no email or tel nr for signup | + |
+| no email or tel number for signup | + |
 | does not implement KYC or AML | + |
 | What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
 
-## Traction
+**Traction**
 | Scoring  | Techie |
 | ------------- | ------------- | 
 | Amount of transactions  | + |
 | number of people using it | + |
 
-## Governance
+**Governance**
 | Scoring  | Techie |
 | ------------- | ------------- |
 | DAO structure (if applied)  | + |
