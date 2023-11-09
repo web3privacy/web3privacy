@@ -111,3 +111,12 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | ------------- | ------------- |
 | try to trace a transaction | + |
 | Other tooling to verify e.g. block explorers  | + |
+
+## Hardcore
+
+from community
+
+* use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out
+* using something like https://charlesproxy.com to see all the traffic
+* Android: Feel free to test it at @ExodusPrivacy, a friendly service to investigate Android apps. 
+* Android: check @fdroidorg and verify the “no anti-features” tag. We’ve worked hard to remove dependency on third-party services and strictly require user’s consent before opting-in to sharing information.
