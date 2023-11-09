@@ -78,6 +78,17 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | DAO structure (if applied)  | + |
 | How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
 
+**Traceability**
+
+example: https://t.co/PqkUJWwmPD
+* This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another. You'll note that the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation).
+* User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.
+* The To address is simply the RAILGUN smart contract on @0xPolygon in this case. So nothing is revealed about the recipient.
+* The value that exchanged hands? #Private
+* Try to decode the input data for the transaction? It's all #encrypted.
+* So how much money exchanged hands here? Well, the short answer here is - it's #private. 
+* Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
+
 # Backlog
 
 ## General
