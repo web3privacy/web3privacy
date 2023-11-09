@@ -48,14 +48,13 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **Third-party audit**
 - Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf)
-- How centralized is the protocol governance?
 - How centralized are product updates?
 
 **Infrastructure**
 | Scoring  | Techie |
 | ------------- | ------------- | 
 | Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
-| Number of nodes/servers/ (the larger the footprint the best privacy) | + |
+| Number of nodes (the larger the footprint the best privacy) | + |
 
 **Data aggregation**
 | Scoring  | Techie |
@@ -67,13 +66,14 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Traction**
 | Scoring  | Techie |
 | ------------- | ------------- | 
-| Amount of transactions  | + |
+| Amount of transactions (Dune, DeFi Lama, block explorer etc) | + |
 | number of people using it | + |
 
 **Governance**
 | Scoring  | Techie |
 | ------------- | ------------- |
 | DAO structure (if applied)  | + |
+| How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
 
 # Backlog
 
@@ -88,7 +88,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 ## Privacy policy
 | Scoring  | Techie |
 | ------------- | ------------- | 
-| Privacy Policy content | + |
+| Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) | + |
 | Non-vague and non-intrusive privacy policy | + |
 
 ## Storage
