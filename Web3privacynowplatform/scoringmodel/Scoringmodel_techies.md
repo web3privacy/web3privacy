@@ -43,6 +43,31 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 - How centralized is the protocol governance?
 - How centralized are product updates?
 
+## Infrastructure
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| How much to run a node |  + |
+| Where are the nodes | + |
+| Number of nodes/servers/ -> the larger the footprint the best privacy | + |
+
+## Data aggregation
+| Scoring  | Techie |
+| ------------- | ------------- |
+| no email or tel nr for signup | + |
+| does not implement KYC or AML | + |
+| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
+
+## Traction
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| Amount of transactions  | + |
+| number of people using it | + |
+
+## Governance
+| Scoring  | Techie |
+| ------------- | ------------- |
+| DAO structure (if applied)  | + |
+
 # Backlog
 
 ## General
@@ -59,48 +84,17 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | Privacy Policy content | + |
 | Non-vague and non-intrusive privacy policy | + |
 
-## Infrastructure
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| How much to run a node |  + |
-| Where are the nodes | + |
-|  Number of nodes/servers/ -> the larger the footprint the best privacy | + |
-
 ## Storage
 | Scoring  | Techie |
 | ------------- | ------------- | 
-|  e2e encrypted LOCAL storage | + |
-| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
+| e2e encrypted LOCAL storage | + |
 | Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | + |
-
-## Data aggregation
-| Scoring  | Techie |
-| ------------- | ------------- |
-| no email or tel nr for signup | + |
-| does not implement KYC or AML | + |
-
-## Traction
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Amount of transactions  | + |
-| number of people using it | + |
-| is it famous | + |
-
-## Governance
-| Scoring  | Techie |
-| ------------- | ------------- |
-| DAO structure (if applied)  | + |
 
 ## Privacy execution
 | Scoring  | Techie |
 | ------------- | ------------- | 
 | p2p / no central server | + |
 | Trustless - No ID required (this is where ZKs are useful) | + |
-
-## Product-centric
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Onboarding steps  | + |
 
 ## Testing
 | Scoring  | Techie |
