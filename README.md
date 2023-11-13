@@ -89,6 +89,7 @@ Feel free to update the list!
 | [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | ([GitHub](https://github.com/ShadeCash)) | - | - | - | [Docs](https://shadecash.gitbook.io/shadecash) | - |
 | [xPrivate](https://www.xprivate.io) | Swap directly from your wallet. Break the links between sender and recipient. Restore your privacy | - | - | - | - | - | - |
 | [0xAnon](https://0xanon.tech) | The privacy-focused DEX aggregator | - | - | - | - | [Docs](https://docs.0xanon.tech) | - |
+| [Kalium Network](https://kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | - | - | - | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
