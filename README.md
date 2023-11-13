@@ -499,6 +499,7 @@ https://kycp.org/#/
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
 | [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
 | [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
+| [Profila](https://www.profila.com) | Build personal relationships with Brands by sharing content with your sentiment | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
