@@ -590,6 +590,7 @@ https://kycp.org/#/
 | [Spillways](https://spillways.finance) | Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds. | - | - | - | - |
 | [TeleBridge](https://telebrid.ge) | a privacy-focused ERC20 token. Our business plan revolves around offering multiple needed products and sharing the profits with holders, and the chart. | - | - | - | - |
 | [AnonZK Incognito](https://incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | - | - | - |
+| [CoinMix](https://www.coinmix.tech) | the first mixer of the market with its own liquidity | - | - | - | - |
 
 ## Data management
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
