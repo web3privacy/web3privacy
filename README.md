@@ -626,7 +626,7 @@ https://kycp.org/#/
 | [Spinner](https://spinner.cash) | Private transactions for ICP and BTC. | ([GitHub](https://github.com/spinner-cash)) | - | - | - |
 | [Incognito](https://incognito.org) | The privacy marketplace for crypto assets. | ([GitHub](https://github.com/incognitochain)) | - | - | - |
 | [EtherMail](https://ethermail.io) | EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox | - | - | - | - |
-| [Nucleo](https://www.gonucleo.xyz) | Private, auditable shared multisig to shield & send assets | - | - | - | - |
+| [ex-Nucleo, now-Puzzle](https://puzzle.online) | Private, auditable shared multisig to shield & send assets | - | - | - | - |
 | [Meson](https://mesonmix.net) | a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions. | ([GitHub](https://github.com/hashcloak/Meson)) | - | - | - |
 | [Lava](https://lavanet.xyz) | Lava pairs Providers with Applications for scalable, private and uncensored access to Web3. | - | - | - | - |
 | [rotki](https://rotki.com) | rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy. | ([GitHub](https://github.com/rotki)) | - | - | - |
