@@ -685,6 +685,7 @@ https://kycp.org/#/
 | [Ritual](https://ritual.net) | The AI Coprocessor for blockchains | ([Docs](https://docs.ritual.net)) | - | - | - |
 | [Swash Compute](https://swashapp.io/solutions/compute) | Build models on high-quality, zero-party data on site and in a privacy-preserving manner, contribute to a worldwide network of data scientists, and seamlessly innovate through ML. | ([Docs](https://docs.ritual.net)) | - | - | - |
 | [Kin Search Engine](https://web3.searchkin.com) | Ad-free, Web3, Community-based search engine | - | - | - | - |
+| [Sarcophagus](https://sarcophagus.io) | Decentralized, blockchain-enabled, cryptographically secure, general-purpose Digital Dead Man's Switch | [GitHub](https://github.com/sarcophagus-org) | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
