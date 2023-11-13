@@ -680,6 +680,7 @@ https://kycp.org/#/
 | [TOME](https://tome.fm) | anonymous, uncensorable broadcast service that allows anyone to publish any string onto Ethereum | ([GitHub](https://github.com/firnprotocol/tome)) | - | - | - |
 | [Ritual](https://ritual.net) | The AI Coprocessor for blockchains | ([Docs](https://docs.ritual.net)) | - | - | - |
 | [Swash Compute](https://swashapp.io/solutions/compute) | Build models on high-quality, zero-party data on site and in a privacy-preserving manner, contribute to a worldwide network of data scientists, and seamlessly innovate through ML. | ([Docs](https://docs.ritual.net)) | - | - | - |
+| [Kin Search Engine](https://web3.searchkin.com) | Ad-free, Web3, Community-based search engine | - | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
