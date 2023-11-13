@@ -563,6 +563,7 @@ https://kycp.org/#/
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran)) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak)) | - | - | - |
 | [Discreet Labs]( https://discreetlabs.io) | build blockchain systems for a more private, self-sovereign future on Fidora | - | - | - | - |
+| [OSOMPrivacy](https://www.osomprivacy.com) | From software to hardware OSOM Privacy gives you the tools that you need to make sure your data, your information is always private and protected. | - | - | - | - |
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
