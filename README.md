@@ -345,8 +345,7 @@ Feel free to update the list!
 | [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | ([GitHub](https://github.com/anagolay) | - | - | - |
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
-
-| [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation, you can gain access to the most trustworthy web3 experiences and maximize your ability to benefit from platforms like Gitcoin Grants. | [Github](https://github.com/gitcoinco/passport) | - | - | - |
+| [zkMe](https://zk.me) | Identity Oracles that leverage the power of zero-knowledge-proofs to enable secure, self-sovereign and private credential verifications. | ([GitHub](https://github.com/zkMeLabs)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -498,6 +497,7 @@ https://kycp.org/#/
 | [Sirius Sync](https://siriussync.io ) | Web3 Social Ecosystem | - | - | - | - |
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
 | [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
+| [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
