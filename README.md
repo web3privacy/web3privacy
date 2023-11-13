@@ -88,6 +88,7 @@ Feel free to update the list!
 | [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | [Certik](https://skynet.certik.com/projects/fairyswap) |
 | [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | ([GitHub](https://github.com/ShadeCash)) | - | - | - | [Docs](https://shadecash.gitbook.io/shadecash) | - |
 | [xPrivate](https://www.xprivate.io) | Swap directly from your wallet. Break the links between sender and recipient. Restore your privacy | - | - | - | - | - | - |
+| [0xAnon](https://0xanon.tech) | The privacy-focused DEX aggregator | - | - | - | - | [Docs](https://docs.0xanon.tech) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
