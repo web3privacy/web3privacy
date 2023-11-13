@@ -212,6 +212,7 @@ Feel free to update the list!
 | [Mind Network](https://mindnetwork.xyz ) | decentralized zero trust data lake | ([GitHub](https://github.com/mind-network)) | - | - | - |
 | [Nomos](http://nomos.tech) | Nomos is a novel blockchain project that will address a network state's fundamental need for adaptable privacy and sovereignty. | ([GitHub](https://github.com/logos-co)) | - | - | - |
 | [0 Knowledge Network](https://0101010011.xyz) | a next-generation decentralized and incentivized metadata-private mixnet-based anonymous broadcast network with cryptographic security guarantees. | ([GitHub](https://github.com/31333337)) | - | - | - |
+| [Swisstronik](https://swisstronik.com) | Layer 1 solution designed to build scalable dApps that ensure users' data protection and privacy, while remaining compliant | ([GitHub](https://github.com/SigmaGmbH)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
