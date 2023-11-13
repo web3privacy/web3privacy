@@ -676,6 +676,8 @@ https://kycp.org/#/
 | [Aztec Network](https://aztec.network/index.html) | Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution.  [Github](https://github.com/AztecProtocol) | - | - | - |
 | [Pre Search ](https://presearch.com) | A decentralized Search Engine. | ([GitHub](https://github.com/presearchofficial)) | - | - | - |
 | [TOME](https://tome.fm) | anonymous, uncensorable broadcast service that allows anyone to publish any string onto Ethereum | ([GitHub](https://github.com/firnprotocol/tome)) | - | - | - |
+| [Ritual](https://ritual.net) | The AI Coprocessor for blockchains | ([Docs](https://docs.ritual.net)) | - | - | - |
+| [Swash Compute](https://swashapp.io/solutions/compute) | Build models on high-quality, zero-party data on site and in a privacy-preserving manner, contribute to a worldwide network of data scientists, and seamlessly innovate through ML. | ([Docs](https://docs.ritual.net)) | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
