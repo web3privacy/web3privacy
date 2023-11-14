@@ -267,9 +267,8 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | Project  | GitHub | Product-readiness | Team | Docs | Audit | Score |
 | ------------- |------------- | ------------ | ------------- | ------------- | ------------- | ------------- |
 | [Firn Protocol](https://app.firn.cash) | ([GitHub](https://github.com/firnprotocol)) | live | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) | 75% |
-| [Panther Protocol](https://www.pantherprotocol.io) | ([GitHub](https://github.com/pantherprotocol))  | live | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | 🚩 2021: [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) | 75% |
 
-**total**: 2 projects
+**total**: 1 projects
 
 **Details**:
 - 1 red flag 🚩
@@ -333,6 +332,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | 🚩 **sunset** [Sahara](https://sahara.network) | - | 🚩 | ([Public](https://sahara.network/)) | - | 🚩 2022: [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) | 0% |
 | [Hurricane Protocol](https://hurricane.money) | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | 🚩 | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 0% |
 | 🚩 **sunset** [DeFiner](https://definer.org) | ([GitHub](https://github.com/DeFinerOrg)) | 🚩 | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 0% |
+| [Panther Protocol](https://www.pantherprotocol.io) | ([GitHub](https://github.com/pantherprotocol))  | [testnet](https://docs.pantherprotocol.io/docs/product-and-technological-components/product-versions/v1-testnet) | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | 🚩 2021: [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) | 75% |
 
 **total**: 27 projects
 
