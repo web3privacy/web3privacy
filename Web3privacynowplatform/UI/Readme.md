@@ -37,6 +37,16 @@ Here we highlight iterations of platform UI
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20service%20full%20profile%20(mobile%2C%20short).png" width="500"/>
 
+## V1.2: post-ETHRome update (basic scoring x brief sync)
+
+**Railgun_ profile scored x brief (mobile, short)**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20x%20brief%20(mobile).png" width="500"/>
+
+**Railgun_ profile scored x brief (desktop, short)**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/UI/Privacy%20services%20DB%20x%20scoring%20x%20brief%20(desktop).png" width="500"/>
+
 # Bonus
 
 ## V1.0: post-ETH Rome asset router microservice
