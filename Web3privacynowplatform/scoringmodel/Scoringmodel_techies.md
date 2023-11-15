@@ -148,6 +148,6 @@ from community
 - https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit
 - www.github.com/Rari-Capital/solcurity
 
-[SCSVS](https://github.com/ComposableSecurity/SCSVS/)
+[SCSVS](https://github.com/ComposableSecurity/SCSVS/) - Smart Contract Security Verification Standard
 
-[EthTrust](https://entethalliance.github.io/eta-registry/security-levels-spec.html)
+[EthTrust](https://entethalliance.github.io/eta-registry/security-levels-spec.html) - EEA EthTrust Security Levels Specification v-after-1
