@@ -142,11 +142,12 @@ from community
 
 [DeFiSafety](https://medium.com/defi-safety/introducing-our-0-9-process-79ba88f8bba4) - "a clear list of what a dev should add to a protocol (over and above the software)"
 
-**Officercia** recommendations: 
-- https://www.beirao.xyz/blog/Security-checklist
-- https://github.com/OffcierCia/tips-solidity-code-auditors
-- https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit
-- www.github.com/Rari-Capital/solcurity
+**Officercia** recommendations
+- [The ultimate security checklist](https://www.beirao.xyz/blog/Security-checklist)
+- [Tips for Solidity Code Auditors](https://github.com/OffcierCia/tips-solidity-code-auditors)
+- [minimum viable security plans from Trail of Bits]
+(https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [Opinionated security and code quality standard for Solidity smart contracts](www.github.com/Rari-Capital/solcurity)
 
 [SCSVS](https://github.com/ComposableSecurity/SCSVS/) - Smart Contract Security Verification Standard
 
