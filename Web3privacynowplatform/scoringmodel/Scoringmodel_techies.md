@@ -141,15 +141,14 @@ from community
 # ETHSecurity community recommendations
 _We ask Ethereum security chat members to share guides that devs could use to check privacy features of a given dApp or a protocol. Here are the first tips:_
 
-[DeFiSafety](https://medium.com/defi-safety/introducing-our-0-9-process-79ba88f8bba4) - "a clear list of what a dev should add to a protocol (over and above the software)"
+[DeFiSafety](https://medium.com/defi-safety/introducing-our-0-9-process-79ba88f8bba4): "a clear list of what a dev should add to a protocol (over and above the software)"
 
 **Officercia** recommendations
 - [The ultimate security checklist](https://www.beirao.xyz/blog/Security-checklist)
 - [Tips for Solidity Code Auditors](https://github.com/OffcierCia/tips-solidity-code-auditors)
-- [minimum viable security plans from Trail of Bits]
-(https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
+- [Minimum viable security plans from Trail of Bits](https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/edit)
 - [Opinionated security and code quality standard for Solidity smart contracts](www.github.com/Rari-Capital/solcurity)
 
-[SCSVS](https://github.com/ComposableSecurity/SCSVS/) - Smart Contract Security Verification Standard
+[SCSVS](https://github.com/ComposableSecurity/SCSVS/): Smart Contract Security Verification Standard
 
-[EthTrust](https://entethalliance.github.io/eta-registry/security-levels-spec.html) - EEA EthTrust Security Levels Specification v-after-1
+[EthTrust](https://entethalliance.github.io/eta-registry/security-levels-spec.html): EEA EthTrust Security Levels Specification v-after-1
