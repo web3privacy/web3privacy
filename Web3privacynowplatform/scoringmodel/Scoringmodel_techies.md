@@ -139,7 +139,7 @@ from community
 * Android: check https://f-droid.org and verify the “no anti-features” tag (like dependency on third-party services). [Example](https://f-droid.org/en/packages/com.nighthawkapps.wallet.android/)
 
 # ETHSecurity community recommendations
-_We ask Ethereum security chat members to share guides that devs could use to check privacy features of a given dApp or a protocol. Here are the first tips:_
+_We asked Ethereum security chat members to share guides that devs could use to check privacy features of a given dApp or a protocol. Here are the first tips:_
 
 [DeFiSafety](https://medium.com/defi-safety/introducing-our-0-9-process-79ba88f8bba4): "a clear list of what a dev should add to a protocol (over and above the software)"
 
