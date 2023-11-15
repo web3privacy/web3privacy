@@ -2,7 +2,8 @@
 What could be scored in general & with am MVP specifically. 
 
 **Sandbox**
-- _[Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md)_ covers generic data for privacy service "profile page" (beyond just privacy features)
+- [Basic info from the Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md#basic-info)
+- [Optional info from the Brief](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/Brief.md#optional-info)_ covers generic data for privacy service "profile page" (beyond just privacy features)
 - _Scoring_ - possible non-techies' independent assessment (future version): + - yes, - no
 - _[MVP](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/Framework_update.md)_ - what lies within the scope of the first scoring version: :white_check_mark: - yes
 
