@@ -1,5 +1,31 @@
 # Privacy scoring modelling > Web3privacy now analytical [platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
 
+_Currently we are surveying developers, security engineers and  researchers to find out bottle necks & potential room for growth within privacy features assessment by techies._ 
+
+## Core user group (techies definition):
+- junior or general devs with under 1-year web3 coding experience
+- poor security auditing skills
+- general interest in privacy tech
+
+## Why this group
+- general public within the devs landscape is the most vulnerable audience compared to mature decs with connections & experience
+- generalisation helps to make universal tooling & secure research from the niche approaches
+
+## General scoring will consist of
+- audit check up (manual)
+- scoring features
+- dev toolkit
+- DYOR expanded track (subjective observations)
+
+## Quick take from market assessment 
+- devs lack the basics of security audits (while auditing companies or security engineers create piles of written that require lots of dev hours to read & more to understand)
+- case studies could help to "visualize" the assessment journey
+- DB of the malicious practices & critical bugs within the privacy landscape will come in handy for practical devs
+
+**Hypothesis**: can the market create a standard of cross-project privacy features check-up increasing general privacy stack levelling? 
+
+**Crucial scoring context**: time on research x potential amount of privacy anti-features detection. Meaning that scoring could be scalable if more people will use it under the economy, general business & without expert knowledge level.
+
 # MVP for non-techies expanded to techies
 
 **Sandbox: DeFi category that has been analyzed**
