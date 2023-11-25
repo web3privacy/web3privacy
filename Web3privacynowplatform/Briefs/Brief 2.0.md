@@ -1,23 +1,35 @@
 *Brief for a private web3-services*: please, follow general requirements to be highlighted on The Web3Privacy now platform.
 
 How it works:
-1. You fill a brief.
+1. You fill a brief (at least "mandatory field").
 2. Our team reviews application.
 3. Verified data will be published at The Web3Privacy now platform.
 
-# **Basic info**
+# Mandatory data
+
+## Basic info
 
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Project name**  | add here |
-| **Logotype**  | add here |
+| **Logotype**  | add link |
+| **Website**  | add link |
 | **Short project description (1 sentence)** | add here |
-| **Launch date** | add here |
-| **Is it open source?** | specify here |
-| **Website**  | add here |
-| **Github**  | add here |
+| **Blog** | add link |
+| **Twitter (X)** | add link |
+| **Support** | add links on Discord, Telegram etc |
 
-# **Optional info**
+## Assessment info
+
+| Request  | Data point | 
+| ------------- | ------------- |
+| **Product-readiness** | specify state & date (testnet, mainnet; date D/M/Y) |
+| **Github**  | add link |
+| **Documentation**  | add link |
+| **Team**  | add link to a team page (website or GitHub) |
+| **Third-party audit**  | add links on actual audits + date D/M/Y |
+
+# Additional data (non-mandatory)
 
 **Token**
 | Request  | Data point | 
@@ -27,8 +39,6 @@ How it works:
 **Socials**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Blog** | add link |
-| **Twitter (X)** | add link |
 | **Telegram** | add link |
 | **Discord** | add link |
 | **Other** | add link |
@@ -36,14 +46,12 @@ How it works:
 **Docs**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Docs** | add link |
 | **Whitepaper** | add link |
 | **Litepaper** | add link |
 
 **Team**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is your team anon or public**  | choose one: anon, public | 
 | **List core contributors** | Github links | 
 
 **Funding**
@@ -57,7 +65,7 @@ How it works:
 **Github**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **What licence is in use**  | add link to Github repo | 
+| **What licence is in use**  | add link to Github repo or a Docs page | 
 
 **Technology**
 | Request  | Data point | 
@@ -95,5 +103,4 @@ How it works:
 **Roadmap (technical)**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
-| **When mainnet, beta had been launched**  | specify main-net (infra), alpha (dApp): date D/M/Y |
+| **Add types & dates of product-maturity** | specify testnet (infra), MVP (dApp): date D/M/Y; mainnet, beta | 
