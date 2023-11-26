@@ -8,6 +8,12 @@
 | **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | total |
 | **score** | 25% | 🚧 | 25% | 25% | 25% | from 0% to 100% |
 
+**MVP with personal information concern**
+| Project | GitHub | Product-readiness | Personal information | Team | Docs | Audit | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test project** | available & contentful & active GitHub / not (20%) | Live or 🚧 (exclusion criteria) | personal information hidden & not (20%) | public team / not (20%) | available & techno-instructive docs / not (20%) | available & up to date third-party audit / not (20%) | total |
+| **score** | 20% | 🚧 | 20% | 20% | 20% | 20% | from 0% to 100% |
+
 **Extended**
 | Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -15,6 +21,12 @@
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
 **How to use**
+| Project | GitHub | Product-readiness | Personal information | Team | Docs | Audit | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test Project** | 1. Exist. 2. Active (last 6 months). 3. Continuous commits. 4. Containing codes and scripts. | 1. Live project (main-net, Beta). 2. Accessible app or user interface. | 1. Anonymous account handler. 2. Real IP hidden. | Public team | 1. Exist. 2. Dev-centric and instructive. | 1. Exist. 2. Up to date (last 6 months). 3. Complex.
+| **score** | 20% | 🚧 | 20% | 20% | 20% | 20% | from 0% to 100% |
+
+**How to use (Extended)**
 | Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Test project** | 1. Exist. 2. Active (last 6 months). 3. Lots of commits (not fake). | 1. Live (main-net, Beta). | Public team | 1. Exist. 2. Dev-centric. | 1. Exist. 2. Up to date (last 6 months). 3. Complex. | External contributors | Open-source licenses in use | Availbale | from 0 to 100% |
@@ -25,6 +37,9 @@
 # **Poor GitHub**
 🚩
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Poor%20Github%20(Hurricane%20protocol).png?raw=true)
+
+# **Personal information required for enabling account**
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Personal%20information%20required%20(NonKYC%20exchange).png?raw=true)
 
 # **Outdated Audit**
 🚩_check_: date; _result_: outdated (1 year+)
