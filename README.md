@@ -93,6 +93,7 @@ Feel free to update the list!
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | ([Docs](https://docs.irrigation.finance/irrigation-protocol/)) | - |
 | [Portal Gate](https://www.portalgate.me) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([Docs](https://docs.portalgate.me)) | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([GitHub](https://github.com/SwaprHQ)) | - |
+| [Unimix](https://unimix.cash) | The world's most secure privacy transaction service | - | live | multichain | anon | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
