@@ -93,6 +93,21 @@ Feel free to update the list!
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | ([Docs](https://docs.irrigation.finance/irrigation-protocol/)) | - |
 | [Portal Gate](https://www.portalgate.me) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([Docs](https://docs.portalgate.me)) | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([GitHub](https://github.com/SwaprHQ)) | - |
+| [illumineX](https://illuminex.xyz/swap) | Confidential multichain DEX gateway | ([GitHub](https://github.com/illumineXswap)) | - | - | - | ([Docs](https://docs.illuminex.xyz/illuminex-docs/)) | - |
+| [Dark Protocol](https://www.darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | - | - | - | - | ([Docs](https://www.darkprotocol.org/manifesto)) | - |
+| [Retik Finance](https://retik.com) | Futuristic DeFi Debit Cards, Smart Crypto Payment Gateway, AI Powered Peer to Peer (P2P) Lending and Multi Chain Non Custodial Highly Secured DeFi Wallet | - | - | - | - | - | - |
+| [Tectum](https://softnote.com) | decentralised, wallet-less, instant, low-fee, anonymous, non-custodial Bitcoin layer 2 | - | - | - | - | - | - |
+| [ZEOS](https://zeos.one) | decentralised, wallet-less, instant, low-fee, anonymous, non-custodial Bitcoin layer 2 | ([GitHub](https://github.com/mschoenebeck/thezeostoken)) | - | - | - | - | - |
+| [StealthEX](https://stealthex.io) | Custody-free, cross-chain friendly #cryptocurrency exchange | - | - | - | - | - | - |
+| [Blend Protocol](https://www.blendprotocol.io) | cutting-edge privacy application allowing anonymous swaps from over 50 different chains | - | - | - | - | - | - |
+| [Safudex](https://safudex.cz) | first DEX/CEX private aggregator | - | - | - | - | - | - |
+| [incognitoswap](www.incognitoswap.net) | non-KYC, anonymous, and multi-chain transactions | - | - | - | - | - | - |
+| [Horus Protocol](https://horus.cash) | The ZKP crypto payment layer on Ethereum, BASE, Arbitrum, OP, Polygon and zkSync. | - | - | - | - | ([Docs](https://horuscash.notion.site/horuscash/Horus-Cash-Docs-332db90e9de444c49f2ff2d4bbe342ec)) | - |
+| [Guiser](https://guiser.org) | Hassle Free Crypto Exchange | - | - | - | - | ([Docs](https://guise.gitbook.io/guiser.org/)) | - |
+| [Lucrisma](https://lucrisma.com) | digital asset dashboard | - | - | - | - | - | - |
+| [Stealth Trade](https://stealthtrade.co) | Trade with Enhanced Privacy and Security | - | - | - | - | - | - |
+| [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | ([Docs](https://docs.hydranet.ai)) | - |
+| [ZOOK](https://www.zook.fi) | DeFi ecosystem | ([GitHub](https://github.com/zookfi/)) | - | - | - | ([Docs](https://docs.zook.fi/zook-defi-ecosystem/)) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
