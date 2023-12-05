@@ -1,4 +1,4 @@
-# web3privacy now - 500+ privacy projects empowering Web3 
+# web3privacy now - 550+ privacy projects empowering Web3 
 *Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate. [donate](https://github.com/Msiusko/web3privacy/blob/main/README.md#donate)
 
 | Block  | Description |
