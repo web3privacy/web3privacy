@@ -333,6 +333,8 @@ Feel free to update the list!
 | [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | ([GitHub](https://github.com/ProtonVPN)) |  live | no chain | no | ([Public]([[https://protonvpn.com/about)) |
 | [Solar labs](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service. | - | - | - | - |
 | [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
+| [DeGuardVPN](https://deguard.io) | VPN for web3 & DeFi community | ([GitHub](https://github.com/deguardvpn)) | - | - | - |
+| [Nym VPN](https://nymvpn.com/en) | decentralized VPN powered by the mixnet | ([GitHub](https://github.com/orgs/nymtech/repositories?type=all)) | Cosmos | - | public |
 
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
@@ -527,6 +529,7 @@ https://kycp.org/#/
 | [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
 | [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
 | [Profila](https://www.profila.com) | Build personal relationships with Brands by sharing content with your sentiment | - | - | - | - |
+| [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
