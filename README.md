@@ -440,6 +440,7 @@ Feel free to update the list!
 | [Mullvad Browser](https://github.com/mullvad/mullvad-browser) | The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. | [Github](https://github.com/mullvad/mullvad-browser) | - | - | - |
 | [Fulldive](https://www.fulldive.com) | web3 browser that respects your privacy | - | - | - | - |
 | [Broearn](https://www.broearn.com) | web3 browser that respects your privacy | - | - | - | - |
+| [Solak](https://solak.app) |  Broswer with in-app AI  | - | - | - | - |
 
 ## KYC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
