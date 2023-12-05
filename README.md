@@ -422,6 +422,7 @@ Feel free to update the list!
 | [Mejhool](https://hzmcoin.com/mejhool/) | a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.| - | - | - | - |
 | [Jami](https://jami.net/) | Jami is a free/libre, end-to-end encrypted, and private communication platform. | [Gitlab](https://git.jami.net/savoirfairelinux/jami-project) | - | - | - |
 | [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK** | [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | - | - | - |
+| [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | ([GitHub](https://github.com/adamant-im)) | - | - | - |
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -463,6 +464,7 @@ https://kycp.org/#/
 | [Ethereum Portal Network](https://www.ethportal.net/) | Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests.  | - | - | - | - |
 | [Spook](https://github.com/EdenBlockVC/spook) | Mixing service using the Nym network to anonymize Ethereum RPC calls.  | - | - | - | - |
 | [Zoci](https://zoci.io) | private RPC services | ([GitHub](https://github.com/zoci-io)) | - | - | - | - |
+| [VeilRPC](https://veilrpc.com) | High-performing private RPC node | ([Docs](https://docs.veil.exchange/veil-rpc/explanation-and-features)) | - | - | - | - |
 
 ## Storage
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
