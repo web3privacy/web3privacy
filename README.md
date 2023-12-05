@@ -494,6 +494,8 @@ Feel free to update the list!
 | [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subsciption model for storage. | [Github](https://github.com/Storj/) | - | - | - |
 | [Synx](https://synx.xyz) | The Web3 storage platform | - | - | - | - |
 | [Oort](https://www.oortech.com) | a decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.  | - | - | - | - |
+| [Chainback](https://chainback.org) | Cloud Computing & File Sharing | - | - | - | - |
+| [DeNet storage](https://denet.pro) | Auto video & photo backup | ([GitHub](https://github.com/DeNetPRO)) | - | - | - |
 
 ## dApps
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DAPPS.png?raw=true)
