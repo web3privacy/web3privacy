@@ -146,6 +146,8 @@ Feel free to update the list!
 | [Boltz](https://boltz.exchange) | Privacy first, account-free crypto exchange | ([GitHub](https://github.com/BoltzExchange/) | live | - | - |
 | [COG](https://cogfi.org) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | - | ([Public](https://cogfi.org)) |
 | [eCash](https://e.cash) | Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche  | ([GitHub](https://github.com/bitcoin-abc/bitcoin-abc/)) | - | - | anon |
+| [Zephyr protocol](https://www.zephyrprotocol.com) | The Untraceable Stablecoin Protocol | ([GitHub](https://github.com/ZephyrProtocol/Zephyr)) | - | - | anon |
+| [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | ([GitHub](https://github.com/nevocoin/nevocoin/)) | - | - | anon |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
@@ -531,6 +533,7 @@ https://kycp.org/#/
 | [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
 | [Profila](https://www.profila.com) | Build personal relationships with Brands by sharing content with your sentiment | - | - | - | - |
 | [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
+| [Rehide](https://app.rehide.io) | Private, zero-knowledge password manager and vault | ([Docs](https://docs.rehide.io/)) | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -562,6 +565,7 @@ https://kycp.org/#/
 | [Fade WTF](http://mint.fade.wtf) | Privacy for NFTs powered by Light Protocol | - | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 | [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | ([GitHub](https://github.com/BluumProtocol) | - | - | - | - |
+| [sudoswap](https://sudoswap.xyz/#/) | private bids | ([GitHub](https://github.com/sudoswap) | - | - | - | - |
 
 ## Alliances & NGOs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Alliances.png?raw=true)
@@ -626,6 +630,8 @@ https://kycp.org/#/
 | [TeleBridge](https://telebrid.ge) | a privacy-focused ERC20 token. Our business plan revolves around offering multiple needed products and sharing the profits with holders, and the chart. | - | - | - | - |
 | [AnonZK Incognito](https://incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | - | - | - |
 | [CoinMix](https://www.coinmix.tech) | the first mixer of the market with its own liquidity | - | - | - | - |
+| [Tornado AI](https://tornadoai.cash) | Leveraging AI to enhance crypto transaction security and anonymity | - | - | - | - |
+| [Mix to Earn](https://www.mixtoearn.app) | Compliant Mixing Solution | - | - | - | - |
 
 ## Data management
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
