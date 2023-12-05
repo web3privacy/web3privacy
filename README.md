@@ -273,6 +273,8 @@ Feel free to update the list!
 | [Cool Wallet](www.coolwallet.io) | non-custodial wallet | - | - | - | - |
 | [Monerujo](https://www.monerujo.io) | Android wallet for Moneto | - | - | - | - |
 | [Phoenix](https://phoenix.acinq.co) | Non-custodial wallet on Lightning network | - | - | - | - |
+| [Coingrig](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
+| [Pulse Wallet](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -375,6 +377,8 @@ Feel free to update the list!
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | ([GitHub](https://github.com/DAuth-Network)) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
 | [zkMe](https://zk.me) | Identity Oracles that leverage the power of zero-knowledge-proofs to enable secure, self-sovereign and private credential verifications. | ([GitHub](https://github.com/zkMeLabs)) | - | - | - |
+| [WIW](https://wiw.io) | Build, Aggregate, Own Your Decentralized Identity & Reputation | ([GitHub](https://github.com/wiw-io)) | - | - | - |
+| [Anon Aadhaar](https://anon-aadhaar-documentation.vercel.app) | Anon Aadhaar circuit lets citizens with an Aadhaar card generate zero-knowledge identity proof. | ([GitHub](https://github.com/privacy-scaling-explorations/anon-aadhaar)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -427,6 +431,7 @@ Feel free to update the list!
 | [Jami](https://jami.net/) | Jami is a free/libre, end-to-end encrypted, and private communication platform. | [Gitlab](https://git.jami.net/savoirfairelinux/jami-project) | - | - | - |
 | [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK** | [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | - | - | - |
 | [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | ([GitHub](https://github.com/adamant-im)) | - | - | - |
+| [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -454,9 +459,9 @@ Feel free to update the list!
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
 | [OutDID](https://www.outdid.io) | Your Zero-Knowledge, Decentralized KYC filter of Blockchain users. | - | - | - | - |
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation)) | - | - | - |
-| Know Your Coin Privacy | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy. Based on OXT datas. | [Github](https://github.com/kycp/) | - | -  | - |
+| [Know Your Coin Privacy](https://kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy. Based on OXT datas. | [Github](https://github.com/kycp/) | - | -  | - |
+| [Synaps](https://www.synaps.io) | identity verification solutions from Personhood validation to regulated KYC / AML and KYB processes | [Github](https://github.com/kycp/) | - | -  | - |
 
-https://kycp.org/#/
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
@@ -534,6 +539,7 @@ https://kycp.org/#/
 | [Profila](https://www.profila.com) | Build personal relationships with Brands by sharing content with your sentiment | - | - | - | - |
 | [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
 | [Rehide](https://app.rehide.io) | Private, zero-knowledge password manager and vault | ([Docs](https://docs.rehide.io/)) | - | - | - |
+| [ZkLocus](https://zklocus.dev) | Private Geolocation Off & On-Chain | ([GitHub](https://github.com/iluxonchik/zkLocus/)) | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
@@ -722,6 +728,7 @@ https://kycp.org/#/
 | [Hype](https://hype-eth.com) | the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously| - | - | - | - |
 | [Lightstreams](https://lightstreams.network) | provides secure data sharing for web3 applications. | ([GitHub](https://github.com/lightstreams-network/)) | - | - | - |
 | [Midnight](https://midnight.network) | empower regulation-friendly apps that safeguard sensitive commercial and personal data | - | - | - | - |
+| [Spectrum Marketplace](https://spectrummarket.io) | a marketplace where everyone has the opportunity to contribute, transact, and interact without compromising on privacy or security. | ([Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision)) | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
