@@ -93,6 +93,7 @@ Feel free to update the list!
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | ([Docs](https://docs.irrigation.finance/irrigation-protocol/)) | - |
 | [Portal Gate](https://www.portalgate.me) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([Docs](https://docs.portalgate.me)) | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([GitHub](https://github.com/SwaprHQ)) | - |
+| [Unimix](https://unimix.cash) | The world's most secure privacy transaction service | - | live | multichain | anon | - | - |
 | [illumineX](https://illuminex.xyz/swap) | Confidential multichain DEX gateway | ([GitHub](https://github.com/illumineXswap)) | - | - | - | ([Docs](https://docs.illuminex.xyz/illuminex-docs/)) | - |
 | [Dark Protocol](https://www.darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | - | - | - | - | ([Docs](https://www.darkprotocol.org/manifesto)) | - |
 | [Retik Finance](https://retik.com) | Futuristic DeFi Debit Cards, Smart Crypto Payment Gateway, AI Powered Peer to Peer (P2P) Lending and Multi Chain Non Custodial Highly Secured DeFi Wallet | - | - | - | - | - | - |
