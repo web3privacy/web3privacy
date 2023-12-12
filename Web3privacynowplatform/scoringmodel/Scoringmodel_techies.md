@@ -44,7 +44,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Note**: quick assessment helps to decrease privacy dark patterns from obscure language to test-net claiming it has a "state of art privacy".
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%201.2%20validity%20track.png?raw=true)
 
-## Sandbox
+# Sandbox
 
 **Extended scoring 1.0**
 | Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
@@ -54,7 +54,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **Updates 1.1**
 
-**GitHub**
+## **GitHub**
 * Is it in stable release, 1.0 and not an alpha or untested code?
 * Are there many PRs and Issues pending?
 * Are there external contributors outside of the team members? [Waku example](https://github.com/waku-org/go-waku)
@@ -62,49 +62,55 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **example**: _Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under [GPLv3 license](https://github.com/hoprnet/hoprnet/blob/master/LICENSE) that allows you to do that (and also modify and re-distribute) Hoprn freely_
 
-**Docs**
+## **Docs**
 - read the documentation: is it comprehensive?
 - how well-written are privacy & security assumptions/guarantees?
 - if aplicable: how well-written is encryption method? [example](https://developer.litprotocol.com/v3/sdk/access-control/encryption)
 - is Whitepaper marketing or dev-centric?
 
-**Team**
+## **Team**
 * Check if there are known contributors (reputation 101)
 * Check commits at GitHub
 * How many community contributors beyond core team?
 * How many technical specialists in the team?
 * How mature are core contributors (previous projects, GitHub commits)?
 
-**Third-party audit**
+## **Third-party audit**
 - Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf)
 - How centralized are product updates?
 
-**Infrastructure**
+## **Infrastructure**
 | Scoring  | Techie |
 | ------------- | ------------- | 
 | Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
 | Number of nodes (the larger the footprint the best privacy) | + |
 
-**Data aggregation**
+## **Data aggregation**
 | Scoring  | Techie |
 | ------------- | ------------- |
 | no email or tel number for signup | + |
 | does not implement KYC or AML | + |
 | What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
 
-**Traction**
+## **3rd party libraries**
+- Audit libraries in use
+- Do they have a third-party audit?
+- What's the reputation behind the library team?
+- What's the reputation behind security audit company?
+
+## **Traction**
 | Scoring  | Techie |
 | ------------- | ------------- | 
 | Amount of transactions (Dune, DeFi Lama, block explorer etc) | + |
 | number of people using it | + |
 
-**Governance**
+## **Governance**
 | Scoring  | Techie |
 | ------------- | ------------- |
 | DAO structure (if applied)  | + |
 | How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
 
-**Traceability**
+## **Traceability**
 
 example:
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
@@ -155,7 +161,7 @@ https://t.co/PqkUJWwmPD
 | try to trace a transaction | + |
 | Other tooling to verify e.g. block explorers  | + |
 
-## Hardcore
+## Advanced part
 
 from community
 
