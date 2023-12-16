@@ -312,6 +312,7 @@ Feel free to update the list!
 | [TrueZK](https://www.truezk.com) | Post-Quantum ZK Rollup as a service x private DIDs | ([Docs](https://docs.truezk.com)) | - | - | - |
 | [Alpine](https://alpinecoin.io) |  a comprehensive blockchain ecosystem that combine cutting-edge technology with privacy | ([GitHub](https://github.com/AlpineERC)) | - | - | - |
 | [EtherChat](https://etherchat.app) |  First Layer-2 For Decentralized Chat | ([GitHub](https://github.com/EtherChatApp)) | - | - | - |
+| [Kinto](https://kinto.xyz) | L2 focused on providing safe access to financial services.  | ([GitHub](https://docs.kinto.xyz/kinto-the-safe-l2/general/welcome-to-kinto)) | - | - | - |
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
