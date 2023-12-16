@@ -549,6 +549,7 @@ Feel free to update the list!
 | [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
 | [Rehide](https://app.rehide.io) | Private, zero-knowledge password manager and vault | ([Docs](https://docs.rehide.io/)) | - | - | - |
 | [ZkLocus](https://zklocus.dev) | Private Geolocation Off & On-Chain | ([GitHub](https://github.com/iluxonchik/zkLocus/)) | - | - | - |
+| [ENCOINS](https://encoins.io) | Privacy protocol on Cardano | ([GitHub](https://github.com/encryptedcoins)) | - | - | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
