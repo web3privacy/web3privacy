@@ -279,6 +279,7 @@ Feel free to update the list!
 | [Phoenix](https://phoenix.acinq.co) | Non-custodial wallet on Lightning network | - | - | - | - |
 | [Coingrig](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
 | [Pulse Wallet](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
+| [UltraNote Infinity](https://ultranote.org/#wallet) | Based on CryptoNote V.2 technology with secure transactions and decentralized blockchain. | - | - | - | - |
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
