@@ -390,6 +390,7 @@ Feel free to update the list!
 | [WIW](https://wiw.io) | Build, Aggregate, Own Your Decentralized Identity & Reputation | ([GitHub](https://github.com/wiw-io)) | - | - | - |
 | [Anon Aadhaar](https://anon-aadhaar-documentation.vercel.app) | Anon Aadhaar circuit lets citizens with an Aadhaar card generate zero-knowledge identity proof. | ([GitHub](https://github.com/privacy-scaling-explorations/anon-aadhaar)) | - | - | - |
 | [Anrk Verify](https://www.ankr.com/blog/ankr-verify-product-launched-to-provide-blockchains-with-readymade-user-id-solution/?page=1) | Provide Blockchains With Readymade User ID Solution | ([GitHub](https://github.com/Ankr-network/)) | - | - | - |
+| [Neonyx](https://neonyx.io) | DID + Flexible social platform | ([GitHub](https://github.com/neonyxhub)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
