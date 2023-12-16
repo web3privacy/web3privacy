@@ -238,6 +238,7 @@ Feel free to update the list!
 | [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | ([Docs](https://aeronyx.network/docs/)) | - | - | - |
 | [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | ([Docs](https://docs.abelian.info/docs/getting-started/)) | - | - | - |
 | [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | ([GitHub](https://github.com/AmpereChain)) | - | - | - |
+| [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | ([GitHub](https://github.com/Phala-Network/index-contract)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
