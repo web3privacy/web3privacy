@@ -330,6 +330,7 @@ Feel free to update the list!
 | [Foundation](https://foundationdevices.com) | The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app | ([GitHub](https://github.com/Foundation-Devices)) | live | Bitcoin | ([Public](https://foundationdevices.com/about/)) |
 | [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | ([Docs](https://www.chain-reaction.io/resource-hub/)) | live | multichain | ([Public](https://www.chain-reaction.io/about/)) |
 | [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
+| [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
@@ -391,6 +392,7 @@ Feel free to update the list!
 | [Anon Aadhaar](https://anon-aadhaar-documentation.vercel.app) | Anon Aadhaar circuit lets citizens with an Aadhaar card generate zero-knowledge identity proof. | ([GitHub](https://github.com/privacy-scaling-explorations/anon-aadhaar)) | - | - | - |
 | [Anrk Verify](https://www.ankr.com/blog/ankr-verify-product-launched-to-provide-blockchains-with-readymade-user-id-solution/?page=1) | Provide Blockchains With Readymade User ID Solution | ([GitHub](https://github.com/Ankr-network/)) | - | - | - |
 | [Neonyx](https://neonyx.io) | DID + Flexible social platform | ([GitHub](https://github.com/neonyxhub)) | - | - | - |
+| [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
