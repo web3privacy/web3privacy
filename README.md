@@ -745,6 +745,7 @@ Feel free to update the list!
 | [OXygean](https://www.oxygean.com/introducing-oxit) | Privacy First x 1-Minute Action Protocol | - | - | - | - |
 | [Data Ownership Protocol](https://dop.org) | selective transparency on Ethereum | - | - | - | - |
 | [Devr](https://devr.com) | protocol for governance of decentralized privacy networks | - | - | - | - |
+| [xBlock](https://www.xblock.tech) | compliant solution for private transactions in Web3. Privately send, swap, bridge and receive payments with xBlock’s trusted API | ([Docs](https://xblock.gitbook.io/product-docs)) | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
