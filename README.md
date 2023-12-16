@@ -239,6 +239,7 @@ Feel free to update the list!
 | [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | ([Docs](https://docs.abelian.info/docs/getting-started/)) | - | - | - |
 | [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | ([GitHub](https://github.com/AmpereChain)) | - | - | - |
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | ([GitHub](https://github.com/Phala-Network/index-contract)) | - | - | - |
+| [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
