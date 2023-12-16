@@ -316,6 +316,7 @@ Feel free to update the list!
 | [Alpine](https://alpinecoin.io) |  a comprehensive blockchain ecosystem that combine cutting-edge technology with privacy | ([GitHub](https://github.com/AlpineERC)) | - | - | - |
 | [EtherChat](https://etherchat.app) |  First Layer-2 For Decentralized Chat | ([GitHub](https://github.com/EtherChatApp)) | - | - | - |
 | [Kinto](https://kinto.xyz) | L2 focused on providing safe access to financial services.  | ([GitHub](https://docs.kinto.xyz/kinto-the-safe-l2/general/welcome-to-kinto)) | - | - | - |
+| [Coti](https://coti.io) | Privacy-Focused Ethereum Layer-2  | ([GitHub](https://github.com/coti-io)) | - | - | - |
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
