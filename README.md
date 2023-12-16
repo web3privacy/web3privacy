@@ -241,6 +241,7 @@ Feel free to update the list!
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | ([GitHub](https://github.com/Phala-Network/index-contract)) | - | - | - |
 | [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
 | [AIOZ Network](https://aioz.network/node-app) | Web3 Infrastructure for AI, Storage and Streaming.  | - | - | - | - |
+| [Elosys](https://elosys.io) | decentralized blockchain delivering truly anonymous, untraceable transactions. Built on PoW consensus and zkSNARKs  | ([GitHub](https://github.com/ElosysIo)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
