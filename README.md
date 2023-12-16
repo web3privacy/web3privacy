@@ -744,6 +744,7 @@ Feel free to update the list!
 | [Bubble](https://bubbleprotocol.com) | enables blockchains to control and govern private off-chain data. | ([GitHub](https://github.com/bubble-protocol)) | - | - | - |
 | [OXygean](https://www.oxygean.com/introducing-oxit) | Privacy First x 1-Minute Action Protocol | - | - | - | - |
 | [Data Ownership Protocol](https://dop.org) | selective transparency on Ethereum | - | - | - | - |
+| [Devr](https://devr.com) | protocol for governance of decentralized privacy networks | - | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
