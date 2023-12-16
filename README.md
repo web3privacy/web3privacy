@@ -109,6 +109,7 @@ Feel free to update the list!
 | [Stealth Trade](https://stealthtrade.co) | Trade with Enhanced Privacy and Security | - | - | - | - | - | - |
 | [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | ([Docs](https://docs.hydranet.ai)) | - |
 | [ZOOK](https://www.zook.fi) | DeFi ecosystem | ([GitHub](https://github.com/zookfi/)) | - | - | - | ([Docs](https://docs.zook.fi/zook-defi-ecosystem/)) | - |
+| [GRVT](https://grvt.io) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://grvt.gitbook.io/grvt/introduction/about-grvt)) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -234,6 +235,7 @@ Feel free to update the list!
 | [Meson.Network](https://www.meson.network) | a suite of critical Web3 network infrastructure as well as the world’s first decentralized Bandwidth Exchange | ([GitHub](https://github.com/daqnext)) | - | - | - |
 | [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | ([Docs](https://aeronyx.network/docs/)) | - | - | - |
 | [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | ([Docs](https://docs.abelian.info/docs/getting-started/)) | - | - | - |
+| [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | ([GitHub](https://github.com/AmpereChain)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
