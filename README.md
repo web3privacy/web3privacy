@@ -666,6 +666,7 @@ Feel free to update the list!
 | [CoinMix](https://www.coinmix.tech) | the first mixer of the market with its own liquidity | - | - | - | - |
 | [Tornado AI](https://tornadoai.cash) | Leveraging AI to enhance crypto transaction security and anonymity | - | - | - | - |
 | [Mix to Earn](https://www.mixtoearn.app) | Compliant Mixing Solution | - | - | - | - |
+| [Tumbler](https://tumbler.io) | Compliant Mixing Solution | - | - | - | - |
 
 ## Data management
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
