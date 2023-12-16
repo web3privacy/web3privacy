@@ -742,6 +742,7 @@ Feel free to update the list!
 | [Midnight](https://midnight.network) | empower regulation-friendly apps that safeguard sensitive commercial and personal data | - | - | - | - |
 | [Spectrum Marketplace](https://spectrummarket.io) | a marketplace where everyone has the opportunity to contribute, transact, and interact without compromising on privacy or security. | ([Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision)) | - | - | - |
 | [Bubble](https://bubbleprotocol.com) | enables blockchains to control and govern private off-chain data. | ([GitHub](https://github.com/bubble-protocol)) | - | - | - |
+| [OXygean](https://www.oxygean.com/introducing-oxit) | Privacy First x 1-Minute Action Protocol | - | - | - | - |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
