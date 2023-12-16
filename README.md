@@ -152,6 +152,7 @@ Feel free to update the list!
 | [eCash](https://e.cash) | Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche  | ([GitHub](https://github.com/bitcoin-abc/bitcoin-abc/)) | - | - | anon |
 | [Zephyr protocol](https://www.zephyrprotocol.com) | The Untraceable Stablecoin Protocol | ([GitHub](https://github.com/ZephyrProtocol/Zephyr)) | - | - | anon |
 | [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | ([GitHub](https://github.com/nevocoin/nevocoin/)) | - | - | anon |
+| [Nerva](https://nerva.one) | Private and secure cryptocurrency | - | - | - | anon |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
