@@ -299,6 +299,7 @@ Feel free to update the list!
 | [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3. | ([Docs](https://docsend.com/view/7bkgvzagr6ifhwrc)) | live | multichain | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU)) |
 | [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing. | - | testnet | Aleo | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2242785598%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=6tr)) |
 | [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence. | ([GitHub](https://github.com/PlatONnetwork)) | live | Alaya | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2214399632%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=PCz)) |
+| [Marlin](www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | ([GitHub](https://github.com/marlinprotocol)) | live | Alaya | - |
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
