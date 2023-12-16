@@ -110,6 +110,7 @@ Feel free to update the list!
 | [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | ([Docs](https://docs.hydranet.ai)) | - |
 | [ZOOK](https://www.zook.fi) | DeFi ecosystem | ([GitHub](https://github.com/zookfi/)) | - | - | - | ([Docs](https://docs.zook.fi/zook-defi-ecosystem/)) | - |
 | [GRVT](https://grvt.io) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://grvt.gitbook.io/grvt/introduction/about-grvt)) | - |
+| [Phonon](https://www.phonon.org) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://docs.phonon.org/readme)) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
