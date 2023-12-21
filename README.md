@@ -154,6 +154,7 @@ Feel free to update the list!
 | [Zephyr protocol](https://www.zephyrprotocol.com) | The Untraceable Stablecoin Protocol | ([GitHub](https://github.com/ZephyrProtocol/Zephyr)) | - | - | anon |
 | [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | ([GitHub](https://github.com/nevocoin/nevocoin/)) | - | - | anon |
 | [Nerva](https://nerva.one) | Private and secure cryptocurrency | - | - | - | anon |
+| [DragonX](https://dragonx.is) | a  Z2Z private by default crypto + messenging. | - | - | - | anon |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
