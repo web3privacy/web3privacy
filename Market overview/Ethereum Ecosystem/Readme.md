@@ -328,8 +328,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
 | [Rehide](https://app.rehide.io) | Private, zero-knowledge password manager and vault | ([Docs](https://docs.rehide.io/)) | - | - | - |
 | [ZkLocus](https://zklocus.dev) | Private Geolocation Off & On-Chain | ([GitHub](https://github.com/iluxonchik/zkLocus/)) | - | - | - |
-| [ENCOINS](https://encoins.io) | Privacy protocol on Cardano | ([GitHub](https://github.com/encryptedcoins)) | - | - | - |
-| [Eppie](https://eppie.io) | Privacy protocol on Cardano | - | - | - | - |
 | [ETH.LIMO](https://eth.limo/#how-limo-works) | a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content | ([GitHub](https://github.com/ethlimo)) | - | - | - |
 
 ## NFT
