@@ -76,7 +76,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | ([Docs](https://docs.hydranet.ai)) | - |
 | [ZOOK](https://www.zook.fi) | DeFi ecosystem | ([GitHub](https://github.com/zookfi/)) | - | - | - | ([Docs](https://docs.zook.fi/zook-defi-ecosystem/)) | - |
 | [GRVT](https://grvt.io) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://grvt.gitbook.io/grvt/introduction/about-grvt)) | - |
-| [Phonon](https://www.phonon.org) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://docs.phonon.org/readme)) | - |
 | [Shhwapit](https://shhwapit.com) | a fully compliant asset anonymizing tool.  | - | - | - | - | - | - |
 | [Enclave Markets](https://www.enclave.market) | Fully Encrypted Exchange  | - | - | - | - | ([Docs](https://enclave-markets.notion.site/Enclave-Markets-API-Documentation-93b53ce24d3a4531ba09519c708483a9)) | - |
 | [RenegadeFi](https://www.renegade.fi) | Dark Pool  | ([GitHub](https://github.com/renegade-fi)) | - | - | - | ([Docs](https://docs.renegade.fi)) | - |
