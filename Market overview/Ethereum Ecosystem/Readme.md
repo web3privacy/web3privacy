@@ -327,16 +327,9 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) | new supported format by Arcana preserving privacy within NFT minting | ([Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/))  | - | - | - |
-| [Paras](https://eprint.iacr.org/2022/976.pdf) | a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances | - | - | - | - |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
 | [The Anon Club](https://theanonclub.com) | worlds first privacy focused digital collectibles | - | - | - | - |
-| [geniish](https://www.geniish.io) | Confidential NFTs for exclusive experiences | ([Docs](https://github.com/geniish-protocol/docs)) | - | - | - |
-| [certUP](https://certup.net) | SecretNFT Certificates revolutionising official document distribution, verification and publication | ([GitHub](https://github.com/CertUP)) | - | - | - |
-| [Actilist](https://test.actilist.io) | Secret NFT auctions | ([GitHub](https://github.com/actilabs)) | - | - | - |
-| [Fade WTF](http://mint.fade.wtf) | Privacy for NFTs powered by Light Protocol | - | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
-| [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | ([GitHub](https://github.com/BluumProtocol) | - | - | - | - |
 | [sudoswap](https://sudoswap.xyz/#/) | private bids | ([GitHub](https://github.com/sudoswap) | - | - | - | - |
 
 ## R&D
