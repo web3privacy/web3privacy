@@ -307,7 +307,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Silent Data](https://silentdata.com) | Verify web2 Data in web3 Applications. | - | - | - | - |
 | [okSign](https://www.oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | - | - | - |
 | [Literully](https://literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | ([Docs](https://docs.literully.com/articles/))   | - | - | - |
-| [WireMin](https://wiremin.org/#/) | a decentralised social network.  | - | - | - | - |
 | [Bermuda](https://www.bmda.io) | next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens. | - | - | - | - |
 | [Privacy Pools](https://www.privacypools.com) | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. | ([GitHub](https://github.com/ameensol/privacy-pools)) | - | - | - |
 | [Sociogram](https://sociogram.org) | Web3Social Media focused on privacy. | - | - | - | - |
@@ -315,15 +314,10 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 | [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | ([Docs](https://juno.build/docs/build/analytics#getting-started)) | - | - | - |
 | [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
-| [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts  | ([GitHub](https://github.com/sigle/sigle)) | - | - | - |
-| [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | ([GitHub](https://github.com/flock-io)) | - | - | - |
 | [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - | - |
-| [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
 | [Sirius Sync](https://siriussync.io ) | Web3 Social Ecosystem | - | - | - | - |
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
 | [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
-| [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
-| [Profila](https://www.profila.com) | Build personal relationships with Brands by sharing content with your sentiment | - | - | - | - |
 | [Onvote](https://onvote.app) | Anonymous, gasless & modular voting for web3 | - | - | - | - |
 | [Rehide](https://app.rehide.io) | Private, zero-knowledge password manager and vault | ([Docs](https://docs.rehide.io/)) | - | - | - |
 | [ZkLocus](https://zklocus.dev) | Private Geolocation Off & On-Chain | ([GitHub](https://github.com/iluxonchik/zkLocus/)) | - | - | - |
