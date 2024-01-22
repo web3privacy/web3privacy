@@ -1,6 +1,6 @@
-# Main data set of [Ethereum Privacy Ecosystem report](https://github.com/web3privacy/docs/blob/main/docs/research/Ethereum%20Privacy%20Ecosystem.md)
+# Main dataset of [Ethereum Privacy Ecosystem report](https://github.com/web3privacy/docs/blob/main/docs/research/Ethereum%20Privacy%20Ecosystem.md)
 
-Here we track all Ethereum privacy related projects, research & events (based on Web3privacy now general DB)
+_Here we track all Ethereum privacy related projects, research & events (based on Web3privacy now general DB)_
 
 ## Contents
 - [DeFi](#DeFi)
@@ -10,7 +10,6 @@ Here we track all Ethereum privacy related projects, research & events (based on
 - [Computing network](#Computing-network)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
-- [VPN](#VPN) 
 - [DID](#DID)
 - [DAO](#DAO)
 - [Bridge](#Bridge)
@@ -22,7 +21,6 @@ Here we track all Ethereum privacy related projects, research & events (based on
 - [dApps](#dApps) 
 - [NFT](#NFT)
 - [Other](#Other)
-- [Alliances](#Alliances)
 - [Mixing services](#Mixing-services)
 - [Data management](#Data-management)
 - [Donate](#Donate)
