@@ -176,7 +176,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [(GitHub](https://github.com/dappnode)) | live | multichain | ([Public](https://dappnode.com/pages/about))
 | [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | ([GitHub](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server)) | live | multichain | ([Public](https://www.mysterium.network/team)) |
 | [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | ([Docs](https://www.chain-reaction.io/resource-hub/)) | live | multichain | ([Public](https://www.chain-reaction.io/about/)) |
-| [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
 | [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
 
 ## DID
@@ -248,22 +247,9 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Waku](https://waku.org) | Waku is the communication layer for Web3. Decentralized communication that scales | ([GitHub](https://github.com/waku-org)) | - | - | - |
 | [Status](https://status.im) | Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology | ([GitHub](https://github.com/status-im/)) | - | - | - |
-| [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | - | - | - |
-| [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp/) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | ([Docs](https://xmtp.org/docs/client-sdk/javascript/tutorials/build-key-xmtp-chat-features-in-a-lens-app)) | - | - | - |
 | [Senging.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
-| [Zion](https://www.zion.fyi) | The safest way to join, chat and send | ([GitHub](https://github.com/getzion/)) | - | - | - |
 | [RLN Anonymous Chat](https://github.com/njofce/zk-chat) | A spam resistant instant messaging application for private and anonymous communication. | - | - | - | - |
-| [Beepo](https://beepoapp.net/#features) | a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts | ([GitHub](https://github.com/beepo-app)) | - | - | - |
-| [Onionclub](https://onionclub.io) | Blockchain based, business & social platform. | - | - | - | - |
-| [Speakeasy](https://alpha.speakeasy.tech) | Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof. |  - | - | - | - |
-| [Speak app](https://speakapp.me) | No phone number. No email address. Speakapp is a simple, and secure web3 messenger. | - | - | - | - |
-| [Pigeon Communicator](https://pigeoncoin.org) | Blockchain based, trustless, censorship resistant decentralized messaging. | - | - | - | - |
-| [HushChat](https://git.hush.is/hush/hushchat) | private messenger using zero knowledge mathematics. | - | - | - | - |
-| [Relayz](https://relayz.io) | Hyper-secure, private communications protocol for Web3 | - | - | - | - |
 | [Mejhool](https://hzmcoin.com/mejhool/) | a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.| - | - | - | - |
-| [Jami](https://jami.net/) | Jami is a free/libre, end-to-end encrypted, and private communication platform. | [Gitlab](https://git.jami.net/savoirfairelinux/jami-project) | - | - | - |
-| [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK** | [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | - | - | - |
-| [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | ([GitHub](https://github.com/adamant-im)) | - | - | - |
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
 | [4thPillar Project](https://the4thpillar.io) | Community-build dMail & dChat | ([GitHub](https://github.com/4P-project/)) | - | - | - |
 
