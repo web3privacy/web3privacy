@@ -20,7 +20,6 @@ Here we track all Ethereum privacy related projects, research & events (based on
 - [RPC](#RPC)
 - [Storage](#Storage)
 - [dApps](#dApps) 
-- [OS](#OS)
 - [NFT](#NFT)
 - [Other](#Other)
 - [Alliances](#Alliances)
