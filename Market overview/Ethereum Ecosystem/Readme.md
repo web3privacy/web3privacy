@@ -149,8 +149,8 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | multipurpose | ([Public](https://www.privasea.tech/about)) |
 | [Alaya](https://alaya.network/en) | Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON. | ([GitHub](https://github.com/AlayaNetwork)) | live, 2022 | Ethereum | anon |
 | [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3. | ([Docs](https://docsend.com/view/7bkgvzagr6ifhwrc)) | live | multichain | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU)) |
-| [Marlin](www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | ([GitHub](https://github.com/marlinprotocol)) | live | Alaya | - |
-| [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | ([Docs](https://docs.ethernity.cloud)) | live | Alaya | - |
+| [Marlin](www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | ([GitHub](https://github.com/marlinprotocol)) | live | - | - |
+| [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | ([Docs](https://docs.ethernity.cloud)) | live | - | - |
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
@@ -161,12 +161,10 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Obscuro](https://obscu.ro) | Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy | ([Docs](https://docs.obscu.ro)) | testnet | Ethereum | ([Public](https://obscu.ro/#team)) | 
 | [ZKCHAOS](https://www.zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. | - | TBD | TBD | TBD |
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | ([GitHub](https://github.com/starkware-libs/starkex-resources)) | live | Ethereum | ([Public](https://starkware.co/about-us/)) |
-| [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | ([GitHub](https://github.com/root1m3/plebble)) | TBD | TBD | anon |
 | [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | ([Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima)) | - | - | - | - |
 | [OLA](https://sin7y.org) | ZK-ZKVM Bringing Programmable Privacy to Blockchains | ([GitHub](https://github.com/Sin7Y) | - | - | - |
-| [Polybase](https://polybase.xyz) | a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs | ([Docs](https://polybase.xyz/docs/introduction) | - | - | - |
+| [Polybase](https://polybase.xyz) | a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs (plus bridging USDC from Ethereum) | ([Docs](https://polybase.xyz/docs/introduction) | - | - | - |
 | [TrueZK](https://www.truezk.com) | Post-Quantum ZK Rollup as a service x private DIDs | ([Docs](https://docs.truezk.com)) | - | - | - |
-| [Alpine](https://alpinecoin.io) |  a comprehensive blockchain ecosystem that combine cutting-edge technology with privacy | ([GitHub](https://github.com/AlpineERC)) | - | - | - |
 | [EtherChat](https://etherchat.app) |  First Layer-2 For Decentralized Chat | ([GitHub](https://github.com/EtherChatApp)) | - | - | - |
 | [Kinto](https://kinto.xyz) | L2 focused on providing safe access to financial services.  | ([GitHub](https://docs.kinto.xyz/kinto-the-safe-l2/general/welcome-to-kinto)) | - | - | - |
 | [Coti](https://coti.io) | Privacy-Focused Ethereum Layer-2  | ([GitHub](https://github.com/coti-io)) | - | - | - |
