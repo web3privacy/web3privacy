@@ -304,7 +304,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Weavemail](https://docs.arweave.org/info/tools/weavemail) | the mail that cannot be lost, censored, or read by Google: Weavemail is mail that you own. | - | - | - | - |
 | [Stealthdrop](https://stealthdrop.xyz) | Anonymous Airdrops using ZK-SNARKS ✨️**ZK** | ([GitHub](https://github.com/stealthdrop/stealthdrop))  | - | - | - |
 | [Bringing Privacy to ENS](https://www.cerebrum.com) | ChainSafe’s Proposed Integration Using Aztec Network | ([GitHub](https://github.com/ChainSafe/ens-aztec-privacy/))  | - | - | - |
-| [Zerochain](https://layerxcom.github.io/zerochain-book/) | Zerochain is a generic, privacy-protecting layer on top of Substrate. | - | - | - | - |
 | [Silent Data](https://silentdata.com) | Verify web2 Data in web3 Applications. | - | - | - | - |
 | [okSign](https://www.oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | - | - | - |
 | [Literully](https://literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | ([Docs](https://docs.literully.com/articles/))   | - | - | - |
