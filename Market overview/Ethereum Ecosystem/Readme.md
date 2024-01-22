@@ -45,7 +45,6 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | coming in 2023 | Near, Ethereum, Solana, Kusama, Azero | anon | - | - |
 | [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK* | ([GitHub](https://github.com/Sacred-Finance)) | TBD | Ethereum, Polygon | anon | - | - |
 | **sunset* [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | coming in 2023 | Ethereum, BNB, Polygon, Solana, Avalanche | ([Public](https://sahara.network/)) | - | [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) |
-| **sunset** [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | ([GitHub](https://github.com/DeFinerOrg)) | beta | DeFiner | anon | [Docs](https://docs.definer.org) | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
 | [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| ([GitHub](https://github.com/cryptoadong)) | TBD | Ethereum | anon | - | - |
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | ([Public](https://hinkal.pro/#section-team)) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) |
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | Ethereum | anon | - | - |
@@ -90,37 +89,25 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | Project  | Description | GitHub | Product-readiness | Token |
 | ------------- | ------------- |------------- |------------- | ----------- |
 | [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
-| [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
+| [NYM](https://nymtech.net) | Mixnet used to enhance validator privacy | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
 | [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
 | [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | testnet, June 2022 | No |
 | [HOPR](https://hoprnet.org/protocol) | a fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange | [GitHub](https://github.com/hoprnet) | testnet, 2021 | HOPR |
 | [Mystiko.Network](https://mystiko.network) | The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** | [GitHub](https://github.com/mystikonetwork) | testnet | no |
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 | RAZE |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | live | no |
-| [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | mainnet, January 2022 | TEER |
 | [Keep](https://keep.network/info) | The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum | [GitHub](https://github.com/keep-network/) | live | KEEP |
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Lit](https://litprotocol.com) | Decentralized Cryptography for Access Control, Compute, and Encryption | [Docs](https://developer.litprotocol.com) | TBD | LIT |
-| [Onino](https://www.onino.io) | A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability | - | TBD | ONI |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
 | [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
 | [Threshold](https://threshold.network) | A decentralized threshold cryptography network | [GitHub](https://github.com/threshold-network) | TBD | T |
-| [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
-| [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
-| [Vault1317](https://hardenedvault.net/blog/2021-06-02-vault1317-thesis/) | An Off-chain secure communication protocol with deniability via ZKP (Ring Signature) | [Github](https://github.com/hardenedvault/vault1317) | PoC | no |
-| [1984](https://1984.hosting/) | High quality web hosting and VPS service provider based in Iceland that respects and protects the civil and political rights of customers. Does not accept cryptocurency at this time. | - | live | no |
-| [Njalla](https://njal.la) | Anonymous domain name registrar and VPS provider based in Sweden, accepts various cryptocurrencies as payment. | - | live | no |
 | [Comit Network](https://comit.network/) | COMIT is an open protocol facilitating trustless cross-blockchain applications, connecting all blockchains without adding yet another. Working on [BTC-XMR atomic swaps](https://github.com/comit-network/xmr-btc-swap) as well as various libraries and clients. | [Github](https://github.com/comit-network) | TBD | no |
 | [Asterizm](https://asterizm.io) | Plug and play blockchain interoperability solution for enterprises, web3 protocols and fintech with privacy at the core | ([GitHub](https://github.com/Asterizm-Protocol)) | - | - | - | - |
-| [GotaBit](https://gotabit.io) | an open-source and proof-of-stake blockchain that aims to provide a sandbox environment for the deployment of smart contracts | ([GitHub](https://github.com/gotabit) | - | - | - |
-| [Logion](https://logion.network) | Substrate-based public blockchain operated by a decentralized network of legal officers | ([GitHub](https://github.com/logion-network)) | - | - | - |
 | [Mind Network](https://mindnetwork.xyz ) | decentralized zero trust data lake | ([GitHub](https://github.com/mind-network)) | - | - | - |
 | [Nomos](http://nomos.tech) | Nomos is a novel blockchain project that will address a network state's fundamental need for adaptable privacy and sovereignty. | ([GitHub](https://github.com/logos-co)) | - | - | - |
-| [0 Knowledge Network](https://0101010011.xyz) | a next-generation decentralized and incentivized metadata-private mixnet-based anonymous broadcast network with cryptographic security guarantees. | ([GitHub](https://github.com/31333337)) | - | - | - |
 | [Swisstronik](https://swisstronik.com) | Layer 1 solution designed to build scalable dApps that ensure users' data protection and privacy, while remaining compliant | ([GitHub](https://github.com/SigmaGmbH)) | - | - | - |
 | [Meson.Network](https://www.meson.network) | a suite of critical Web3 network infrastructure as well as the world’s first decentralized Bandwidth Exchange | ([GitHub](https://github.com/daqnext)) | - | - | - |
-| [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | ([Docs](https://aeronyx.network/docs/)) | - | - | - |
-| [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | ([Docs](https://docs.abelian.info/docs/getting-started/)) | - | - | - |
 | [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | ([GitHub](https://github.com/AmpereChain)) | - | - | - |
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | ([GitHub](https://github.com/Phala-Network/index-contract)) | - | - | - |
 | [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
