@@ -168,6 +168,13 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 3. Look in the local pcli database and see that only your transactions are present in decrypted form.
 
 _Verifying the confidentiality/integrity of the encryption is its own whole topic that requires cryptographic expertise however._
+_
+advanced level_:
+
+1. the RPC endpoints use TLS and our RPCs speak in protobuf gRPC. So you'll need to decode the TLS and decode the gRPC protobuf messages.
+2. You might have an easier time making custom builds of pd and cometbft to dump the data they receive.
+3. Getting a basic understanding of how ABCI works with cometBFT will help you with this a lot. They have pretty good docs on the cometBFT website.
+4. Here is the pd code that receives and processes ABCI messages from cometBFT. You could add debugging code here to dump out the contents of the ABCI messages: https://github.com/penumbra-zone/penumbra/blob/main/crates/core/app/src/app/mod.rs
 
 **example**: OMNIA
 
