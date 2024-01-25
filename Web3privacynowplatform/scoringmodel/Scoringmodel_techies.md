@@ -91,7 +91,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data | + |
 | read terms and conditions of every third party dependency, its licenses and what network calls are made by simply adding the library to the project even when not being used | + |
 
-_Tools_: [Json analyzer](https://github.com/u4aew/package-json-analyzer), [depcheck](https://www.npmjs.com/package/depcheck)
+_Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/depcheck)
 
 **example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
 
