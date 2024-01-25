@@ -37,7 +37,7 @@ _Currently we are surveying developers, security engineers and  researchers to f
 
 **important note**: here "techies" covers "juniors" & general "developers" (masses) & not aplicable to "lead", "seniors" or even "mid"-devs (core devs).
 
-# Scoring model 1.2: validity track
+# Scoring model 1.3: validity track
 
 _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
@@ -52,7 +52,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | from 0 to 100% |
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
-**Updates 1.1**
+**Updates 1.2**
 
 ## **GitHub**
 * Is it in stable release, 1.0 and not an alpha or untested code?
@@ -85,6 +85,13 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
 | Number of nodes (the larger the footprint the best privacy) | + |
 
+## **Dependencies**
+| Scoring  | Techie |
+| ------------- | ------------- | 
+| check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data | + |
+
+**example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
+
 ## **Data aggregation**
 | Scoring  | Techie |
 | ------------- | ------------- |
@@ -112,7 +119,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 ## **Traceability**
 
-example:
+**example 1**: Railgun
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
 2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
 
@@ -124,6 +131,40 @@ https://t.co/PqkUJWwmPD
 * Try to decode the input data for the transaction? It's all #encrypted.
 * So how much money exchanged hands here? Well, the short answer here is - it's #private. 
 * Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
+
+**example 2**: HOPR
+
+The only user of HOPR is actually @RPC_h_- so I'd check if that is private. 
+
+1. Use http://DERP.hoprnet.org in your normal wallet.
+2. See how every request from your wallet gets disclosed via the website.
+3. Then install RPCh.
+4. Connect it to the DERP endpoint
+5. And see that no request is visible on the page anymore, because the requests are sent via other IP addresses.
+
+**example**: dm3
+
+The criteria for a messenger or messaging protocol/service to proof "privacy by design":
+- decentralized delivery network (no central instance controls the flow/storage/transmission of messages or identity information)
+- decentralized registry for communication info (no entity controls the information how to encrypt and deliver messages)
+- end-2-end encryption, ideally with PFS (every message is end-to-end encrypted, ideally with rotating keys (PFS, ...))
+- Messages are not stored in the network (web3 storage like IPFS-based storage is critical as we never know if the encryption will be secure in the future, if not, this info is public)
+- no traceable transmission (transmission of messages must be not traceable from outside, as this may reveal the connection)
+- open-source of security-relevant parts (closed systems can't be trusted to not have backdoors)
+
+**example**: MASQ Browser
+1. Have you tried the MASQ Browser
+2. Run a cli node on a VPServer
+3. Read the docs on docs.masq.ai
+4. Break TLS at first as there is a TLS connection from the MASQ Browser to the destination web server.
+5. Analyze https://github.com/MASQ-Project/Node
+
+**example**: Penumbra
+1. Run a node and see what data is synced from the network.
+2. Check out the various RPCs like get block by height and see that the transaction data is encrypted (aside from what is intended to be public like fees).
+3. Look in the local pcli database and see that only your transactions are present in decrypted form.
+
+_Verifying the confidentiality/integrity of the encryption is its own whole topic that requires cryptographic expertise however._
 
 # Backlog
 
@@ -160,6 +201,10 @@ https://t.co/PqkUJWwmPD
 | ------------- | ------------- |
 | try to trace a transaction | + |
 | Other tooling to verify e.g. block explorers  | + |
+
+## Tooling
+- **Wireshark on the Docker container** to check what it interfaces
+- &/or **Console** - check network requests by opening the console, the more requests it does to external servers, the more your IP address is sent around
 
 ## Advanced part
 
