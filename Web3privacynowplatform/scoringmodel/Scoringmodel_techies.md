@@ -178,7 +178,7 @@ _private transactions_ also known as transaction sent through private mempool. A
 2. Look at the transaction with a third-party explorer like Etherscan.
 3. The expected result is that you'll see a label of "MEV Transaction"/"Private Transaction" which usually means the tx was sent through a private mempool, hidden from the bots etc that are eyeing the public mempool.
 
-Example here [link(]https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad269af5d82cb74d4998ad57b3ab673609)
+Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad269af5d82cb74d4998ad57b3ab673609)
 
 **example**: Firn
 
