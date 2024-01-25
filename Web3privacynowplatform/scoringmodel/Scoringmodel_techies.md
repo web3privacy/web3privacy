@@ -129,7 +129,11 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 
 ## **Traceability**
 
-**example 1**: [Railgun](https://www.railgun.org)
+**example 1**: 
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Railgun_400x400.jpg" alt="Railgun" width="150"/>
+
+[Railgun](https://www.railgun.org)
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
 2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
 
@@ -142,7 +146,11 @@ https://t.co/PqkUJWwmPD
 * So how much money exchanged hands here? Well, the short answer here is - it's #private. 
 * Only the sender and recipient will know. There will be #zeroknowledge about it unless they choose to reveal the transaction information.
 
-**example 2**: [HOPR](http://hoprnet.org)
+**example 2**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/HOPR_400x400.jpg" alt="HOPR" width="150"/>
+
+[HOPR](http://hoprnet.org)
 
 The only user of HOPR is actually @RPC_h_- so I'd check if that is private. 
 
@@ -152,7 +160,11 @@ The only user of HOPR is actually @RPC_h_- so I'd check if that is private.
 4. Connect it to the DERP endpoint
 5. And see that no request is visible on the page anymore, because the requests are sent via other IP addresses.
 
-**example**: [dm3](https://dm3.network)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/dm3_400x400.jpg" alt="dm3" width="150"/>
+
+[dm3](https://dm3.network)
 
 The criteria for a messenger or messaging protocol/service to proof "privacy by design":
 - decentralized delivery network (no central instance controls the flow/storage/transmission of messages or identity information)
@@ -162,14 +174,24 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 - no traceable transmission (transmission of messages must be not traceable from outside, as this may reveal the connection)
 - open-source of security-relevant parts (closed systems can't be trusted to not have backdoors)
 
-**example**: [MASQ Browser](https://www.masqbrowser.com)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/MASQ%20Browser_400x400.png" alt="MASQ" width="150"/>
+
+[MASQ Browser](https://www.masqbrowser.com)
+
 1. Have you tried the MASQ Browser
 2. Run a cli node on a VPServer
 3. Read the docs on docs.masq.ai
 4. Break TLS at first as there is a TLS connection from the MASQ Browser to the destination web server.
 5. Analyze https://github.com/MASQ-Project/Node
 
-**example**: [Penumbra](https://penumbra.zone)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Penumbra_400x400.jpg" alt="Penumbra" width="150"/>
+
+[Penumbra](https://penumbra.zone)
+
 1. Run a node and see what data is synced from the network.
 2. Check out the various RPCs like get block by height and see that the transaction data is encrypted (aside from what is intended to be public like fees).
 3. Look in the local pcli database and see that only your transactions are present in decrypted form.
@@ -183,7 +205,11 @@ _advanced level_:
 3. Getting a basic understanding of how ABCI works with cometBFT will help you with this a lot. They have pretty good docs on the cometBFT website.
 4. Here is the pd code that receives and processes ABCI messages from cometBFT. You could add debugging code here to dump out the contents of the ABCI messages: https://github.com/penumbra-zone/penumbra/blob/main/crates/core/app/src/app/mod.rs
 
-**example**: [OMNIA](https://omniatech.io)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/OMNIA_400x400.jpg" alt="OMNIA" width="150"/>
+
+[OMNIA](https://omniatech.io)
 
 _off-chain privacy_ - mostly protecting metadata like the IP address of the one making the request. Algorithm to validate this: set up a dummy RPC node (i.e. using netcat or anything), register it in a load balancer in OMNIA, then make requests to OMNIA LB endpoint. The expected result is that you will not see your original IP in the data you receive on the dummy node, but rather random proxy addresses used to protect customer data
 
@@ -195,7 +221,11 @@ _private transactions_ also known as transaction sent through private mempool. A
 
 Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad269af5d82cb74d4998ad57b3ab673609)
 
-**example**: [Firn](http://firn.cash)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Firn.png" alt="OMNIA" width="150"/>
+
+[Firn](http://firn.cash)
 
 1. Look at an existing withdrawal on Etherscan. see if you can understand why the identity of the withdrawer is hidden. see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617
 2. Skim through the code of all of our contracts, especially Firn.sol. try to understand the rough architecture, blackboxing for now the actual zkp.
@@ -205,7 +235,11 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 6. open the developer tools console. 
 7. inspect all outbound traffic (network tab).
 
-**example**: [Waku](http://waku.org)
+**example**
+
+<img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Waku_400x400.jpg" alt="OMNIA" width="150"/>
+
+[Waku](http://waku.org)
 
 1. Read the doc to understand at high level
 2. Read the specs to understand exact behaviour and limitations
