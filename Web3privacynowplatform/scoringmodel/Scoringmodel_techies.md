@@ -166,6 +166,16 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 
 _Verifying the confidentiality/integrity of the encryption is its own whole topic that requires cryptographic expertise however._
 
+**example**: Firn
+
+1. Look at an existing withdrawal on Etherscan. see if you can understand why the identity of the withdrawer is hidden. see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617
+2. Skim through the code of all of our contracts, especially Firn.sol. try to understand the rough architecture, blackboxing for now the actual zkp.
+  3. github https://github.com/firnprotocol/contracts/blob/mainnet/Firn.sol
+  4. etherscan https://etherscan.io/address/0x4ce75eafd588f36de4b4b6e15f5e4e44b2e67aa0#code
+5. do basic Firn transactions or two. 
+6. open the developer tools console. 
+7. inspect all outbound traffic (network tab).
+
 # Backlog
 
 ## General
