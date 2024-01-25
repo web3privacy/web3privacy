@@ -442,3 +442,4 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 - [Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364)
 - [EIP-7503: Zero-Knowledge Wormholes](https://eips.ethereum.org/EIPS/eip-7503)
 - [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273)
+- [Lightweight Authentication of Web Data via Garble-Then-Prove](https://eprint.iacr.org/2023/964)
