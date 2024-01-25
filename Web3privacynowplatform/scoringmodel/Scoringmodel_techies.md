@@ -190,6 +190,19 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 6. open the developer tools console. 
 7. inspect all outbound traffic (network tab).
 
+**example**: Waku
+
+1. Read the doc to understand at high level
+2. Read the specs to understand exact behaviour and limitations
+3. Check code
+4. Run code and look at the network/libp2p logs:
+5. What node it's connecting too
+6. What messages are being sent.
+
+_tools_: 
+- something like netstat would be enough to see the connections made by the node. Or just using network tool in the browser.
+- enabling libp2p logs would be a good start.
+
 # Backlog
 
 ## General
