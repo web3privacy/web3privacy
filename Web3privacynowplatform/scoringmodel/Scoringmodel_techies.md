@@ -90,6 +90,8 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 | ------------- | ------------- | 
 | check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data | + |
 
+_Tools_: [Json analyzer](https://github.com/u4aew/package-json-analyzer), [depcheck](https://www.npmjs.com/package/depcheck)
+
 **example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
 
 ## **Data aggregation**
@@ -166,6 +168,18 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 
 _Verifying the confidentiality/integrity of the encryption is its own whole topic that requires cryptographic expertise however._
 
+**example**: OMNIA
+
+_off-chain privacy_ - mostly protecting metadata like the IP address of the one making the request. Algorithm to validate this: set up a dummy RPC node (i.e. using netcat or anything), register it in a load balancer in OMNIA, then make requests to OMNIA LB endpoint. The expected result is that you will not see your original IP in the data you receive on the dummy node, but rather random proxy addresses used to protect customer data
+
+_private transactions_ also known as transaction sent through private mempool. Algorithm to validate this (for now only mainnet):
+
+1. Send a transaction through a frontrunning protected endpoint.
+2. Look at the transaction with a third-party explorer like Etherscan.
+3. The expected result is that you'll see a label of "MEV Transaction"/"Private Transaction" which usually means the tx was sent through a private mempool, hidden from the bots etc that are eyeing the public mempool.
+
+Example here [link(]https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad269af5d82cb74d4998ad57b3ab673609)
+
 **example**: Firn
 
 1. Look at an existing withdrawal on Etherscan. see if you can understand why the identity of the withdrawer is hidden. see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617
@@ -215,6 +229,8 @@ _Verifying the confidentiality/integrity of the encryption is its own whole topi
 ## Tooling
 - **Wireshark on the Docker container** to check what it interfaces
 - &/or **Console** - check network requests by opening the console, the more requests it does to external servers, the more your IP address is sent around
+- Etherscan - transactional analytics
+- [depcheck](https://www.npmjs.com/package/depcheck) - dependencies
 
 ## Advanced part
 
