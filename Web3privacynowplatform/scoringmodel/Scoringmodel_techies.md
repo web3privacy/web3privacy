@@ -255,3 +255,6 @@ _We asked Ethereum security chat members to share guides that devs could use to 
 [SCSVS](https://github.com/ComposableSecurity/SCSVS/): Smart Contract Security Verification Standard
 
 [EthTrust](https://entethalliance.github.io/eta-registry/security-levels-spec.html): EEA EthTrust Security Levels Specification v-after-1
+
+**Aditya, Nighthawkapps** recommendations
+[OSS security audit tooling](https://techbeacon.com/app-dev-testing/13-tools-checking-security-risk-open-source-dependencies)
