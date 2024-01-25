@@ -127,7 +127,7 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 | DAO structure (if applied)  | + |
 | How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
 
-## **Traceability**
+## **Practical examples by community**
 
 **example 1**: [Railgun](https://www.railgun.org)
 
