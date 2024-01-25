@@ -54,6 +54,13 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **Updates 1.2**
 
+Privacy assessment should start with understanding privacy implication:
+1. **Category** "transaction", "storage", "messaging" etc.
+2. **Privacy features** "sender & receiver are un-linked within the transactional privacy" or "content of the message is End-to-end encrypted within the Messenger privacy".
+3. **Complexity**: specific use-case centric privacy, or "multiple privacy": L1, L0 (sharing multiple privacy categories & features. Examples: Nym - network-level privacy (incl metadata protection); DarkFi - anon DAO, anon smart-contracts &  multiple other privacy-enhancing protocol features).   
+
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Privacy%20complexity%20(use-case%20%26%20protocol%20grade).png?raw=true)
+
 ## **GitHub**
 * Is it in stable release, 1.0 and not an alpha or untested code?
 * Are there many PRs and Issues pending?
