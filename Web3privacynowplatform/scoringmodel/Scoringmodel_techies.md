@@ -1,6 +1,6 @@
 # Privacy scoring modelling > Web3privacy now analytical [platform](https://github.com/Msiusko/web3privacy/tree/main/Web3privacynowplatform)
 
-_Currently we are surveying developers, security engineers and  researchers to find out bottle necks & potential room for growth within privacy features assessment by techies._ 
+_Currently we are surveying developers, security engineers and  researchers to find out bottle necks & potential room for growth within privacy features assessment by techies._ [raw data spreadsheet](https://docs.google.com/spreadsheets/d/1JWpAsGL10UTsVeuIVbouzUxRjaSPUAamxcbFljXuUWE/edit?usp=sharing)
 
 ## Core user group (techies definition):
 - junior or general devs with under 1-year web3 coding experience
