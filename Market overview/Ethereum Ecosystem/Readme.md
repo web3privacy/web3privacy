@@ -7,26 +7,33 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 2. Adding new positions like EIP-7503
 
 ## Contents
-- [DeFi](#DeFi)
-- [Currency](#Currency)
-- [Infrastructure](#Infrastructure)
-- [Wallet](#Wallet)
-- [Computing network](#Computing-network)
-- [Layer 2](#Layer-2)
-- [Hardware](#Hardware)
-- [DID](#DID)
-- [DAO](#DAO)
-- [Bridge](#Bridge)
-- [Messaging](#Messaging)
-- [Browser](#Browser)
-- [KYC](#KYC)
-- [RPC](#RPC)
-- [Storage](#Storage)
-- [dApps](#dApps) 
-- [NFT](#NFT)
-- [Other](#Other)
-- [Mixing services](#Mixing-services)
-- [Papers](#Papers)
+- [Main dataset of Ethereum Privacy Ecosystem report](#main-dataset-of-ethereum-privacy-ecosystem-report)
+  - [Current phase: Ethereum Privacy DB aggregation](#current-phase-ethereum-privacy-db-aggregation)
+  - [Contents](#contents)
+  - [DeFi](#defi)
+  - [Currency](#currency)
+  - [Infrastructure](#infrastructure)
+  - [Wallet](#wallet)
+  - [Computing network](#computing-network)
+  - [Layer 2](#layer-2)
+  - [Hardware](#hardware)
+  - [DID](#did)
+  - [DAO](#dao)
+  - [Bridge](#bridge)
+  - [Messaging](#messaging)
+  - [Browser](#browser)
+  - [KYC](#kyc)
+  - [RPC](#rpc)
+  - [Storage](#storage)
+  - [dApps](#dapps)
+  - [NFT](#nft)
+  - [R\&D](#rd)
+  - [Node](#node)
+  - [Mixing services](#mixing-services)
+  - [Other](#other)
+  - [Events](#events)
+  - [Network state](#network-state)
+  - [Papers](#papers)
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
@@ -111,6 +118,7 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 | [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | ([GitHub](https://github.com/AmpereChain)) | - | - | - |
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | ([GitHub](https://github.com/Phala-Network/index-contract)) | - | - | - |
 | [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
+| [PADO](https://padolabs.org/)|Decentralized zkAttestation and Computation Network Powered by Interactive ZKP and zkFHE|([Github](https://github.com/pado-labs))| - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
