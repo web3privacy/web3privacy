@@ -33,7 +33,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Offshift](https://www.offshift.io) | Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics | 🚩 **LOW** ([GitLab](https://open.offshift.io/offshiftXFT)) | live | ([anon](https://offshift.io/#team)) | - | - | 25% |
 | [CAPE](https://www.espressosys.com/product) | Configurable Asset Privacy for Ethereum | ([GitHub](https://github.com/EspressoSystems/cape)) | 🚧 | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 50% |
 | [Evanesco](https://evanesco.org) | A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. | ([GitHub](https://github.com/Evanesco-Labs)) | live | anon | - | - | 25% |
-| [Dusk Network](https://dusk.network) | Is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes. | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
+| [Dusk](https://dusk.network) | Is a permissionless, ZK-friendly L1 blockchain protocol focused on Compliance and Privacy to tokenize Real-World Assets natively on-chain. Regulated and Decentralized Finance. | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
 | [Manta Pay](https://app.manta.network/dolphin/transact) | MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**  | ([GitHub](https://github.com/Manta-Network)) | testnet v3 | public | [Docs](https://docs.manta.network/docs/Introduction) | - | 75% |
 | [Webb](https://app.webb.tools/#/tornado) | an interoperable private bridge ✨️**ZK** | ([GitHub](https://github.com/webb-tools)) | 🚧 | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 75% |
 | [Panther Protocol](https://www.pantherprotocol.io) | is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** | ([GitHub](https://github.com/pantherprotocol))  | live | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | 🚩 2021: [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) | 100% |
@@ -102,7 +102,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | Project  | GitHub | Product-readiness | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | testnet | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 50% |
-| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
+| [Dusk](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
 | [Umbra](https://app.umbra.cash) | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | live | anon | - | 🚩 2021: [3 audits](https://app.umbra.cash/faq#security) | 50% |
 | [Light Shield](https://shield.lightprotocol.com) |  - | live |  anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 50% |
 | [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | - | 🚧 | anon | 🚩 **marketing** [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) | 50% |
@@ -191,7 +191,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | Project  | GitHub | Product-readiness | Team | Docs | Audit | Score |
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | 🚧 | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 50% |
-| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
+| [Dusk](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 50% |
 | [BasicSwap](https://basicswapdex.com) | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | 🚧 | ([anon](https://particl.io/)) | - | - | 50% |
 | [Hinkal](https://hinkal.pro) | - | live | ([Public](https://hinkal.pro/#section-team)) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) | 50% |
 | [Conceal Network](https://conceal.network) | ([GitHub](https://github.com/ConcealNetwork)) | live | ([anon](https://conceal.network/team/)) | [Docs](https://conceal.network/wiki/doku.php) | - | 50% |
@@ -309,7 +309,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Webb](https://app.webb.tools/#/tornado) | ([GitHub](https://github.com/webb-tools)) | 🚧 | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 0% |
 | [Diva](https://www.diva.exchange/en/) | ([GitHub](https://github.com/diva-exchange)) | 🚧 | ([Public](https://www.diva.exchange/en/team-and-contact/)) | [Docs](https://docs.lightprotocol.com) | - | - | 0% |
 | [CAPE](https://www.espressosys.com/product) | ([GitHub](https://github.com/EspressoSystems/cape)) | 🚧 | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - | 0% |
-| [Dusk Network](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 0% |
+| [Dusk](https://dusk.network) | ([GitHub](https://github.com/dusk-network)) | 🚧 | ([Public](https://dusk.network/pages/team)) | - | - | 0% |
 | [BasicSwap](https://basicswapdex.com) | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | 🚧 | ([anon](https://particl.io/)) | - | - | 0% |
 | [BlackBox](https://blackbox.cash) | ([GitHub](https://github.com/TriviumNode)) | 🚧 | anon | - | 0% |
 | [Spiral Finance](https://www.spiralfi.io) | - | 🚧 | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - | 0% |
