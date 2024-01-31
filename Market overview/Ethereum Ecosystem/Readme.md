@@ -8,7 +8,7 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 
 ## Important note
 Later on DB will be re-organized within Ethereum-centric (build on solidity), ETH-centric (DeFi allowing to bridge, swap ETH) & EVM-comatible or multichain projects.
-Segmentation will help to split "native" projects & broader actors serving different chains.
+Segmentation will help to split "native" projects & broader actors serving different chains. Plus it will map the nature of privacy within Ethereum Privacy Stack.
 
 ## Contents
 - [Main dataset of Ethereum Privacy Ecosystem report](#main-dataset-of-ethereum-privacy-ecosystem-report)
