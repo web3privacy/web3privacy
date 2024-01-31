@@ -11,8 +11,6 @@ Later on DB will be re-organized within Ethereum-centric (build on solidity), ET
 Segmentation will help to split "native" projects & broader actors serving different chains. Plus it will map the nature of privacy within Ethereum Privacy Stack.
 
 ## Contents
-- [Main dataset of Ethereum Privacy Ecosystem report](#main-dataset-of-ethereum-privacy-ecosystem-report)
-  - [Current phase: Ethereum Privacy DB aggregation](#current-phase-ethereum-privacy-db-aggregation)
   - [Contents](#contents)
   - [DeFi](#defi)
   - [Currency](#currency)
