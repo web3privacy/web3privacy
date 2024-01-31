@@ -6,6 +6,10 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 1. Filtering out non-Ethereum projects from our main DB.
 2. Adding new positions like EIP-7503
 
+## Important note
+Later on DB will be re-organized within Ethereum-centric (build on solidity), ETH-centric (DeFi allowing to bridge, swap ETH) & EVM-comatible or multichain projects.
+Segmentation will help to split "native" projects & broader actors serving different chains.
+
 ## Contents
 - [Main dataset of Ethereum Privacy Ecosystem report](#main-dataset-of-ethereum-privacy-ecosystem-report)
   - [Current phase: Ethereum Privacy DB aggregation](#current-phase-ethereum-privacy-db-aggregation)
