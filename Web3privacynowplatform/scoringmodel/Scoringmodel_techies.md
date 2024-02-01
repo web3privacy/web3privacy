@@ -289,9 +289,17 @@ _tools_:
 - Etherscan - transactional analytics
 - [depcheck](https://www.npmjs.com/package/depcheck) - dependencies
 
-## Advanced part
+# Advanced part
 
 from community
+
+**Ovro Ahmed | Leo wallet**: _For static code analysis, the link you provided is a helpful resource (https://owasp.org/www-community/controls/Static_Code_Analysis )
+
+Specific tools like SonarQube, Checkmarx, and Fortify can aid in analyzing your code for vulnerabilities and suggesting improvements. 
+
+Privacy-focused libraries
+
+As for privacy-focused libraries, options like Crypto++, libsodium, and OpenSSL for cryptography, and PySyft and TensorFlow Privacy for privacy-preserving machine learning are widely used and prioritize user privacy and data protection._
 
 * use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out
 * using something like https://charlesproxy.com to see all the traffic
