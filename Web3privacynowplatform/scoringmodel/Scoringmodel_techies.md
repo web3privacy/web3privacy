@@ -252,6 +252,29 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 4. Run code and look at the network/libp2p logs:
    - What node it's connecting too
    - What messages are being sent.
+  
+**example 9**
+
+[Leo wallet](https://www.leo.app)
+  
+**Ovro Ahmed | Leo wallet**: 
+
+For a developer conducting a privacy-service self-audit, a simple algorithm could involve 
+- checking Leo's code repository for any private or sensitive data handling functions
+- inspecting API endpoints for encryption,
+- and reviewing documentation for privacy features.
+
+Utilizing tools can enhance the assessment: 
+- static code analysis
+- and privacy-focused libraries
+
+_For static code analysis:
+- the link you provided is a helpful resource: https://owasp.org/www-community/controls/Static_Code_Analysis
+- specific tools like SonarQube, Checkmarx, and Fortify can aid in analyzing your code for vulnerabilities and suggesting improvements. 
+
+As for privacy-focused libraries (widely used and prioritizing user privacy and data protection):
+- options like Crypto++, libsodium, and OpenSSL for cryptography
+- and PySyft and TensorFlow Privacy for privacy-preserving machine learning.
 
 _tools_: 
 - something like _netstat_ would be enough to see the connections made by the node. Or just using network tool in the browser.
@@ -292,15 +315,6 @@ _tools_:
 # Advanced part
 
 from community
-
-**Ovro Ahmed | Leo wallet**: _For static code analysis, the link you provided is a helpful resource (https://owasp.org/www-community/controls/Static_Code_Analysis )
-
-Specific tools like SonarQube, Checkmarx, and Fortify can aid in analyzing your code for vulnerabilities and suggesting improvements. 
-
-Privacy-focused libraries
-
-As for privacy-focused libraries, options like Crypto++, libsodium, and OpenSSL for cryptography, and PySyft and TensorFlow Privacy for privacy-preserving machine learning are widely used and prioritize user privacy and data protection._
-
 * use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out
 * using something like https://charlesproxy.com to see all the traffic
 * Android: Feel free to test it at [Exodus Privacy](https://exodus-privacy.eu.org/en/), a friendly service to investigate Android apps. 
