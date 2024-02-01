@@ -156,7 +156,7 @@ The only user of HOPR is actually @RPC_h_- so I'd check if that is private.
 4. Connect it to the DERP endpoint
 5. And see that no request is visible on the page anymore, because the requests are sent via other IP addresses.
 
-**example**: [dm3](https://dm3.network)
+**example 3**: [dm3](https://dm3.network)
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/dm3_400x400.jpg" alt="dm3" width="150"/>
 
@@ -168,7 +168,7 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 - no traceable transmission (transmission of messages must be not traceable from outside, as this may reveal the connection)
 - open-source of security-relevant parts (closed systems can't be trusted to not have backdoors)
 
-**example**: [MASQ Browser](https://www.masqbrowser.com)
+**example 4**: [MASQ Browser](https://www.masqbrowser.com)
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/MASQ%20Browser_400x400.png" alt="MASQ" width="150"/>
 
@@ -178,7 +178,7 @@ The criteria for a messenger or messaging protocol/service to proof "privacy by 
 4. Break TLS at first as there is a TLS connection from the MASQ Browser to the destination web server.
 5. Analyze https://github.com/MASQ-Project/Node
 
-**example**: [Penumbra](https://penumbra.zone)
+**example 5**: [Penumbra](https://penumbra.zone)
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Penumbra_400x400.jpg" alt="Penumbra" width="150"/>
 
@@ -195,7 +195,7 @@ _advanced level_:
 3. Getting a basic understanding of how ABCI works with cometBFT will help you with this a lot. They have pretty good docs on the cometBFT website.
 4. Here is the pd code that receives and processes ABCI messages from cometBFT. You could add debugging code here to dump out the contents of the ABCI messages: https://github.com/penumbra-zone/penumbra/blob/main/crates/core/app/src/app/mod.rs
 
-**example**: [OMNIA](https://omniatech.io)
+**example 6**: [OMNIA](https://omniatech.io)
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/OMNIA_400x400.jpg" alt="OMNIA" width="150"/>
 
@@ -209,7 +209,7 @@ _private transactions_ also known as transaction sent through private mempool. A
 
 Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad269af5d82cb74d4998ad57b3ab673609)
 
-**example**
+**example 7**
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Firn.png" alt="OMNIA" width="150"/>
 
@@ -223,7 +223,7 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 6. open the developer tools console. 
 7. inspect all outbound traffic (network tab).
 
-**example**
+**example 8**
 
 <img src="https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Waku_400x400.jpg" alt="OMNIA" width="150"/>
 
