@@ -113,7 +113,7 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 
 ## **Traction**
 - Amount of transactions (Dune, DeFi Lama, block explorer etc) 
-- number of people using it  
+- Number of people using it  
 
 ## **Governance**
 - DAO structure (if applied)  
@@ -126,6 +126,22 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 | - | Is it in stable release, 1.0 and not an alpha or untested code? | Amount of transactions (Dune, DeFi Lama, block explorer etc) | Known team members | read the documentation: is it comprehensive? | Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf) | Known contributors | - | Is there a technical support available & how accurate? | - | doesn't track & collect data (reflected in Privacy policy) | - |
 | - | Are there many PRs and Issues pending? | Number of people using it | How mature are core contributors (previous projects, GitHub commits)? | how well-written are privacy & security assumptions/guarantees? | Audit libraries in use: Do they have a third-party audit? | External contributors impact | - | - | - | what user information is stored? (username, IP address, last connection, wallets associate, etc) | - |
 | - | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | **100%** |
+
+## Out of model (temporary - to be researched & talked through with the community)
+
+**Benchmarking**
+- Exact # of transactions (Dune, DeFi Lama, block explorer etc): _min to reflect liveliness_
+- Exact # of people using it: _min to reflect liveliness_
+- Exact # of dependencies (Rabby - 1150 dependencies, Metamask - 720, Brume - 50): _critical impact on potential privacy exploitations_
+
+**Category specific profiling**
+- Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net)  
+- Number of nodes (the larger the footprint the best privacy) 
+
+**Governance**
+- DAO structure (if applied)  
+- How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance)
+- How centralized are product updates?
 
 ## **Practical examples by community**
 
