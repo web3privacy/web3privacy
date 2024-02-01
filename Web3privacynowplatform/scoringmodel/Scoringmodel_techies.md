@@ -89,27 +89,21 @@ Privacy assessment should start with understanding privacy implication:
 - How centralized are product updates?
 
 ## **Infrastructure**
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net) | + |
-| Number of nodes (the larger the footprint the best privacy) | + |
+- Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net)  
+- Number of nodes (the larger the footprint the best privacy) 
 
 ## **Dependencies**
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data | + |
-| read terms and conditions of every third party dependency, its licenses and what network calls are made by simply adding the library to the project even when not being used | + |
+- check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data 
+- read terms and conditions of every third party dependency, its licenses and what network calls are made by simply adding the library to the project even when not being used 
 
 _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/depcheck)
 
 **example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
 
 ## **Data aggregation**
-| Scoring  | Techie |
-| ------------- | ------------- |
-| no email or tel number for signup | + |
-| does not implement KYC or AML | + |
-| What user information is stored? (username, IP address, last connection, wallets associate, etc) | + |
+- no email or tel number for signup  
+- does not implement KYC or AML  
+- What user information is stored? (username, IP address, last connection, wallets associate, etc) 
 
 ## **3rd party libraries**
 - Audit libraries in use
@@ -118,16 +112,12 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 - What's the reputation behind security audit company?
 
 ## **Traction**
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Amount of transactions (Dune, DeFi Lama, block explorer etc) | + |
-| number of people using it | + |
+- Amount of transactions (Dune, DeFi Lama, block explorer etc) 
+- number of people using it  
 
 ## **Governance**
-| Scoring  | Techie |
-| ------------- | ------------- |
-| DAO structure (if applied)  | + |
-| How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance) | + |
+- DAO structure (if applied)  
+- How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance)  
 
 ## **Extended scoring 1.2**
 | Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Dependencies |
