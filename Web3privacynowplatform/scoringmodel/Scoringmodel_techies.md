@@ -250,8 +250,8 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 2. Read the specs to understand exact behaviour and limitations
 3. Check code
 4. Run code and look at the network/libp2p logs:
-5. What node it's connecting too
-6. What messages are being sent.
+   - What node it's connecting too
+   - What messages are being sent.
 
 _tools_: 
 - something like _netstat_ would be enough to see the connections made by the node. Or just using network tool in the browser.
@@ -266,7 +266,7 @@ _tools_:
 - Open-source
 
 ## Privacy policy
-- Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) 
+- Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) vs massive data aggregation [Nocturne PP](https://nocturne.xyz/privacy-policy)
 - Non-vague and non-intrusive privacy policy 
 
 ## Storage
