@@ -135,7 +135,7 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 1. Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 
 2. Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.
 
-https://t.co/PqkUJWwmPD
+[source](https://t.co/PqkUJWwmPD)
 * This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another. You'll note that the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation).
 * User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.
 * The To address is simply the RAILGUN smart contract on @0xPolygon in this case. So nothing is revealed about the recipient.
@@ -150,7 +150,7 @@ https://t.co/PqkUJWwmPD
 
 The only user of HOPR is actually @RPC_h_- so I'd check if that is private. 
 
-1. Use http://DERP.hoprnet.org in your normal wallet.
+1. Use [DERP](http://DERP.hoprnet.org) in your normal wallet.
 2. See how every request from your wallet gets disclosed via the website.
 3. Then install RPCh.
 4. Connect it to the DERP endpoint
@@ -215,10 +215,10 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 
 [Firn](http://firn.cash)
 
-1. Look at an existing withdrawal on Etherscan. see if you can understand why the identity of the withdrawer is hidden. see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617
+1. Look at an existing withdrawal on Etherscan. see if you can understand why the identity of the withdrawer is hidden. see if you can understand what information is visible (zkp, timing, withdrawal amount, etc.). here's an example: [etherscan](https://etherscan.io/tx/0x0b070e834c040e516503c9fe435b45fa03038b68f1157253c0eddaed9d682617)
 2. Skim through the code of all of our contracts, especially Firn.sol. try to understand the rough architecture, blackboxing for now the actual zkp.
-  3. github https://github.com/firnprotocol/contracts/blob/mainnet/Firn.sol
-  4. etherscan https://etherscan.io/address/0x4ce75eafd588f36de4b4b6e15f5e4e44b2e67aa0#code
+  3. [github](https://github.com/firnprotocol/contracts/blob/mainnet/Firn.sol)
+  4. [etherscan](https://etherscan.io/address/0x4ce75eafd588f36de4b4b6e15f5e4e44b2e67aa0#code)
 5. do basic Firn transactions or two. 
 6. open the developer tools console. 
 7. inspect all outbound traffic (network tab).
@@ -237,44 +237,34 @@ Example here [link](https://etherscan.io/tx/0xf12371347f409ea7e5e674bd435ee1ad26
 6. What messages are being sent.
 
 _tools_: 
-- something like netstat would be enough to see the connections made by the node. Or just using network tool in the browser.
-- enabling libp2p logs would be a good start.
+- something like _netstat_ would be enough to see the connections made by the node. Or just using network tool in the browser.
+- enabling libp2p logs would be a good start
 
 # Backlog
 
 ## General
-| Scoring  | Techie |
-| ------------- | ------------- |
-| Immutability | + |
-| Decentralised throughout, including hosting | + |
-| Permissionless & accessible to all | + |
-| Open-source | + | 
+- Immutability  
+- Decentralised throughout, including hosting 
+- Permissionless & accessible to all  
+- Open-source
 
 ## Privacy policy
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) | + |
-| Non-vague and non-intrusive privacy policy | + |
+- Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) 
+- Non-vague and non-intrusive privacy policy 
 
 ## Storage
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| e2e encrypted LOCAL storage | + |
-| Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) | + |
+- e2e encrypted LOCAL storage 
+- Where is it stored? (centralized server, certain jurisdictions, on-chain, in browser/local cache) 
 
 ## Privacy execution
-| Scoring  | Techie |
-| ------------- | ------------- | 
-| p2p / no central server | + |
-| Trustless - No ID required (this is where ZKs are useful) | + |
+- p2p / no central server 
+- Trustless - No ID required (this is where ZKs are useful)  
 
 **example**: "with the unirep protocol we're building an explorer that shows all the things happening in the system. So a user could see their epoch keys and attestations and see how they're distinct in the system. One thing we might do is write what can and can't be determined about the different identifiers".
 
 ## Testing
-| Scoring  | Techie |
-| ------------- | ------------- |
-| try to trace a transaction | + |
-| Other tooling to verify e.g. block explorers  | + |
+- try to trace a transaction 
+- Other tooling to verify e.g. block explorers  
 
 ## Tooling
 - **Wireshark on the Docker container** to check what it interfaces
