@@ -307,18 +307,19 @@ _tools_:
 - Other tooling to verify e.g. block explorers  
 
 ## Tooling
-- **Wireshark on the Docker container** to check what it interfaces
-- &/or **Console** - check network requests by opening the console, the more requests it does to external servers, the more your IP address is sent around
-- Etherscan - transactional analytics
-- [depcheck](https://www.npmjs.com/package/depcheck) - dependencies
+- _network requests_: **Wireshark on the Docker container** to check what it interfaces &/or **Console** - check network requests by opening the console, the more requests it does to external servers, the more your IP address is sent around
+- _transactional analytics_: Etherscan
+- _dependencies_: [depcheck](https://www.npmjs.com/package/depcheck)
+- _static code analysis_: SonarQube, Checkmarx, and Fortify can aid in analyzing your code for vulnerabilities and suggesting improvements.
+- _privacy-focused libraries_ to enhance the assessment: cryptographic - Crypto++, libsodium, and OpenSSL; privacy-preserving machine learning: PySyft and TensorFlow.
+- _node connections_: _netstat_ would be enough to see the connections made by the node
+- _Android_: Feel free to test it at [Exodus Privacy](https://exodus-privacy.eu.org/en/), a friendly service to investigate Android apps. Check https://f-droid.org and verify the “no anti-features” tag (like dependency on third-party services). [Example](https://f-droid.org/en/packages/com.nighthawkapps.wallet.android/)
 
 # Advanced part
 
 from community
 * use a packet inspection tool such as #Wireshark to check all packets coming into your machine and going out
 * using something like https://charlesproxy.com to see all the traffic
-* Android: Feel free to test it at [Exodus Privacy](https://exodus-privacy.eu.org/en/), a friendly service to investigate Android apps. 
-* Android: check https://f-droid.org and verify the “no anti-features” tag (like dependency on third-party services). [Example](https://f-droid.org/en/packages/com.nighthawkapps.wallet.android/)
 
 # ETHSecurity community recommendations
 _We asked Ethereum security chat members to share guides that devs could use to check privacy features of a given dApp or a protocol. Here are the first tips:_
