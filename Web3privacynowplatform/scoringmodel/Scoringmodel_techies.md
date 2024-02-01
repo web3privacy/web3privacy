@@ -49,7 +49,7 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Extended scoring 1.0**
 | Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Score |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Test project** | available & active GitHub / not (25%) | Live or 🚧 (exclusion criteria) | public team / not (25%) | available & not marketing docs / not (25%) | available & up to date third-party audit / not (25%) | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | from 0 to 100% |
+| **Test project** | available & active GitHub / not | Live or 🚧 (exclusion criteria) | public team / not | available & not marketing docs / not | available & up to date third-party audit / not | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | from 0 to 100% |
 | **score** | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 12.5% | 100% |
 
 **Updates 1.2**
@@ -120,11 +120,12 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 - How centralized is the protocol governance? [Railgun_ governance docs](https://docs.railgun.org/wiki/rail-token/protocol-governance)  
 
 ## **Extended scoring 1.2**
-| Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Dependencies |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Test project** | available & active GitHub / not | Live or 🚧 (exclusion criteria) | public team / not | available & dev-centric docs / not (25%) | available & up to date third-party audit / not | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | Third-party dependencies (the less - the better) |
-| - | Is it in stable release, 1.0 and not an alpha or untested code? | Amount of transactions (Dune, DeFi Lama, block explorer etc) | Known team members | read the documentation: is it comprehensive? | Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf) | Known contributors | - | Is there a technical support available & how accurate? | - |
-| - | Are there many PRs and Issues pending? | Number of people using it | How mature are core contributors (previous projects, GitHub commits)? | how well-written are privacy & security assumptions/guarantees? | Audit libraries in use: Do they have a third-party audit? | External contributors impact | - | - | - |
+| Project | GitHub | Product-readiness | Team | Docs | Audit | Contributors | Licenses | Support | Dependencies | Score |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Test project** | available & active GitHub / not | Live or 🚧 (exclusion criteria) | public team / not | available & dev-centric docs / not (25%) | available & up to date third-party audit / not | external contributors outside of the team members | What licenses are in use | Some form of support available? (telegram, discord, forum) | Third-party dependencies (the less - the better) | - |
+| - | Is it in stable release, 1.0 and not an alpha or untested code? | Amount of transactions (Dune, DeFi Lama, block explorer etc) | Known team members | read the documentation: is it comprehensive? | Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf) | Known contributors | - | Is there a technical support available & how accurate? | - | - |
+| - | Are there many PRs and Issues pending? | Number of people using it | How mature are core contributors (previous projects, GitHub commits)? | how well-written are privacy & security assumptions/guarantees? | Audit libraries in use: Do they have a third-party audit? | External contributors impact | - | - | - | - |
+| **score** | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 100% |
 
 ## **Practical examples by community**
 
