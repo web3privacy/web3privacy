@@ -54,6 +54,8 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 
 **Updates 1.2**
 
+![alt text](https://github.com/web3privacy/explorer/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%20for%20techies%20approach.png?raw=true)
+
 Privacy assessment should start with understanding privacy implication:
 1. **Category** "transaction", "storage", "messaging" etc.
 2. **Privacy features** "sender & receiver are un-linked within the transactional privacy" or "content of the message is End-to-end encrypted within the Messenger privacy".
