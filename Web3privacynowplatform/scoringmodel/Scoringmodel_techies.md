@@ -91,6 +91,20 @@ Privacy assessment should start with understanding privacy implication:
 
 **example**: _Free & Open Source Software is the foundation that enables you to check whatever you want. The hoprd client is released under [GPLv3 license](https://github.com/hoprnet/hoprnet/blob/master/LICENSE) that allows you to do that (and also modify and re-distribute) Hoprn freely_
 
+_How to score_
+
+**Availability**
+- Available (+),
+- Missing (-)
+
+**Activity**:
+- Active (+): there’s an activity within the last 6 months.
+- Not (-): The GitHub account is silent.
+
+**Licenses**
+- Free & OSS (+)
+- Commercial (-) 
+
 ## **Docs**
 - read the documentation: is it comprehensive?
 - how well-written are privacy & security assumptions/guarantees?
