@@ -95,7 +95,21 @@ Privacy assessment should start with understanding privacy implication:
 - read the documentation: is it comprehensive?
 - how well-written are privacy & security assumptions/guarantees?
 - if aplicable: how well-written is encryption method? [example](https://developer.litprotocol.com/v3/sdk/access-control/encryption)
-- is Whitepaper marketing or dev-centric?
+- is whitepaper marketing or dev-centric?
+
+_How to score_
+
+**Availability**:
+- Available (+)
+- Missing (-)
+
+**Open-source**
+- Technical (+): written for technical specialists with the clear explanation of the privacy assumptions execution
+- Marketing (-): use marketing language, lacks tech specs, lots of token narrative
+
+**Fullness** (# of pages)
+- More than 5 pages (+)
+- 2-3 pages (-): seems inactive or early stage
 
 ## **Team**
 * Check if there are known contributors (reputation 101)
@@ -104,13 +118,48 @@ Privacy assessment should start with understanding privacy implication:
 * How many technical specialists in the team?
 * How mature are core contributors (previous projects, GitHub commits)?
 
+_How to score_
+
+**General team**
+
+- Public (+): the team is public, with active social media &/or GitHub accounts (note: digital avatars are ok if people are actively contributing to the project & actively communicate in socials: dcbuilder example)
+- Anon (-): weird names, no/or obscure avatars, no socials or GitHub links
+
+**Experience**
+_How many technical specialists in the team?_
+- 3+ technical people (+): from CTO to generic devs with active commits
+- Just 1 CTO (-): one point of entry
+
+_Do they have a track record? (university, projects, important commits)_
+-Active track record (+): field experience (ZK, E2EE, messengers); privacy-market experience (credible projects, research teams, important implementations - eg. Ring signatures in Monero)
+- No track record (-): can't attest quality of their previous projects, commits
+
+**Open-source**
+- 10+ community contributors beyond core team (+): many external contributors (total number & commits delivery)
+- from 0 to 2-3 (-): lack of active & broad communal contributors
+
 ## **Third-party audit**
+- Were privacy features attested?
 - Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf)
-- How centralized are product updates?
+
+_How to score_
+
+- Privacy features attested (+): company audited privacy assumptions & wrote down their state (if positive, no bugs & potential exploitations found); or privacy associated bugs were fixed by the team
+- Privacy features ignored (-): company skipped privacy assumptions in their audit report
 
 ## **Infrastructure**
 - Where are the nodes (check block explorer) [Nym mainnet explorer](https://explorer.nymtech.net)  
-- Number of nodes (the larger the footprint the best privacy) 
+- Number of nodes (the larger the footprint the best privacy)
+
+_How to score_
+
+**Node footprint**
+- 50+ of nodes (+): the larger the footprint the best privacy
+- below 50 nodes (-): small footprint
+
+**Geo**
+- Diverse node representation (+): majority of the continents, less than 10% of the nodes in 1 country
+- Poor node diversity (-): eg. 20% of the nodes - in Germany; or run by the same infra provider
 
 ## **Dependencies**
 - check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data 
