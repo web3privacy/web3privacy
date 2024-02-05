@@ -340,7 +340,7 @@ Write down a list of metrics that define the success of the product.
 
 **Web3 privacy-enhancing projects**
 - Web3privacy now database: [explore](https://github.com/Msiusko/web3privacy)
-- Web3 privacy landscape [map](https://github.com/Msiusko/web3privacy/blob/main/Web3privacyhttps://github.com/Msiusko/web3privacy/blob/main/Web3privacy%20landscape%20now.png)
+- Web3 privacy landscape [map](https://github.com/web3privacy/web3privacy/blob/main/src/Web3privacy%20landscape%20now.png)
 
 **Books**
 - Shoshana Zuboff “The Age of Surveillance Capitalism”: [buy](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
