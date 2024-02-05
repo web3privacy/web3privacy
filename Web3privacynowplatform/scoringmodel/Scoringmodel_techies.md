@@ -163,9 +163,19 @@ _How to score_
 
 ## **Dependencies**
 - check the dependencies, more dependencies means more risk of security vulnerabilities and more risk of network code that can leak your IP or personal data 
-- read terms and conditions of every third party dependency, its licenses and what network calls are made by simply adding the library to the project even when not being used 
+- read terms and conditions of every third party dependency, its licenses and what network calls are made by simply adding the library to the project even when not being used
+- Audit libraries in use
+- Do they have a third-party audit?
+- What's the reputation behind the library team?
+- What's the reputation behind security audit company?
 
 _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/depcheck)
+
+_How to score_
+
+**Dependencies footprint**
+- TBD number of depencencies (+): the less the better the best privacy
+- TBD number of depencencies (-): the more the worst for privacy
 
 **example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
 
@@ -174,15 +184,15 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 - does not implement KYC or AML  
 - What user information is stored? (username, IP address, last connection, wallets associate, etc) 
 
-## **3rd party libraries**
-- Audit libraries in use
-- Do they have a third-party audit?
-- What's the reputation behind the library team?
-- What's the reputation behind security audit company?
-
 ## **Traction**
 - Amount of transactions (Dune, DeFi Lama, block explorer etc) 
-- Number of people using it  
+- Number of people using it
+
+_How to score_
+
+**Transactional privacy**
+- TBD number of transactions (+): the larger the better is attestation of privacy features
+- TBD number of transactions (-): the less the bigger are risks that privacy features weren't field tested
 
 ## **Governance**
 - DAO structure (if applied)  
