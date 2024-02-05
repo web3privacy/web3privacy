@@ -145,7 +145,7 @@ _How many technical specialists in the team?_
 - Just 1 CTO (-): one point of entry
 
 _Do they have a track record? (university, projects, important commits)_
--Active track record (+): field experience (ZK, E2EE, messengers); privacy-market experience (credible projects, research teams, important implementations - eg. Ring signatures in Monero)
+- Active track record (+): field experience (ZK, E2EE, messengers); privacy-market experience (credible projects, research teams, important implementations - eg. Ring signatures in Monero)
 - No track record (-): can't attest quality of their previous projects, commits
 
 **Open-source**
@@ -219,6 +219,10 @@ _How to score_
 | - | Is it in stable release, 1.0 and not an alpha or untested code? | Amount of transactions (Dune, DeFi Lama, block explorer etc) | Known team members | read the documentation: is it comprehensive? | Were bugs fixed? [Zokyo x Railgun_ example, p.7](https://assets.railgun.org/docs/audits/2023-02-03%20Zokyo.pdf) | Known contributors | - | Is there a technical support available & how accurate? | - | doesn't track & collect data (reflected in Privacy policy) | - |
 | - | Are there many PRs and Issues pending? | Number of people using it | How mature are core contributors (previous projects, GitHub commits)? | how well-written are privacy & security assumptions/guarantees? | Audit libraries in use: Do they have a third-party audit? | External contributors impact | - | - | - | what user information is stored? (username, IP address, last connection, wallets associate, etc) | - |
 | - | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | **100%** |
+
+## **Extended scoring 1.3**
+_5 Feb 24' update_
+![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%20for%20techies%201.3.png?raw=true)
 
 ## Out of model (temporary - to be researched & talked through with the community)
 
