@@ -44,6 +44,26 @@ _Validity track covers GitHub, Product-readiness, Team, Docs, Audit._
 **Note**: quick assessment helps to decrease privacy dark patterns from obscure language to test-net claiming it has a "state of art privacy".
 ![alt text](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/staticobjects/Scoring%201.2%20validity%20track.png?raw=true)
 
+# Scoring criteria
+
+**How to score**
+
+**Availability**: 
+- available (+)
+- missing (-)
+
+**Open-source**
+- Contributors-friendly (+): well-written docs, available external contributors, communal disscussions (PRs, forum/Discord, grants, external proposals)
+- Centralized (-): poor documentation, no external contributors, no communal disscussions & impact
+
+**Dependencies**
+- The less - the better (+)
+- Hundreds (-)
+
+**Traction**
+- above 50 nodes with diverse geo (+)
+- below 50 nodes in more or less same geo (-)
+
 # Sandbox
 
 **Extended scoring 1.0**
