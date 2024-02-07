@@ -9,91 +9,91 @@ How it works:
 
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Project name**  | add here |
-| **Logotype**  | add here |
-| **Short project description (1 sentence)** | add here |
-| **Launch date** | add here |
-| **Is it open source?** | specify here |
-| **Website**  | add here |
-| **Github**  | add here |
+| **Project name**  | Brume Wallet |
+| **Logotype**  | https://github.com/brumewallet/art/blob/master/flat/cloudy_2934.png |
+| **Short project description (1 sentence)** | The private Ethereum wallet with built-in Tor |
+| **Launch date** | November 2022 |
+| **Is it open source?** | yes and reproducible |
+| **Website**  | https://brume.money |
+| **Github**  | https://github.com/brumewallet |
 
 # **Optional info**
 
 **Token**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Do you have a token** | add here Coingecko link |
+| **Do you have a token** | soon |
 
 **Socials**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Blog** | add link |
-| **Twitter (X)** | add link |
-| **Telegram** | add link |
-| **Discord** | add link |
-| **Other** | add link |
+| **Blog** | See Twitter |
+| **Twitter (X)** | https://twitter.com/BrumeWallet |
+| **Telegram** | no |
+| **Discord** | https://discord.gg/KVEPWfN9jK |
+| **Other** | https://bento.me/brume |
 
 **Docs**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Docs** | add link |
-| **Whitepaper** | add link |
-| **Litepaper** | add link |
+| **Docs** | https://github.com/brumewallet/wallet |
+| **Whitepaper** | no |
+| **Litepaper** | no |
 
 **Team**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is your team anon or public**  | choose one: anon, public | 
-| **List core contributors** | Github links | 
+| **Is your team anon or public**  | public but pseudonymous | 
+| **List core contributors** | https://github.com/hazae41 | 
 
 **Funding**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **How are you funded**  | self-funded, VC, donations, mixed | 
-| **List VCs backing you**  | if aplicable |
-| **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
-| **Raised money** | add a public link | 
+| **How are you funded**  | self-funded | 
+| **List VCs backing you**  | no |
+| **List VCs round**  | no | 
+| **Raised money** | no | 
 
 **Github**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **What licence is in use**  | add link to Github repo | 
+| **What licence is in use**  | MIT https://github.com/brumewallet/wallet | 
 
 **Technology**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
-| **Specify technology readiness**  | infra: testnet/mainnet, apps: MVP/beta/alpha | 
-| **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Technical specialisation**  | Tor routing | 
+| **Specify technology readiness**  | beta | 
+| **Features**  | ultra high privacy and security | 
+| **Encryption method**  | AES-256-GCM and HMAC-SHA256 over 1M-iterated PBKDF2 | 
 
 **Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is it peer-to-peer**  | yes/no | 
-| **Complience**  | yes/no |
-| **KYC**  | yes/no |
-| **Privacy policy** | add link |
-| **Collected data**  | specify what data do you collect |
-| **Data sharing** | specify what data you share with third-parties |
-| **Sign-in requirments** | specify what data is needed to start using service |
-| **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
+| **Is it peer-to-peer**  | soon | 
+| **Complience**  | partly |
+| **KYC**  | no |
+| **Privacy policy** | no |
+| **Collected data**  | opt-in: public anonymous debugging logs |
+| **Data sharing** | no |
+| **Sign-in requirments** | none |
+| **Identity integrations** | ENS |
 
 **Security**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Asset custody** | specify | 
-| **Upgradability**  | specify |
-| **Social dependency**  | team, CEO |
-| **Third-parties dependency** | specify |
-| **Technical dependency** | specify: Ethereum, ZK etc |
-| **Have you been audited by a third-party** | yes/no |
-| **What company audited** | specify (one &/or many) |
-| **When you were audited** | date: D/M/Y (one &/or many) |
-| **Add links to the audits** | here |
+| **Asset custody** | no | 
+| **Upgradability**  | no |
+| **Social dependency**  | idk |
+| **Third-parties dependency** | less than 50 external libraries to build the app |
+| **Technical dependency** | Ethereum/EVM, your browser |
+| **Have you been audited by a third-party** | no |
+| **What company audited** | no |
+| **When you were audited** | no |
+| **Add links to the audits** | none |
 
 **Roadmap (technical)**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **When product had been launched** | specify test-net (infra), MVP (dApp): date D/M/Y | 
-| **When mainnet, beta had been launched**  | specify main-net (infra), alpha (dApp): date D/M/Y |
+| **When product had been launched** | November 2022 | 
+| **When mainnet, beta had been launched**  | November 2022 |
