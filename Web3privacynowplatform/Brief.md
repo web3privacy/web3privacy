@@ -9,91 +9,84 @@ How it works:
 
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Project name**  | Brume Wallet |
-| **Logotype**  | https://github.com/brumewallet/art/blob/master/flat/cloudy_2934.png |
-| **Short project description (1 sentence)** | The private Ethereum wallet with built-in Tor |
-| **Launch date** | November 2022 |
-| **Is it open source?** | yes and reproducible |
-| **Website**  | https://brume.money |
-| **Github**  | https://github.com/brumewallet |
-
-# **Optional info**
-
-**Token**
-| Request  | Data point | 
-| ------------- | ------------- |
-| **Do you have a token** | soon |
+| **Project name**  | Lit Protocol |
+| **Logotype**  | https://www.figma.com/file/Sei64PL5DdYHCMffGUXMGS/Lit-Protocol-Brand-Assets?type=design&node-id=1%3A7&mode=design&t=PQ43wWoGfNRRNWcT-1 |
+| **Short project description (1 sentence)** | A decentralized key management network for encryption, signing, and compute |
+| **Launch date** | October 2021 (beta) |
+| **Is it open source?** | yes |
+| **Website**  | https://litprotocol.com |
+| **Github**  | https://github.com/LIT-Protocol |
 
 **Socials**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Blog** | See Twitter |
-| **Twitter (X)** | https://twitter.com/BrumeWallet |
-| **Telegram** | no |
-| **Discord** | https://discord.gg/KVEPWfN9jK |
-| **Other** | https://bento.me/brume |
+| **Blog** | https://spark.litprotocol.com/ |
+| **Twitter (X)** | https://twitter.com/LitProtocol |
+| **Telegram** | add link |
+| **Discord** | https://discord.gg/N23AsGUzwN |
+| **Other** | add link |
 
 **Docs**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Docs** | https://github.com/brumewallet/wallet |
-| **Whitepaper** | no |
-| **Litepaper** | no |
+| **Docs** | https://developer.litprotocol.com/v3/|
+| **Whitepaper** | add link |
+| **Litepaper** | add link |
 
 **Team**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is your team anon or public**  | public but pseudonymous | 
-| **List core contributors** | https://github.com/hazae41 | 
+| **Is your team anon or public**  | public | 
+| **List core contributors** | https://github.com/orgs/LIT-Protocol/people | 
 
 **Funding**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **How are you funded**  | self-funded | 
-| **List VCs backing you**  | no |
-| **List VCs round**  | no | 
-| **Raised money** | no | 
+| **How are you funded**  | VC | 
+| **List VCs backing you**  | 1kx, Collab+Currency, gumi Cryptos Capital, 6th Man Ventures |
+| **List VCs round**  | Series A | 
+| **Raised money** | https://www.crunchbase.com/organization/lit-protocol | 
 
 **Github**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **What licence is in use**  | MIT https://github.com/brumewallet/wallet | 
+| **What licence is in use**  | https://github.com/LIT-Protocol/js-sdk/blob/70a041a97b56ba1a75724ba2cd56952b622e8a7f/LICENSE#L4 | 
 
 **Technology**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Technical specialisation**  | Tor routing | 
-| **Specify technology readiness**  | beta | 
-| **Features**  | ultra high privacy and security | 
-| **Encryption method**  | AES-256-GCM and HMAC-SHA256 over 1M-iterated PBKDF2 | 
+| **Technical specialisation**  | Key management | 
+| **Specify technology readiness**  | infra: testnet | 
+| **Features**  | Threshold cryptography, secure encrypted virtualization (SEV), blockchain rollup | 
+| **Encryption method**  | Threshold identity-based encryption | 
 
 **Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is it peer-to-peer**  | soon | 
-| **Complience**  | partly |
+| **Is it peer-to-peer**  | yes | 
+| **Complience**  | |
 | **KYC**  | no |
-| **Privacy policy** | no |
-| **Collected data**  | opt-in: public anonymous debugging logs |
-| **Data sharing** | no |
-| **Sign-in requirments** | none |
-| **Identity integrations** | ENS |
+| **Privacy policy** | add link |
+| **Collected data**  | none |
+| **Data sharing** | none |
+| **Sign-in requirments** | |
+| **Identity integrations** |  |
 
 **Security**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Asset custody** | no | 
-| **Upgradability**  | no |
-| **Social dependency**  | idk |
-| **Third-parties dependency** | less than 50 external libraries to build the app |
-| **Technical dependency** | Ethereum/EVM, your browser |
-| **Have you been audited by a third-party** | no |
-| **What company audited** | no |
-| **When you were audited** | no |
-| **Add links to the audits** | none |
+| **Asset custody** | non-custodial (keys are distributed as shares across the Lit network) | 
+| **Upgradability**  | via Governance (after mainnet is live) |
+| **Social dependency**  | DevCo (until mainnet is live) |
+| **Third-parties dependency** | specify |
+| **Technical dependency** | Polygon (state coordination) and AMD SEV-SNP hardware for node operators |
+| **Have you been audited by a third-party** | yes |
+| **What company audited** | Trail of Bits and Kudelski |
+| **When you were audited** | Multiple |
+| **Add links to the audits** | here |
 
 **Roadmap (technical)**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **When product had been launched** | November 2022 | 
-| **When mainnet, beta had been launched**  | November 2022 |
+| **When product had been launched** | Test networks live since October 2021 | 
+| **When mainnet, beta had been launched**  | Mainnet launching December 1st |
