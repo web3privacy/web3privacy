@@ -5,7 +5,7 @@ How it works:
 2. Our team reviews application.
 3. Verified data will be published at The Web3Privacy now platform.
 
-**Basic info**
+# **Basic info**
 
 | Request  | Data point | 
 | ------------- | ------------- |
@@ -16,6 +16,8 @@ How it works:
 | **Is it open source?** | yes and reproducible |
 | **Website**  | https://brume.money |
 | **Github**  | https://github.com/brumewallet |
+
+# **Optional info**
 
 **Token**
 | Request  | Data point | 
