@@ -5,7 +5,7 @@ How it works:
 2. Our team reviews application.
 3. Verified data will be published at The Web3Privacy now platform.
 
-**Basic info**
+# **Basic info**
 
 | Request  | Data point | 
 | ------------- | ------------- |
@@ -16,11 +16,6 @@ How it works:
 | **Is it open source?** | yes |
 | **Website**  | https://litprotocol.com |
 | **Github**  | https://github.com/LIT-Protocol |
-
-**Token**
-| Request  | Data point | 
-| ------------- | ------------- |
-| **Do you have a token** | no |
 
 **Socials**
 | Request  | Data point | 
