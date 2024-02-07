@@ -108,7 +108,7 @@ an artist may want their NFTs to only be accessible by their fans or specific me
 | :---         |     :---:      |
 | zkAddresses - a reusable address for your private assets   | [Manta Network](https://docs.manta.network/docs/concepts/zkAddress)| 
 | Viewing Keys - A viewing key allows you to disclose a zkAddress's complete spending history without leaking its spending secret. | [Manta Network](https://docs.manta.network/docs/concepts/ViewingKey)| 
-| Allow 3rd party apps to anonymize any arbitrary ‘key : value’ pairs, so users can privately reveal part or all of their data at their discretion for any necessary compliance and authentication. | [NYM](https://nymtech.net/docs/stable/architecture/nym-other-systems/#nym-vs-facebook-connect)| 
+| Allow 3rd party apps to anonymize any arbitrary ‘key : value’ pairs, so users can privately reveal part or all of their data at their discretion for any necessary compliance and authentication. | [NYM](https://nymtech.net/docs/architecture/network-overview.html)| 
 
 # NFT
 | Use case | Example |
