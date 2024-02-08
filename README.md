@@ -412,7 +412,6 @@ Feel free to update the list!
 | [Aztec Connect](https://aztec.network/connect/) | The Aztec Connect SDK allows any Ethereum protocol to be integrated in Aztec’s private rollup with a simple Solidity interface and front-end SDK | ([GitHub](https://github.com/critesjosh/aztec-sdk-starter)) | - | - | - |
 | [ChainPort Private Bridge](https://www.chainport.io/private-bridge) | Full control and security for your token – manage supported chains, path, amounts, and own the keys | ([GitHub](https://docs.chainport.io)) | - | - | - |
 | [Blockbend](https://blockblend.io) | Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service. | - | - | - | - |
-| [ZkPay](https://zkpay.finance) | Private Aztec withdrawal Bridge. | - | - | - | - |
 | [Secret Bridge](https://bridge.scrt.network) | bridge to the Secret Network | - | - | - | - |
 | [Shade bridge](https://app.shadeprotocol.io/bridge) | an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. | ([Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge)) | - | - | - |
 | [Rialto bridge](https://rialtobridge.io) | Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain | ([Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge)) | - | - | - |
@@ -547,7 +546,6 @@ Feel free to update the list!
 | [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
 | [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts  | ([GitHub](https://github.com/sigle/sigle)) | - | - | - |
 | [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | ([GitHub](https://github.com/flock-io)) | - | - | - |
-| [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - | - |
 | [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
 | [Sirius Sync](https://siriussync.io ) | Web3 Social Ecosystem | - | - | - | - |
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
@@ -807,7 +805,8 @@ Feel free to update the list!
 | [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
 | [Anon virtual cards](https://vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
 | [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
-
+| [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - |
+| [ZkPay](https://zkpay.finance) | Private Aztec withdrawal Bridge. | - | - |
 
 ## Donate
 
