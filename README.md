@@ -792,13 +792,13 @@ Feel free to update the list!
 | [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) | new supported format by Arcana preserving privacy within NFT minting | [Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/)  | **sunset** | - | - |
 | [Bidshop](https://www.bidshop.io) | The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's. | - | **sunset** | - | - |
 | [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) | Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions. | - | **sunset** | - | - |
-| [Void cash](https://void.cash) | Decentralized payment protocol. | ([Docs](https://void-cash.gitbook.io/void.cash/)) | **sunset** | - | - |
-| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| ([GitHub](https://github.com/cryptoadong)) | **sunset** | Ethereum | - |
+| [Void cash](https://void.cash) | Decentralized payment protocol. | [Docs](https://void-cash.gitbook.io/void.cash/) | **sunset** | - | - |
+| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| [GitHub](https://github.com/cryptoadong) | **sunset** | Ethereum | - |
 | [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | **sunset** | - | - |
 | [XATA](https://www.xata.fi) | A MEV Minimization solution to survive the Dark Forest  | [Docs](https://docs.xata.fi) | **sunset** | Automata | - |
 | [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - | 
 | [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM compatible | - | 
-| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | ([GitHub](https://github.com/Sacred-Finance)) | **sunset** | Ethereum, Polygon | - |
+| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | [GitHub](https://github.com/Sacred-Finance) | **sunset** | Ethereum, Polygon | - |
 | [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) |
 | [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
