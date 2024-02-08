@@ -43,6 +43,7 @@ Feel free to update the list!
 - [Alliances](#Alliances)
 - [Mixing services](#Mixing-services)
 - [Data management](#Data-management)
+- [Sunset projects archive](#Sunset)
 - [Donate](#Donate)
 
 ## DeFi
@@ -793,6 +794,19 @@ Feel free to update the list!
 ## Network state
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
 - [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens ([GitHub](https://github.com/acid-info))
+
+## Sunset projects archive
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Osiris](https://www.decenternet.net/osiris) | Osiris is the world's first net-neutral browser. | - | **sunset** | - | - |
+| [okSign](https://www.oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | **sunset** | - | - |
+| [Literully](https://literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | ([Docs](https://docs.literully.com/articles/))   | **sunset** | - | - |
+| [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) | new supported format by Arcana preserving privacy within NFT minting | ([Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/))  | **sunset** | - | - |
+| [Bidshop](https://www.bidshop.io) | The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's. | - | **sunset** | - | - |
+| [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) | Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions. | - | **sunset** | - | - |
+| [Void cash](https://void.cash) | Decentralized payment protocol. | ([Docs](https://void-cash.gitbook.io/void.cash/)) | **sunset** | - | - |
+| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| ([GitHub](https://github.com/cryptoadong)) | **sunset** | Ethereum | anon |
+| [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | **sunset** | - | - |
 
 ## Donate
 
