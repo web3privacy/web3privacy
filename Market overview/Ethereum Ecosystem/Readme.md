@@ -357,6 +357,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran)) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak)) | - | - | - |
 | [OSOMPrivacy](https://www.osomprivacy.com) | From software to hardware OSOM Privacy gives you the tools that you need to make sure your data, your information is always private and protected. | - | - | - | - |
+| [Pollen Labs](https://pollenlabs.org) | We are a passionate and dedicated team of individuals working within the Privacy and Scaling Explorations division of the Ethereum Foundation. | - | - | - | - |
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
