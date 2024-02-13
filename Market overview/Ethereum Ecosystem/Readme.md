@@ -446,3 +446,25 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 - [EIP-7503: Zero-Knowledge Wormholes](https://eips.ethereum.org/EIPS/eip-7503)
 - [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273)
 - [Lightweight Authentication of Web Data via Garble-Then-Prove](https://eprint.iacr.org/2023/964)
+
+## Privacy & Scaling Explorations
+this part will be restructured later on by categories
+
+| [Anon Aadhaar](https://pse.dev/en/projects/anon-aadhaar) - Tools for building build privacy-preserving applications using government ID cards, specifically Aadhaar cards in India |[Github](https://github.com/privacy-scaling-explorations/anon-aadhaar) |
+| [AnonKlub](https://pse.dev/en/projects/anon-klub) - A mechanism for anonymous proof of Ethereum address ownership. | [Github](https://github.com/anonklub) |
+| [Bandada](https://pse.dev/en/projects/bandada) - An open-source system for managing privacy-preserving groups of anonymous individuals | [Github](https://github.com/privacy-scaling-explorations/bandada) |
+| [Channel 4](https://pse.dev/en/projects/channel-4) - Content discovery through community contributions, using state channels to reward users for popular posts. | [Github](https://github.com/State-Channel-4) |
+| [COCO](https://pse.dev/en/projects/coco) - Integrating Nova into the EVM involves wrapping Liam Eagen's theoretical ECIP argument in Halo 2 | [Mirror](https://mirror.xyz/privacy-scaling-explorations.eth/tEf7iYa8l7ECZwN2T57yyiws7h9Uchip30CQvx-JBBQ) |
+| [CryptKeeper](https://pse.dev/en/projects/cryptkeeper) - A browser extension for secure, portable anonymous identity management across applications. | [Github](https://github.com/CryptKeeperZK) |
+| [Discreetly](https://pse.dev/en/projects/discreetly) - An anonymous, federated, chat application using ZK. | [Github](https://github.com/Discreetly) |
+| [EigenTrust](https://pse.dev/en/projects/eigen-trust) - A distributed reputation system with zero-knowledge features. | [Github](https://github.com/eigen-trust/protocol) |
+| [Interep](https://pse.dev/en/projects/interep) - An identity bridge from web2 to web3 | [Github](https://github.com/interep-project) |
+| [jubmoji.quest](https://pse.dev/en/projects/jubmoji) - Users of Jubmoji.quest tap NFC cards to collect signatures. By collecting these signatures, they complete quests. | [Github](https://github.com/jubmoji/jubmoji.quest) |
+| [MACI](https://pse.dev/en/projects/maci) - An on-chain voting solution that protects privacy and minimizes the risk of collusion and bribery | [Github](https://github.com/privacy-scaling-explorations/maci) |
+| [Rate-Limiting Nullifier](https://pse.dev/en/projects/rln) - A protocol for deterring spam and maintaining anonymity in communication systems. | [Github](https://github.com/Rate-Limiting-Nullifier/circom-rln) |
+| [Semaphore](https://pse.dev/en/projects/semaphore) - A zero-knowledge protocol enabling anonymous group membership proof and signaling. | [Github](https://github.com/semaphore-protocol) |
+| [Summa](https://pse.dev/en/projects/summa) - Protocol enabling centralized exchanges to prove solvency without compromising private information. | [Github](https://github.com/summa-dev) |
+| [TLSNotary](https://pse.dev/en/projects/tlsn) - A protocol for creating cryptographic proofs of authenticity for any data on the web. | [Github](https://github.com/tlsnotary/tlsn) |
+| [UniRep Protocol](https://pse.dev/en/projects/unirep-protocol) - A Zero-Knowledge Protocol built to handle anonymous user data. | [Github](https://github.com/Unirep) |
+| [Zkitter](https://pse.dev/en/projects/zkitter) - A decentralized social network prioritizing privacy and anonymity | [Github](https://github.com/zkitter) |
+| [ZKOPRU](https://pse.dev/en/projects/zkopru) - Optimistic Rollup with zk-SNARKs for private Ethereum transactions. | [Github](https://github.com/zkopru-network) |
