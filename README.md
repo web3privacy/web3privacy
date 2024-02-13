@@ -243,45 +243,48 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Brume Wallet](https://brume.money) formerly [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brumewallet)) | PoC | Ethereum | ([Public](https://twitter.com/BrumeWallet)) |
-| [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | ([GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension)) | ([live](https://www.sporran.org/)) | KILT | anon |
-| [Treasure Chest](https://pirate.black/wallets/treasure-chest/) |  Treasure Chest is the main full node wallet for the ARRR cryptocurrency | ([GitHub](https://github.com/PirateNetwork/PirateWallet-Lite)) | ([live](https://pirate.black/wallets/)) | Pirate Chain | anon |
-| [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | ([GitHub](https://github.com/EdgeApp)) | ([live](https://edge.app/)) | multichain | ([Public](https://edge.app/about/?af=github-com-web3privacy-web3privacy)) |
-| [Wasabi Wallet](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop | ([GitHub](https://github.com/zkSNACKs/WalletWasabi)) | ([live](https://wasabiwallet.io/)) | Bitcoin | anon |
-| [Samourai Wallet](https://samouraiwallet.com/) | A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured | ([Docs](https://docs.samourai.io/wallet/start)) | ([live](https://samouraiwallet.com/products)) | Bitcoin | anon |
-| [Fedi](https://www.fedi.xyz) | Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively | - | Coming in Q2, 2023 | Bitcoin | ([Public](https://www.fedi.xyz/)) |
-| [Zecrey Wallet](https://www.zecrey.com/) | Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | ([GitHub](https://github.com/Zecrey-Labs)) | live, 2022 | multichain | anon |
-| [Railway](https://railway.xyz) | DeFi privacy wallet | - | live | Ethereum, BNB, Polygon | anon |
-| [Brave Wallet](https://brave.com/wallet/) | The secure multi-chain crypto wallet | ([GitHub](https://github.com/brave/brave-wallet-docs)) | live | multichain | ([Public](https://brave.com/about/)) |
-| [BlockWallet](https://blockwallet.io) | The first crypto wallet protecting you on Web3 without any compromises | ([GitHub](https://github.com/block-wallet)) | ([live](https://chrome.google.com/webstore/detail/blockwallet/bopcbmipnjdcdfflfgjdgdjejmgpoaab)) | Ethereum | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2275124744%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=LXn)) |
-| [Starshell](https://starshell.net) | A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem. | ([GitHub](https://github.com/SolarRepublic)) | development | multichain | anon |
-| [Frame](https://frame.sh) | A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux | ([GitHub](https://github.com/floating/frame)) | live | Ethereum | anon |
-| [Sons of Crypto](https://sonsofcrypto.com) | web3 wallet by degens for degens | ([GitHub](https://github.com/sonsofcrypto)) | under development | multichain | anon |
-| [Sparrow](https://sparrowwallet.com) | A Bitcoin wallet for those who value financial self sovereignty | ([GitHub](https://github.com/sparrowwallet/sparrow)] | live | Bitcoin | anon |
-| [YWallet](https://ywallet.app) | YWallet is a privacy oriented wallet and messenger for Ycash and Zcash. | - | live | Ycash, Zcash | anon |
-| [Blockstream Green](https://blockstream.com/green/) | A multi-platform, feature-rich Bitcoin and Liquid wallet | ([GitHub](https://github.com/Blockstream/green_android)] | live | Bitcoin | anon |
-| [Specter-DIY](https://specter.solutions/hardware) | DIY airgapped hardware wallet that uses QR codes for communication with the host | ([GitHub](https://github.com/cryptoadvance/specter-diy/)) | live | Bitcoin | ([Public](https://specter.solutions/contact/)) |
-| [SeedSigner](https://seedsigner.com) | Air-gapped DIY Bitcoin Signing Device | ([GitHub](https://github.com/SeedSigner/seedsigner)) | live | Bitcoin | anon |
-| [Krux](https://selfcustody.github.io/krux/) | Open-source signing device firmware for Bitcoin | ([GitHub](https://github.com/selfcustody/krux)) | live | Bitcoin | anon |
-| [Leo wallet](https://leo.app) | Safe and easy way to interact with the Aleo blockchain | ([GutHub](https://docs.leo.app/aleo-wallet-adapter/)) | under development | Aleo | anon |
-| [Nighthawk Wallet](https://nighthawkwallet.com) | Private Money in your pocket. | ([GutHub](https://github.com/nighthawk-apps)) | live | Zcash | anon |
-| [ZenGo](https://zengo.com) | The only self-custodial wallet with no seed phrase vulnerability (shielded transactions) | ([GitHub](https://github.com/ZenGo-X)) | live | multichain | ([Public](https://zengo.com/team/)) |
-| [MyMonero](https://mymonero.com) | The simplest way to use the next-generation private digital currency Monero, at the sweet spot between security, convenience, and features | ([GitHub](https://github.com/mymonero)) | live | Monero | Anon |
-| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC, and XHV (and exchange other currencies) | ([GitHub](https://github.com/cake-tech/cake_wallet)) | live | Monero | anon |
-| [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | launching beta, Q2 2023 | multichain | anon |
-| [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | ([GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet)) | PoC | - | anon |
-| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | live | multichain | anon |
-| [Beam](https://beam.eco/) | self-custodial wallet | - | - | - | - | - |
-| [Elite](https://elitewallet.sc) | Android and IOS Wallet that respects your privacy | - | - | - | - | - |
-| [Anon/Nero](https://t.me/anoneroapks) | private wallet | - | - | - | - | - |
-| [Imperiume](https://www.imperiume.io/wallet) | non-custodial wallet | - | - | - | - |
-| [Cool Wallet](www.coolwallet.io) | non-custodial wallet | - | - | - | - |
-| [Monerujo](https://www.monerujo.io) | Android wallet for Moneto | - | - | - | - |
-| [Phoenix](https://phoenix.acinq.co) | Non-custodial wallet on Lightning network | - | - | - | - |
-| [Coingrig](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
-| [Pulse Wallet](https://www.coingrig.com) | Non-custodial wallet on Lightning network | ([GitHub](https://github.com/coingrig)) | - | - | - |
-| [UltraNote Infinity](https://ultranote.org/#wallet) | Based on CryptoNote V.2 technology with secure transactions and decentralized blockchain. | - | - | - | - |
-| [Ninji Wallet](https://ninji.xyz/) | agile crypto wallet | ([Docs](https://docs.ninji.xyz)) | - | - | - |
+| [Wasabi Wallet](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop with built-in coinjoin | [GitHub](https://github.com/zkSNACKs/WalletWasabi) | [live](https://wasabiwallet.io/index.html#download) | BTC | anon |
+| [Samourai Wallet](https://samouraiwallet.com/) | A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured | [Docs](https://docs.samourai.io/wallet/start) | [live](https://samouraiwallet.com/products) | BTC | anon |
+| [Sparrow](https://sparrowwallet.com) | A desktop-only Bitcoin wallet for those who value financial self sovereignty | [GitHub](https://github.com/sparrowwallet/sparrow) [Docs](https://sparrowwallet.com/docs/) | live | BTC | anon |
+| [Electrum](https://electrum.org/) | Electrum is a lightweight Bitcoin wallet, open source and trusted since 2011 | [GitHub](https://github.com/spesmilo/electrum) [Docs](https://electrum.readthedocs.io/en/latest/) | live | BTC | Public
+| [Blockstream Green](https://blockstream.com/green/) | A multi-platform feature-rich Bitcoin and Liquid wallet | [GitHub](https://github.com/Blockstream/green_android) [Docs](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green/) | live | BTC / Liquid | anon |
+| [Mutiny](https://www.mutinywallet.com/) | Mutiny is a self-custodial lightning wallet that runs in the browser | [GitHub](https://github.com/MutinyWallet/) | live | BTC / Lightning | anon |
+| [Specter Desktop](https://specter.solutions/desktop) | Specter Desktop is FOSS free open source software under the MIT license | [GitHub](https://github.com/cryptoadvance/specter-desktop) [Docs](https://docs.specter.solutions/desktop/) | live | BTC | [Public](https://specter.solutions/contact/) |
+| [Specter-DIY](https://specter.solutions/hardware) | DIY airgapped hardware wallet that uses QR codes for communication with the host | [GitHub](https://github.com/cryptoadvance/specter-diy/) [Docs](https://docs.specter.solutions/diy/) | live | BTC | [Public](https://specter.solutions/contact/) |
+| [SeedSigner](https://seedsigner.com) | low-cost air-gapped DIY Bitcoin Signing Device | [GitHub](https://github.com/SeedSigner/seedsigner) [Docs](https://seedsigner.com/explainers/) | live | BTC | anon |
+| [Krux](https://selfcustody.github.io/krux/) | Open-source signing device firmware for Bitcoin | [GitHub](https://github.com/selfcustody/krux) | live | BTC | anon |
+| [Fedi](https://www.fedi.xyz) | Fedi, powered by [Fedimint](https://fedimint.org/), allows anyone create Federated Chaumian ecash mints using Bitcoin | [Github](https://github.com/fedimint) | 🚧 beta testing | BTC / eCash | [Public](https://www.fedi.xyz/aboutus) |
+| [Cashu](https://cashu.space/) | Cashu is a free and open-source Chaumian ecash system built for Bitcoin. Cashu offers near-perfect privacy for users of custodial Bitcoin applications. | [GitHub](https://github.com/cashubtc) | [live](https://wallet.cashu.me/) | BTC / eCASH | anon |
+| [Feather Wallet](https://featherwallet.org) | Feather is a free, open-source Monero wallet for Linux, Tails, Windows and macOS | [GitHub](https://github.com/feather-wallet/feather) [Docs](https://docs.featherwallet.org/) | live | XMR |  anon |
+| [MyMonero](https://mymonero.com) | MyMonero has created a number of open source wallets and libraries that support the Monero light wallet interface | [GitHub](https://github.com/mymonero) | live | XMR | anon |
+| [Moneroju](https://www.monerujo.io/) | Enterprise-grade Monero wallet - MPC-based, non-custodial, spending controls, four-eye approvals, API access | [GitHub](https://github.com/m2049r/xmrwallet) | live | XMR | anon |
+| [RINO](https://www.rino.io/) | Android only open source Monero wallet with 'pay to BTC address' feature | [GitHub](https://github.com/rino-wallet) | live | XMR | anon |
+| Anon/Nero [TOR-only website](anonero.io) | A black box monero app - DIY airgapped signing device | [TOR hosted git](http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO) | live | XMR | anon |
+| [Litewallet](https://litewallet.io/) |  Litewallet is the official wallet backed by Litecoin Foundation and uses mimblewible (MWEB) | [GitHub](https://github.com/litecoin-foundation/litewallet-android) [Docs](https://support.litewallet.io/hc/en-us) | live | LTC | Public |
+| [Nighthawk Wallet](https://nighthawkwallet.com) | Private money in your pocket | [GutHub](https://github.com/nighthawk-apps) | live | ZEC | anon |
+| [UltraNote Infinity](https://ultranote.org/#wallet) | Wallet for UltraNote and XUNI (CryptoNote v2 token on BSC) | [Github](https://github.com/xun-project/ultranotei-desktop) | live | XUNI | Public |
+| [YWallet](https://ywallet.app) | YWallet is a privacy oriented wallet and messenger for Ycash and Zcash. | [GitHub](https://github.com/hhanh00/zwallet) | live | ZEC / YEC | anon |
+| [Brume Wallet](https://brume.money) formerly [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | [GitHub](https://github.com/brumewallet) | [live](https://wallet.brume.money/) | ETH | [Public](https://twitter.com/BrumeWallet) |
+| [Terminal Wallet](https://terminal-wallet.com/) | open source, free & non-profit Command Line Interface wallet app featuring secure transactions & RAILGUN privacy across 0x and 0zk addresses | [GitHub](https://github.com/Terminal-Wallet/terminal-wallet-cli) [Docs](https://terminalwallet-cli.gitbook.io/terminal-wallet/) | [live](https://wallet.brume.money/) | ETH | anon |
+| [Frame](https://frame.sh) | A privacy focused Ethereum wallet that runs natively on macOS, Windows and Linux | [GitHub](https://github.com/floating/frame) [Docs](https://docs.frame.sh/) | live | ETH | anon |
+| [Starshell](https://starshell.net) | A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem. | [GitHub](https://github.com/SolarRepublic/starshell-wallet) | [live on Chrome](https://install.starshell.net) **not updated recently** | SCRT / ATOM | anon |
+| [Leo wallet](https://leo.app) | Chrome extension wallet for the Aleo blockchain | [GutHub](https://docs.leo.app/aleo-wallet-adapter/) | 🚧 beta | ALEO | anon |
+| [Treasure Chest](https://piratechain.com/wallets/) |  Treasure Chest is the main full node wallet for the ARRR cryptocurrency | [GitHub](https://github.com/PirateNetwork/pirate/releases/) | live | ARRR | anon |
+| [Pulse Wallet](https://thepulsewallet.org/) | PulseWallet is a decentralized finance wallet designed for the thriving PulseChain | [GitHub](https://github.com/thepulsewallet) [Docs](https://docs.thepulsewallet.org/pulse-wallet/) | live | HEX | anon |
+| [Cake Wallet](https://monero.com/wallets) |  Cake Wallet allows you to safely store, send, receive, and exchange your XMR, BTC, LTC and pay for goods and gitcards with CakePay | [GitHub](https://github.com/cake-tech/cake_wallet) [Docs](https://guides.cakewallet.com/) | live | XMR / BTC / LTC | anon |
+| [Elite](https://elitewallet.sc) | Android and iOS Open Source multi-currency wallet that respects your privacy | [Github](https://github.com/Elite-Labs/EliteWallet/tree/master) | live | BTC / LTC / XMR / XHV | anon |
+| [Railway](https://railway.xyz) | Private DeFi Wallet | [Github](https://github.com/Railway-Wallet/Railway-Wallet) [Docs](https://help.railway.xyz/) | live | ETH / BNB / MATIC | anon |
+| [Beam](https://beam.eco/) | browser-based web wallet for USDC, USDT, or ECO on Optimism or Base chains | no open code | 🚧 beta | BASE / Optimism | Public |
+| [Unstoppable](https://unstoppable.money/) | multi-currency wallet is purposely built as a decentralized management tool for cryptocurrencies | [Github](https://github.com/horizontalsystems) | live | multichain | Public |
+| [Brave Wallet](https://brave.com/wallet/) | Brave Wallet is a secure, self-custody crypto wallet built directly into the Brave browser. Brave Wallet can be used to safely store your assets, and to connect to Web3. | [GitHub](https://github.com/brave/brave-wallet-docs) | live | multichain | [Public](https://brave.com/about/) |
+| [BlockWallet](https://blockwallet.io) | As a self-custodial Web3 wallet, it empowers you to truly own your digital currencies while eliminating concerns surrounding asset management | [GitHub](https://github.com/block-wallet) | live | multichain | [Public](https://www.linkedin.com/company/block-wallet/) |
+| [ZenGo](https://zengo.com) | 'self-custodial' crypto wallet with no seed phrase vulnerability (MPC) | [GitHub](https://github.com/ZenGo-X) | live | multichain | [Public](https://zengo.com/team/) |
+| [Sons of Crypto](https://sonsofcrypto.com) | non-custodial multichain web3 wallet by degens for degens | [GitHub](https://github.com/sonsofcrypto) | [live](https://github.com/sonsofcrypto/web3wallet/releases) | multichain | anon |
+| [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | [GitHub](https://github.com/EdgeApp) | [live](https://edge.app/) | multichain | [Public](https://edge.app/about) |
+| [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | [GitHub](https://github.com/zealwallet/wallet) [Docs](https://docs.zeal.app/) | 🚧 beta | multichain | anon |
+| [Ninji Wallet](https://ninji.xyz/) | Agile crypto wallet in the Injective Ecosystem with seamless access, robust security, and simplified asset management | [Docs](https://docs.ninji.xyz) | live | multichain | anon |
+| [Sporran](https://www.sporran.org) |  The Sporran wallet is a browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | [GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension) | [live](https://www.sporran.org/) | KILT | anon |
+| [Sphereon](https://sphereon.com/sphereon-products/sphereon-wallet/) | new breed of open standards, open-source, privacy-preserving applications, that gives you full and sole control over your own information | [GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | 🚧 beta | DID & Credentials | [Public](https://www.linkedin.com/company/sphereon/)
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
@@ -304,7 +307,6 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** |([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) | mainnet, July 2022 | Polygon | ([Public](https://polygon.technology/about)) | 
-| [Zecrey](https://www.zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |([GitHub](https://github.com/Zecrey-Labs)) | mainnet, Q2 2023 | multichain | anon |
 | [Obscuro](https://obscu.ro) | Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy | ([Docs](https://docs.obscu.ro)) | testnet | Ethereum | ([Public](https://obscu.ro/#team)) | 
 | [ZKCHAOS](https://www.zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. | [GitHub](https://github.com/zkchaos) | - | - | - |
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | ([GitHub](https://github.com/starkware-libs/starkex-resources)) | live | Ethereum | ([Public](https://starkware.co/about-us/)) |
@@ -808,6 +810,9 @@ Feel free to update the list!
 | [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
 | [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - |
 | [ZkPay](https://zkpay.finance) | Private Aztec withdrawal Bridge. | - | - |
+| [Zecrey Protocol](https://www.zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |([GitHub](https://github.com/Zecrey-Labs)) | **sunset**| multichain | [announcement](https://docs.zecrey.com/) |
+| [Zecrey Wallet](https://www.zecrey.com/) | Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | ([GitHub](https://github.com/Zecrey-Labs)) | **sunset** | multichain | [announcement](https://zecrey.medium.com/announcing-the-sunset-of-zecrey-wallet-f99f58bab96a) |
+| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | ([Docs](https://zoker.tech/wp.pdf)) | PoC | multichain | anon |
 
 ## Donate
 
