@@ -457,7 +457,7 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Puma browser](https://www.pumabrowser.com) | Puma is a mobile browser and wallet for the Web3 ecosystem. Private by design. | - | - | - | - |
-| [Brave](http://brave.com) | Browse privately. Search privately. And ditch Big Tech | ([GitHub](https://github.com/brave/brave-browser)) | - | - | - |
+| [Brave](http://brave.com) | Browse privately. Search privately. And ditch Big Tech | ([GitHub](https://github.com/brave/brave-browser)) | live | no chain | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%227929354%22%5D&origin=FACETED_SEARCH&sid=L2r)) |
 | [Opera Crypto Browser](https://www.opera.com/crypto/next) | Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar. | - | - | - | - |
 | [Decentr](https://decentr.net) | Creating a bridge between internet users and applications developed with distributed ledger technology, an open source platform, which enables you to manage and pay with your Personal Data Value | ([GitHub](https://github.com/Decentr-net)) | - | - | - |
 | [Carbon Browser](https://carbon.website) | Join over 5M+ Users. The Fastest Web 3 Browser. AdBlock + 100% Privacy | ([GitHub](https://github.com/Carbon-Browser)) | - | - | - |
