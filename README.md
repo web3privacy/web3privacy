@@ -767,7 +767,7 @@ Feel free to update the list!
 
 | Winner  | Description |
 | ------------- | ------------- |
-| [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4)  | the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet))  |
+| [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4)  | the first privacy native Ethereum wallet based on a built-in integration of TOR ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brumewallet))  |
 
 - [ETH Berlin](https://ethberlin.ooo/contributors/) - a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward. **100 projects**: ([Devfolio](https://ethberlin.devfolio.co/projects?show_winners=false))
 
