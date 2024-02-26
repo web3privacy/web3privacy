@@ -84,7 +84,7 @@ Feel free to update the list!
 | [0xAnon](https://0xanon.tech) | The privacy-focused DEX aggregator | - | - | - | - | [Docs](https://docs.0xanon.tech) | - |
 | [Kalium Network](https://kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | - | - | - | - | - |
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | ([Docs](https://docs.irrigation.finance/irrigation-protocol/)) | - |
-| [Portal Gate](https://www.portalgate.me) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([Docs](https://docs.portalgate.me)) | - |
+| [Singularity, ex-Portal Gate](https://www.thesingularity.network) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | - | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([GitHub](https://github.com/SwaprHQ)) | - |
 | [Unimix](https://unimix.cash) | The world's most secure privacy transaction service | - | live | multichain | anon | - | - |
 | [illumineX](https://illuminex.xyz/swap) | Confidential multichain DEX gateway | ([GitHub](https://github.com/illumineXswap)) | - | - | - | ([Docs](https://docs.illuminex.xyz/illuminex-docs/)) | - |
