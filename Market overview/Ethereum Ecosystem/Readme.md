@@ -1,4 +1,4 @@
-# Main dataset of [Ethereum Privacy Ecosystem report](https://github.com/web3privacy/docs/blob/main/docs/research/Ethereum%20Privacy%20Ecosystem.md)
+# Main dataset of [Ethereum Privacy Ecosystem report](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem)
 
 _Here we track all Ethereum privacy related projects, research & events (based on Web3privacy now general DB)_
 
