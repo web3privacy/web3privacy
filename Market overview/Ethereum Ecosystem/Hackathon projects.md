@@ -87,4 +87,5 @@
 | Zero to Hero | A trust-less system where peer to peer reviewing dynamics are introduced to give peace of mind to both employers and freelancers | [GitHub](https://github.com/chandrabosep/Circuit_Breaker-24) | [web](https://ethglobal.com/showcase/zero-to-hero-95y28)
 | Activis | A zk Dapp for individuals or groups to organize, collaborate, and advocate for social or political causes in a secure, censorship-resistant manner | [GitHub](https://github.com/Bleyle823/Activis) | [web](https://ethglobal.com/showcase/activis-rwkvx)
 | ZKupid | An anonymous rose exchange on the blockchain using zero-knowledge proofs for Valentine's Day. | - | [web](https://ethglobal.com/showcase/zkupid-7z8kj)
-| ZK ≠ Zero Income | An anonymous rose exchange on the blockchain using zero-knowledge proofs for Valentine's Day. | - | [web](https://ethglobal.com/showcase/zkupid-7z8kj)
+| ZK ≠ Zero Income | A on-chain proof of income utilizing Zero Knowledge to not divulgate the exact income | [GitHub](https://github.com/benjaminsalon/zk-proof-of-income) | [web](https://ethglobal.com/showcase/zk-zero-income-ghssr)
+| zkFL | An interprise product aimed to solve the data issue while training models in industry where data is highly sensitive. | [GitHub](https://github.com/star-gazer111/zkFL) | [web](https://ethglobal.com/showcase/zk-zero-income-ghssr)
