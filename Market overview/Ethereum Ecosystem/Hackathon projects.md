@@ -33,3 +33,9 @@
 | Demokratia | infrastructure to create and seamlessly integrate personalised AI agents for DAO voting. | [GitHub](https://github.com/ConfidentiDemokratia) | [web](https://ethglobal.com/showcase/demokratia-c7bab)
 | FHE Rock Paper | Rock Paper Scissors game with secret encryption powered by FHE | [GitHub](https://github.com/leo5imon/fhe-rockpaperscissors) | [web](https://ethglobal.com/showcase/fhe-rock-paper-euzkg)
 | Vota Protocol | A privacy-preserved fair and trustless election Voting System on Blockchain programmable for global constituencies | [GitHub](https://github.com/Vota-Protocol) | [web](https://ethglobal.com/showcase/vota-protocol-qxf3z)
+
+## Circuit Breaker
+
+| Project  | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |
+| Patient AnalyticsZKP | Analytical research using ZKP on Private Patient Healthcare Records potentially to be stored on the Blockchain. | [GitHub](https://github.com/biscuitdey/PatientAnalyticsZKP) | [web](https://ethglobal.com/showcase/patient-analyticszkp-4o1m2)
