@@ -39,3 +39,8 @@
 | Project  | Description | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |
 | Patient AnalyticsZKP | Analytical research using ZKP on Private Patient Healthcare Records potentially to be stored on the Blockchain. | [GitHub](https://github.com/biscuitdey/PatientAnalyticsZKP) | [web](https://ethglobal.com/showcase/patient-analyticszkp-4o1m2)
+| Inro | A privacy-first, decentralized ID verification system using Sindri.  | [GitHub](https://github.com/knocks-public/2024-CircuitBreaker) | [web](https://ethglobal.com/showcase/inro-rped8)
+| Mosaic | A trust score network, where users' network is never revealed.  | [GitHub](https://github.com/hfccr/mosaic-circuit-breaker) | [web](https://ethglobal.com/showcase/mosaic-mf550)
+| ProjectNiels | a web3 dapp Create a decentralized social networking platform where users can interact and share content without revealing their true identities | [GitHub](https://github.com/fabianferno/projectniels) | [web](https://ethglobal.com/showcase/projectniels-3aq0q)
+| Trusted Score | allows you to own a score of how trusted you are and you can prove how trusted you are without revealing your score. | [GitHub](https://github.com/ShapeProject/circuit_breaker) | [web](https://ethglobal.com/showcase/trusted-score-p7woy)
+| priv.cast | Sybil Resistant and Private Voting Application built with Farcaster Frames using Noir. | [GitHub](https://github.com/gabrielantonyxaviour/priv.cast) | [web](https://ethglobal.com/showcase/priv-cast-hzitq)
