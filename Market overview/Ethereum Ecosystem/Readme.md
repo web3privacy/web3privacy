@@ -451,6 +451,8 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 ## Privacy & Scaling Explorations
 this part will be restructured later on by categories
 
+| Project  | GitHub | 
+| ------------- | ------------- |
 | [Anon Aadhaar](https://pse.dev/en/projects/anon-aadhaar) - Tools for building build privacy-preserving applications using government ID cards, specifically Aadhaar cards in India |[Github](https://github.com/privacy-scaling-explorations/anon-aadhaar) |
 | [AnonKlub](https://pse.dev/en/projects/anon-klub) - A mechanism for anonymous proof of Ethereum address ownership. | [Github](https://github.com/anonklub) |
 | [Bandada](https://pse.dev/en/projects/bandada) - An open-source system for managing privacy-preserving groups of anonymous individuals | [Github](https://github.com/privacy-scaling-explorations/bandada) |
