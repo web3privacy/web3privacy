@@ -4,7 +4,7 @@
 
 | Project | Description | Privacy use-case | Demo | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |------------- |------------- |
-| Project name | Short description explaining project purpose (example: "Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link (format: "https://www...") | GitHub link (format: "https://www...") | Hackathon link (format: "https://www...") |
+| Project name | Short description explaining project purpose (example: "Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link | GitHub link | Hackathon link |
 
 
 # 2024
