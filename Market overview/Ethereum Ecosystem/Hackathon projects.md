@@ -1,3 +1,13 @@
+Part of the Ethereum Privacy Ecosystem [report](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/)
+
+# Privacy-centric use-cases DB built within Ethereum hackathons
+
+_Purpose_: 
+
+1. Collect existing hackathon demos & ideas in one place. 
+2. Analyze what challenges devs are solving within the hackathons (innovative use-cases, R&D).
+3. Create a user-friendly space for ecosystem actors to collaborate with each other: support existing demos, expand use-cases, collaborate with each other, be inspired.
+
 # Template
 
 ## Event name
