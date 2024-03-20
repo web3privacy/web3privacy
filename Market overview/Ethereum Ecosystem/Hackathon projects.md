@@ -102,3 +102,13 @@
 | PrivChainEx | platform facilitates trading between tokenized assets using interoperable private chains with a ZK bridge, paving the way for a new era of secure and efficient financial transactions. | [GitHub](https://github.com/PriviChainEx/monorepo) | [web](https://ethglobal.com/showcase/privchainex-ohoh3)
 | chaum pedersen | The Chaum-Pedersen protocol is a cryptographic method ensuring verifiable and confidential electronic voting. | [GitHub](https://github.com/rupam-04/chaum-pedersen-zk) | [web](https://ethglobal.com/showcase/chaum-pedersen-gp8nf)
 | Futuristic-zk-DAO | a zero knowledge dao application where users can join and create daos and find people according to their interests. | [GitHub](https://github.com/Akhil-2310/Circuit-Breaker) | [web](https://ethglobal.com/showcase/futuristic-zk-dao-aqsny)
+
+## LFGHO
+
+| Project  | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |
+| Degram2.0 | a decentralized social media platform. | [GitHub](https://github.com/ayush035/Degram-2.0) | [web](https://ethglobal.com/showcase/degram2-0-2z2f5)
+| Lord of the solvers | FHE and ML powered user intent solver, ensuring user privacy and facilitating web2 like experience. | [GitHub](https://github.com/Created-for-a-purpose/Lord-of-the-solvers) | [web](https://ethglobal.com/showcase/lord-of-the-solvers-w3oay)
+| GHOTip | A web app that helps customers to tip anonymously and easily  | [GitHub](https://github.com/Ricy137/GHOTip-zk) | [web](https://ethglobal.com/showcase/ghotip-5vix5)
+| Privacy GHO Token | a privacy layer for GHO stablecoin by allowing the issuance and transfer of GHO while maintaining an encrypted balance. | [GitHub](https://github.com/Prajjawalk/LFGHO-fhEVM) | [web](https://ethglobal.com/showcase/privacy-gho-token-g65by)
+| Simon Wallet |  Accounts with Zero Trust and Passkeys. Send GHO seamlessly, earn interest on stablecoins. Non-custodial, user-empowered, ensuring privacy and control | [GitHub](https://github.com/dylanszejnblum/lfgho-smart-wallet) | [web](https://ethglobal.com/showcase/simon-wallet-2e5p3)
