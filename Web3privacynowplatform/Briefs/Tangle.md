@@ -2,18 +2,18 @@
 
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Project name**  | Webb Protocol |
+ | **Project name**  | Tangle Network |
  | **Logotype**  | https://drive.google.com/file/d/103ekCg_0Pj3qUiiQd9O8EsEZtbFmRMBc/view?usp=sharing |
- | **Short project description (1 sentence)** | Webb Protocol is an open-source, privacy-centric, and resilient framework for efficient interaction between cross-chain and private dApps. |
- | **Launch date** | Sept 29 2023 |
+ | **Short project description (1 sentence)** | An MPC-as-a-service restaking infrastructure powering cross-chain and zero-knowledge application development. |
+ | **Launch date** | April 10 2024 |
  | **Is it open source?** | Yes |
- | **Website**  | https://www.webb.tools |
+ | **Website**  | https://docs.tangle.tools |
  | **Github**  | https://github.com/webb-tools/tangle |
 
  **Token**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Do you have a token** | Webb Protocol is currently governed by the Tangle Network, which is a Testnet: tTNT, Mainnet when launched, $TNT |
+ | **Do you have a token** | Yes, for Testnet: tTNT and Mainnet when launched: $TNT |
 
  **Socials**
  | Request  | Data point | 
@@ -27,7 +27,7 @@
  **Docs**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Docs** | https://docs.webb.tools |
+ | **Docs** | https://docs.tangle.tools |
  | **Whitepaper** | https://eprint.iacr.org/2023/260.pdf |
  | **Litepaper** | n/a |
 
@@ -87,4 +87,4 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **When product had been launched** |  n/a | 
- | **When mainnet, beta had been launched**  | Hubble Bridge, utilizing the Webb Protocol, is in alpha. 08/07/2023 |
+ | **When mainnet, beta had been launched**  | Tangle testnet 08/07/2023 |
