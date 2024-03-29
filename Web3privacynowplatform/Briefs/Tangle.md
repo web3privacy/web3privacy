@@ -3,7 +3,7 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **Project name**  | Tangle Network |
- | **Logotype**  | https://drive.google.com/file/d/103ekCg_0Pj3qUiiQd9O8EsEZtbFmRMBc/view?usp=sharing |
+ | **Logotype**  | https://github.com/webb-tools/tangle/blob/main/assets/Tangle%20Logomark.png |
  | **Short project description (1 sentence)** | An MPC-as-a-service restaking infrastructure powering cross-chain and zero-knowledge application development. |
  | **Launch date** | April 10 2024 |
  | **Is it open source?** | Yes |
