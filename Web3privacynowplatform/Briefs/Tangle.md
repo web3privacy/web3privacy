@@ -87,4 +87,4 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **When product had been launched** |  n/a | 
- | **When mainnet, beta had been launched**  | Tangle testnet 08/07/2023 |
+ | **When mainnet**  | April 10 2024 |
