@@ -28,7 +28,7 @@
  | Request  | Data point | 
  | ------------- | ------------- |
  | **Docs** | https://docs.tangle.tools |
- | **Whitepaper** | https://eprint.iacr.org/2023/260.pdf |
+ | **Whitepaper** | https://github.com/webb-tools/tangle/blob/main/Tangle_Network_Whitepaper_March282024.pdf |
  | **Litepaper** | n/a |
 
  **Team**
