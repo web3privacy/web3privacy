@@ -7,7 +7,7 @@
  | **Short project description (1 sentence)** | An MPC-as-a-service restaking infrastructure powering cross-chain and zero-knowledge application development. |
  | **Launch date** | April 10 2024 |
  | **Is it open source?** | Yes |
- | **Website**  | https://docs.tangle.tools |
+ | **Website**  | https://www.tangle.tools |
  | **Github**  | https://github.com/webb-tools/tangle |
 
  **Token**
@@ -18,8 +18,8 @@
  **Socials**
  | Request  | Data point | 
  | ------------- | ------------- |
- | **Blog** | https://blog.webb.tools |
- | **Twitter (X)** | https://twitter.com/webbprotocol |
+ | **Blog** | https://www.tangle.tools/blog |
+ | **Twitter (X)** | https://twitter.com/tangle_network |
  | **Telegram** | https://t.me/webbprotocol |
  | **Discord** | https://discord.com/invite/cv8EfJu3Tn |
  | **Other** | n/a |
