@@ -321,6 +321,7 @@ Feel free to update the list!
 | [EtherChat](https://etherchat.app) |  First Layer-2 For Decentralized Chat | ([GitHub](https://github.com/EtherChatApp)) | - | - | - |
 | [Kinto](https://kinto.xyz) | L2 focused on providing safe access to financial services.  | ([GitHub](https://docs.kinto.xyz/kinto-the-safe-l2/general/welcome-to-kinto)) | - | - | - |
 | [Coti](https://coti.io) | Privacy-Focused Ethereum Layer-2  | ([GitHub](https://github.com/coti-io)) | - | - | - |
+| Laser Beam | A privacy focused Lightning Network implementation on Beam | ([Github](https://github.com/BeamMW/beam)) ([Docs](https://github.com/BeamMW/beam/wiki/Laser-Beam)) | live | [Beam](https://beam.mw/) | ([Public](https://github.com/orgs/BeamMW/people))
 
 ## Hardware
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
@@ -399,6 +400,7 @@ Feel free to update the list!
 | [Neonyx](https://neonyx.io) | DID + Flexible social platform | ([GitHub](https://github.com/neonyxhub)) | - | - | - |
 | [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/overview/carv-intro)) | - | - | - |
+| BANS | Beam Anonymous Name Service | ([Github](https://github.com/BeamMW/BANS)) ([Docs](https://medium.com/beam-mw/create-your-own-id-with-bans-beam-anonymous-name-service-34596e4f4f)) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -406,7 +408,8 @@ Feel free to update the list!
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [AnyDAO](https://www.anydao.app) | Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting |  [Docs](https://github.com/automata-network/docs/tree/master/docs/anydao) | - | - | - | 
 | [HeyAnon](https://www.heyanoun.xyz) | Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK** | - | - | - | - | 
-| [LunarDAO](https://lunardao.net) | DAO fostering R&D and investments within Lunarpunk movement |  [GitHub](https://github.com/lunardao/dao) | - | - | - |   
+| [LunarDAO](https://lunardao.net) | DAO fostering R&D and investments within Lunarpunk movement |  [GitHub](https://github.com/lunardao/dao) | - | - | - |
+| [BeamX DAO](https://BeamXDAO.org) | Decentralized and confidential governance for the Beam Ecosystem | [Github](https://github.com/BeamMW/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
 
 ## Bridge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Bridge.png?raw=true)
@@ -424,6 +427,7 @@ Feel free to update the list!
 | [Carrier](https://www.carrier.so) | A powerful token and NFT bridge for Web3 natives | ([Docs](https://docs.carrier.so/introduction/about)) | - | - | - |
 | [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
 | [BlockBlend](https://blockblend.io) | anonymous cross-chain decentralized services. Stake, farm, blend and send | [GitHub](https://docs.blockblend.io/utilities/bridge) | - | - | - | - |
+| [Beam Bridge](https://eth-bridge.beam.mw/) | bridge ETH, USDT, DAI and wBTC from and to Ethereum | ([Docs](https://beam.mw/docs/bridges/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
@@ -454,6 +458,7 @@ Feel free to update the list!
 | [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | ([GitHub](https://github.com/adamant-im)) | - | - | - |
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
 | [4thPillar Project](https://the4thpillar.io) | Community-build dMail & dChat | ([GitHub](https://github.com/4P-project/)) | - | - | - |
+| BAM | Decentralized anonymous messenger in the Beam Wallet | ([Github](https://github.com/BeamMW/beam-ui)) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
