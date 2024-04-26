@@ -459,7 +459,7 @@ Feel free to update the list!
 | [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | ([GitHub](https://github.com/adamant-im)) | - | - | - |
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
 | [4thPillar Project](https://the4thpillar.io) | Community-build dMail & dChat | ([GitHub](https://github.com/4P-project/)) | - | - | - |
-| BAM | Decentralized anonymous messenger in the Beam Wallet | ([Github](https://github.com/BeamMW/beam-ui)) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
+| Beam Messenger | Decentralized anonymous messenger in the Beam Wallet | ([Github](https://github.com/BeamMW/beam-ui)) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
