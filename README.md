@@ -401,6 +401,7 @@ Feel free to update the list!
 | [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/overview/carv-intro)) | - | - | - |
 | BANS | Beam Anonymous Name Service | ([Github](https://github.com/BeamMW/BANS)) ([Docs](https://medium.com/beam-mw/create-your-own-id-with-bans-beam-anonymous-name-service-34596e4f4f)) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
+| [Rarimo](https://rarimo.com//) | Rarimo is a privacy-first social protocol. It seamlessly combines various identity standards and allows the formation of a private but verifiable history of their use and relations using ZK proofs. | ([GitHub](https://github.com/rarimo)) ([Docs](https://docs.rarimo.com/))| live | multichain | (yes) | ([Public](https://github.com/orgs/rarimo/people)) |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -761,6 +762,7 @@ Feel free to update the list!
 | [Equilibria](https://equilibriacc.com) | Privacy oracle | ([GitHub](https://github.com/EquilibriaCC)) | - | - | - |
 | [GenomesDAO](https://genomes.io) |  money and anonymously power scientific and medical research | - | - | - | - |
 | [Night Finance](https://night.finance) |  A Stealth Address-Powered Private and Composable Account Layer for Ethereum | - | - | - | - |
+| [Freedom Tool](https://freedomtool.org/#/) | Freedom Tool is a transparent, privacy-preserving blockchain voting system based on biometric passports and zero-knowledge proofs. | ([GitHub](https://github.com/rarimo#freedomtool)) ([Docs](https://docs.rarimo.com/ecosystem/freedom-tool/))  | live | - | ([Public](https://github.com/orgs/rarimo/people))  |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
