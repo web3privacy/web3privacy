@@ -18,6 +18,26 @@ _Purpose_:
 
 
 # 2024
+
+## ETHDam
+
+| Project  | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |
+| zk loyalty  | A GDPR compliant, anonymous loyalty program | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxue9cx00s9vq01twk54w31/idea)
+| Whisper | platform for anonymized members to create privacy-preserved groups | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz7whmw018nz301b1rrtbio/idea)
+| ZeroDock | Providing provable off-chain computation based on on-chain events | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluwkzjz100c6yz01i36k9rcu/idea)
+| TACo Snap | store sensitive data like seed phrases and passwords directly within your MetaMask wallet | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/clux1ntjg00m5z301xb0bdehj/idea)
+| SunkETH | token implementation of "Zero-Knowledge Wormholes" | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz5su4e015uz3016zl2wio0/idea)
+| Stealth Keystore | control multiple Safes from a single registered key using an on-chain keystore | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluyvpci0014zvq01b9ux91sp/idea)
+| StealthAlloc | DAOs privately fund ventures | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxse8cz00pjz3010wbq3thf/idea)
+| NEVO | decentralized voting by combining the privacy-enhanced MACI protocol with Near Protocol's seamless cross-chain capabilities | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz9746q01c2z301tupriiuq/idea)
+| munus | anonymous charity donations that allow for the donator to prove he did the donation | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluwhh6om00a8yz01gsluxt2g/idea)
+| BrickWall | company reviews platform with privacy-preserving groups | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz8gb2701a9z301ptjuvhlo/idea)
+| Browser socket MPC | tlsnotary in browsers via the direct socket api | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluzbu4lm01e6yz01eovzk5k8/idea)
+| AUDIT-TRAIL | immutable and permanent record storage | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluzaxmnf01h6vq01t9b5o7cd/idea)
+| ｗｈｉｓｐｅｒ | Private Cross-chain Quadratic Funding | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea)
+
+
 ## ETHGLOBAL LONDON
 
 | Project  | Description | GitHub | Web | 
