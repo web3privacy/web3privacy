@@ -40,3 +40,96 @@ $463.72
 
 rotki - portfolio tracker
 DeFi
+https://rotki.com
+https://github.com/rotki
+https://explorer.gitcoin.co/#/round/42161/25/8
+$683.97
+
+Shy - anonymous discussion forum for crypto holders.
+Comms
+https://www.shy.chat
+https://github.com/taigalabs
+https://explorer.gitcoin.co/#/round/42161/25/82
+$32.30
+
+dTrials - a hardware and software stack for distributed to fully decentralized clinical trials 
+Healthcare
+https://dtrials.gitbook.io/dtrials/
+https://github.com/dTrials
+https://explorer.gitcoin.co/#/round/42161/23/24
+$11.71
+
+Citizen.chat - Open-source, privacy first, Advocacy AI for Civic action
+Comms
+https://citizen.chat
+https://github.com/citizenlab-tech
+https://explorer.gitcoin.co/#/round/42161/31/25
+$47.10
+
+datalatte - the data layer for personal AI agents
+Data privacy
+https://datalatte.com
+https://github.com/datalatte-ai
+https://explorer.gitcoin.co/#/round/42161/25/68
+$76.26
+
+The Tor Project - the Tor network and Tor Browser
+Metadata
+https://torproject.org
+https://github.com/torproject
+https://explorer.gitcoin.co/#/round/42161/26/24
+$831.50
+
+LunarDAO - invests in privacy projects and anonymity-oriented tooling for the lunarpunk society
+DAO
+https://lunardao.net
+https://github.com/lunardao
+https://explorer.gitcoin.co/#/round/42161/26/58
+$161.24
+
+Fluidpay - a simple mobile wallet for easy peer-to-peer payments
+Wallet
+https://fluidpay.xyz
+https://github.com/builders-garden
+https://explorer.gitcoin.co/#/round/42161/23/27
+$348.08
+
+RPCh - Privacy Infrastructure for Ethereum Wallets
+Infra
+https://rpch.net
+https://github.com/hoprnet
+https://explorer.gitcoin.co/#/round/42161/26/79
+$50.91
+
+Fluidkey - stealth-addresses on Ethereum
+DeFi
+https://fluidkey.com/
+https://github.com/fluidkey
+https://explorer.gitcoin.co/#/round/42161/24/15
+$197.31
+
+Ultimate Digits - Privacy-focused Ethereum mobile numbers for Web3 identity
+Mobile
+https://www.ultimatedigits.com/
+https://github.com/UltimateDigits
+https://explorer.gitcoin.co/#/round/42161/26/85
+$52.10
+
+Stogram - a decentralized social media platform
+Social
+https://stogram.vercel.app
+https://github.com/StogramHQ
+https://explorer.gitcoin.co/#/round/42161/23/14
+$103.72
+
+rolod0x - a free privacy-preserving address book
+Comms
+https://rolod0x.io
+https://github.com/rolod0x
+https://explorer.gitcoin.co/#/round/42161/25/89
+$251.63
+
+
+
+
+
