@@ -38,6 +38,30 @@ _Purpose_:
 | ｗｈｉｓｐｅｒ | Private Cross-chain Quadratic Funding | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea)
 
 
+## SCALING ETHEREUM
+
+| Project  | Description | Category | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |------------- |
+| Football  | on-chain football manager game that leverages the privacy that TEN Protocol provides to hide players' strategies from opponents | Gaming | [GitHub](https://github.com/Akhil-2310/Scaling-ethereum) | [web](https://ethglobal.com/showcase/football-gvaa8)
+| z0Wallet  | privacy focused multi sig wallet powered by the risc0 stack | Wallet | [GitHub](https://github.com/rahul0tripathi/z0wallet) | [web](https://ethglobal.com/showcase/z0wallet-8hj73)
+| VerifyLearning  | Secure Model Training: Zero-Knowledge Proofs can be used to ensure that the data used for training machine learning models remains private | Machine Learning | [GitHub](https://github.com/deepshah9696/ScalingWeb3) | [web](https://ethglobal.com/showcase/verifylearning-orhg3)
+| AuthChain:FHE Auth | a decentralized authentication app leveraging blockchain, passkeys, and Fully Homomorphic Encryption | Auth | [GitHub](https://github.com/pratham-bhatnagar/fhe-2fa) | [web](https://ethglobal.com/showcase/authchain-fhe-auth-61m9b)
+| zkSocial | social media powered by ZKML | Social | [GitHub](https://github.com/star-gazer111/zkSocial) | [web](https://ethglobal.com/showcase/zksocial-q1b7z)
+| Shadow Pay | a privacy preserving p2p transaction platform | Payments | [GitHub](https://github.com/Ankush523/shadow-pay) | [web](https://ethglobal.com/showcase/shadow-pay-ke4se)
+| FHE Vickrey Auction |  a type of sealed-bid second-price auction powered by FHE | Auction | [GitHub](https://github.com/tnkshuuhei/fhe-vickrey) | [web](https://ethglobal.com/showcase/fhe-vickrey-auction-3iyxh)
+| PrivPay |  the DeFi application to receive and send payments with just simple Link, no need to reveal your address. | Payments | [GitHub](https://github.com/marotipatre/Priv-Pay) | [web](https://ethglobal.com/showcase/privpay-krzdn)
+| GhostPay |  Defi application that let you send and receive funds anonymously with just a link | Payments | [GitHub](https://github.com/porco-rosso-j/eth-rome-2023) | [web](https://ethglobal.com/showcase/ghostpay-9vs0x)
+| zkbiometric |  authentication by securely verifying biometric onboarding data | Auth | [GitHub](https://github.com/aridder/zkbiometric) | [web](https://ethglobal.com/showcase/zkbiometric-p8nva)
+| nfl |  Use Nillion for training federated learning models while keeping datasets private. | Machile Learning | [GitHub](https://github.com/bowenyou/nillion-federated-learning) | [web](https://ethglobal.com/showcase/nfl-w7yg3)
+| Monadic DNA |  Privacy preserving personal genomics for health and ancestry | Genomics | [GitHub](https://github.com/Cryptonomic/MonadicDNA) | [web](https://ethglobal.com/showcase/monadic-dna-h7k7q)
+| zkWarden |  Farcaster x zk proofs for verifying user details like age and location, allowing access to restricted group chats | Social | [GitHub](https://github.com/fabianferno/zkwarden) | [web](https://ethglobal.com/showcase/zkwarden-nka1v)
+| AddressMe | a private address book | Social | [GitHub](https://github.com/MikePawel/AddressMe) | [web](https://ethglobal.com/showcase/addressme-5urum)
+| Staked Steps | a gamified fitness app where users can join public or private challenges by staking cryptocurrency | Gaming | [GitHub](https://github.com/mohanvaddi/staked-steps) | [web](https://ethglobal.com/showcase/staked-steps-euwx0)
+| Thumper | structured zk setup ceremonies with trustless coordination, privacy, sybil-resistance, and zk-proven results | Trustless setup | [GitHub](https://github.com/justinfrevert/thumper) | [web](https://ethglobal.com/showcase/thumper-dbvy2)
+| Polar | web3 auth provider that privately stores user data in decentralized storage and selectively reveals it to the client app. | Auth | [GitHub](https://github.com/Complexia/polar) | [web](https://ethglobal.com/showcase/polar-p0f2b)
+
+
+
 ## ETHGLOBAL LONDON
 
 | Project  | Description | GitHub | Web | 
