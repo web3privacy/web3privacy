@@ -37,7 +37,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
   - [Events](#events)
   - [Network state](#network-state)
   - [Papers](#papers)
-  - [Privacy & Scaling Explorations](#privacy-scaling-explorations)
+  - [Privacy & Scaling Explorations](#privacy-&-scaling-explorations)
 
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
