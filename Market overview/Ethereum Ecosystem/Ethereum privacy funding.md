@@ -1,5 +1,7 @@
 ## Gitcoin
 
+We are analyzing Gitcoin-related funding for privacy projects: https://explorer.gitcoin.co
+
 | Project  | Description | Category | Web | GitHub | Gitcoin | Funding |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
 | eth.limo  | a privacy preserving ENS gateway | DeFi | [web](https://eth.limo/) | [GitHub](https://github.com/ethlimo/) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/9) | $463.72 | 
