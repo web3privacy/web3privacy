@@ -60,6 +60,12 @@ _Purpose_:
 | Thumper | structured zk setup ceremonies with trustless coordination, privacy, sybil-resistance, and zk-proven results | Trustless setup | [GitHub](https://github.com/justinfrevert/thumper) | [web](https://ethglobal.com/showcase/thumper-dbvy2)
 | Polar | web3 auth provider that privately stores user data in decentralized storage and selectively reveals it to the client app. | Auth | [GitHub](https://github.com/Complexia/polar) | [web](https://ethglobal.com/showcase/polar-p0f2b)
 
+## ETHBucharest
+
+| Project  | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |
+| zK-Vote | A decentralized voting platform | [GitHub](https://github.com/Akhil-2310/Eth-Bucharest) | [web](https://dorahacks.io/buidl/10887)
+| stray | The go-to extension for every website, providing chat functionality to ensure privacy, facilitate engaging conversations | [GitHub](https://github.com/Enrypase/stray) | [web](https://dorahacks.io/buidl/10859)
 
 
 ## ETHGLOBAL LONDON
