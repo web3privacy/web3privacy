@@ -39,6 +39,8 @@ Segmentation will help to split "native" projects & broader actors serving diffe
   - [Papers](#papers)
   - [Privacy & Scaling Explorations](#privacy-&-scaling-explorations)
 
+# Ethereum-centric
+
 ## DeFi
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/DEFI.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit |
@@ -60,32 +62,18 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | ([Public](https://hinkal.pro/#section-team)) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) |
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | - | TBD | Ethereum | anon | - | - |
 | **sunset** [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | - | - | multichain | anon | - | - |
-| [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - | - | - |
-| [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - | - | - |
 | [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | ([GitHub](https://github.com/zkUSDLabs)) | - | - | - | [Docs](]https://zkusd.gitbook.io/zkusd-documentation) | - |
 | [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | ([Docs](https://docs.spiralfi.io/introduction/spiral-finance)) | - |
-| [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | ([GitHub](https://github.com/Fairyswap)) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | [Certik](https://skynet.certik.com/projects/fairyswap) |
-| [xPrivate](https://www.xprivate.io) | Swap directly from your wallet. Break the links between sender and recipient. Restore your privacy | - | - | - | - | - | - |
-| [0xAnon](https://0xanon.tech) | The privacy-focused DEX aggregator | - | - | - | - | [Docs](https://docs.0xanon.tech) | - |
 | [Kalium Network](https://kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | - | - | - | - | - |
-| [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | ([Docs](https://docs.irrigation.finance/irrigation-protocol/)) | - |
-| [Portal Gate](https://www.portalgate.me) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([Docs](https://docs.portalgate.me)) | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | ([GitHub](https://github.com/SwaprHQ)) | - |
 | [Unimix](https://unimix.cash) | The world's most secure privacy transaction service | - | live | multichain | anon | - | - |
 | [illumineX](https://illuminex.xyz/swap) | Confidential multichain DEX gateway | ([GitHub](https://github.com/illumineXswap)) | - | - | - | ([Docs](https://docs.illuminex.xyz/illuminex-docs/)) | - |
-| [Dark Protocol](https://www.darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | - | - | - | - | ([Docs](https://www.darkprotocol.org/manifesto)) | - |
-| [StealthEX](https://stealthex.io) | Custody-free, cross-chain friendly #cryptocurrency exchange | - | - | - | - | - | - |
 | [Blend Protocol](https://www.blendprotocol.io) | cutting-edge privacy application allowing anonymous swaps from over 50 different chains | - | - | - | - | - | - |
-| [Safudex](https://safudex.cz) | first DEX/CEX private aggregator | - | - | - | - | - | - |
-| [incognitoswap](www.incognitoswap.net) | non-KYC, anonymous, and multi-chain transactions | - | - | - | - | - | - |
 | [Horus Protocol](https://horus.cash) | The ZKP crypto payment layer on Ethereum, BASE, Arbitrum, OP, Polygon and zkSync. | - | - | - | - | ([Docs](https://horuscash.notion.site/horuscash/Horus-Cash-Docs-332db90e9de444c49f2ff2d4bbe342ec)) | - |
-| [Guiser](https://guiser.org) | Hassle Free Crypto Exchange | - | - | - | - | ([Docs](https://guise.gitbook.io/guiser.org/)) | - |
 | [Lucrisma](https://lucrisma.com) | digital asset dashboard | - | - | - | - | - | - |
-| [Stealth Trade](https://stealthtrade.co) | Trade with Enhanced Privacy and Security | - | - | - | - | - | - |
 | [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | ([Docs](https://docs.hydranet.ai)) | - |
 | [ZOOK](https://www.zook.fi) | DeFi ecosystem | ([GitHub](https://github.com/zookfi/)) | - | - | - | ([Docs](https://docs.zook.fi/zook-defi-ecosystem/)) | - |
 | [GRVT](https://grvt.io) | The next-gen hybrid derivatives exchange. | - | - | - | - | ([Docs](https://grvt.gitbook.io/grvt/introduction/about-grvt)) | - |
-| [Shhwapit](https://shhwapit.com) | a fully compliant asset anonymizing tool.  | - | - | - | - | - | - |
 | [Enclave Markets](https://www.enclave.market) | Fully Encrypted Exchange  | - | - | - | - | ([Docs](https://enclave-markets.notion.site/Enclave-Markets-API-Documentation-93b53ce24d3a4531ba09519c708483a9)) | - |
 | [RenegadeFi](https://www.renegade.fi) | Dark Pool  | ([GitHub](https://github.com/renegade-fi)) | - | - | - | ([Docs](https://docs.renegade.fi)) | - |
 
@@ -472,3 +460,6 @@ this part will be restructured later on by categories
 | [UniRep Protocol](https://pse.dev/en/projects/unirep-protocol) - A Zero-Knowledge Protocol built to handle anonymous user data. | [Github](https://github.com/Unirep) |
 | [Zkitter](https://pse.dev/en/projects/zkitter) - A decentralized social network prioritizing privacy and anonymity | [Github](https://github.com/zkitter) |
 | [ZKOPRU](https://pse.dev/en/projects/zkopru) - Optimistic Rollup with zk-SNARKs for private Ethereum transactions. | [Github](https://github.com/zkopru-network) |
+
+# Ethereum-as-a-Currency (ETH)
+
