@@ -120,6 +120,8 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | the first privacy native Ethereum wallet based on a built-in integration of TOR | ([GitHub](https://github.com/hazae41/ethbrno-wallet)) or ([GitHub](https://github.com/brume-wallet)) | PoC | Ethereum | ([Public](https://twitter.com/BrumeWallet)) |
+| [Email Wallet](https://www.emailwallet.org) | Use your email address as a crypto wallet, via [zk email](https://prove.email) to keep the protocol decentralized and emails private on-chain. | ([Github](https://github.com/zkemail/email-wallet)) | - | - | - |
+| [Myna Wallet](https://github.com/mynawallet) | Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction. | ([Github](https://github.com/mynawallet)) | - | - | - |
 | [Edge](https://edge.app) | The most secure way to buy, store & trade crypto under your control | ([GitHub](https://github.com/EdgeApp)) | ([live](https://edge.app/)) | multichain | ([Public](https://edge.app/about/?af=github-com-web3privacy-web3privacy)) |
 | [Zecrey Wallet](https://www.zecrey.com/) | Zecrey Chrome extension is a portal to the new & open Internet. Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | ([GitHub](https://github.com/Zecrey-Labs)) | live, 2022 | multichain | anon |
 | [Railway](https://railway.xyz) | DeFi privacy wallet | - | live | Ethereum, BNB, Polygon | anon |
@@ -197,9 +199,12 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Findora CR](https://findora.org/findora-cr/) | Enabling ZK Identity Management & CRedentials for Web3 | ([GitHub](https://github.com/findoranetwork)) | live | multichain | ([yes](https://coinmarketcap.com/it/currencies/findora/)) | ([Public](https://findora.org/team/)) |
 | [Iden3](https://iden3.io) | The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol | ([GitHub](https://github.com/iden3)) | live | Ethereum | no | anon |
 | [Holonym](https://www.holonym.id) | Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** | ([GitHub](https://github.com/holonym-foundation)) | - | - | - | - |
+| [ZK Email](https://www.prove.email) | Open-source protocol to prove any subset of any partially redacted email in zk on chain, via verifying email signatures within zk proofs. Used for [email-based wallet recovery](https://prove.email/recovery), decentralized on/off ramps, and decentralized identity verification. | ([GitHub](https://github.com/zkemail)) | - | - | - | - |
+| [Cursive](https://www.cursive.team) | By combining NFC cards that generate zk-friendly signatures with ZK, FHE, PSI, and folding schemes, uses advanced cryptography to privately interact with people across communities. | ([GitHub](https://github.com/cursive-team)) | - | - | - | - |
 | [zCloak](https://zcloak.network) | Privacy-first DID and verifiable computation infrastructure ✨️**ZK** | ([GitHub](https://github.com/zCloak-Network)) | - | - | - | - |
 | [BrightID](https://www.brightid.org) | A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity | ([GitHub](https://github.com/BrightID)) | - | - | - | - |
-| [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | ([GitHub](https://github.com/sismo-core)) | - | - | - | - |
+| **sunset** [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | ([GitHub](https://github.com/sismo-core)) | - | - | - | - |
+| **sunset** [Notebook labs](https://www.notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication)) | - | - | - |
 | [ONT ID](https://ont.id) | Bringing trustless identity to Web3 manage your data with ONT ID | ([GitHub](https://github.com/ont-id/)) | - | - | - | - |
 | [Interep](https://interep.link) | Anti-sybil as a service | ([GitHub](https://github.com/interep-project)) | - | - | - | - |
 | [Universal Reputation](https://developer.unirep.io) | a private and non-repudiable reputation system | ([GitHub](https://github.com/unirep)) | - | - | - | - |
@@ -267,7 +272,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Notebook labs](https://www.notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | ([Docs](https://notebook-6.gitbook.io/notebook-docs/guides/for-authentication)) | - | - | - |
+| [Proof of Passport](https://github.com/zk-passport/proof-of-passport) | Use ZK proofs to verify any information inside any passport with an NFC signature, such as proving you are over 18 or you are a USA citizen. | [GitHub](https://github.com/zk-passport/proof-of-passport)  | - | - | - |
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation)) | - | - | - |
 
@@ -332,6 +337,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
+| [Email Wallet](https://www.emailwallet.org) | Send NFTs on-chain to or from any email address using [zk email](https://prove.email) to keep the protocol decentralized. | - | - | - | - |
 | [The Anon Club](https://theanonclub.com) | worlds first privacy focused digital collectibles | - | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 | [sudoswap](https://sudoswap.xyz/#/) | private bids | ([GitHub](https://github.com/sudoswap) | - | - | - | - |
@@ -342,7 +348,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [P0X labs](https://p0xeidon.xyz) | the decentralized laboratory for building cutting-edge privacy technologies. | - | - | - | - |
 | [=nil; Foundation](https://nil.foundation) | Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments. | - | - | - | - |
-| [Privacy & Security explorations](https://appliedzkp.org) | We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts. | - | - | - | - |
+| [Privacy & Security Explorations](https://appliedzkp.org) | We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts. | - | - | - | - |
 | [Personae Labs](https://personaelabs.org) | R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs)) | - | - | - |
 | [Hypermine](https://hypermine.co) | smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography. | - | - | - | - |
 | [Entropy1729](https://www.entropy1729.com) | Zero Knowledge Shop | - | - | - | - |
@@ -372,6 +378,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [ZKP2P](https://www.zkp2p.xyz) | Via zk proofs of payment confirmation emails, use [zk-email](https://prove.email) to on and off ramp directly from Venmo, UPI, and Garanti to crypto, without trusting an intermediary. | ([GitHub](https://github.com/zkp2p/zk-p2p/)) | - | - | - |
 | [Privy](https://www.privy.io) | Privy's simple, powerful APIs help you manage user data off-chain | ([GitHub](https://github.com/privy-io)) | - | - | - |
 | [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | ([GitHub](https://github.com/automata-network/conveyor-sdk)) | - | - | - |
 | [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
