@@ -630,6 +630,8 @@ Feel free to update the list!
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak)) | - | - | - |
 | [Discreet Labs]( https://discreetlabs.io) | build blockchain systems for a more private, self-sovereign future on Fidora | - | - | - | - |
 | [OSOMPrivacy](https://www.osomprivacy.com) | From software to hardware OSOM Privacy gives you the tools that you need to make sure your data, your information is always private and protected. | - | - | - | - |
+| [Chainslab](https://chainslab.io)| Independent R&D firm focus on the digital economy revolution, provide in-depth research, genuine insight and cutting-edge opinions, closing the information gap within Blockchain industry. | - | - | - | - |
+| [Cake Labs](https://cakelabs.com)| builds helpful cryptocurrency software focused on everyday use and on solving common problems. Focused on Monero ecosystem | - | - | - | - |
 
 ## Node
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
