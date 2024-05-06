@@ -337,7 +337,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
-| [Email Wallet](https://www.emailwallet.org) | Send NFTs on-chain to or from any email address using [zk email](https://prove.email) to keep the protocol decentralized. | - | - | - | - |
+| [Email Wallet](https://www.emailwallet.org) | Send NFTs on-chain to or from any email address using [zk email](https://prove.email) to keep the protocol decentralized. | ([Github](https://github.com/zkemail/email-wallet)) | - | - | - |
 | [The Anon Club](https://theanonclub.com) | worlds first privacy focused digital collectibles | - | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
 | [sudoswap](https://sudoswap.xyz/#/) | private bids | ([GitHub](https://github.com/sudoswap) | - | - | - | - |
