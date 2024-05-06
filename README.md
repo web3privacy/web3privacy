@@ -246,6 +246,8 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Wasabi](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop with built-in coinjoin | [GitHub](https://github.com/zkSNACKs/WalletWasabi) | [live](https://wasabiwallet.io/index.html#download) | BTC | anon |
+| [Email Wallet](https://www.emailwallet.org) | Use your email address as a crypto wallet, via [zk email](https://prove.email) to keep the protocol decentralized and emails private on-chain. | ([Github](https://github.com/zkemail/email-wallet)) | - | - | - |
+| [Myna Wallet](https://github.com/mynawallet) | Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction. | ([Github](https://github.com/mynawallet)) | - | - | - |
 | [Samourai](https://samouraiwallet.com/) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | [Docs](https://docs.samourai.io/wallet/start) | [live](https://samouraiwallet.com/products) | BTC | anon |
 | [Sparrow](https://sparrowwallet.com) |Open-source, non-custodial, desktop-only Bitcoin wallet for those who value financial self sovereignty | [GitHub](https://github.com/sparrowwallet/sparrow) [Docs](https://sparrowwallet.com/docs/) | live | BTC | anon |
 | [Electrum](https://electrum.org/) | Open-source, non-custodial lightweight Bitcoin wallet for all platforms and trusted since 2011 | [GitHub](https://github.com/spesmilo/electrum) [Docs](https://electrum.readthedocs.io/en/latest/) | live | BTC | Public
@@ -363,6 +365,8 @@ Feel free to update the list!
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
 | [KILT](https://www.kilt.io) | A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers | ([GitHub](https://github.com/KILTprotocol)) | live | multichain | ([yes](https://coinmarketcap.com/it/currencies/kiltprotocol/)) | ([Public](https://www.kilt.io/team)) |
 | [MBuddy](https://metamirror.space/) | Web 3.0+ identity infrastructure | ([Docs](https://docs.metamirror.space/mbuddy/introduction/overview)) | under development | multichain | (yes) | anon |
+| [ZK Email](https://www.prove.email) | Open-source protocol to prove any subset of any partially redacted email in zk on chain, via verifying email signatures within zk proofs. Used for [email-based wallet recovery](https://prove.email/recovery), decentralized on/off ramps, and decentralized identity verification. | ([GitHub](https://github.com/zkemail)) | - | - | - | - |
+| [Cursive](https://www.cursive.team) | By combining NFC cards that generate zk-friendly signatures with ZK, FHE, PSI, and folding schemes, uses advanced cryptography to privately interact with people across communities. | ([GitHub](https://github.com/cursive-team)) | - | - | - | - |
 | [Web3ID](https://www.dock.io/web3id) | Privacy-preserving user verification for Web3 | ([GitHub](https://github.com/docknetwork)) | live | multichain | ([yes](https://coinmarketcap.com/it/currencies/dock/)) | ([Public](https://www.dock.io/verifiable-credentials-company)) |
 | [Anonybit](https://www.anonybit.io) | Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics) | - | PoC | multichain | no | ([Public](https://www.anonybit.io/team/)) |
 | [Polygon ID](https://polygon.technology/polygon-id/) | Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** | ([GitHub](https://github.com/0xPolygonID)) | live | Polygon | no | ([Public](https://github.com/orgs/0xPolygonID/people)) |
@@ -481,8 +485,9 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Notebook labs](https://www.notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | ([Docs](https://notebook-6.gitbook.io/notebook-docs) | - | - | - |
+| **sunset** [Notebook labs](https://www.notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | ([Docs](https://notebook-6.gitbook.io/notebook-docs) | - | - | - |
 | [KYC not me](https://kycnot.me/) |  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. | ([GitLab](https://gitlab.com/kycnot/kycnot.me)) | live | multichain | anon |
+| [Proof of Passport](https://github.com/zk-passport/proof-of-passport) | Use ZK proofs to verify any information inside any passport with an NFC signature, such as proving you are over 18 or you are a USA citizen. | [GitHub](https://github.com/zk-passport/proof-of-passport) | - | - | - |
 | [socialKYC](https://socialkyc.io) |  your decentralized social credentials | ([GitHub](https://github.com/BTE-Trusted-Entity/socialkyc.io/)) | - | - | - |
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
 | [OutDID](https://www.outdid.io) | Your Zero-Knowledge, Decentralized KYC filter of Blockchain users. | - | - | - | - |
@@ -590,6 +595,7 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Stashh](https://stashh.io) | Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. | ([GitHub](https://github.com/stashh-labs)) | - | - | - |
+| [Email Wallet](https://www.emailwallet.org) | Send NFTs on-chain to or from any email address using [zk email](https://prove.email) to keep the protocol decentralized. | - | - | - | - |
 | [Legendao](https://legendao.io) | The play-to-mint NFT platform, powered by Secret Network, that enables top artists, brands, and NFT creators to launch their NFT projects in a unique, gamified way. | - | - | - | - |
 | [Paras](https://eprint.iacr.org/2022/976.pdf) | a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances | - | - | - | - |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
@@ -618,7 +624,7 @@ Feel free to update the list!
 | [P0X labs](https://p0xeidon.xyz) | the decentralized laboratory for building cutting-edge privacy technologies. | - | - | - | - |
 | [=nil; Foundation](https://nil.foundation) | Foundation intends to create a tightly integrated set of technologies becoming a basis for secure data storages operating in insecure environments. | - | - | - | - |
 | [No Trust Verify](https://nym.notrustverify.ch) | Take place to the next generation of privacy infrastructure. | - | - | - | - |
-| [Privacy & Security explorations](https://appliedzkp.org) | We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts. | - | - | - | - |
+| [Privacy & Security Explorations](https://appliedzkp.org) | We explore new use cases for zero-knowledge proofs and other cryptographic primitives through research and proof-of-concepts. | - | - | - | - |
 | [01 Labs](https://o1labs.org) | Catalyzing a new generation of applications powered by zero knowledge cryptography. | - | - | - | - |
 | [Personae Labs](https://personaelabs.org) | R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs)) | - | - | - |
 | [Demox labs](https://www.demoxlabs.xyz) | Building privacy preserving ZK infrastructure on Aleo. | - | - | - | - |
@@ -683,6 +689,7 @@ Feel free to update the list!
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Privy](https://www.privy.io) | Privy's simple, powerful APIs help you manage user data off-chain | ([GitHub](https://github.com/privy-io)) | - | - | - |
 | [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | ([GitHub](https://github.com/automata-network/conveyor-sdk)) | - | - | - |
+| [ZKP2P](https://www.zkp2p.xyz) | Via zk proofs of payment confirmation emails, use [zk-email](https://prove.email) to on and off ramp directly from Venmo, UPI, and Garanti to crypto, without trusting an intermediary. | ([GitHub](https://github.com/zkp2p/zk-p2p/)) | - | - | - |
 | [Particl](https://particl.io/marketplace) | The only marketplace for private and unrestricted e-commerce. | ([GitHub](https://github.com/particl)) | - | - | - |
 | [AcceptedHere](https://acceptedhere.io/) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
 | [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
@@ -818,7 +825,7 @@ Feel free to update the list!
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
 | [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
 | [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
-| [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
+| **sunset** [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
 | [Anon virtual cards](https://vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
 | [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
 | [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - |
