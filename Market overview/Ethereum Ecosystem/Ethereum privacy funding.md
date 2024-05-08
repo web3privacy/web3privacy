@@ -1,4 +1,4 @@
-## Gitcoin
+## Gitcoin Web3 Infrastructure round
 
 We are analyzing Gitcoin-related funding for privacy projects: https://explorer.gitcoin.co
 
@@ -27,3 +27,17 @@ We are analyzing Gitcoin-related funding for privacy projects: https://explorer.
 | Hey.xyz | social media app | Social | [web](https://hey.xyz) | [GitHub](https://github.com/heyxyz) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/25/1)| $18341.31 | 
 | Dappnode | a decentralized infrastructure platform | Infra | [web](https://dappnode.com) | [GitHub](https://github.com/dappnode) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/48)| $3110.97 | 
 | Umbracash | a protocol that lets you get paid privately on Ethereum and Layer 2 networks.| DeFi | [web](https://app.umbra.cash/) | [GitHub](https://github.com/ScopeLift) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/67)| $9972.59 | 
+
+## VC-centric funding '24
+
+| Project  | Description | Category | Web | GitHub | Date | Funding |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| Hinkal Protocol | a ZK-based protocol offering private trading and yield farming on EVM chains | DeFi | [web](https://hinkal.pro/) | - | Apr 2024 | $1.40M | 
+| HOPR | Mixnet + dVPN | Infra | [web](https://hoprnet.org/) | [Git](https://github.com/hoprnet) | Apr 2024 | $1.50M | 
+| Mystiko Network | the privacy infrastructure for blockchain data and applications | Infra | [web](https://mystiko.network/) | [Git](https://github.com/mystikonetwork) | Apr 2024 | $11.25M | 
+| Espresso Systems | a standalone blockchain as well as a solution for Ethereum: Configurable Asset Privacy on Ethereum (CAPE) | Infra | [web](https://www.espressosys.com/) | [Git](https://github.com/EspressoSystems) | Mar 2024 | $28M | 
+| COTI | Layer 2 solution | Infra | [web](https://coti.io/) | [Git](https://github.com/coti-io) | Mar 2024 | non-disclosed | 
+| Ten | a layer 2 solution for Ethereum | Infra | [web](https://www.ten.xyz/) | [Git](https://github.com/ten-protocol) | Mar 2024 | $9M | 
+| Singularity (ex Portal Gate) | an institutional-grade DeFi access layer providing commercial confidentiality for on-chain transactions | DeFi | [web](https://www.thesingularity.network/#about) | - | Feb 2024 | $2.20M | 
+| Inco | The modular confidential computing network | Infra | [web](https://www.inco.org) | [Git](https://github.com/Inco-fhevm) | Feb 2024 | $4.50M | 
+| Beoble | a Web3 messaging and social platform | Social | [web](https://www.beoble.io/) | [Git](https://github.com/Inco-fhevm) | Feb 2024 | $5M | 
