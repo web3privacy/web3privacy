@@ -26,3 +26,4 @@ We are analyzing Gitcoin-related funding for privacy projects: https://explorer.
 | Zerokit | ZK modules utilizing arkworks for RLN | Metadata | - | [GitHub](https://github.com/vacp2p/zerokit) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/74)| $198.32 | 
 | Hey.xyz | social media app | Social | [web](https://hey.xyz) | [GitHub](https://github.com/heyxyz) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/25/1)| $18341.31 | 
 | Dappnode | a decentralized infrastructure platform | Infra | [web](https://dappnode.com) | [GitHub](https://github.com/dappnode) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/48)| $3110.97 | 
+| Umbracash | a protocol that lets you get paid privately on Ethereum and Layer 2 networks.| DeFi | [web](https://app.umbra.cash/) | [GitHub](https://github.com/ScopeLift) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/67)| $9972.59 | 
