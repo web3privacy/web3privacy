@@ -249,6 +249,7 @@ Feel free to update the list!
 | [Ξigen Network](https://www.eigen.cash) | a programmable privacy layer for every Web3 participant in the EVM-compatible ecosystem via private zkVM. | ([GitHub](https://github.com/0xEigenLabs)) | - | - | - |
 | [IZAR](https://www.izar.xyz) | Cross-chain protocol: Ethereum x Aleo | ([Docs](https://docs.izar.xyz/)) | anon | - | - |
 | [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | ([GitHub](https://github.com/ZKTNetwork)) | anon | - | - |
+| [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | ([GitHub](https://github.com/tari-project)) | - | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -793,6 +794,7 @@ Feel free to update the list!
 | [Freedom Tool](https://freedomtool.org/#/) | Freedom Tool is a transparent, privacy-preserving blockchain voting system based on biometric passports and zero-knowledge proofs. | ([GitHub](https://github.com/rarimo#freedomtool)) ([Docs](https://docs.rarimo.com/ecosystem/freedom-tool/))  | live | - | ([Public](https://github.com/orgs/rarimo/people))  |
 | [BlockChair](https://blockchair.com) | the most private blockchain search engine | ([GitHub](https://github.com/Blockchair)) ([Docs](https://blockchair.com/api/docs))  | live | - | -  |
 | [ANS](https://www.aleonames.id) | Where domain naming meets privacy  | ([Docs](https://docs.aleonames.id/developer-guide/integrate-ans-into-frontend))  | live | - | -  |
+| [Flux](https://fluxsocial.io) | a fully distributed, human-centred platform that facilitates social coordination with greater privacy, agency, and flexibility. | ([GitHub](https://github.com/fluxsocial/))  | - | - | -  |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
