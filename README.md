@@ -25,6 +25,7 @@ Feel free to update the list!
 - [Infrastructure](#Infrastructure)
 - [Wallet](#Wallet)
 - [Computing network](#Computing-network)
+- [AI](#AI)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
 - [VPN](#VPN) 
@@ -56,7 +57,7 @@ Feel free to update the list!
 | [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | [RD](https://2763075352-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGSBEdPwWy2UsGV3OHPY5%2Fuploads%2Fj1LusIDvgZSWkr513hP7%2Fstkd-SCRT%20(staking%20derivative).pdf?alt=media&token=90cc650e-5196-4a04-af7d-3deed9ac9881), [Certik](https://2763075352-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGSBEdPwWy2UsGV3OHPY5%2Fuploads%2FTCcsJl0kZ2khV5Xu34AH%2FBonds.pdf?alt=media&token=6e3fdd9b-0601-42b8-86a6-fa9b8d9f3a34) |
 | [Silent protocol](https://www.silentprotocol.org)  | Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.  | - | TBD | Ethereum | anon | - | - |
 | [Sienna Network](https://sienna.network) | Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent  | ([GitHub](https://github.com/SiennaNetwork)) | Q2 2023 | Secret Network | anon | [Docs](https://docs.sienna.network/main/) | [Certik](https://sienna.network/static/documents/REP-Sienna_Wrapped-19_03_2021.pdf), [Certik](https://sienna.network/static/documents/REP-Sienna_Vesting-28_04_2021.pdf), [Halborn](https://sienna.network/static/documents/Rewards_V3_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn.pdf), [Certik](https://sienna.network/static/documents/SiennaSwap---AMM-Report.pdf), [Halborn](https://sienna.network/static/documents/AMM_Protocol_CosmWasm_Smart_Contract_Security_Audit_Halborn.pdf), [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_CosmWasm_Smart_Contract_Report_Halborn.pdf), [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_Updated_Code_CosmWasm_Smart_Contract.pdf), [Halborn](https://sienna.network/static/documents/Launchpad-IDO.pdf), [Halborn](https://sienna.network/static/documents/Lending-and-Launchpad-Updated-Code.pdf), [Halborn](https://sienna.network/static/documents/Rewards-Bonding-Update.pdf) |
-| [Elusiv](https://elusiv.io) | Create blockchain privacy solutions that are built for everyday transactions — with the power of scalable ZK infrastructure on Solana ✨️**ZK** | ([GitHub](https://github.com/elusiv-privacy)) | live, march 2023 | Solana | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40)) | [Docs](https://docs.elusiv.io/) | - |
+| [Arcium, ex-Elusiv](https://arcium.com) | The first parallelized confidential computing network  | ([GitHub](https://github.com/elusiv-privacy)) | live, march 2023 | Solana | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40)) | [Docs](https://docs.elusiv.io/) | - |
 | [Offshift](https://www.offshift.io) | Offshift’s proprietary Shifting mechanism allows users to Shift between our native token, XFT, and a full palette of private synthetics | ([GitLab](https://open.offshift.io/offshiftXFT)) | live, march 2023 | Ethereum | ([anon](https://offshift.io/#team)) | - | - |
 | [Bermuda Bay](https://www.bermudabay.xyz/) | Bermuda Bay is a next-level decentralized privacy protocol on Gnosis Chain. The protocol supports secure shielded transactions for both individual users and multisig wallets. | - | testnet live 2023 | Gnosis Chain | anon | [Docs](https://docs.bermudabay.xyz/) | - |
 | [CAPE](https://www.espressosys.com/product) | Configurable Asset Privacy for Ethereum | ([GitHub](https://github.com/EspressoSystems/cape)) | testnet | Ethereum | anon | [Docs](https://docs.espressosys.com/sequencer/espresso-sequencer-architecture/readme) | - |
@@ -315,6 +316,10 @@ Feel free to update the list!
 | [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | ([Docs](https://docs.ethernity.cloud)) | live | - | - |
 | [TACEO](https://www.taceo.io) | Decentralized Computing with Privacy | - | - | - | public |
 
+## AI
+
+| [Rainfall](https://rainfall.one) | The world’s first decentralized, privacy-preserving, personal AI platform | - | - | - | - |
+
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -416,6 +421,7 @@ Feel free to update the list!
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/overview/carv-intro)) | - | - | - |
 | BANS | Beam Anonymous Name Service | ([Github](https://github.com/BeamMW/BANS)) ([Docs](https://medium.com/beam-mw/create-your-own-id-with-bans-beam-anonymous-name-service-34596e4f4f)) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
 | [Rarimo](https://rarimo.com//) | Rarimo is a privacy-first social protocol. It seamlessly combines various identity standards and allows the formation of a private but verifiable history of their use and relations using ZK proofs. | ([GitHub](https://github.com/rarimo)) ([Docs](https://docs.rarimo.com/))| live | multichain | (yes) | ([Public](https://github.com/orgs/rarimo/people)) |
+| [Creds](https://creds.xyz) | helps you understand your current and future community better by leveraging insights and gamification to create personalised experiences | - | live | - | - | - |
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
@@ -474,6 +480,8 @@ Feel free to update the list!
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
 | [4thPillar Project](https://the4thpillar.io) | Community-build dMail & dChat | ([GitHub](https://github.com/4P-project/)) | - | - | - |
 | Beam Messenger | Decentralized anonymous messenger in the Beam Wallet | ([Github](https://github.com/BeamMW/beam-ui)) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
+| [OpenChat](https://oc.app) | a fully featured chat application running end-to-end on the Internet Computer blockchain. | -| live | - | - |
+
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
@@ -584,6 +592,7 @@ Feel free to update the list!
 | [ENCOINS](https://encoins.io) | Privacy protocol on Cardano | ([GitHub](https://github.com/encryptedcoins)) | - | - | - |
 | [Eppie](https://eppie.io) | Privacy protocol on Cardano | - | - | - | - |
 | [ETH.LIMO](https://eth.limo/#how-limo-works) | a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content | ([GitHub](https://github.com/ethlimo)) | - | - | - |
+| [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | ([Docs](https://docs.fractalframework.xyz/home)) | - | - | - |
 
 
 ## OS
