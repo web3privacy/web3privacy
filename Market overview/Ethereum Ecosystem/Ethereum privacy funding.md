@@ -27,6 +27,7 @@ We are analyzing Gitcoin-related funding for privacy projects: https://explorer.
 | Hey.xyz | social media app | Social | [web](https://hey.xyz) | [GitHub](https://github.com/heyxyz) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/25/1)| $42654.13 | 
 | Dappnode | a decentralized infrastructure platform | Infra | [web](https://dappnode.com) | [GitHub](https://github.com/dappnode) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/48)| $7262.37 | 
 | Umbracash | a protocol that lets you get paid privately on Ethereum and Layer 2 networks.| DeFi | [web](https://app.umbra.cash/) | [GitHub](https://github.com/ScopeLift) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/26/67)| $9972.59 | 
+| Vocdoni | Secure digital voting | Voting | [web](https://vocdoni.io/) | [GitHub](https://github.com/vocdoni) | [Gitcoin](https://explorer.gitcoin.co/#/round/42161/25/199)| $2970.56 | 
 
 ## VC-centric funding '24
 
