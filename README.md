@@ -109,6 +109,11 @@ Feel free to update the list!
 | [Shhwapit](https://shhwapit.com) | a fully compliant asset anonymizing tool.  | - | - | - | - | - | - |
 | [Enclave Markets](https://www.enclave.market) | Fully Encrypted Exchange  | - | - | - | - | ([Docs](https://enclave-markets.notion.site/Enclave-Markets-API-Documentation-93b53ce24d3a4531ba09519c708483a9)) | - |
 | [RenegadeFi](https://www.renegade.fi) | Dark Pool  | ([GitHub](https://github.com/renegade-fi)) | - | - | - | ([Docs](https://docs.renegade.fi)) | - |
+| [Arcane Finance](https://www.arcane.finance) | Privacy DEX on Aleo | ([GitHub](https://github.com/arcane-finance-defi)) | - | - | anon | ([Docs](http://docs.arcane.finance/)) | - |
+| [PrivX](https://privx.exchange) | Privacy DEX on Aleo | ([GitHub](https://github.com/privx-exchange/privx-exchange-contract)) | - | - | anon | ([Docs](https://docs.privx.exchange/)) | - |
+| [Owshen Network](https://owshen.io) | DeFi privacy platform for Ethereum | ([GitHub](https://github.com/OwshenNetwork/owshen)) | - | - | anon | ([Docs](https://owshen.io/book)) | - |
+| [AlphaSwap](https://alphaswap.pro) | Privacy DEX on Aleo| ([GitHub](https://github.com/aleoswap-labs)) | - | - | anon | - | - |
+| [Mirge](https://solmirage.web.app) | private pools on Solana | - | - | - | anon | - | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -240,6 +245,9 @@ Feel free to update the list!
 | [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
 | [AIOZ Network](https://aioz.network/node-app) | Web3 Infrastructure for AI, Storage and Streaming.  | - | - | - | - |
 | [Elosys](https://elosys.io) | decentralized blockchain delivering truly anonymous, untraceable transactions. Built on PoW consensus and zkSNARKs  | ([GitHub](https://github.com/ElosysIo)) | - | - | - |
+| [Ξigen Network](https://www.eigen.cash) | a programmable privacy layer for every Web3 participant in the EVM-compatible ecosystem via private zkVM. | ([GitHub](https://github.com/0xEigenLabs)) | - | - | - |
+| [IZAR](https://www.izar.xyz) | Cross-chain protocol: Ethereum x Aleo | ([Docs](https://docs.izar.xyz/)) | anon | - | - |
+| [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | ([GitHub](https://github.com/ZKTNetwork)) | anon | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -303,8 +311,9 @@ Feel free to update the list!
 | [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3. | ([Docs](https://docsend.com/view/7bkgvzagr6ifhwrc)) | live | multichain | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU)) |
 | [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing. | - | testnet | Aleo | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2242785598%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=6tr)) |
 | [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence. | ([GitHub](https://github.com/PlatONnetwork)) | live | Alaya | ([Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2214399632%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=PCz)) |
-| [Marlin](https://www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | ([GitHub](https://github.com/marlinprotocol)) | live | Alaya | - |
-| [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | ([Docs](https://docs.ethernity.cloud)) | live | Alaya | - |
+| [Marlin](https://www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | ([GitHub](https://github.com/marlinprotocol)) | live | - | - |
+| [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | ([Docs](https://docs.ethernity.cloud)) | live | - | - |
+| [TACEO](https://www.taceo.io) | Decentralized Computing with Privacy | - | - | - | public |
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
@@ -773,6 +782,8 @@ Feel free to update the list!
 | [GenomesDAO](https://genomes.io) |  money and anonymously power scientific and medical research | - | - | - | - |
 | [Night Finance](https://night.finance) |  A Stealth Address-Powered Private and Composable Account Layer for Ethereum | - | - | - | - |
 | [Freedom Tool](https://freedomtool.org/#/) | Freedom Tool is a transparent, privacy-preserving blockchain voting system based on biometric passports and zero-knowledge proofs. | ([GitHub](https://github.com/rarimo#freedomtool)) ([Docs](https://docs.rarimo.com/ecosystem/freedom-tool/))  | live | - | ([Public](https://github.com/orgs/rarimo/people))  |
+| [BlockChair](https://blockchair.com) | the most private blockchain search engine | ([GitHub](https://github.com/Blockchair)) ([Docs](https://blockchair.com/api/docs))  | live | - | -  |
+| [ANS](https://www.aleonames.id) | Where domain naming meets privacy  | ([Docs](https://docs.aleonames.id/developer-guide/integrate-ans-into-frontend))  | live | - | -  |
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
