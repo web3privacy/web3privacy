@@ -194,3 +194,12 @@ _Purpose_:
 | zkZak | Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform. | https://github.com/KaiStryker/zkZak | https://ethglobal.com/showcase/zkzak-tkbum |
 | diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | https://github.com/meirbank/ETHBogota2022 | https://ethglobal.com/showcase/dizkreet-4rvz2 | 
 | PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | https://github.com/e84145fd66c3c309188e0d440169d955/privo | https://ethglobal.com/showcase/privo-agroc | 
+
+## ETHAmsterdam (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| ZKRep | A way to track a user's reputation with an organization without disclosing it to others | https://github.com/JasperTimm/ZKRep | https://ethglobal.com/showcase/zkrep-zjxpr | 
+| zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | https://github.com/GigaHierz/zk-terabithia | https://ethglobal.com/showcase/zk-maia-mq7et | 
+
+
