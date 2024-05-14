@@ -187,7 +187,7 @@ _Purpose_:
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | A private trading ZK shielded pool on OP | Solving copy-trading via building a shielded OP pool and an onchain derivatives exchange. Uses MetaMask Snaps to generate proof. | [GitHub](https://github.com/Boyuan-Deng/p0xeidon-trading-platform) | [Web](https://ethglobal.com/showcase/a-private-trading-zk-shielded-pool-on-op-5c8hn) |
-| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) | 
+| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig) | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) | 
 | ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | [GitHub](https://github.com/piotr-roslaniec/ethbogota-2022) | [Web](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) | 
 | ZK Vote | Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote. | [GitHub](https://github.com/luanpontolio/zk-voting-system) | [Web](https://ethglobal.com/showcase/zk-vote-9ipgt) |
 | I AM: Self Sovereign zk-ID | Mobile web3 Self-Sovereign NFT ID for LatAm | [GitHub](https://github.com/fabiola29298/ethbogota22) | [Web](https://ethglobal.com/showcase/i-am-self-sovereign-zk-id-q6cbr) |
