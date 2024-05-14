@@ -202,4 +202,17 @@ _Purpose_:
 | ZKRep | A way to track a user's reputation with an organization without disclosing it to others | https://github.com/JasperTimm/ZKRep | https://ethglobal.com/showcase/zkrep-zjxpr | 
 | zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | https://github.com/GigaHierz/zk-terabithia | https://ethglobal.com/showcase/zk-maia-mq7et | 
 
+## ETHLisbon (2021)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| PrivAccess | PrivAccess allows getting access to restricted resources without leaking your identity. You could prove you pay your Netflix subscription on-chain without leaking your entireer financial records. |  | https://devpost.com/software/privaccess |
+| Proof Of Membership | An application that allows a user to prove that their address is found within a set of addresses that all fulfill arbitrary parameters, such as proof of minimum balance. | https://github.com/vicnaum/proof-of-membership | https://devpost.com/software/proof-of-membership | 
+
+
+<!-- 
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+|  |  |  |  |
+-->
 
