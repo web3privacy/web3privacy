@@ -181,3 +181,16 @@ _Purpose_:
 | GHOTip | A web app that helps customers to tip anonymously and easily  | [GitHub](https://github.com/Ricy137/GHOTip-zk) | [web](https://ethglobal.com/showcase/ghotip-5vix5)
 | Privacy GHO Token | a privacy layer for GHO stablecoin by allowing the issuance and transfer of GHO while maintaining an encrypted balance. | [GitHub](https://github.com/Prajjawalk/LFGHO-fhEVM) | [web](https://ethglobal.com/showcase/privacy-gho-token-g65by)
 | Simon Wallet |  Accounts with Zero Trust and Passkeys. Send GHO seamlessly, earn interest on stablecoins. Non-custodial, user-empowered, ensuring privacy and control | [GitHub](https://github.com/dylanszejnblum/lfgho-smart-wallet) | [web](https://ethglobal.com/showcase/simon-wallet-2e5p3)
+
+## ETHBogota (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| A private trading ZK shielded pool on OP | Solving copy-trading via building a shielded OP pool and an onchain derivatives exchange. Uses MetaMask Snaps to generate proof. | https://github.com/Boyuan-Deng/p0xeidon-trading-platform | https://ethglobal.com/showcase/a-private-trading-zk-shielded-pool-on-op-5c8hn |
+| PrivateMultiSig | Multi Signature Wallet with private voting solution. | https://github.com/markolazic01/PrivateMultiSig | https://ethglobal.com/showcase/privatemultisig-v59mq | 
+| ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | https://github.com/piotr-roslaniec/ethbogota-2022 | https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq | 
+| ZK Vote | Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote. | https://github.com/luanpontolio/zk-voting-system | https://ethglobal.com/showcase/zk-vote-9ipgt |
+| I AM: Self Sovereign zk-ID | Mobile web3 Self-Sovereign NFT ID for LatAm | https://github.com/fabiola29298/ethbogota22 | https://ethglobal.com/showcase/i-am-self-sovereign-zk-id-q6cbr |
+| zkZak | Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform. | https://github.com/KaiStryker/zkZak | https://ethglobal.com/showcase/zkzak-tkbum |
+| diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | https://github.com/meirbank/ETHBogota2022 | https://ethglobal.com/showcase/dizkreet-4rvz2 | 
+| PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | https://github.com/e84145fd66c3c309188e0d440169d955/privo | https://ethglobal.com/showcase/privo-agroc | 
