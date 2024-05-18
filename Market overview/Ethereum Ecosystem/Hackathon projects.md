@@ -12,9 +12,15 @@ _Purpose_:
 
 ## Event name
 
-| Project | Category | Description | Privacy use-case | Demo | GitHub | Web | 
-| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
-| Project name | Specific category (example: gaming) | Short description explaining project purpose ("Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link | GitHub link | Hackathon link |
+| Project | Category | Description | Privacy use-case | Demo | GitHub | Web | Tags |
+| ------------- | ------------- |------------- |------------- |------------- |------------- | ------------- | ------------- |
+| Project name | Specific category (example: gaming) | Short description explaining project purpose ("Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link | GitHub link | Hackathon link | tag 1, tag 2, tag 3 |
+
+
+_Exanple_
+ Project  | Category | Description | GitHub | Web | tags |
+| ------------- | ------------- |------------- |------------- | ------------- |
+| ｗｈｉｓｐｅｒ | Fundraising | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea) | process: "quadratic voting", applied project: "secret network", privacy features: "private voting" |
 
 
 # 2024
