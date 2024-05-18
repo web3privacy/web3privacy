@@ -20,7 +20,7 @@ _Purpose_:
 _Exanple_
 
 | Project  | Category | Description | GitHub | Web | Process | Applied project | Privacy features |
-| ------------- | ------------- |------------- |------------- | ------------- |------------- |
+| ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |------------- |
 | ｗｈｉｓｐｅｒ | Fundraising | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea) | quadratic voting | secret network | private voting |
 
 
