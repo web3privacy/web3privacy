@@ -17,7 +17,7 @@ _Purpose_:
 | Project name | Specific category (example: gaming) | Short description explaining project purpose ("Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link | GitHub link | Hackathon link | tag 1, tag 2, tag 3 |
 
 
-_Exanple_
+_Example_
 
 | Project  | Category | Description | GitHub | Web | Process | Applied project | Privacy features |
 | ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |------------- |
