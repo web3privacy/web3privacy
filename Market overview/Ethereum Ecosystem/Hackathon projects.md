@@ -19,7 +19,7 @@ _Purpose_:
 
 # 2024
 
-## ETHDam
+## ETHDam 
 
 | Project  | Description | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |
@@ -38,7 +38,7 @@ _Purpose_:
 | ｗｈｉｓｐｅｒ | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea)
 
 
-## SCALING ETHEREUM
+## SCALING ETHEREUM 2024
 
 | Project  | Description | Category | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |------------- |
@@ -60,7 +60,7 @@ _Purpose_:
 | Thumper | structured zk setup ceremonies with trustless coordination, privacy, sybil-resistance, and zk-proven results | Trustless setup | [GitHub](https://github.com/justinfrevert/thumper) | [web](https://ethglobal.com/showcase/thumper-dbvy2)
 | Polar | web3 auth provider that privately stores user data in decentralized storage and selectively reveals it to the client app. | Auth | [GitHub](https://github.com/Complexia/polar) | [web](https://ethglobal.com/showcase/polar-p0f2b)
 
-## ETHBucharest
+## ETHBucharest 
 
 | Project  | Description | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |
@@ -182,153 +182,7 @@ _Purpose_:
 | Privacy GHO Token | a privacy layer for GHO stablecoin by allowing the issuance and transfer of GHO while maintaining an encrypted balance. | [GitHub](https://github.com/Prajjawalk/LFGHO-fhEVM) | [web](https://ethglobal.com/showcase/privacy-gho-token-g65by)
 | Simon Wallet |  Accounts with Zero Trust and Passkeys. Send GHO seamlessly, earn interest on stablecoins. Non-custodial, user-empowered, ensuring privacy and control | [GitHub](https://github.com/dylanszejnblum/lfgho-smart-wallet) | [web](https://ethglobal.com/showcase/simon-wallet-2e5p3)
 
-## ETHLisbon (2021)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| PrivAccess | PrivAccess allows getting access to restricted resources without leaking your identity. You could prove you pay your Netflix subscription on-chain without leaking your entireer financial records. |  | [Web](https://devpost.com/software/privaccess) |
-| Proof Of Membership | An application that allows a user to prove that their address is found within a set of addresses that all fulfill arbitrary parameters, such as proof of minimum balance. | [GitHub](https://github.com/vicnaum/proof-of-membership) | [Web](https://devpost.com/software/proof-of-membership) | 
-
-## ETHOnline (2021)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Private Lossless Prediction Market | Open protocol providing private prediction markets | [GitHub](https://github.com/udayj/ppmarket) | [Web](https://ethglobal.com/showcase/private-lossless-prediction-market-q4az3) |
-| PassPet - Verifiable and Private Pet Records for International Travel | EU-compliant "Pet Passport" NFTs stored privately on-chain, and verifiable by anyone, to make international travel easier | [GitHub](https://github.com/belaguer/passPet) | [Web](https://ethglobal.com/showcase/passpet-verifiable-and-private-pet-records-for-international-travel-88g5z) | 
-
-## Scaling Ethereum (2021)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Shhh! | One-time-read messaging system that uses Secret Network to securely store messages and deliver secrets like passwords, private keys, credit card information, api keys, etc. It isn't like other secret data stores, though. Once a message is retrieved, it is burned and can't be retrieved again. | [GitHub](https://github.com/endowl/shhh.buzz) | [Web](https://ethglobal.com/showcase/shhh--6otiu) |
-| Secret Manufaktur | Privacy for NFT art. It allows artists and collectors to leverage secret networks privacy preserving smart contracts to enable on-chain unlockable content, hidden ownership and private transactions. | [GitHub](https://github.com/floAr/ScalingEth-Hack) | [Web](https://ethglobal.com/showcase/secret-manufaktur-kgc33) | 
-
-## UniCode (2021)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| reed | Verifiable tarot card pulls for private AZTEC & transparent Optimism uniswap trades in DAO governance and exit quits | [GitHub](https://github.com/moskalyk/reed) | [Web](https://ethglobal.com/showcase/reed-gwxz3) |
-| AzUniswap | Perform private and cheap swap on Uniswap through aztec bridge | [GitHub](https://github.com/Xuefeng-Zhu/private-swap) | [Web](https://ethglobal.com/showcase/azuniswap-v2ga3) | 
-| IncrediSwap | Swap app via Aztec rollup in order to reduce slippage on Uniswap v3 and have private swaps | [GitHub](https://github.com/IncrediSwap/IncrediSwap) | [Web](https://ethglobal.com/showcase/incrediswap-e0j4w) | 
-
-## Road To Web3 (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| ZK Commitable NFT | The project uses zk proofs, merkle trees, and erc721s to commit to a hidden token that the user owns. The token may be revealed at a later time. The project is bare bones and is intended to be used as a building block for more complex use cases, such as on chain gaming where attributes must remain hidden. | [GitHub](https://github.com/calvbore/zk-commitable-nft) | [Web](https://ethglobal.com/showcase/zk-commitable-nft-qsw31) |
-| ZKDP |  Join any NFT holder limited real events without revealing your wallet address | [GitHub](https://github.com/hiroism007/zkdp) | [Web](https://ethglobal.com/showcase/zkdp-30roi) |
-
-## BuildQuest (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| zk-Sieve | Simple quiz game where users answer questions. zk-SNARKS are used so no one can copy your answer, but never revealed.| [GitHub](https://github.com/Tointer/zk-sieve) | [Web](https://ethglobal.com/showcase/zk-sieve-te7d8) |
-
-## LFGrow (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| PrivateAI | This project empowers social platform dApp with powerful AI algorithms and guaranteed privacy. | [GitHub](https://github.com/sicongzhao/LFGrow-ML) | [Web](https://ethglobal.com/showcase/privateai-0p5oj) |
-
-## ETHAmsterdam (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| ZKRep | A way to track a user's reputation with an organization without disclosing it to others | [GitHub](https://github.com/JasperTimm/ZKRep) | [Web](https://ethglobal.com/showcase/zkrep-zjxpr) | 
-| zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | [GitHub](https://github.com/GigaHierz/zk-terabithia) | [Web](https://ethglobal.com/showcase/zk-maia-mq7et) | 
-
-## ETHNewYork (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| zkCommonGround by Hashchat | Solving the first-offer dilemma by allowing buyers and sellers to match without disclosing prices |[GitHub](https://github.com/hashchat-xyz/zkCommonGround) | [Web](https://ethglobal.com/showcase/zkcommonground-by-hashchat-cntfq) |
-| ZK KYC SBT | zero-knowledge know-your-customer and personhood proof soulbound token | [GitHub](https://github.com/ETHNYC-ZK-KYC-Soulbound) | [Web](https://ethglobal.com/showcase/zk-kyc-sbt-ozwb2) |
-| Cross Fader | A multi chain privacy mixer. Anonymize transactions on any L2. | [GitHub](https://github.com/johhonn/ETHNYC) | [Web](https://ethglobal.com/showcase/cross-fader-k2601) | 
-| AttributionX | Attribution for Advertisers : Facilitate sharing of data in a private way to get attribution calculated. | [GitHub](https://bitbucket.org/shreenam/ethnyc_privy/) | [Web](https://ethglobal.com/showcase/attributionx-ynucd) | 
-
-## HackFS 2022
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Om - zkDAO | Uses zero-knowledge proofs to provide a decentralized and private data storage layer solution. | [GitHub](https://github.com/OmHackFS/om/) | [Web](https://ethglobal.com/showcase/om-zkdao-k94t2) |
-| Zero Party Data | Zero knowledge proof to verify eligibility for gifts & discount offers by Brands. Personal data is not stored on-chain. | [GitHub](https://github.com/mekhiya/zeroPartyData) | [Web](https://ethglobal.com/showcase/zero-party-data-jxdrv) | 
-
-## ETHMexico (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Zkredit | Mina ZkApp for secure, private and bias-free mortgage credit | [GitHub](https://github.com/Ferret-san/zkredit) | [Web](https://ethglobal.com/showcase/zkredit-p9ivq) |
-| DID | Online private and unique digital Identity profile where all official credentials can be safely and permanently stored allowing easier access to manage and allocate user identification. | [GitHub](https://github.com/DavidCBarbedillo/ETHGlobal-DID) | [Web](https://ethglobal.com/showcase/did-gmiic) | 
-
-## ETHOnline (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Zero-knowledge machine learning | We ZK-SNARK the first ImageNet model for fully privacy preserving model weights or image inputs | [GitHub](https://github.com/ddkang/zkml) | [Web](https://ethglobal.com/showcase/zero-knowledge-machine-learning-u9fqp) |
-| zkForms | Form builder with open and restriced forms. For restricted forms, it uses the Zero Knowledge proofs and snarkjs to prove that the user owns the private key to the address and is authorized to fill the restricted form. | [GitHub](https://github.com/zkSuite/ETHOnline-2022) | [Web](https://ethglobal.com/showcase/zkforms-cqpn9) |
-| zkAuth | 2FA for EVM blockchains, compatible with the broadly adapted timed-one-time-password (TOTP) algorithm. We remove the trusted validator, creating a zero-trust authentication circuit and solve the challenge of on-chain visibility by verification via zero-knowledge proofs. | [GitHub](https://github.com/danieljcss/zkAuth) | [Web](https://ethglobal.com/showcase/zkauth-zgdq7) |
-| MagicPrivateCollector | Private and secure NFTs in any form including images, music, video, literature, and more! | [GitHub](https://github.com/MagicWizardTech/magicprivatecollector) | [Web](https://ethglobal.com/showcase/magicprivatecollector-u3dgp) |
-
-## ETHBogota (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| A private trading ZK shielded pool on OP | Solving copy-trading via building a shielded OP pool and an onchain derivatives exchange. Uses MetaMask Snaps to generate proof. | [GitHub](https://github.com/Boyuan-Deng/p0xeidon-trading-platform) | [Web](https://ethglobal.com/showcase/a-private-trading-zk-shielded-pool-on-op-5c8hn) |
-| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig) | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) | 
-| ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | [GitHub](https://github.com/piotr-roslaniec/ethbogota-2022) | [Web](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) | 
-| ZK Vote | Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote. | [GitHub](https://github.com/luanpontolio/zk-voting-system) | [Web](https://ethglobal.com/showcase/zk-vote-9ipgt) |
-| I AM: Self Sovereign zk-ID | Mobile web3 Self-Sovereign NFT ID for LatAm | [GitHub](https://github.com/fabiola29298/ethbogota22) | [Web](https://ethglobal.com/showcase/i-am-self-sovereign-zk-id-q6cbr) |
-| zkZak | Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform. | [GitHub](https://github.com/KaiStryker/zkZak) | [Web](https://ethglobal.com/showcase/zkzak-tkbum) |
-| diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | [GitHub](https://github.com/meirbank/ETHBogota2022) | [Web](https://ethglobal.com/showcase/dizkreet-4rvz2) | 
-| PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | [GitHub](https://github.com/e84145fd66c3c309188e0d440169d955/privo) | [Web](https://ethglobal.com/showcase/privo-agroc) | 
-
-## ETHSanFrancisco (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| Zkooter | Zkooter uses Mina's zk contracts to provide attestations of wealth, allowing people to retain clout when posting all while never revealing their identity. | [GitHub](https://github.com/SimonBerens/EthSf) | [Web](https://ethglobal.com/showcase/zkooter-skjn1) |
-| ZKDVC on PolygonID | zkDVC - A Threshold-based Credit Issuance Template Module for PolygonID by KNN3 Network. | [GitHub](https://github.com/KNN3-Network/ETHSF2022-Hackathon-ZKDVC) | [Web](https://ethglobal.com/showcase/zkdvc-on-polygonid-x2ie1) |
-| ZK Section 9 | Generating Succinct ZK Proofs for Content-Generating Machine Learning Models; Proving that AI-Generated content is authentic with ZKML | [GitHub](https://github.com/zk-ml/uchikoma) | [Web](https://ethglobal.com/showcase/zk-section-9-9ce2n) |
-| ZK Stablecoin Engine | An API for Sending Private Stablecoin Transactions on Polygon Nightfall | [GitHub](https://github.com/domsteil/zk-stablecoin-engine) | [Web](https://ethglobal.com/showcase/zk-stablecoin-engine-nbshq) |
-| Onchain ZK Shuffle Texas HoldEm | A zkSNARK based card shuffling and dealing scheme and a demo application of a fully on-chain Texas Hold’em game on Ethereum. Private shuffling due to MEV breaking gameplay otherwise. | [GitHub](https://github.com/p0xeidon-labs/zkPoker) | [Web](https://ethglobal.com/showcase/onchain-zk-shuffle-texas-holdem-wuc8u) |
-| ZKBlueBird | Prove their Twitter belongs to a real human. All users who have verified their account with a privacy-preserving proof of personhood will be shown with a checkmark. | [GitHub](https://github.com/Tonycrypto44/ZKBlueBird,%20https://github.com/nanaknihal/blue-check,%20https://github.com/nanaknihal/blue-check-db-server) | [Web](https://ethglobal.com/showcase/zkbluebird-c421b) |
-| Secret Weavers | Anonymous DAO voting and behaviour analysis | [GitHub](https://github.com/zara-gm/weave) | [Web](https://ethglobal.com/showcase/secret-weavers-q98on) |
- 
-## Hack FEVM (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| FILzk-NFT | FILzk-NFT is an abstraction layer NFT backed by Zero Knowledge Proofs for service provider's identities that any DataDAO can leverage. | [GitHub](https://github.com/hrsh22/FILzk-NFT) | [Web](https://ethglobal.com/showcase/filzk-nft-xrmze) |
-| ZKsig NFTs | Marketplace delegated authorization using NFTs and legally binding agreements. Like Docusign meets the blockchain. | [GitHub](https://github.com/zksig) | [Web](https://ethglobal.com/showcase/zksig-nfts-j597n) |
-
-## ETHIndia (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| ZKJob -Fully Anonymous Video based Linkedin | Anonymous job matching, and maximize your appeal by submitting your own PR video! Fully Anonymous Video based LinkedIn powerd by web3 with meeting app buildin. | [GitHub](https://github.com/luka1104/ETHIndia-ZKJob) | [Web](https://ethglobal.com/showcase/zkjob-fully-anonymous-video-based-linkedin-g2c6y) |
-| ZKardo | Creating democratic anonymous voting for nft communities using zkp. | [GitHub](https://github.com/kpkeerthi25/zkardo) | [Web](https://ethglobal.com/showcase/zkardo-dm6a3) |
-| zkDoc | Access all your medical records with just your Phone Number! An elegant solution to healthcare and hospital backend systems that bring Access, Security & Ease to ALL patients. | [GitHub](https://github.com/sanjana1999/zk-doc) | [Web](https://ethglobal.com/showcase/zkdoc-pg421) |
-| ZK KYC | zk KYC of Aadhar, Driving License and other Documents. Verify claims when requested by an authorized verifier without compromising the privacy of the user. | [GitHub](https://github.com/ehteshaxm/zkyc) | [Web](https://ethglobal.com/showcase/zk-kyc-8mf5t) |
-| zk-mobile number verifier | Verify on chain accounts with off-chain phone numbers including area-wise segregation based on country codes | [GitHub](https://github.com/ithihas-Y/eth-Hackathon) | [Web](https://ethglobal.com/showcase/zk-mobile-number-verifier-uq5yh) |
-| zkFundRaise | one stop privacy solution for anonymous fund raising and donations | [GitHub](https://github.com/bharathbabu68/ETHIndia2k22) | [Web](https://ethglobal.com/showcase/zkfundraise-8iavg) |
-| SigmaZK | Proof of Work in a Zero knowledge way for DAOs and NFT communities | [GitHub](https://github.com/gitaalekhyapaul/ETHIndia2022-SigmaSoiBois) | [Web](https://ethglobal.com/showcase/sigmazk-81d5x) |
-| Zk Lancers | decentralised and distributed Freelancing platform enabling zero-knowledge transparency and authentic business between clients and freelancers based on a reputation system. | [GitHub](https://github.com/TheGreatFellow/zk-freelance) | [Web](https://ethglobal.com/showcase/zk-lancers-p7403) |
-| zkPayroll | Privacy preserved payroll management and payment on Blockchain. | [GitHub](https://github.com/jadd22/zkpayroll) | [Web](https://ethglobal.com/showcase/zkpayroll-3y9po) |
-| zkPay | Zero Knowledge Payment Gateway for a Privacy Focused Future | [GitHub](https://github.com/0xZkPay) | [Web](https://ethglobal.com/showcase/zkpay-teavh) |
-| ZK Worth | Prove your assets are above a threshold without revealing your wallet addresses or on-chain activity. | [GitHub](https://github.com/kevinjoshi46b/zk-worth) | [Web](https://ethglobal.com/showcase/zk-worth-g5n10) |
-| Zero Pass | Users can verify their phone number or solve captcha in this app to mint a NFT. Other apps can read the NFT to validate phone number, captcha etc. zk is used for anon profile. | [GitHub](https://github.com/DomnicAmalan/zeropas-api) | [Web](https://ethglobal.com/showcase/zero-pass-66ifq) |
-| Privacy-Auth | Auth yourself without revealing anything sensitive. | [GitHub](https://github.com/shryasss/privacy-auth) | [Web](https://ethglobal.com/showcase/privacy-auth-5qakm) |
-| 3gram | gram is a privacy focussed decentralized web3 photo and video sharing application. | [GitHub](https://github.com/itsswappyb/3gram-ui) | [Web](https://ethglobal.com/showcase/3gram-u8cux) |
-| Briv App | decentralized chatting application that focuses on the privacy and security of the users. | [GitHub](https://github.com/AnandSuresh02/ETHIndia-Project) | [Web](https://ethglobal.com/showcase/briv-app-4mtf3) |
-
-## FVM Space Warp (2022)
-
-| Project | Description | GitHub | Web |
-| ------- | ----------- | ------ | --- |
-| zkFICATION | zkFICATION is an platform to Issue ZK claims to Storage Providers that can be used to prove facts about them on-chain without revealing any sensitive data | [GitHub](https://github.com/shannon-vaz/spacewarp-2023) | [Web](https://ethglobal.com/showcase/zkfication-hh8bq) |
-| zkTrace | privacy supply chain protocol that uses zk proofs and merkle trees to leverage on privacy. | [GitHub](https://github.com/blok-hamster/ZK_TRACE_FEVM) | [Web](https://ethglobal.com/showcase/zktrace-imqfh) |
-| ZKaggle | Bounty platform for incentivized decentralized computing on FVM. ZKP serves two purposes here: (1) to keep the proof of computation succinct, and (2) to allow bounty hunters to monetize private models with credibility. | [GitHub](https://github.com/z-kaggle/ZKaggle) | [Web](https://ethglobal.com/showcase/zkaggle-70g3b) |
-| ZeroTherapy | zero-knowledge-based secure dApp that allows a counselor/therapist to create sessions where participants can join and ask questions anonymously, creating an open and safe environment. | [GitHub](https://github.com/Pushpit07/ZeroTherapy) | [Web](https://ethglobal.com/showcase/zerotherapy-n18ph) |
+# 2023
 
 ## Scaling Ethereum (2023)
 
@@ -481,21 +335,174 @@ _Purpose_:
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
-|  |  | [GitHub]() | [Web]() |
+| ZKHost | A zk based event management solution to check in attendees easily without requiring their personal or wallet data. | [GitHub](https://github.com/rishabhkeshan/zkhost) | [Web](https://ethglobal.com/showcase/zkhost-8airn) |
+| ZKin.gen | ZK based decentralised ancestry detection framework. Secure, tamper-resistant storage with hashed encryption, reducing the risk of unauthorized access or breaches. | [GitHub](https://github.com/KushagraGupta02/ZKin.gen) | [Web](https://ethglobal.com/showcase/zkin-gen-eo474) |
+| zkP2M | Trustless and instant INR to USD on-ramp powered by ZK. Trustless, has no KYC, low fees and reduces fraud by matching users with merchants. | [GitHub](https://github.com/zkP2M/) | [Web](https://ethglobal.com/showcase/zkp2m-igbxk) |
+| ZKForms | Anonymous Surveying Platform | [GitHub](https://github.com/RomarioKavin1/zkforms-ethindia23) | [Web](https://ethglobal.com/showcase/zkforms-zero-knowledge-forms-6yhz6) |
+| zk2fa | Google Auth ZK Proofs. Allow a user to prove possession of certain information (like a valid authentication token) without revealing the underlying data itself. This ensures privacy while still confirming authentication. | [GitHub](https://github.com/aadhyamathur/zk-2fa) | [Web](https://ethglobal.com/showcase/zk2fa-ts6gt) |
+| ZK System | Anonymous voting system | [GitHub](https://github.com/vijayakashallenki/Anonymous-Voting) | [Web](https://ethglobal.com/showcase/zk-system-g41sm) |
+| TradeZK | Decentralized P2P ZK exchange built on privacy, simplicity and speed | [GitHub](https://github.com/DarthBenro008/tradezk) | [Web](https://ethglobal.com/showcase/tradezk-p9ep4) |
+| ZK Bridge | By disrupting the on-chain correlation between source and destination addresses, ZK Bridge significantly strengthens transaction privacy. | [GitHub](https://github.com/Ethindia23) | [Web](https://ethglobal.com/showcase/zk-bridge-sd8wa) |
+| Zk Regulatory Compliance Mixer | Harmonizing Blockchain Anonymity with Regulatory Compliance | [GitHub](https://github.com/srv-smn/Crypto-Mixers-Towards-Practical-Equilibrium-with-Regulatory-Compliance) | [Web](https://ethglobal.com/showcase/zk-regulatory-compliance-mixer-vcbtp) |
+| ZKFaceRecovery | Recover your Wallet using just your Face and Personal Trivia. Ensures privacy by verifying identity without exposing the actual facial data. | [GitHub](https://github.com/Nilay27/zk-wallet-recovery) | [Web](https://ethglobal.com/showcase/zkfacerecovery-sp96j) |
+| zkRizz | web3 dating platform. zk-Rizz never reveals your personal information or preferences to anyone. | [GitHub](https://github.com/r4reetik/zk-rizz) | [Web](https://ethglobal.com/showcase/zkrizz-gzmjx) |
+| Zkbill | Bill receipts have confidential information that cannot be added to public ledgers. This project creates a ZK application that will hide secret information and perform increment operation using ZK circuit. | [GitHub](https://github.com/harirubix/zkbill) | [Web](https://ethglobal.com/showcase/zkbill-guefe) |
+| ZeroSwipes | Community-driven dating | [GitHub](https://github.com/satwikkansal/zeroswipes) | [Web](https://ethglobal.com/showcase/zeroswipes-r2sna) |
+| PrivacyComm | Communicate confidentially on a testnet | [GitHub](https://github.com/technicalkuldeep/ethindia) | [Web](https://ethglobal.com/showcase/privacycomm-mrgg0) |
+| Private Voting using Tornado Cash | Tornado Cash provides anonimity of users, their balance and the transaction. We are extending these features to Private Voting by using the same zero knowledge primitives to ensure a fair voting. | [GitHub](https://github.com/zkMonk/zkVote_contracts) | [Web](https://ethglobal.com/showcase/private-voting-using-tornado-cash-7qxo6) |
+| Secret Spend | End-to-end private payments | [GitHub](https://github.com/shreyas-londhe/secret-spend) | [Web](https://ethglobal.com/showcase/secret-spend-f0a3j) |
 
+# 2022
+
+## Road To Web3 (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| ZK Commitable NFT | The project uses zk proofs, merkle trees, and erc721s to commit to a hidden token that the user owns. The token may be revealed at a later time. The project is bare bones and is intended to be used as a building block for more complex use cases, such as on chain gaming where attributes must remain hidden. | [GitHub](https://github.com/calvbore/zk-commitable-nft) | [Web](https://ethglobal.com/showcase/zk-commitable-nft-qsw31) |
+| ZKDP |  Join any NFT holder limited real events without revealing your wallet address | [GitHub](https://github.com/hiroism007/zkdp) | [Web](https://ethglobal.com/showcase/zkdp-30roi) |
+
+## BuildQuest (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| zk-Sieve | Simple quiz game where users answer questions. zk-SNARKS are used so no one can copy your answer, but never revealed.| [GitHub](https://github.com/Tointer/zk-sieve) | [Web](https://ethglobal.com/showcase/zk-sieve-te7d8) |
+
+## LFGrow (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| PrivateAI | This project empowers social platform dApp with powerful AI algorithms and guaranteed privacy. | [GitHub](https://github.com/sicongzhao/LFGrow-ML) | [Web](https://ethglobal.com/showcase/privateai-0p5oj) |
+
+## ETHAmsterdam (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| ZKRep | A way to track a user's reputation with an organization without disclosing it to others | [GitHub](https://github.com/JasperTimm/ZKRep) | [Web](https://ethglobal.com/showcase/zkrep-zjxpr) | 
+| zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | [GitHub](https://github.com/GigaHierz/zk-terabithia) | [Web](https://ethglobal.com/showcase/zk-maia-mq7et) | 
+
+## ETHNewYork (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| zkCommonGround by Hashchat | Solving the first-offer dilemma by allowing buyers and sellers to match without disclosing prices |[GitHub](https://github.com/hashchat-xyz/zkCommonGround) | [Web](https://ethglobal.com/showcase/zkcommonground-by-hashchat-cntfq) |
+| ZK KYC SBT | zero-knowledge know-your-customer and personhood proof soulbound token | [GitHub](https://github.com/ETHNYC-ZK-KYC-Soulbound) | [Web](https://ethglobal.com/showcase/zk-kyc-sbt-ozwb2) |
+| Cross Fader | A multi chain privacy mixer. Anonymize transactions on any L2. | [GitHub](https://github.com/johhonn/ETHNYC) | [Web](https://ethglobal.com/showcase/cross-fader-k2601) | 
+| AttributionX | Attribution for Advertisers : Facilitate sharing of data in a private way to get attribution calculated. | [GitHub](https://bitbucket.org/shreenam/ethnyc_privy/) | [Web](https://ethglobal.com/showcase/attributionx-ynucd) | 
+
+## HackFS 2022
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Om - zkDAO | Uses zero-knowledge proofs to provide a decentralized and private data storage layer solution. | [GitHub](https://github.com/OmHackFS/om/) | [Web](https://ethglobal.com/showcase/om-zkdao-k94t2) |
+| Zero Party Data | Zero knowledge proof to verify eligibility for gifts & discount offers by Brands. Personal data is not stored on-chain. | [GitHub](https://github.com/mekhiya/zeroPartyData) | [Web](https://ethglobal.com/showcase/zero-party-data-jxdrv) | 
+
+## ETHMexico (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Zkredit | Mina ZkApp for secure, private and bias-free mortgage credit | [GitHub](https://github.com/Ferret-san/zkredit) | [Web](https://ethglobal.com/showcase/zkredit-p9ivq) |
+| DID | Online private and unique digital Identity profile where all official credentials can be safely and permanently stored allowing easier access to manage and allocate user identification. | [GitHub](https://github.com/DavidCBarbedillo/ETHGlobal-DID) | [Web](https://ethglobal.com/showcase/did-gmiic) | 
+
+## ETHOnline (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Zero-knowledge machine learning | We ZK-SNARK the first ImageNet model for fully privacy preserving model weights or image inputs | [GitHub](https://github.com/ddkang/zkml) | [Web](https://ethglobal.com/showcase/zero-knowledge-machine-learning-u9fqp) |
+| zkForms | Form builder with open and restriced forms. For restricted forms, it uses the Zero Knowledge proofs and snarkjs to prove that the user owns the private key to the address and is authorized to fill the restricted form. | [GitHub](https://github.com/zkSuite/ETHOnline-2022) | [Web](https://ethglobal.com/showcase/zkforms-cqpn9) |
+| zkAuth | 2FA for EVM blockchains, compatible with the broadly adapted timed-one-time-password (TOTP) algorithm. We remove the trusted validator, creating a zero-trust authentication circuit and solve the challenge of on-chain visibility by verification via zero-knowledge proofs. | [GitHub](https://github.com/danieljcss/zkAuth) | [Web](https://ethglobal.com/showcase/zkauth-zgdq7) |
+| MagicPrivateCollector | Private and secure NFTs in any form including images, music, video, literature, and more! | [GitHub](https://github.com/MagicWizardTech/magicprivatecollector) | [Web](https://ethglobal.com/showcase/magicprivatecollector-u3dgp) |
+
+## ETHBogota (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| A private trading ZK shielded pool on OP | Solving copy-trading via building a shielded OP pool and an onchain derivatives exchange. Uses MetaMask Snaps to generate proof. | [GitHub](https://github.com/Boyuan-Deng/p0xeidon-trading-platform) | [Web](https://ethglobal.com/showcase/a-private-trading-zk-shielded-pool-on-op-5c8hn) |
+| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig) | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) | 
+| ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | [GitHub](https://github.com/piotr-roslaniec/ethbogota-2022) | [Web](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) | 
+| ZK Vote | Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote. | [GitHub](https://github.com/luanpontolio/zk-voting-system) | [Web](https://ethglobal.com/showcase/zk-vote-9ipgt) |
+| I AM: Self Sovereign zk-ID | Mobile web3 Self-Sovereign NFT ID for LatAm | [GitHub](https://github.com/fabiola29298/ethbogota22) | [Web](https://ethglobal.com/showcase/i-am-self-sovereign-zk-id-q6cbr) |
+| zkZak | Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform. | [GitHub](https://github.com/KaiStryker/zkZak) | [Web](https://ethglobal.com/showcase/zkzak-tkbum) |
+| diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | [GitHub](https://github.com/meirbank/ETHBogota2022) | [Web](https://ethglobal.com/showcase/dizkreet-4rvz2) | 
+| PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | [GitHub](https://github.com/e84145fd66c3c309188e0d440169d955/privo) | [Web](https://ethglobal.com/showcase/privo-agroc) | 
+
+## ETHSanFrancisco (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Zkooter | Zkooter uses Mina's zk contracts to provide attestations of wealth, allowing people to retain clout when posting all while never revealing their identity. | [GitHub](https://github.com/SimonBerens/EthSf) | [Web](https://ethglobal.com/showcase/zkooter-skjn1) |
+| ZKDVC on PolygonID | zkDVC - A Threshold-based Credit Issuance Template Module for PolygonID by KNN3 Network. | [GitHub](https://github.com/KNN3-Network/ETHSF2022-Hackathon-ZKDVC) | [Web](https://ethglobal.com/showcase/zkdvc-on-polygonid-x2ie1) |
+| ZK Section 9 | Generating Succinct ZK Proofs for Content-Generating Machine Learning Models; Proving that AI-Generated content is authentic with ZKML | [GitHub](https://github.com/zk-ml/uchikoma) | [Web](https://ethglobal.com/showcase/zk-section-9-9ce2n) |
+| ZK Stablecoin Engine | An API for Sending Private Stablecoin Transactions on Polygon Nightfall | [GitHub](https://github.com/domsteil/zk-stablecoin-engine) | [Web](https://ethglobal.com/showcase/zk-stablecoin-engine-nbshq) |
+| Onchain ZK Shuffle Texas HoldEm | A zkSNARK based card shuffling and dealing scheme and a demo application of a fully on-chain Texas Hold’em game on Ethereum. Private shuffling due to MEV breaking gameplay otherwise. | [GitHub](https://github.com/p0xeidon-labs/zkPoker) | [Web](https://ethglobal.com/showcase/onchain-zk-shuffle-texas-holdem-wuc8u) |
+| ZKBlueBird | Prove their Twitter belongs to a real human. All users who have verified their account with a privacy-preserving proof of personhood will be shown with a checkmark. | [GitHub](https://github.com/Tonycrypto44/ZKBlueBird,%20https://github.com/nanaknihal/blue-check,%20https://github.com/nanaknihal/blue-check-db-server) | [Web](https://ethglobal.com/showcase/zkbluebird-c421b) |
+| Secret Weavers | Anonymous DAO voting and behaviour analysis | [GitHub](https://github.com/zara-gm/weave) | [Web](https://ethglobal.com/showcase/secret-weavers-q98on) |
+ 
+## Hack FEVM (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| FILzk-NFT | FILzk-NFT is an abstraction layer NFT backed by Zero Knowledge Proofs for service provider's identities that any DataDAO can leverage. | [GitHub](https://github.com/hrsh22/FILzk-NFT) | [Web](https://ethglobal.com/showcase/filzk-nft-xrmze) |
+| ZKsig NFTs | Marketplace delegated authorization using NFTs and legally binding agreements. Like Docusign meets the blockchain. | [GitHub](https://github.com/zksig) | [Web](https://ethglobal.com/showcase/zksig-nfts-j597n) |
+
+## ETHIndia (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| ZKJob -Fully Anonymous Video based Linkedin | Anonymous job matching, and maximize your appeal by submitting your own PR video! Fully Anonymous Video based LinkedIn powerd by web3 with meeting app buildin. | [GitHub](https://github.com/luka1104/ETHIndia-ZKJob) | [Web](https://ethglobal.com/showcase/zkjob-fully-anonymous-video-based-linkedin-g2c6y) |
+| ZKardo | Creating democratic anonymous voting for nft communities using zkp. | [GitHub](https://github.com/kpkeerthi25/zkardo) | [Web](https://ethglobal.com/showcase/zkardo-dm6a3) |
+| zkDoc | Access all your medical records with just your Phone Number! An elegant solution to healthcare and hospital backend systems that bring Access, Security & Ease to ALL patients. | [GitHub](https://github.com/sanjana1999/zk-doc) | [Web](https://ethglobal.com/showcase/zkdoc-pg421) |
+| ZK KYC | zk KYC of Aadhar, Driving License and other Documents. Verify claims when requested by an authorized verifier without compromising the privacy of the user. | [GitHub](https://github.com/ehteshaxm/zkyc) | [Web](https://ethglobal.com/showcase/zk-kyc-8mf5t) |
+| zk-mobile number verifier | Verify on chain accounts with off-chain phone numbers including area-wise segregation based on country codes | [GitHub](https://github.com/ithihas-Y/eth-Hackathon) | [Web](https://ethglobal.com/showcase/zk-mobile-number-verifier-uq5yh) |
+| zkFundRaise | one stop privacy solution for anonymous fund raising and donations | [GitHub](https://github.com/bharathbabu68/ETHIndia2k22) | [Web](https://ethglobal.com/showcase/zkfundraise-8iavg) |
+| SigmaZK | Proof of Work in a Zero knowledge way for DAOs and NFT communities | [GitHub](https://github.com/gitaalekhyapaul/ETHIndia2022-SigmaSoiBois) | [Web](https://ethglobal.com/showcase/sigmazk-81d5x) |
+| Zk Lancers | decentralised and distributed Freelancing platform enabling zero-knowledge transparency and authentic business between clients and freelancers based on a reputation system. | [GitHub](https://github.com/TheGreatFellow/zk-freelance) | [Web](https://ethglobal.com/showcase/zk-lancers-p7403) |
+| zkPayroll | Privacy preserved payroll management and payment on Blockchain. | [GitHub](https://github.com/jadd22/zkpayroll) | [Web](https://ethglobal.com/showcase/zkpayroll-3y9po) |
+| zkPay | Zero Knowledge Payment Gateway for a Privacy Focused Future | [GitHub](https://github.com/0xZkPay) | [Web](https://ethglobal.com/showcase/zkpay-teavh) |
+| ZK Worth | Prove your assets are above a threshold without revealing your wallet addresses or on-chain activity. | [GitHub](https://github.com/kevinjoshi46b/zk-worth) | [Web](https://ethglobal.com/showcase/zk-worth-g5n10) |
+| Zero Pass | Users can verify their phone number or solve captcha in this app to mint a NFT. Other apps can read the NFT to validate phone number, captcha etc. zk is used for anon profile. | [GitHub](https://github.com/DomnicAmalan/zeropas-api) | [Web](https://ethglobal.com/showcase/zero-pass-66ifq) |
+| Privacy-Auth | Auth yourself without revealing anything sensitive. | [GitHub](https://github.com/shryasss/privacy-auth) | [Web](https://ethglobal.com/showcase/privacy-auth-5qakm) |
+| 3gram | gram is a privacy focussed decentralized web3 photo and video sharing application. | [GitHub](https://github.com/itsswappyb/3gram-ui) | [Web](https://ethglobal.com/showcase/3gram-u8cux) |
+| Briv App | decentralized chatting application that focuses on the privacy and security of the users. | [GitHub](https://github.com/AnandSuresh02/ETHIndia-Project) | [Web](https://ethglobal.com/showcase/briv-app-4mtf3) |
+
+## FVM Space Warp (2022)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| zkFICATION | zkFICATION is an platform to Issue ZK claims to Storage Providers that can be used to prove facts about them on-chain without revealing any sensitive data | [GitHub](https://github.com/shannon-vaz/spacewarp-2023) | [Web](https://ethglobal.com/showcase/zkfication-hh8bq) |
+| zkTrace | privacy supply chain protocol that uses zk proofs and merkle trees to leverage on privacy. | [GitHub](https://github.com/blok-hamster/ZK_TRACE_FEVM) | [Web](https://ethglobal.com/showcase/zktrace-imqfh) |
+| ZKaggle | Bounty platform for incentivized decentralized computing on FVM. ZKP serves two purposes here: (1) to keep the proof of computation succinct, and (2) to allow bounty hunters to monetize private models with credibility. | [GitHub](https://github.com/z-kaggle/ZKaggle) | [Web](https://ethglobal.com/showcase/zkaggle-70g3b) |
+| ZeroTherapy | zero-knowledge-based secure dApp that allows a counselor/therapist to create sessions where participants can join and ask questions anonymously, creating an open and safe environment. | [GitHub](https://github.com/Pushpit07/ZeroTherapy) | [Web](https://ethglobal.com/showcase/zerotherapy-n18ph) |
+
+# 2021
+
+## ETHLisbon (2021)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| PrivAccess | PrivAccess allows getting access to restricted resources without leaking your identity. You could prove you pay your Netflix subscription on-chain without leaking your entireer financial records. |  | [Web](https://devpost.com/software/privaccess) |
+| Proof Of Membership | An application that allows a user to prove that their address is found within a set of addresses that all fulfill arbitrary parameters, such as proof of minimum balance. | [GitHub](https://github.com/vicnaum/proof-of-membership) | [Web](https://devpost.com/software/proof-of-membership) | 
+
+## ETHOnline (2021)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Private Lossless Prediction Market | Open protocol providing private prediction markets | [GitHub](https://github.com/udayj/ppmarket) | [Web](https://ethglobal.com/showcase/private-lossless-prediction-market-q4az3) |
+| PassPet - Verifiable and Private Pet Records for International Travel | EU-compliant "Pet Passport" NFTs stored privately on-chain, and verifiable by anyone, to make international travel easier | [GitHub](https://github.com/belaguer/passPet) | [Web](https://ethglobal.com/showcase/passpet-verifiable-and-private-pet-records-for-international-travel-88g5z) | 
+
+## Scaling Ethereum (2021)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| Shhh! | One-time-read messaging system that uses Secret Network to securely store messages and deliver secrets like passwords, private keys, credit card information, api keys, etc. It isn't like other secret data stores, though. Once a message is retrieved, it is burned and can't be retrieved again. | [GitHub](https://github.com/endowl/shhh.buzz) | [Web](https://ethglobal.com/showcase/shhh--6otiu) |
+| Secret Manufaktur | Privacy for NFT art. It allows artists and collectors to leverage secret networks privacy preserving smart contracts to enable on-chain unlockable content, hidden ownership and private transactions. | [GitHub](https://github.com/floAr/ScalingEth-Hack) | [Web](https://ethglobal.com/showcase/secret-manufaktur-kgc33) | 
+
+## UniCode (2021)
+
+| Project | Description | GitHub | Web |
+| ------- | ----------- | ------ | --- |
+| reed | Verifiable tarot card pulls for private AZTEC & transparent Optimism uniswap trades in DAO governance and exit quits | [GitHub](https://github.com/moskalyk/reed) | [Web](https://ethglobal.com/showcase/reed-gwxz3) |
+| AzUniswap | Perform private and cheap swap on Uniswap through aztec bridge | [GitHub](https://github.com/Xuefeng-Zhu/private-swap) | [Web](https://ethglobal.com/showcase/azuniswap-v2ga3) | 
+| IncrediSwap | Swap app via Aztec rollup in order to reduce slippage on Uniswap v3 and have private swaps | [GitHub](https://github.com/IncrediSwap/IncrediSwap) | [Web](https://ethglobal.com/showcase/incrediswap-e0j4w) | 
 
 
 
