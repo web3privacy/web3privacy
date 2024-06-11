@@ -367,6 +367,7 @@ Feel free to update the list!
 | [FairMath](https://fairmath.xyz) | [Github](https://github.com/fairmath) |
 | [Arcium](https://arcium.com)  | [Github](https://github.com/elusiv-privacy) |
 | [Mind Network](https://www.mindnetwork.xyz)  | [Github](https://github.com/mind-network) |
+| [Privasea](https://www.privasea.ai)  | [Github](https://github.com/Privasea) |
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
