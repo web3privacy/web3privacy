@@ -28,6 +28,7 @@ Feel free to update the list!
 - [AI](#AI)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
+- [FHE](#FHE)
 - [VPN](#VPN) 
 - [DID](#DID)
 - [DAO](#DAO)
@@ -354,6 +355,18 @@ Feel free to update the list!
 | [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | ([Docs](https://www.chain-reaction.io/resource-hub/)) | live | multichain | ([Public](https://www.chain-reaction.io/about/)) |
 | [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
 | [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
+
+## FHE
+| Project  | GitHub | 
+| ------------- | ------------- |
+| [Fhenix](https://www.fhenix.io) | [Github](https://github.com/FhenixProtocol) |
+| [Inco](https://www.inco.org)  | [Github](https://github.com/Inco-fhevm) |
+| [Zama](http://zama.ai) | [Github](https://github.com/zama-ai) |
+| [Sunscreen](https://sunscreen.tech) | - |
+| [Octra](https://docs.octra.org) | [Github](https://github.com/Octra-Labs) |
+| [FairMath](https://fairmath.xyz) | [Github](https://github.com/fairmath) |
+| [Arcium](https://arcium.com)  | [Github](https://github.com/elusiv-privacy) |
+| [Mind Network](https://www.mindnetwork.xyz)  | [Github](https://github.com/mind-network) |
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
