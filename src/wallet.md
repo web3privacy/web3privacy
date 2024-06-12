@@ -30,3 +30,4 @@
 | [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | - | - | - | - |
 | [Sphereon](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | The Sphereon Wallet enables you to store your own private data and gives you full and sole control over whom you want to share your information with | - | - | - | - |
 | [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | - | - | - | - |
+| [Status](https://status.app/features/wallet) | Status Wallet is part of Status Apps ecosystem | [Github](https://github.com/status-im/status-mobile) | Early Access | multichain | [Public](https://status.app/team) |
