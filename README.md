@@ -453,6 +453,7 @@ Feel free to update the list!
 | [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
 | [BlockBlend](https://blockblend.io) | anonymous cross-chain decentralized services. Stake, farm, blend and send | [GitHub](https://docs.blockblend.io/utilities/bridge) | - | - | - | - |
 | [Beam Bridge](https://eth-bridge.beam.mw/) | bridge ETH, USDT, DAI and wBTC from and to Ethereum | ([Docs](https://beam.mw/docs/bridges/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
+| [SecureShift](https://secureshift.io) | Multichain Privacy Protocol is built on Across, Stargate, and Aztec Connect. It enables bridging ETH, DAI, USDC, and USDT across more than 300+ EVM chains. ✨️ | - | - | - | - | - |
 
 ## Messaging
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Messaging.png?raw=true)
