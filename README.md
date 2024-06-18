@@ -487,7 +487,6 @@ Feel free to update the list!
 | Beam Messenger | Decentralized anonymous messenger in the Beam Wallet | ([Github](https://github.com/BeamMW/beam-ui)) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
 | [OpenChat](https://oc.app) | a fully featured chat application running end-to-end on the Internet Computer blockchain. | -| live | - | - |
 
-
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -598,7 +597,6 @@ Feel free to update the list!
 | [Eppie](https://eppie.io) | Privacy protocol on Cardano | - | - | - | - |
 | [ETH.LIMO](https://eth.limo/#how-limo-works) | a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content | ([GitHub](https://github.com/ethlimo)) | - | - | - |
 | [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | ([Docs](https://docs.fractalframework.xyz/home)) | - | - | - |
-
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
