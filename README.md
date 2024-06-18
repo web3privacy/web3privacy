@@ -691,7 +691,6 @@ Feel free to update the list!
 | [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) | Zk Privacy Solution on Mina Protocol | - | - | - | - |
 | [Spillways](https://spillways.finance) | Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds. | - | - | - | - |
 | [HYPE](https://hype-eth.com) | Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously. | - | live | multichain | anon |
-| [AnonZK Incognito](https://incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | - | - | - |
 | [CoinMix](https://www.coinmix.tech) | the first mixer of the market with its own liquidity | - | - | - | - |
 | [Tornado AI](https://tornadoai.cash) | Leveraging AI to enhance crypto transaction security and anonymity | - | - | - | - |
 | [Mix to Earn](https://www.mixtoearn.app) | Compliant Mixing Solution | - | - | - | - |
@@ -831,6 +830,7 @@ Feel free to update the list!
 ## Sunset projects archive
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Other |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [AnonZK Incognito](https://incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | - | - | - |
 | [Osiris](https://www.decenternet.net/osiris) | Osiris is the world's first net-neutral browser. | - | **sunset** | - | - |
 | [okSign](https://www.oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | **sunset** | - | - |
 | [Literully](https://literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | [Docs](https://docs.literully.com/articles/) | **sunset** | - | - |
