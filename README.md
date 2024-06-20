@@ -293,7 +293,7 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Phala Network](https://www.phala.network/en/) | Privacy-Enhanced Permissionless Computing Protocol. | ([GitHub](https://github.com/Phala-Network)) | testnet, 2020 | Khala on Kusama | ([Public](https://www.phala.network/en/aboutUs/)) |
+| [Phala Network](https://phala.network/) | TEE-based Permissionless Computing Protocol. | ([GitHub](https://github.com/Phala-Network)) | live | multichain | ([Public](https://www.linkedin.com/company/phala-network/mycompany/)) |
 | [Aleph Zero](https://alephzero.org) | Privacy-enhancing public blockchain with instant finality. | ([GitHub](https://github.com/aleph-zero-foundation)) | mainnet | Aleph | ([Public](https://alephzero.org/the-team)) |
 | [ARPA](https://www.arpanetwork.io/en-US) | Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc. | ([GitHub](https://github.com/ARPA-Network)) | mainnet, Q2 2023 | multichain | anon |
 | [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications. | ([GitHub](https://github.com/phoenixglobal)) | testnet | multichain | anon |
