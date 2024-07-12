@@ -287,7 +287,8 @@ Feel free to update the list!
 | [Zeal](https://www.zeal.app) | The web3 wallet that defends your crypto and privacy | [GitHub](https://github.com/zealwallet/wallet) [Docs](https://docs.zeal.app/) | 🚧 beta | multichain | anon |
 | [Ninji](https://ninji.xyz/) | Wallet for the Injective Ecosystem | [Docs](https://docs.ninji.xyz) | live | multichain | anon |
 | [Sporran](https://www.sporran.org) | Browser extension that provides a gateway to the KILT blockchain identity protocol and Web3 services | [GitHub](https://github.com/BTE-Trusted-Entity/sporran-extension) | [live](https://www.sporran.org/) | KILT | anon |
-| [Sphereon](https://sphereon.com/sphereon-products/sphereon-wallet/) | new breed of open standards, open-source, privacy-preserving applications, that gives you full and sole control over your own information | [GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | 🚧 beta | DID & Credentials | [Public](https://www.linkedin.com/company/sphereon/)
+| [Sphereon](https://sphereon.com/sphereon-products/sphereon-wallet/) | new breed of open standards, open-source, privacy-preserving applications, that gives you full and sole control over your own information | [GitHub](https://github.com/Sphereon-Opensource/ssi-mobile-wallet) | 🚧 beta | multichain | [Public](https://www.linkedin.com/company/sphereon/)
+| [Ambire](https://www.ambire.com) | The first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience. | [GitHub](https://github.com/AmbireTech/wallet) | [live](https://www.ambire.com) | [Public](https://www.ambire.com/about/team)
 
 ## Computing network
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
