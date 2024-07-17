@@ -597,6 +597,7 @@ Feel free to update the list!
 | [Eppie](https://eppie.io) | Privacy protocol on Cardano | - | - | - | - |
 | [ETH.LIMO](https://eth.limo/#how-limo-works) | a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content | ([GitHub](https://github.com/ethlimo)) | - | - | - |
 | [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | ([Docs](https://docs.fractalframework.xyz/home)) | - | - | - |
+| [Chimp Exchange](https://ten.chimp.exchange/#/swap) | Fully encrypted DEX | ([Docs](https://docs.chimp.exchange/chimp-on-ten)) | live | Ten protocol | - |
 
 ## OS
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
