@@ -26,6 +26,19 @@ _Example_
 
 # 2024
 
+## EthCC
+
+| Project  | Category | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |------------- |
+| MegaAsk | Surveys | Anonymous questions to anyone onchain | [GitHub](https://github.com/everdimension/ask-fm-onchain-hackathon-jul-2024) | [web](https://ethglobal.com/showcase/megaask-70hqj)
+| Medcare | Healthcare | management of medical information  | [GitHub](https://github.com/garosan/ethbrussels-tests) | [web](https://ethglobal.com/showcase/medcare-qu56m)
+| zkWhistleBlower | Whistleblowing | verifiably publicize evidence of wrongdoing and corruption using TLS Notary and receive donations for consequential legal feen  | [GitHub](https://github.com/Chloezhu010/zkWhistleblower) | [web](https://ethglobal.com/showcase/zkwhistleblower-m66e1)
+| Butlerian Jihad | AI | Data protocol for authentificating real human creation, connected to a DataDAO for private model training.  | [GitHub](https://github.com/leo5imon/butlerian_jihad) | [web](https://ethglobal.com/showcase/butlerian-jihad-vw6s0)
+| Web3Vault | Auth | a web3 password manager allowing people to sync private notes and passwords using strong encryption | [GitHub](https://github.com/web3vault/web3vault) | [web](https://ethglobal.com/showcase/web3vault-krtqh)
+| Travel Protocol | Travel | book flights, hotels, and travel products without sharing sensitive personal data with booking platforms | [GitHub](https://github.com/mobifi-official/travel-protocol-ethbrussels) | [web](https://ethglobal.com/showcase/travel-protocol-1skiq)
+| Confido | Operations | FGE for confidential on-chain wage payments | [GitHub](https://github.com/Blockchainpartner/Confido) | [web](https://ethglobal.com/showcase/confido-oh87n)
+| Secret Tender | Audit | secure and confidential tender processes for Web3 projects & DAO seeking auditing services | [GitHub](https://github.com/patriciobcs/secret-tender) | [web](https://ethglobal.com/showcase/secret-tender-g36zr)
+
 ## ETHGLOBAL SYDNEY
 
 | Project  | Category | Description | GitHub | Web | 
