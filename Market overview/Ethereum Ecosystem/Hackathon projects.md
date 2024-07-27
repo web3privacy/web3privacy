@@ -26,7 +26,17 @@ _Example_
 
 # 2024
 
-## HACKFS 2024
+## ETHGLOBAL SYDNEY
+
+| Project  | Category | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |------------- |
+| 0xPoll | Voting | one citizen per vote platform allowing citizens to vote on legislation in Federal Parliament for gathering consensus and affecting political change | [GitHub](https://github.com/c4f3c0d3/0xpoll/) | [web](https://ethglobal.com/showcase/0xpoll-4j05w)
+| Roman Kyoto | DeFi | a MASP (multi asset shielded pool) that allows for users to deposit and transfer ERC20s privately | [GitHub](https://github.com/blockhackersio/roman-kyoto/) | [web](https://ethglobal.com/showcase/roman-kyoto-s3uio)
+| Privacy Avengers | AI | a protocol for verifiable machine unlearning, solving AI privacy issues by securely and efficiently detecting and removing user data.  | [GitHub](https://github.com/Mingzhe-W/privacy_avangers) | [web](https://ethglobal.com/showcase/privacy-avengers-9yc3i)
+| zkFlex | DeFi | provably verify assets that users claim to have without revealing their Ethereum addresses  | [GitHub](https://github.com/Web3Rizzards/zkFlex) | [web](https://ethglobal.com/showcase/zkflex-4vuyp)
+| zkenergycrowdfund | Funding | A crowdfunding contract for green energy project, with zk to verify sensitive credentials of the project  | [GitHub](https://github.com/hung-ngm/zk-energy-crowdfund) | [web](https://ethglobal.com/showcase/zkflex-4vuyp)
+
+## HACKFS
 
 | Project  | Category | Description | GitHub | Web | 
 | ------------- | ------------- |------------- |------------- |------------- |
