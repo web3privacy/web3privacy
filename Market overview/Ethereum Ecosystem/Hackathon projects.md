@@ -26,6 +26,34 @@ _Example_
 
 # 2024
 
+## HACKFS 2024
+
+| Project  | Category | Description | GitHub | Web | 
+| ------------- | ------------- |------------- |------------- |------------- |
+| IDCV | Hiring | Next-gen resumes: private, owner-controlled, decentralized, IPFS stored and .cv domain linked on and off chain. | [GitHub](https://github.com/sksudharsanan/id.cv) | [web](https://ethglobal.com/showcase/idcv-hsc87)
+| Decast.Live | Streaming | a live casting platform that aims to build a privacy-first video infrastructure and services to web3 and traditional organisations. | [GitHub](https://github.com/VideoWiki/room) | [web](https://ethglobal.com/showcase/decast-live-me3az)
+| HimalayaZkBarrier | Storage | secure, private data storage, leveraging advanced cryptography and decentralized tech. | [GitHub](https://github.com/MrARegmi/hackfs2024) | [web](https://ethglobal.com/showcase/himalayazkbarrier-g7qjo)
+| 0xbsidian | Collaboration | an obsidian plugin that enables collaboration on documents by on chain identities. | [GitHub](https://github.com/Joera/cryptobsidian) | [web](https://ethglobal.com/showcase/0xbsidian-f0w2r)
+| Private AI Bot | AI | Use your wallet to access custom AI agents, keeping your data, RAG, and queries secure. | [GitHub](https://www.github.com/financegeek-org/hackfs/) | [web](https://ethglobal.com/showcase/private-ai-bot-aopqo)
+| Youmio | Collaboration | a decentralized video conferencing platform leveraging blockchain, Livepeer, and IPFS  | [GitHub](https://github.com/sensurusirupus/youmio) | [web](https://ethglobal.com/showcase/youmio-csrbi)
+| identiFi | DID | platform that empowers users to create, verify, and manage their unique decentralized identifiers (DIDs) securely  | [GitHub](https://github.com/blocklinklabs/IdentiFi) | [web](https://ethglobal.com/showcase/identifi-whug7)
+| LIT-BEAT | Collaboration | securely encrypt, decrypt, and conditionally sign documents, ensuring only authorized users can access and sign them | [GitHub](https://github.com/pranshurastogi/LIT-Beat) | [web](https://ethglobal.com/showcase/lit-beat-hupcj)
+| Blaze ID | Credentials | Secure your data with zero-knowledge proofs & verifiable credentials. Local-first wallet for ultimate control. | [GitHub](https://github.com/Envoy-VC/blaze-id) | [web](https://ethglobal.com/showcase/blaze-id-z8256)
+| DCH | Creators | decentralized publication management protocol with enhanced privacy features tailored for writers | [GitHub](https://github.com/zkengine/PubIns) | [web](https://ethglobal.com/showcase/dch-hz719)
+| Chain Discourse | Communication | communication platform that leverages blockchain technology for secure, transparent, and censorship-resistant discussions | [GitHub](https://github.com/ysongh/ChainDiscourse) | [web](https://ethglobal.com/showcase/chain-discourse-yeo42)
+| CipherCraft | AI | A Decentralised Hub for federated model training on access controlled private datasets. | [GitHub](https://github.com/Shubham-Rasal/CipherCraft) | [web](https://ethglobal.com/showcase/ciphercraft-3g8kp)
+| Pryv | AI | A decentralized frontend inference for multiple language models hosted on IPFS and Fleek. | [GitHub](https://github.com/carrabre/hackfs-chat) | [web](https://ethglobal.com/showcase/pryv-ojkm3)
+| KeyShard | Key management | Distributes key generation with FROST, a threshold Schnorr signature scheme | [GitHub](https://github.com/utkarshdagoat/KeyShard) | [web](https://ethglobal.com/showcase/keyshard-odizm)
+| Blogg3r | Creators | a decentralized blog app that securely stores your blog posts on the blockchain, ensuring immutability, transparency, and censorship resistance | [GitHub](https://github.com/inciner8r/blogg3r) | [web](https://ethglobal.com/showcase/blogg3r-cdxsn)
+| InsureWise | Insurance | Receive tailored insurance recommendations and real quotes that consider all your needs and medical history, while remaining anonymous and in control of your data | [GitHub](https://github.com/michaeltomasik/Hacakton-hackfs2024) | [web](https://ethglobal.com/showcase/insurewise-bgeu9)
+| NexTown | AI | A decentralized AI computation and storage platform | [GitHub](https://github.com/DogukanGun/hackfs24-ai-marketplace) | [web](https://ethglobal.com/showcase/nextown-4fpk9)
+| CertiFy | Credentials | Safeguard certificates on the blockchain using ERC-721 tokens | [GitHub](https://github.com/sambitsargam/CertiFy) | [web](https://ethglobal.com/showcase/certify-r946n)
+| Metacare.ai | AI | an AI medical assistant that features 100& anonymous and private chat | [GitHub](https://github.com/metacareforyou/filehack2004) | [web](https://ethglobal.com/showcase/metacare-ai-g99t1)
+| MedLIT | Healthcare | A decentralized healthcare system leveraging Web3 technology to enhance access, secure medical data, and foster trust | [GitHub](https://github.com/MukulKolpe/HackFS24) | [web](https://ethglobal.com/showcase/medlit-1sb1k)
+| Anti-AI | Credentials | Capture an image in a React Native app, sign it with MetaMask, encrypt its hash using Lit Protocol, and store both the encrypted data and the image on Pinata.  | [GitHub](https://github.com/Aditya-Chaurasia11/Anti-AI) | [web](https://ethglobal.com/showcase/anti-ai-h1o1x)
+| Honorous | DID | a decentralized identity and reputation system | [GitHub](https://github.com/marssarthak/honorous) | [web](https://ethglobal.com/showcase/honorous-xxvp0)
+| DAOVerified | DID | Credentials are private. so the contributor's identity too. | [GitHub](https://github.com/deepshah9696/HackFS) | [web](https://ethglobal.com/showcase/daoverified-jb6m7)
+
 ## ETHDam 
 
 | Project  | Description | GitHub | Web | 
