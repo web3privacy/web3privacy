@@ -358,6 +358,7 @@ Feel free to update the list!
 | [Mind Network](https://www.mindnetwork.xyz)  | [Github](https://github.com/mind-network) |
 | [Privasea](https://www.privasea.ai)  | [Github](https://github.com/Privasea) |
 | [Cursive](https://github.com/cursive-team)  | [Github](https://github.com/cursive-team) |
+| [Encifher](https://encifher.io/)  | [Github](https://github.com/RizeLabs) |
 
 ## VPN
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
