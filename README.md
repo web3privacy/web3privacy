@@ -1,7 +1,7 @@
 # web3privacy now - 700+ privacy projects empowering Web3 
 *Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
 
-![alt text](https://github.com/web3privacy/web3privacy/blob/main/static-assets/logo3.png?raw=true)
+![W3P Community header image](./static-assets/w3p-database-header.png)
 
 ⚠️ **Note!** Highlighted Privacy Enhanced Decentralised Applications (PEDApps) facilitate a different approach to privacy. Their solutions' maturity varies from conceptualisation to mainnet. So use them cautiously, especially when projects don't have a third-party security audit. That's why **Web3Privacy Now** is ongoing research: aggregation (_we are here now_) - audit - scoring.
 
