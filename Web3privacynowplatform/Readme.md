@@ -130,10 +130,6 @@ _Total_: 7 FTE + advisor community
 
 # Donate
 
-Support independent research on the Web3 privacy
-- **BTC**: 3Fk68ZcG9dFyXecr8qW1JM1195JHpUkD2A
-- **ETH**: 0x2465193c113E524C704413b7af6A5517bF5d2BEE
-- **USDT** (TRC20): TD6DexUT71M24cUouCV22A1iKMWZmS4BU4
-- **ZEC**: t1JXUewb165Jfxv8bFAvsDHWbTpoAAeqCY1
+Support independent research on the Web3 privacy - [find all our current donation addresses within our Docs](https://docs.web3privacy.info/get-involved/donate/)
 
 #freealex
