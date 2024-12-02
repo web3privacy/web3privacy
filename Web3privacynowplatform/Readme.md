@@ -25,7 +25,7 @@ Privacy is a top priority in the era of web, an essential human right. Web3priva
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/Web3privacynowplatform/Staticobjects/Screenshot%202023-01-27%20at%2011.37.28.png?raw=true)
 
 - **Scoring mechanism**
-We'll reserach and develop a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. The goal is to collectively raise the maturity of privacy products & services accross all layers of the technology stack. 
+We'll research and develop a unique privacy scoring mechanism & create a tool with the help of privacy experts from the Ethereum Foundation, NYM and others while building on the experiene of active members from both solar and lunarpunk communities. The goal is to collectively raise the maturity of privacy products & services accross all layers of the technology stack. 
 
 In parallel to the top-down scorecard method, we'll develop and implement a bottom-up community scoring platform too (think of Metacritic exters + users scorings). We believe that at the end of the day it's the users who have to become the real watchdogs of the industry, signaling about flaws and shortcomings of solutions (like Secret Network's recent critical bug).
 
@@ -78,7 +78,7 @@ _Practical guides will match_
 
 **Beta**
 The next product release will include 
-- **community feddback **(voting for the projects, writing user-feedback etc) 
+- **community feedback **(voting for the projects, writing user-feedback etc) 
 - **leaderboard** (categories) to motivate companies compete with each other for better privacy preservation.
 - **incidents dabatse**: [Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/) example
 
@@ -89,7 +89,7 @@ The next product release will include
 
 **Breakdown**: 
 - **Scoring modeling**: 3 weeks+
-- **Product management** (UX, copy, scoring aplicability, design): 1 month
+- **Product management** (UX, copy, scoring applicability, design): 1 month
 - **Web-development + testing**: 1 month
 
 **In a nutshell**: 
