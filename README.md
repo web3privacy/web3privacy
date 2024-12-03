@@ -605,15 +605,15 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Graphene OS](https://grapheneos.org) | The private and secure mobile operating system with Android app compatibility | [Github](https://github.com/GrapheneOS) | - | - | - |
-| [CalyxOS](https://calyxos.org/) | Android mobile operating system that puts privacy and security into the hands of everyday users. | [GitLab](https://gitlab.com/CalyxOS) | - | - | - |
-| [DivestOS](https://divestos.org/) | a fork of LineageOS with monthly updates, automated CVE patchings, system WebView and more. | [Github](https://github.com/Divested-Mobile/DivestOS-Build) | - | - | - |
-| [iodéOS](https://iode.tech) | fork of LineageOS with a Trust interface will help you understand the security of your device and warn incoming threats. Recent releasesed, still in beta. | [Gitlab](https://gitlab.com/iode/) | - | - | - |
-| [Whonix](https://www.whonix.org/) | Whonix is software designed to preserve privacy and anonymity by helping users run applications anonymously. Whonix™ can be installed on Windows, macOS, Linux and Qubes. | ([GitHub](https://github.com/Whonix)) | - | - | - |
-| [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | ([GitHub](https://github.com/QubesOS)) | - | - | - |
-| [TAILS OS](https://tails.boum.org) | Tails is a portable operating system that protects your privacy and helps you avoid censorship. | ([GitLab](https://gitlab.tails.boum.org/tails/tails)) | - | - | - |
-| [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | ([GitHub](https://github.com/fort-nix/nix-bitcoin)) | - | - | - |
-| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) [Docs](https://docs.olares.xyz/manual/architecture.html) | - | - | - |
+| [Graphene OS](https://grapheneos.org) | The private and secure mobile operating system with Android app compatibility | [Github](https://github.com/GrapheneOS) | live | - | - |
+| [CalyxOS](https://calyxos.org) | Android mobile operating system that puts privacy and security into the hands of everyday users. | [GitLab](https://gitlab.com/CalyxOS) | live | - | - |
+| [DivestOS](https://divestos.org) | a fork of LineageOS with monthly updates, automated CVE patchings, system WebView and more. | [Github](https://github.com/Divested-Mobile/DivestOS-Build) | live | - | - |
+| [iodéOS](https://iode.tech/iodeos) | Android based Operating System freed from Google trackers. iodéOS analyses in real-time connection attempts from your apps and allows you to: | [Gitlab](https://gitlab.com/iode/) | - | - | - |
+| [Whonix](https://www.whonix.org/) | Whonix is software designed to preserve privacy and anonymity by helping users run applications anonymously, can be installed on Windows, macOS, Linux and Qubes. | [GitHub](https://github.com/Whonix) | live | - | - |
+| [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | [GitHub](https://github.com/QubesOS) | - | - | - |
+| [TAILS OS](https://tails.net/) | TAILS is a portable operating system that protects your privacy and helps you avoid censorship. | [GitLab](https://gitlab.tails.boum.org/tails/tails) | live | - | - |
+| [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | [GitHub](https://github.com/fort-nix/nix-bitcoin) | - | - | - |
+| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) [Docs](https://docs.olares.xyz/manual/architecture.html) | beta | - | - |
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
