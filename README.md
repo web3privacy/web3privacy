@@ -613,7 +613,7 @@ Feel free to update the list!
 | [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | ([GitHub](https://github.com/QubesOS)) | - | - | - |
 | [TAILS OS](https://tails.boum.org) | Tails is a portable operating system that protects your privacy and helps you avoid censorship. | ([GitLab](https://gitlab.tails.boum.org/tails/tails)) | - | - | - |
 | [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | ([GitHub](https://github.com/fort-nix/nix-bitcoin)) | - | - | - |
-| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) | - | - | - |
+| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) [Docs](https://docs.olares.xyz/manual/architecture.html) | - | - | - |
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
