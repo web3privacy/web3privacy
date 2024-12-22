@@ -306,6 +306,7 @@ Feel free to update the list!
 | [Marlin](https://www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | [Github](https://github.com/marlinprotocol) | live | - | - |
 | [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | [Docs](https://docs.ethernity.cloud) | live | - | - |
 | [TACEO](https://www.taceo.io) | Decentralized Computing with Privacy | - | - | - | public |
+| [Aleph.im](https://aleph.im) | Open source DePIN (confidential VMs, indexing, web hosting, storage, databases, compute, AI...) | [GitHub](https://github.com/aleph-im) | live | multichain | [Public](https://www.linkedin.com/company/aleph-im/people/) |
 
 ## AI
 
