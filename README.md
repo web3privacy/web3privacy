@@ -309,8 +309,11 @@ Feel free to update the list!
 | [Aleph.im](https://aleph.im) | Open source DePIN (confidential VMs, indexing, web hosting, storage, databases, compute, AI...) | [GitHub](https://github.com/aleph-im) | live | multichain | [Public](https://www.linkedin.com/company/aleph-im/people/) |
 
 ## AI
-
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Rainfall](https://rainfall.one) | The world’s first decentralized, privacy-preserving, personal AI platform | - | - | - | - |
+| [LibertAI](https://libertai.io) | Confidential AI inference platform built on top of Aleph.im decentralized cloud & TEEs, proposing various AI solutions (chat UI, APIs, AI Agents...). | [GitHub](https://github.com/Libertai) | live | Base, Solana | anon |
+
 
 ## Layer 2
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
