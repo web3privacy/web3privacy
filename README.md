@@ -787,8 +787,8 @@ Feel free to update the list!
 | zk.money (zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - | 
 | Yellow Submarine (ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM | - | 
 | Sacred (sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | [GitHub](https://github.com/Sacred-Finance) | **sunset** | Ethereum, Polygon | - |
-| Sahara (sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | [Audit](https://sahara.network/resources/sahara-security-audit.pdf) |
-| DeFiner (definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
+| Sahara (sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | - |
+| DeFiner (definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
 | CIA protocol (ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
 | CoinBook (coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
 | Highline (highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
@@ -825,7 +825,7 @@ Feel free to update the list!
 | geniish (geniish.io) | Confidential NFTs for exclusive experiences | [Docs](https://github.com/geniish-protocol/docs) | **sunset** | - | - | 
 | Incognito (incognito.org) | The privacy marketplace for crypto assets. | [Github](https://github.com/incognitochain) | **sunset** | - | - | 
 | Samourai Wallet (samouraiwallet.com/) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | - | **sunset** | - | - | 
-| Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | [GitLab](https://code.samourai.io/ronindojo) || **sunset** | - | - | 
+| Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | [GitLab](https://code.samourai.io/ronindojo) | **sunset** | - | - | 
 | Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
 | Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
 
