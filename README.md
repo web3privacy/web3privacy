@@ -789,7 +789,7 @@ Feel free to update the list!
 | DeFiner (definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
 | CIA protocol (ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
 | CoinBook (coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
-| Highline (highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
+| Highline (highline.dev) | an execution layer for Ethereum  | - | **sunset** | - | - |
 | Sismo (sismo.io) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
 | Anon virtual cards (vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
 | Namachain (namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
@@ -797,15 +797,15 @@ Feel free to update the list!
 | ZkPay (zkpay.finance) | Private Aztec withdrawal Bridge. | - | **sunset** | - | - |
 | Zecrey Protocol (zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |[Github](https://github.com/Zecrey-Labs) [Docs](https://docs.zecrey.com/) | **sunset**| multichain | - |
 | Zecrey Wallet (zecrey.com) | Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | [Github](https://github.com/Zecrey-Labs) | **sunset** | multichain | [announcement](https://zecrey.medium.com/announcing-the-sunset-of-zecrey-wallet-f99f58bab96a) |
-| Zoker (zoker.tech) | The foremost ZK-based Wallet in Web3 | [Docs](https://zoker.tech/wp.pdf) | **sunset** | multichain | - |
-| Nata Network & Router (natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect ✨️**ZK** | [GitHub](https://github.com/shichiro-nakahara) [Docs](https://docs.natanetwork.io/router/userguide/introduction) | **sunset** | multichain | - | 
+| Zoker (zoker.tech) | The foremost ZK-based Wallet in Web3 | - | **sunset** | multichain | - |
+| Nata Network & Router (natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect ✨️**ZK** | [GitHub](https://github.com/shichiro-nakahara) - | **sunset** | multichain | - | 
 | Fairy (fairyswap.finance) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | [Github](https://github.com/Fairyswap) [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | **sunset** | - | [Certik](https://skynet.certik.com/projects/fairyswap) |
 | Shade Cash (shade.cash) | A decentralized protocol for private transactions on Fantom Opera | [Github](https://github.com/ShadeCash) [Docs](https://shadecash.gitbook.io/shadecash) | **sunset** | - | - |
-| 0xAnon (0xanon.tech) | The privacy-focused DEX aggregator | [Docs](https://docs.0xanon.tech) | **sunset** | - | - | 
+| 0xAnon (0xanon.tech) | The privacy-focused DEX aggregator | - | **sunset** | - | - | 
 | Kalium Network (kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | **sunset** | - | - |
 | Unimix (unimix.cash) | The world's most secure privacy transaction service | - | **sunset** | multichain | - |
-| Dark Protocol (darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | [Docs](https://www.darkprotocol.org/manifesto) | **sunset** | - | - | 
-| ZOOK (zook.fi) | DeFi ecosystem | [Github](https://github.com/zookfi/) [Docs](https://docs.zook.fi) | **sunset** | - | - | 
+| Dark Protocol (darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | - | **sunset** | - | - | 
+| ZOOK (zook.fi) | DeFi ecosystem | [Github](https://github.com/zookfi/) -| **sunset** | - | - | 
 | Discreet (discreet.net) |  An instant finality ch-DAG, with a focus on compliance-grade financial privacy, programmability and private consensus. | [Github](https://github.com/DiscreetNetwork) | **sunset** | - | - | 
 | x-cash (xcash.foundation) |  Web3’s Private Public Computing Platform | [Github](https://github.com/X-CASH-official) | **sunset** | - | - | 
 | Nevocoin (nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | [Github](https://github.com/nevocoin/nevocoin/) | **sunset** | - | - | 
@@ -823,7 +823,7 @@ Feel free to update the list!
 | geniish (geniish.io) | Confidential NFTs for exclusive experiences | [Docs](https://github.com/geniish-protocol/docs) | **sunset** | - | - | 
 | Incognito (incognito.org) | The privacy marketplace for crypto assets. | [Github](https://github.com/incognitochain) | **sunset** | - | - | 
 | Samourai Wallet (samouraiwallet.com) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | - | **sunset** | - | - | 
-| Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | [GitLab](https://code.samourai.io/ronindojo) | **sunset** | - | - | 
+| Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | - | **sunset** | - | - | 
 | Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
 | Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
 
