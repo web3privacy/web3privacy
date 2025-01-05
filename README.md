@@ -41,9 +41,7 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | [Labyrinth](http://labyrinth.technology/) | A Multichain Modular Privacy Framework with a Decentralized Compliance Network | - | [Private Testnet](https://testnet.app.labyrinth.technology/) | EVM chains | - | [Docs](https://labyrinth.gitbook.io/) | - |
-| [Nata Router](https://natarouter.com) [Nata Network](https://natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect✨️**ZK** | ([GitHub](https://github.com/shichiro-nakahara)) | live, june 2023 | Ethereum, Polygon, Optimism, Arbitrum, zkSync, Base, Mantle, Avalanche, Fantom, Kava | anon | [Docs](https://docs.natanetwork.io/router/userguide/introduction) | [Audits](https://docs.natanetwork.io/audits) |
-| [Firn Protocol](https://app.firn.cash) | Firn is the first-ever zero-knowledge privacy platform in the _account-based_ model, and introduces pluggable, flexible privacy to Ethereum-based chains. ✨️**ZK** | ([GitHub](https://github.com/firnprotocol)) | live, june 2022 | Ethereum | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) |
-| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network  | ([GitHub](https://github.com/securesecrets/shade)) | live, february 2023 | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | - |
+| [Firn Protocol](https://firn.cash) | Firn is the first-ever zero-knowledge privacy platform in the _account-based_ model, and introduces pluggable, flexible privacy to Ethereum-based chains. ✨️**ZK** | ([GitHub](https://github.com/firnprotocol)) | live, june 2022 | Ethereum | anon | [Docs](https://docs.firn.cash) | [BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_firnprotocol_v1.0-signed.pdf) |
 | [Silent protocol](https://www.silentprotocol.org)  | Silent Protocol is the first protocol enabling compliant full-stack privacy for smart contract assets and web3 applications at scale.  | - | TBD | Ethereum | anon | - | - |
 | [Sienna Network](https://sienna.network) | Sienna is a privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent  | [Github](https://github.com/SiennaNetwork) | Q2 2023 | Secret Network | anon | [Docs](https://docs.sienna.network/main/) | [Certik](https://sienna.network/static/documents/REP-Sienna_Wrapped-19_03_2021.pdf) / [Certik](https://sienna.network/static/documents/REP-Sienna_Vesting-28_04_2021.pdf) / [Halborn](https://sienna.network/static/documents/Rewards_V3_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn.pdf) / [Certik](https://sienna.network/static/documents/SiennaSwap---AMM-Report.pdf) / [Halborn](https://sienna.network/static/documents/AMM_Protocol_CosmWasm_Smart_Contract_Security_Audit_Halborn.pdf) / [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_CosmWasm_Smart_Contract_Report_Halborn.pdf) / [Halborn](https://sienna.network/static/documents/Sienna_Network_Lending_Protocol_Updated_Code_CosmWasm_Smart_Contract.pdf) / [Halborn](https://sienna.network/static/documents/Launchpad-IDO.pdf) / [Halborn](https://sienna.network/static/documents/Lending-and-Launchpad-Updated-Code.pdf) / [Halborn](https://sienna.network/static/documents/Rewards-Bonding-Update.pdf) |
 | [Arcium / ex-Elusiv](https://arcium.com) | The first parallelized confidential computing network  | [Github](https://github.com/elusiv-privacy) | live - March 2023 | Solana | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280778213%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=s_%40) | [Docs](https://docs.elusiv.io/) | - |
@@ -62,56 +60,41 @@ Feel free to update the list!
 | [Diva](https://www.diva.exchange/en/) | Free banking technology for everyone: everyone can join in, everyone can use DIVA.EXCHANGE | [Github](https://github.com/diva-exchange) | TBD | - | [Public](https://www.diva.exchange/en/team-and-contact/) | [Docs](https://docs.lightprotocol.com) | - | - |
 | [BasicSwap](https://basicswapdex.com) | Private Cross-Chain DEX | [Github](https://github.com/tecnovert/basicswap/blob/master/doc/install.md) | beta, December 2022 | SMSG | [anon](https://particl.io/) | - | - |
 | [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | coming in 2023 | Near, Ethereum, Solana, Kusama, Azero | anon | - | - |
-| [Hurricane Protocol](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | [Github](https://github.com/Hurricane-Protocol) | TBD | Terra, Near | anon | [Docs](https://docs.hurricane.money) | - |
+| [Hurricane Money](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | [Github](https://github.com/hurricanemoney) | TBD | Terra, Near | anon | - | - |
 | [BlackBox](https://blackbox.cash) | collection of tools allowing you send & receive SCRT anonymously | [Github](https://github.com/TriviumNode) | TBD | Secret Network | anon | - | - |
 | [Hinkal](https://hinkal.pro) | an easy-to-integrate privacy SDK that helps users anonymize transactions.  | - | mainnet | Polygon | [Public](https://hinkal.pro/#section-team) | - | [Competitive security](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Hinkal/Hinkal_final_Secure3_Audit_Report.pdf) |
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | [Github](https://github.com/ConcealNetwork) | live | Conceal | [anon](https://conceal.network/team/) | [Docs](https://conceal.network/wiki/doku.php) | - |
 | [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - | - | - |
 | [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - | - | - |
 | [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | [Github](https://github.com/zkUSDLabs) | - | - | - | [Docs](]https://zkusd.gitbook.io/zkusd-documentation) | - |
-| [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | [Docs](https://docs.spiralfi.io/introduction/spiral-finance) | - |
-| [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | [Github](https://github.com/Fairyswap) | - | - | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | [Certik](https://skynet.certik.com/projects/fairyswap) |
-| [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | [Github](https://github.com/ShadeCash) | - | - | - | [Docs](https://shadecash.gitbook.io/shadecash) | - |
-| [xPrivate](https://www.xprivate.io) | Swap directly from your wallet. Break the links between sender and recipient. Restore your privacy | - | - | - | - | - | - |
-| [0xAnon](https://0xanon.tech) | The privacy-focused DEX aggregator | - | - | - | - | [Docs](https://docs.0xanon.tech) | - |
-| [Kalium Network](https://kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | - | - | - | - | - |
+| [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | [Docs](https://docs.spiralfi.io/introduction/spiral-finance) | -
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | [Docs](https://docs.irrigation.finance/irrigation-protocol/) | - |
 | [Singularity, ex-Portal Gate](https://www.thesingularity.network) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | - | - |
 | [Swapr](https://swapr.eth.limo) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | [Github](https://github.com/SwaprHQ) | - |
-| [Unimix](https://unimix.cash) | The world's most secure privacy transaction service | - | live | multichain | anon | - | - |
-| [illumineX](https://illuminex.xyz/swap) | Confidential multichain DEX gateway | [Github](https://github.com/illumineXswap) | - | - | - | [Docs](https://docs.illuminex.xyz/illuminex-docs/) | - |
-| [Dark Protocol](https://www.darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | - | - | - | - | [Docs](https://www.darkprotocol.org/manifesto) | - |
+| [illumineX](https://illuminex.xyz) | non-custodial and private cross-chain wallet with integrated swaps. Built on the Oasis Privacy Layer (OPL), illumineX enables users to securely manage private multi-asset accounts, ensuring transaction privacy for senders and receivers while adhering to compliance standards. The platform supports EVM and non-EVM chains including Bitcoin, Ethereum and more| 2024, Github account was removed | - | - | - | [Docs](https://docs.illuminex.xyz) | - |
 | [Retik Finance](https://retik.com) | Futuristic DeFi Debit Cards, Smart Crypto Payment Gateway, AI Powered Peer to Peer (P2P) Lending and Multi Chain Non Custodial Highly Secured DeFi Wallet | - | - | - | - | - | - |
 | [Tectum](https://softnote.com) | decentralised, wallet-less, instant, low-fee, anonymous, non-custodial Bitcoin layer 2 | - | - | - | - | - | - |
 | [ZEOS](https://zeos.one) | decentralised, wallet-less, instant, low-fee, anonymous, non-custodial Bitcoin layer 2 | [Github](https://github.com/mschoenebeck/thezeostoken) | - | - | - | - | - |
 | [StealthEX](https://stealthex.io) | Custody-free, cross-chain friendly #cryptocurrency exchange | - | - | - | - | - | - |
 | [Blend Protocol](https://www.blendprotocol.io) | cutting-edge privacy application allowing anonymous swaps from over 50 different chains | - | - | - | - | - | - |
-| [Safudex](https://safudex.cz) | first DEX/CEX private aggregator | - | - | - | - | - | - |
-| [incognitoswap](www.incognitoswap.net) | non-KYC, anonymous, and multi-chain transactions | - | - | - | - | - | - |
 | [Horus Protocol](https://horus.cash) | The ZKP crypto payment layer on Ethereum, BASE, Arbitrum, OP, Polygon and zkSync. | - | - | - | - | [Docs](https://horuscash.notion.site/horuscash/Horus-Cash-Docs-332db90e9de444c49f2ff2d4bbe342ec) | - |
-| [Guiser](https://guiser.org) | Hassle Free Crypto Exchange | - | - | - | - | [Docs](https://guise.gitbook.io/guiser.org/) | - |
 | [Lucrisma](https://lucrisma.com) | digital asset dashboard | - | - | - | - | - | - |
-| [Stealth Trade](https://stealthtrade.co) | Trade with Enhanced Privacy and Security | - | - | - | - | - | - |
 | [Hydranet](https://hydranet.ai) | Layer3 orderbook + DEX | - | - | - | - | [Docs](https://docs.hydranet.ai) | - |
-| [ZOOK](https://www.zook.fi) | DeFi ecosystem | [Github](https://github.com/zookfi/) | - | - | - | [Docs](https://docs.zook.fi/zook-defi-ecosystem/) | - |
 | [GRVT](https://grvt.io) | The next-gen hybrid derivatives exchange. | - | - | - | - | [Docs](https://grvt.gitbook.io/grvt/introduction/about-grvt) | - |
-| [Phonon](https://www.phonon.org) | The next-gen hybrid derivatives exchange. | - | - | - | - | [Docs](https://docs.phonon.org/readme) | - |
-| [Shhwapit](https://shhwapit.com) | a fully compliant asset anonymizing tool.  | - | - | - | - | - | - |
-| [Enclave Markets](https://www.enclave.market) | Fully Encrypted Exchange  | - | - | - | - | [Docs](https://enclave-markets.notion.site/Enclave-Markets-API-Documentation-93b53ce24d3a4531ba09519c708483a9) | - |
 | [RenegadeFi](https://www.renegade.fi) | Dark Pool  | [Github](https://github.com/renegade-fi) | - | - | - | [Docs](https://docs.renegade.fi) | - |
 | [Arcane Finance](https://www.arcane.finance) | Privacy DEX on Aleo | [Github](https://github.com/arcane-finance-defi) | - | - | anon | [Docs](http://docs.arcane.finance/) | - |
 | [PrivX](https://privx.exchange) | Privacy DEX on Aleo | [Github](https://github.com/privx-exchange/privx-exchange-contract) | - | - | anon | [Docs](https://docs.privx.exchange/) | - |
 | [Owshen Network](https://owshen.io) | DeFi privacy platform for Ethereum | [Github](https://github.com/OwshenNetwork/owshen) | - | - | anon | [Docs](https://owshen.io/book) | - |
 | [AlphaSwap](https://alphaswap.pro) | Privacy DEX on Aleo| [Github](https://github.com/aleoswap-labs) | - | - | anon | - | - |
 | [Mirge](https://solmirage.web.app) | private pools on Solana | - | - | - | anon | - | - |
+| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network | ([GitHub](https://github.com/securesecrets/shade)) | - | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | [Github](https://github.com/securesecrets/shade) | mainnet, October 2016 | ZCash | [Public](https://electriccoin.co/team/) |
+| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | [Github]() | mainnet, October 2016 | ZCash | [Public](https://electriccoin.co) |
 | [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [Github](https://github.com/monero-ecosystem) | mainnet, April 2014 | Monero | anon |
-| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins | [Gitea](https://git.wownero.com/wownero/wownero) | mainnet, 1st April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [Github](https://github.com/iron-fish) | Mainnet, 20th April 2023 | Iron Fish | [Public](https://ironfish.network/community/our-community) |
 | [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [Github](https://github.com/mobilecoinofficial) | live - December 2020 | [mobilecoin](https://mobilecoin.com/ecosystem) | [Public](https://mobilecoin.com/about-us) |
 | [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [Github](https://github.com/mimblewimble/grin) | live - January 2019 | Mimblewimble | anon |
@@ -130,12 +113,10 @@ Feel free to update the list!
 | [ColossusXT](https://www.colossusxt.io) | A community-orientated, energy efficient coin with a strong focus on decentralization, privacy, and real-world implementation | [Github](https://github.com/ColossusCoinXT) | mainnet, 2017 | ColossusXT | [anon](https://www.colossusxt.io/about-us/our-team/) |
 | [DeepOnion](https://deeponion.org) | an anonymous cryptocurrency that is integrated with the Tor network | [Github](https://github.com/deeponion/deeponion/) | mainnet, 2017 | Deep0nion | [anon](https://deeponion.org/team.html) |
 | [Beldex](https://www.beldex.io) | a privacy currency based on Monero, Beldex currently offers incentive based Master Nodes and in future Beldex will be using POS instead of POW | [Github](https://github.com/Beldex-Coin) | mainnet, 2021 | Beldex | [Public](https://www.beldex.io/) |
-| [Ghost](https://ipfs.ghostbyjohnmcafee.com/#/) | Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online  | [Github](https://github.com/ghost-coin) | mainnet, 2020 | Ghost | anon |
+| [Ghost Coin](https://ipfs.ghostbyjohnmcafee.com/) | Proof of Stake privacy coin to help make you nothing but a "ghost" when transacting online  | [Github](https://github.com/ghost-coin) | mainnet, 2020 | Ghost | anon |
 | [BlackHat Coin](https://blackhatco.in) | Privacy focused decentralized cryptocurrency providing truly anonymous untraceable transactions based on PoS consensus and zk-SNARKs data protection protocol ✨️ZK | [Github](https://github.com/BlackHatCoin) | mainnet, 2021 | BlackHat | anon |
 | [Basic Attention Token](https://basicattentiontoken.org) |  Making Crypto and DeFi accessible and useable for everyone (powered by Brave) | - | mainnet | Solana | [Public](https://basicattentiontoken.org/team/) |
-| [Discreet](https://discreet.net) |  An instant finality ch-DAG, with a focus on compliance-grade financial privacy, programmability and private consensus. | [Github](https://github.com/DiscreetNetwork) | testnet, 2023 | Discript (Private EUTXO) | [Public](https://discreet.net/team) |
 | [Evolution](https://evolution-network.org) |  A new level of your freedom. Anonymously. Secure. | [Github](https://github.com/evolution-project) | mainnet, 2020 | Evolution | [anon](https://evolution-network.org)|
-| [x-cash](https://xcash.foundation) |  Web3’s Private Public Computing Platform | [Github](https://github.com/X-CASH-official) | mainnet, 2018 | xcash | [Public](https://xcash.foundation/people) |
 | [Litecash](https://lite-cash.com) |  the first fork of Beam. We removed the founder's reward and are 100% community funded. | [Github](https://github.com/Litecash-Dev) | wallet live | Mimblewimble | anon |
 | [Zero](https://zero.directory) | private transactions | [Github](https://github.com/zerocurrencycoin) | live | - | anon |
 | [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | live | - | [Public](https://hush.is/team/) |
@@ -143,7 +124,6 @@ Feel free to update the list!
 | [COG](https://cogcrypto.com/) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | Polygon | [Public](https://cogcrypto.com/) |
 | [eCash](https://e.cash) | Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche  | [Github](https://github.com/bitcoin-abc/bitcoin-abc/) | - | - | anon |
 | [Zephyr protocol](https://www.zephyrprotocol.com) | The Untraceable Stablecoin Protocol | [Github](https://github.com/ZephyrProtocol/Zephyr) | - | - | anon |
-| [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | [Github](https://github.com/nevocoin/nevocoin/) | - | - | anon |
 | [Nerva](https://nerva.one) | Private and secure cryptocurrency | - | - | - | anon |
 | [DragonX](https://dragonx.is) | a  Z2Z private by default crypto + messenging. | - | - | - | anon |
 
@@ -158,11 +138,10 @@ Feel free to update the list!
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
 | [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | mainnet, november 2020 | ROSE |
 | [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | testnet | No |
-| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
+  | [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
 | [Anoma](https://anoma.net) | An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement | [GitHub](https://github.com/anoma) | testnet | No |
 | [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | testnet, June 2022 | No |
 | [Findora](https://findora.org) | A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities | [GitHub](https://github.com/findoranetwork) | mainnet, March 2021 | FRA |
-| [Suterusu](https://suterusu.io) | A suite of privacy-preserving services to obfuscate transactional and asset information | [GitHub](https://github.com/suterusu-team) | testnet, January 2021 | SUTER |
 | [HOPR](https://hoprnet.org/protocol) | HOPR brings true privacy to web3 with its fully scalable and incentivized mixnet. With HOPR, any kind of data can be transmitted without having to reveal the metadata | [GitHub](https://github.com/hoprnet) | mainnet, February 2021 | HOPR |
 | [Concordium](https://concordium.com) | A compliance ready blockchain backed by science that enables private and public transactions | [GitHub](https://github.com/Concordium) | mainnet, june 2021 | CCD |
 | [Horizen](https://www.horizen.io) | The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** | [GitHub](https://github.com/horizenofficial) | testnet | ZEN | 
@@ -171,17 +150,15 @@ Feel free to update the list!
 | [Nulink](https://www.nulink.org) | Privacy-preserving technology for decentralized applications | [GitHub](https://github.com/NuLink-network) | testnet, October 2022 | NLINK |
 | [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | testnet, January 2023 | RUBY | 
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 | RAZE |
-| [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD | PRIVATIXY |
 | [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet coming in Q1 2023 | OMNIA |
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | mainnet, early 2022 | UON |
-| [Light Protocol](https://www.lightprotocol.com) | The Privacy Layer for Solana | [Docs](https://docs.lightprotocol.com) | mainnet | LIGHT |
+| [Light Protocol](https://www.zkcompression.com) | The ZK Compression Protocol for Solana | [Docs](https://docs.lightprotocol.com) | mainnet | LIGHT |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | live | no |
-| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 | MPC |
+| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Github](https://github.com/Lightprotocol/light-protocol) [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 | MPC |
 | [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | mainnet, January 2022 | TEER |
 | [XX network](https://xx.network) | the first and only quantum-resistant and privacy-focused blockchain ecosystem  | [GitLab](https://git.xx.network/explore) | mainnet | XX |
 | [Fedimint](https://fedimint.org) | An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy  | [GitHub](https://github.com/fedimint) | mainnet, September 2022 | no |
 | [Calamari network](https://calamari.network) | Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world ✨️**ZK** | [GitHub](https://github.com/Manta-Network) | testnet, mainnet coming in 2023 | KMA |
-| [Auth3](https://auth3.network) | Authentic Privacy Computing Network into Web 3.0 | - | TBD | AUTH3 |
 | [Aleo](https://www.aleo.studio) | The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** | [Github](https://github.com/AleoHQ) | testnet, mainnet coming in July 2023 | no |
 | [Automata Network](https://docs.ata.network) | the privacy middleware layer building for a fair Web3. Its core suite of products include 1RPC, 2FA Guru, NFTFair, AnyDAO and XATA to address perennial issues of exploitation on the blockchain without compromising on security | [GitHub](https://github.com/automata-network) | testnet | ATA |
 | [iExec](https://iex.ec) | The Web3 Marketplace | [GitHub](https://github.com/iExecBlockchainComputing) | TBD | RLC |
@@ -199,7 +176,7 @@ Feel free to update the list!
 | [Onino](https://www.onino.io) | A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability | - | TBD | ONI |
 | [Masq](https://masq.ai) | Meet MASQ, the dMeshVPN, browser, dAppStore, protocol, and earning ecosystem that makes living in Web3 anonymous and private | [GitHub](https://github.com/MASQ-Project) | TBD | no |
 | [Trocador App](https://trocador.app) | a privacy-focused exchange aggregator. Anonymous service, no Java, no registration, onion site and I2P available. | - | live | no |
-| [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-is-near) | TBD | no |
+| [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-network/core) [Docs](https://calimero-network.github.io)| live | no |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
 | [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | - | no |
 | [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
@@ -210,7 +187,6 @@ Feel free to update the list!
 | [LayerX](https://layerx.co.jp) | A privacy-preserving blockchain on Substrate | [GitHub](https://github.com/LayerXcom) | TBD | no |
 | [The Farcaster Project](https://farcaster.dev/) | a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. | [GitHub](https://github.com/farcaster-project) | TBD | no |
 | [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
-| [Seneca](https://www.seneca.tech) | the first layer 1 designed to build apps on rich, complex yet private data | - | testnet | no |
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 | [ParallelChain](https://parallelchain.io) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
 | [Mel](https://melproject.org/en/) | a clean-slate L1 for a decentralized, secure, and private internet beyond blockchains. | [Docs](https://docs.melproject.org) | "beta" mainnet | [Public](https://melproject.org/en/) |
@@ -230,14 +206,12 @@ Feel free to update the list!
 | [Meson.Network](https://www.meson.network) | a suite of critical Web3 network infrastructure as well as the world’s first decentralized Bandwidth Exchange | [Github](https://github.com/daqnext) | - | - | - |
 | [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | [Docs](https://aeronyx.network/docs/) | - | - | - |
 | [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | [Docs](https://docs.abelian.info/docs/getting-started/) | - | - | - |
-| [Ampere Chain](https://amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency.  | [Github](https://github.com/AmpereChain) | - | - | - |
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | [Github](https://github.com/Phala-Network/index-contract) | - | - | - |
-| [Insider Protocol](https://insiderprotocol.com/) | Cross-Chain Intent Infrastructure  | - | - | - | - |
 | [AIOZ Network](https://aioz.network/node-app) | Web3 Infrastructure for AI, Storage and Streaming.  | - | - | - | - |
 | [Elosys](https://elosys.io) | decentralized blockchain delivering truly anonymous, untraceable transactions. Built on PoW consensus and zkSNARKs  | [Github](https://github.com/ElosysIo) | - | - | - |
-| [Ξigen Network](https://www.eigen.cash) | a programmable privacy layer for every Web3 participant in the EVM-compatible ecosystem via private zkVM. | [Github](https://github.com/0xEigenLabs) | - | - | - |
+| [Eigen Network](https://www.eigen.market) | a programmable privacy layer for every Web3 participant in the EVM-compatible ecosystem via private zkVM. | [Github](https://github.com/0xEigenLabs) | - | - | - |
 | [IZAR](https://www.izar.xyz) | Cross-chain protocol: Ethereum x Aleo | [Docs](https://docs.izar.xyz/) | anon | - | - |
-| [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTNetwork) | anon | - | - |
+| [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTLabs) | anon | - | - |
 | [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | [Github](https://github.com/tari-project) | - | - | - |
 
 ## Wallet
@@ -247,7 +221,6 @@ Feel free to update the list!
 | [Wasabi](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop with built-in coinjoin | [GitHub](https://github.com/zkSNACKs/WalletWasabi) | [live](https://wasabiwallet.io/index.html#download) | BTC | anon |
 | [Email Wallet](https://www.emailwallet.org) | Use your email address as a crypto wallet, via [zk email](https://prove.email) to keep the protocol decentralized and emails private on-chain. | [Github](https://github.com/zkemail/email-wallet) | - | - | - |
 | [Myna Wallet](https://github.com/mynawallet) | Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction. | [Github](https://github.com/mynawallet) | - | - | - |
-| [Samourai](https://samouraiwallet.com/) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | [Docs](https://docs.samourai.io/wallet/start) | [live](https://samouraiwallet.com/products) | BTC | anon |
 | [Sparrow](https://sparrowwallet.com) |Open-source, non-custodial, desktop-only Bitcoin wallet for those who value financial self sovereignty | [GitHub](https://github.com/sparrowwallet/sparrow) [Docs](https://sparrowwallet.com/docs/) | live | BTC | anon |
 | [Electrum](https://electrum.org/) | Open-source, non-custodial lightweight Bitcoin wallet for all platforms and trusted since 2011 | [GitHub](https://github.com/spesmilo/electrum) [Docs](https://electrum.readthedocs.io/en/latest/) | live | BTC | Public
 | [Blockstream Green](https://blockstream.com/green/) | Open-source, non-custodial feature-rich Bitcoin and Liquid Network wallet | [GitHub](https://github.com/Blockstream/green_android) [Docs](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green/) | live | BTC / Liquid | anon |
@@ -262,12 +235,12 @@ Feel free to update the list!
 | [MyMonero](https://mymonero.com) | Open-source, non-custodial Monero wallet and libraries supporting the Monero light wallet interface | [GitHub](https://github.com/mymonero) | live | XMR | anon |
 | [Moneroju](https://www.monerujo.io/) | Enterprise-grade Monero wallet - MPC-based, open-source, non-custodial Monero wallet for Android [GitHub](https://github.com/m2049r/xmrwallet) | live | XMR | anon |
 | [RINO](https://www.rino.io/) | Open-sourced, non-custodial Monero multisig wallet for Android with 'pay to BTC address' feature | [GitHub](https://github.com/rino-wallet) | live | XMR | anon |
-| Anon/Nero [.onion website](anonero.io) | Open-source, non-custodial Monero DIY airgapped signing device | [.onion git](http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO) | live | XMR | anon |
+| Anon/Nero [.onion website](http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion) | Open-source, non-custodial Monero DIY airgapped signing device | [.onion git](http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO) | live | XMR | anon |
 | [Litewallet](https://litewallet.io/) |  Open-source, non-custodial wallet backed by Litecoin Foundation that uses mimblewible (MWEB) | [GitHub](https://github.com/litecoin-foundation/litewallet-android) [Docs](https://support.litewallet.io/hc/en-us) | live | LTC | Public |
 | [Nighthawk Wallet](https://nighthawkwallet.com) | Open-source, non-custodial privacy-focussed Zcash wallet | [GutHub](https://github.com/nighthawk-apps) | live | ZEC | anon |
 | [UltraNote Infinity](https://ultranote.org/#wallet) | Wallet for UltraNote and XUNI (CryptoNote v2 token on BSC) | [GitHub](https://github.com/xun-project/ultranotei-desktop) | live | XUNI | Public |
 | [YWallet](https://ywallet.app) | Open-source privacy oriented wallet and messenger for Ycash and Zcash. | [GitHub](https://github.com/hhanh00/zwallet) | live | ZEC / YEC | anon |
-| [Brume Wallet](https://brume.money) formerly [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | Open-source privac-native Ethereum wallet based on a built-in integration of TOR | [GitHub](https://github.com/brumewallet) | [live](https://wallet.brume.money/) | ETH | [Public](https://twitter.com/BrumeWallet) |
+| [Brume Wallet](https://brume.money) formerly [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | Open-source privac-native Ethereum wallet based on a built-in integration of TOR | [GitHub](https://github.com/brumeproject) | [live](https://wallet.brume.money/) | ETH | [Public](https://twitter.com/BrumeWallet) |
 | [Terminal Wallet](https://terminal-wallet.com/) | Open-source, non-custodial Command Line Interface wallet app featuring secure transactions & RAILGUN privacy across 0x and 0zk addresses | [GitHub](https://github.com/Terminal-Wallet/terminal-wallet-cli) [Docs](https://terminalwallet-cli.gitbook.io/terminal-wallet/) | [live](https://wallet.brume.money/) | ETH | anon |
 | [Frame](https://frame.sh) | Open-source, non-custodial privacy focused Ethereum wallet for desktops | [GitHub](https://github.com/floating/frame) [Docs](https://docs.frame.sh/) | live | ETH | anon |
 | [Starshell](https://starshell.net) | Open-source, non-custodial, privacy-preserving Web3 wallet for the Secret Network and Cosmos ecosystem | [GitHub](https://github.com/SolarRepublic/starshell-wallet) | [live](https://install.starshell.net) **not updated recently** | SCRT / ATOM | anon |
@@ -275,7 +248,6 @@ Feel free to update the list!
 | [Treasure Chest](https://piratechain.com/wallets/) |  Main full node wallet for the ARRR cryptocurrency | [GitHub](https://github.com/PirateNetwork/pirate/releases/) | live | ARRR | anon |
 | [Pulse Wallet](https://thepulsewallet.org/) | Open-source, non-custodial PulseChain wallet | [GitHub](https://github.com/thepulsewallet) [Docs](https://docs.thepulsewallet.org/pulse-wallet/) | live | HEX | anon |
 | [Cake Wallet](https://monero.com/wallets) |  Open-source, non-custodial wallet for Monero, Bitcoin and Litecoin - pay for goods and gitcards with [CakePay](https://cakepay.com/) | [GitHub](https://github.com/cake-tech/cake_wallet) [Docs](https://guides.cakewallet.com/) | live | XMR / BTC / LTC | anon |
-| [Elite](https://elitewallet.sc) | Open-source, non-custodial multi-currency mobile wallet that respects your privacy | [GitHub](https://github.com/Elite-Labs/EliteWallet/tree/master) | live | BTC / LTC / XMR / XHV | anon |
 | [Railway](https://railway.xyz) | Open-source, non-custodial private DeFi wallet | [Github](https://github.com/Railway-Wallet/Railway-Wallet) [Docs](https://help.railway.xyz/) | live | ETH / BNB / MATIC | anon |
 | [Beam](https://beam.eco/) | browser-based web wallet for USDC, USDT, or ECO on Optimism or Base chains | no open code | 🚧 beta | BASE / Optimism | Public |
 | [Unstoppable](https://unstoppable.money/) | multi-currency wallet is purposely built as a decentralized management tool for cryptocurrencies | [GitHub](https://github.com/horizontalsystems) | live | multichain | Public |
@@ -300,9 +272,9 @@ Feel free to update the list!
 | [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications. | [Github](https://github.com/phoenixglobal) | testnet | multichain | anon |
 | [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | multipurpose | [Public](https://www.privasea.tech/about) |
 | [Alaya](https://alaya.network/en) | Alaya is a business sandbox and testing field for the next-generation of financial infrastructure of PlatON. | [Github](https://github.com/AlayaNetwork) | live - 2022 | Ethereum | anon |
-| [Nillion](https://www.nillion.com) | The Secure Processing Layer of Web3. | [Docs](https://docsend.com/view/7bkgvzagr6ifhwrc) | live | multichain | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2280922042%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=*cU) |
-| [ZkCloud](https://aleo.academy/ecosystem/aleo-toolkit/zkcloud/) | Decentralized, Private Computing. | - | testnet | Aleo | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2242785598%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=6tr) |
-| [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence. | [Github](https://github.com/PlatONnetwork) | live | Alaya | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2214399632%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=PCz) |
+| [Nillion](https://www.nillion.com) | Nillion decentralizes trust for sensitive data in the same way that blockchains decentralized transactions | [Docs](https://docs.nillion.com/) | live | multichain | Public |
+| [ZkCloud](https://developer.aleo.org/concepts/network/zkcloud/) | zkCloud is the infrastructure that allows Aleo to enable decentralized private computations | - | live | Aleo | Public |
+| [PlatOn Network](https://www.platon.network/en) | Combining blockchain and privacy-preserving computation technologies, PlatON is building a decentralized and collaborative AI network and global brain to drive the democratization of AI for safe artificial general intelligence. | [Github](https://github.com/PlatONnetwork) | live | Alaya | Public |
 | [Marlin](https://www.marlin.org) | Serverless backends for Web3: Access and process data verifiably using ZKPs and TEEs | [Github](https://github.com/marlinprotocol) | live | - | - |
 | [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | [Docs](https://docs.ethernity.cloud) | live | - | - |
 | [TACEO](https://www.taceo.io) | Decentralized Computing with Privacy | - | - | - | public |
@@ -322,15 +294,12 @@ Feel free to update the list!
 | [Nata Router](https://natarouter.com) [Nata Network](https://natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect. Nata Network rollups and settles zkproofs on Polygon✨️**ZK** | ([GitHub](https://github.com/shichiro-nakahara)) | live, june 2023 | Ethereum, Polygon, Optimism, Arbitrum, zkSync, Base, Mantle, Avalanche, Fantom, Kava | anon | [Docs](https://docs.natanetwork.io/router/userguide/introduction) | [Audits](https://docs.natanetwork.io/audits) |
 | [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** |([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) | mainnet, July 2022 | Polygon | ([Public](https://polygon.technology/about)) | 
 | [TEN](https://ten.xyz/) | TEN is a Layer 2 solution on Ethereum that extends Web3 Scalability with Encryption. It ensures the inputs, contract state and execution are always encrypted. In doing so it achieves smart transparency - for once the most popular Web2 use cases are now possible in Web3, with no change in the UX/DX as an EVM dApp. | ([Docs](https://docs.ten.xyz/)) | Testnet | Ethereum | ([Public](https://ten.xyz/team)) | 
-| [ZKCHAOS](https://www.zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. | [GitHub](https://github.com/zkchaos) | - | - | - |
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | [Github](https://github.com/starkware-libs/starkex-resources) | live | Ethereum | [Public](https://starkware.co/about-us/) |
 | [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | [Github](https://github.com/root1m3/plebble) | TBD | TBD | anon |
 | [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | [Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima) | - | - | - | - |
-| [OLA](https://sin7y.org) | ZK-ZKVM Bringing Programmable Privacy to Blockchains | [Github](https://github.com/Sin7Y) | - | - | - |
+| [OLA](https://www.olavm.org/) |  A STARK-based ZKVM which aims to Programmable Scalability, Programmable Privacy | [Github](https://github.com/Sin7Y) [Docs](https://hackmd.io/@sin7y) | - | - | anon |
 | [Polybase](https://polybase.xyz) | a public L2 blockchain with private transactions and MEV-resistance powered by zero-knowledge proofs | [Docs](https://polybase.xyz/docs/introduction) | - | - | - |
 | [TrueZK](https://www.truezk.com) | Post-Quantum ZK Rollup as a service x private DIDs | [Docs](https://docs.truezk.com) | - | - | - |
-| [Alpine](https://alpinecoin.io) |  a comprehensive blockchain ecosystem that combine cutting-edge technology with privacy | [Github](https://github.com/AlpineERC) | - | - | - |
-| [EtherChat](https://etherchat.app) |  First Layer-2 For Decentralized Chat | [Github](https://github.com/EtherChatApp) | - | - | - |
 | [Kinto](https://kinto.xyz) | L2 focused on providing safe access to financial services.  | [Github](https://docs.kinto.xyz/kinto-the-safe-l2/general/welcome-to-kinto) | - | - | - |
 | [Coti](https://coti.io) | Privacy-Focused Ethereum Layer-2  | [Github](https://github.com/coti-io) | - | - | - |
 | Laser Beam | A privacy focused Lightning Network implementation on Beam | [Github](https://github.com/BeamMW/beam) [Docs](https://github.com/BeamMW/beam/wiki/Laser-Beam) | live | [Beam](https://beam.mw/) | [Public](https://github.com/orgs/BeamMW/people)
@@ -339,8 +308,7 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | [Docs](https://cdn.shopify.com/s/files/1/0256/1038/7504/files/deeper_network_whitepaper__2023_03_21.pdf?v=1680260637) | live - 2019 | - | anon |
-| [Motherbored](https://store.motherbored.limited) | #dVPN hardware (node + SM card) | [Github](https://github.com/boringprotocol/motherbored) | live | Solana | anon |
+| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | [Docs](https://deeper-network.medium.com/) | live - 2019 | - | anon |
 | [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | [Docs](https://docs.samourai.io/) | live | Bitcoin | anon |
 | [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [GitHub](https://github.com/dappnode) | live | multichain | [Public](https://dappnode.com/pages/about)
 | [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | [Github](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server) | live | multichain | [Public](https://www.mysterium.network/team) |
@@ -368,7 +336,6 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/VPN.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Token | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
-| [Boring Protocol](https://boringprotocol.io) | A Decentralized VPN on Solana | [Github](https://github.com/boringprotocol) |  live | Solana | [yes](https://coinmarketcap.com/currencies/boring-protocol/) | anon |
 | [Mysterium VPN](https://www.mysterium.network/mysteriumvpn) | A global, distributed network powered by everyday people. Network participants are incentivised to share their resources in a supply and demand marketplace, helping others gain access to the open internet | [Github](https://github.com/mysteriumnetwork/node) | live | multichain | [yes](https://coinmarketcap.com/currencies/mysterium/) | [Public](https://www.mysterium.network/team) |
 | [Orchid](https://www.orchid.com) | Orchid is a platform that enables an onion routing network incentivized by OXT and a multi-hop VPN client | [Github](https://github.com/OrchidTechnologies) | live | multichain | [yes](https://coinmarketcap.com/currencies/orchid/) | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2218313136%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=cWH) |
 | [MEILE](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) | A decentralized VPN Client utilizing the Sentinel Blockchain | [Github](https://github.com/MathNodes) | live | multichain | no, but use [dVPN](https://coinmarketcap.com/currencies/sentinel/) | anon |
@@ -378,7 +345,7 @@ Feel free to update the list!
 | [IVPN](https://www.ivpn.net/) | IVPN keeps no logs and no customer accounts, is an open source VPN provider using WireGuard or OpenVPN. Can pay for VPN connection with BTC, BTC lightning or XMR and can get 'subscriptions' that last 1 week/month/year or more | [Github](https://github.com/ivpn) | live | no chain | no | [Public](https://www.ivpn.net/team/) |
 | [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check thier Privacy Policy and history). Mullvad VPN could be paid by by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | [Github](https://github.com/mullvad). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. |  live | no chain | no | [Public](https://mullvad.net/en/about) |
 | [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | [Github](https://github.com/ProtonVPN) |  live | no chain | no | [Public](https://protonvpn.com/about) |
-| [Solar labs](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service. | - | - | - | - |
+| [Solar dVPN](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service | [Github](https://github.com/solarlabsteam/) | - | - | - |
 | [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
 | [DeGuardVPN](https://deguard.io) | VPN for web3 & DeFi community | [Github](https://github.com/deguardvpn) | - | - | - |
 | [Nym VPN](https://nymvpn.com/en) | decentralized VPN powered by the mixnet | [Github](https://github.com/orgs/nymtech/repositories?type=all) | Cosmos | - | public |
@@ -388,16 +355,15 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Token | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
 | [KILT](https://www.kilt.io) | A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers | [Github](https://github.com/KILTprotocol) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/kiltprotocol/) | [Public](https://www.kilt.io/team) |
-| [MBuddy](https://metamirror.space/) | Web 3.0+ identity infrastructure | [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) | under development | multichain | (yes) | anon |
 | [ZK Email](https://www.prove.email) | Open-source protocol to prove any subset of any partially redacted email in zk on chain, via verifying email signatures within zk proofs. Used for [email-based wallet recovery](https://prove.email/recovery), decentralized on/off ramps, and decentralized identity verification. | [Github](https://github.com/zkemail) | - | - | - | - |
 | [Cursive](https://www.cursive.team) | By combining NFC cards that generate zk-friendly signatures with ZK, FHE, PSI, and folding schemes, uses advanced cryptography to privately interact with people across communities. | [Github](https://github.com/cursive-team) | - | - | - | - |
 | [Web3ID](https://www.dock.io/web3id) | Privacy-preserving user verification for Web3 | [Github](https://github.com/docknetwork) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/dock/) | [Public](https://www.dock.io/verifiable-credentials-company) |
-| [Anonybit](https://www.anonybit.io) | Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics) | - | PoC | multichain | no | [Public](https://www.anonybit.io/team/) |
+| [Anonybit](https://www.anonybit.io) | Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics) | - | PoC | multichain | no | Public |
 | [Polygon ID](https://polygon.technology/polygon-id/) | Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** | [Github](https://github.com/0xPolygonID) | live | Polygon | no | [Public](https://github.com/orgs/0xPolygonID/people) |
-| [Dmail Network](https://dmail.ai) | Construct DID in Web3.0, Not Just an Email. | [Github](https://github.com/dmailofficial/dmail) | live | multichain | no | anon |
+| [Dmail Network](https://dmail.ai) | a proprietary messaging channel crafted by the Dmail team, is grounded in the Web3 identity system | [Github](https://github.com/dmailofficial/dmail) | live | multichain | no | anon |
 | [Litentry](https://litentry.com) | A decentralized identity aggregator, providing the structure and tools to empower you and your identity | [Github](https://github.com/litentry) | beta | multichain | [yes](https://coinmarketcap.com/currencies/litentry/) | [Public](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2240805422%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=2W3) |
 | [VerusID](https://verus.io/verusid) | VerusID is for self-sovereign individuals, and conscious organizations that value their data | [Github](https://github.com/VerusCoin) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/veruscoin/) | [Public](https://verus.io/people) |
-| [Findora zkDID]() |  zkDID is a Decentralized Identity and Credential Management System | [Github](https://github.com/findoranetwork) [Docs](https://docs.findora.org/developers/developer-sdks/zkdid-sdk) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/findora/) | [Public](https://findora.org/team/) |
+| [Findora zkDID](https://findora.org) |  zkDID is a Decentralized Identity and Credential Management System | [Github](https://github.com/findoranetwork) [Docs](https://docs.findora.org/developers/developer-sdks/zkdid-sdk) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/findora/) | Public |
 | [Iden3](https://iden3.io) | The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol | [Github](https://github.com/iden3) | live | Ethereum | no | anon |
 | [Holonym](https://www.holonym.id) | Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** | [Github](https://github.com/holonym-foundation) | - | - | - | - |
 | [zCloak](https://zcloak.network) | Privacy-first DID and verifiable computation infrastructure ✨️**ZK** | [Github](https://github.com/zCloak-Network) | - | - | - | - |
@@ -424,12 +390,11 @@ Feel free to update the list!
 | [Internet Identity](https://internetcomputer.org/internet-identity) | authentication framework that enables users to sign into dapps using passkeys (fingerprint, FaceID). Also, sets new authentication keys for each domain to protects users from being tracked across domains. | [Github](https://github.com/dfinity/internet-identity) | live | multichain | - |
 | [zkMe](https://zk.me) | Identity Oracles that leverage the power of zero-knowledge-proofs to enable secure, self-sovereign and private credential verifications. | [Github](https://github.com/zkMeLabs) | - | - | - |
 | [WIW](https://wiw.io) | Build, Aggregate, Own Your Decentralized Identity & Reputation | [Github](https://github.com/wiw-io) | - | - | - |
-| [Anon Aadhaar](https://anon-aadhaar-documentation.vercel.app) | Anon Aadhaar circuit lets citizens with an Aadhaar card generate zero-knowledge identity proof. | [Github](https://github.com/privacy-scaling-explorations/anon-aadhaar) | - | - | - |
+| [Anon Aadhaar](https://boilerplate.anon-aadhaar.pse.dev/) | Anon Aadhaar is a protocol for proving ownership of an Aadhaar identity (Indian Residence ID) in a privacy-preserving manner | [Github](https://github.com/privacy-scaling-explorations/anon-aadhaar) [Docs](https://documentation.anon-aadhaar.pse.dev/docs/intro) | - | - | - |
 | [Anrk Verify](https://www.ankr.com/blog/ankr-verify-product-launched-to-provide-blockchains-with-readymade-user-id-solution/?page=1) | Provide Blockchains With Readymade User ID Solution | [Github](https://github.com/Ankr-network/) | - | - | - |
-| [Neonyx](https://neonyx.io) | DID + Flexible social platform | [Github](https://github.com/neonyxhub) | - | - | - |
 | [Fame](https://getfame.ai) | transform into an AI-powered influencer | [Github](https://fame.gitbook.io/fame-ai/) | - | - | - |
-| [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | [Docs](https://docs.carv.io/overview/carv-intro) | - | - | - |
-| BANS | Beam Anonymous Name Service | [Github](https://github.com/BeamMW/BANS) [Docs](https://medium.com/beam-mw/create-your-own-id-with-bans-beam-anonymous-name-service-34596e4f4f) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
+| [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | [Docs](https://docs.carv.io/) | - | - | - |
+| BANS | Beam Anonymous Name Service | [Github](https://github.com/BeamMW/BANS) [Docs](https://medium.com/beam-mw) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
 | [Rarimo](https://rarimo.com//) | Rarimo is a privacy-first social protocol. It seamlessly combines various identity standards and allows the formation of a private but verifiable history of their use and relations using ZK proofs. | [Github](https://github.com/rarimo) [Docs](https://docs.rarimo.com/)| live | multichain | (yes) | [Public](https://github.com/orgs/rarimo/people) |
 | [Creds](https://creds.xyz) | helps you understand your current and future community better by leveraging insights and gamification to create personalised experiences | - | live | - | - | - |
 | [Reclaim Protocol](https://www.reclaimprotocol.org/) | Empower users to generate verified credentials, secured by zero-knowledge proofs, from any website on the internet. | [Github](https://github.com/reclaimprotocol) | live | multichain | No | [Public](https://www.ycombinator.com/companies/reclaim-protocol-questbook) |
@@ -453,7 +418,6 @@ Feel free to update the list!
 | [Blockbend](https://blockblend.io) | Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service. | - | - | - | - |
 | [Secret Bridge](https://bridge.scrt.network) | bridge to the Secret Network | - | - | - | - |
 | [Shade bridge](https://app.shadeprotocol.io/bridge) | an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. | [Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge) | - | - | - |
-| [Rialto bridge](https://rialtobridge.io) | Transfer Assets from Ethereum and BNB Smart Chain to Findora Blockchain | [Docs](https://github.com/Cavocada/chainbridge-tools/wiki/About-Rialto-Bridge) | - | - | - |
 | [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. | [0xMonero](https://0xmonero.com/) | 0xMonero is a multi-contract, multi-chain, privacy focused project. | [GitHub](https://github.com/0xMonero) | - | [anon](https://t.me/Monero0xMR) |
 | [Carrier](https://www.carrier.so) | A powerful token and NFT bridge for Web3 natives | [Docs](https://docs.carrier.so/introduction/about) | - | - | - |
 | [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
@@ -471,20 +435,18 @@ Feel free to update the list!
 | [ALTER](https://alter.network) | Private & Secure Communication App Utilizing Secret Nework's secret contract technology - formerly known as Altermail. | [GitHub](https://github.com/ALTER-Network) | live | multichain | known (LinkedIn) |
 | [Session](https://getsession.org) | An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. | [GitHub](https://github.com/oxen-io) | Live | Cryptonote | [Public](https://www.linkedin.com/company/sessionmessenger/people/) |
 | [BCchat](https://bchat.beldex.io) | A decentralized, privacy messenger built over the Beldex blockchain. | - | - | - | - |
-| [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | [XMTP GitHub](https://github.com/xmtp-labs/lenster) | mainnet | - | - |
-| [XMTP web3 social](https://xmtp.org/docs/use-cases/deso) | Lens Protocol and CyberConnect apps use XMTP to provide secure, private messaging to their users. | [XMPT Labs Github](https://github.com/xmtp-labs) | mainnet | - |
+| [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | [XMTP GitHub](https://github.com/ephemeraHQ/lenster) | mainnet | - | - |
+| [XMTP web3 social](https://xmtp.org/docs/use-cases/deso) | Lens Protocol and CyberConnect apps use XMTP to provide secure, private messaging to their users. | [XMPT Labs Github](https://github.com/ephemeraHQ) | mainnet | - |
 | [Senging.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
 | [Zion](https://www.zion.fyi) | The safest way to join, chat and send | [Github](https://github.com/getzion/) | - | - | - |
 | [RLN Anonymous Chat](https://github.com/njofce/zk-chat) | A spam resistant instant messaging application for private and anonymous communication. | - | - | - | - |
 | [Beepo](https://beepoapp.net) | a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts | [Github](https://github.com/beepo-app) | live | multichain | - |
 | [Pastenym](https://pastenym.ch/#/) | Anon text sharing service | [Github](https://github.com/notrustverify/pastenym/) | - | - | - |
-| [Onionclub](https://onionclub.io) | Blockchain based, business & social platform. | - | - | - | - |
-| [Speakeasy](https://armchairancap.github.io/docs/speakeasy-user-guide/get-started) | Speak easily to a group of friends or a global community. Talk about what you want. Surveillance free. Censorship proof. |  [Code](https://git.xx.network/elixxir/speakeasy-web) | alpha | xx network | - |
+| [xx Network Haven](https://armchairancap.github.io/docs/category/xx-network-haven-users-guide/) | Haven is a censorship resistant chat application using xx network |  [Code](https://git.xx.network/elixxir/speakeasy-web) | alpha | xx network | - |
 | [Speak app](https://speakapp.me) | No phone number. No email address. Speakapp is a simple, and secure web3 messenger. | - | - | - | - |
 | [Pigeon Communicator](https://pigeoncoin.org) | Blockchain based, trustless, censorship resistant decentralized messaging. | - | - | - | - |
 | [HushChat](https://git.hush.is/hush/hushchat) | private messenger using zero knowledge mathematics. | - | - | - | - |
 | [Relayz](https://relayz.io) | Hyper-secure, private communications protocol for Web3 | - | - | - | - |
-| [Mejhool](https://hzmcoin.com/mejhool/) | a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.| - | - | - | - |
 | [Jami](https://jami.net/) | Jami is a free/libre, end-to-end encrypted, and private communication platform. | [Gitlab](https://git.jami.net/savoirfairelinux/jami-project) | - | - | - |
 | [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK** | [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | - | - | - |
 | [Adamant](https://adamant.im) | Decentralized anonymous blockchain Messenger & crypto Wallet | [Github](https://github.com/adamant-im) | - | - | - |
@@ -512,15 +474,13 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/KYC.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| **sunset** [Notebook labs](https://www.notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | [Docs](https://notebook-6.gitbook.io/notebook-docs) | - | - | - |
 | [KYC not me](https://kycnot.me/) |  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. | [GitLab](https://gitlab.com/kycnot/kycnot.me) | live | multichain | anon |
 | [Proof of Passport](https://github.com/zk-passport/proof-of-passport) | Use ZK proofs to verify any information inside any passport with an NFC signature, such as proving you are over 18 or you are a USA citizen. | [GitHub](https://github.com/zk-passport/proof-of-passport) | - | - | - |
 | [socialKYC](https://socialkyc.io) |  your decentralized social credentials | [Github](https://github.com/BTE-Trusted-Entity/socialkyc.io/) | - | - | - |
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
 | [OutDID](https://www.outdid.io) | Your Zero-Knowledge, Decentralized KYC filter of Blockchain users. | - | - | - | - |
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation) | - | - | - |
-| [Know Your Coin Privacy](https://kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy. Based on OXT datas. | [Github](https://github.com/kycp/) | - | -  | - |
-| [Synaps](https://www.synaps.io) | identity verification solutions from Personhood validation to regulated KYC / AML and KYB processes | [Github](https://github.com/kycp/) | - | -  | - |
+| [Synaps](https://www.synaps.io) | identity verification solutions from Personhood validation to regulated KYC / AML and KYB processes | - | - | -  | - |
 
 
 ## RPC
@@ -533,8 +493,6 @@ Feel free to update the list!
 | [RPCh](https://rpch.net/) | RPCh is a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain [Github](https://github.com/Rpc-h/RPCh) | - | - | - |
 | [Ethereum Portal Network](https://www.ethportal.net/) | Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests.  | - | - | - | - |
 | [Spook](https://github.com/EdenBlockVC/spook) | Mixing service using the Nym network to anonymize Ethereum RPC calls.  | - | - | - | - |
-| [Zoci](https://zoci.io) | private RPC services | [Github](https://github.com/zoci-io) | - | - | - | - |
-| [VeilRPC](https://veilrpc.com) | High-performing private RPC node | [Docs](https://docs.veil.exchange/veil-rpc/explanation-and-features) | - | - | - | - |
 
 ## Storage
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -566,13 +524,10 @@ Feel free to update the list!
 | [Skiff Pages](https://skiff.com/pages) | Private, End-to-End Encrypted Notes | [Github](https://github.com/skiff-org) | - | - | - |
 | [Mask](https://mask.io) | Mask Network brings privacy and benefits from Web3 to social media like Facebook & Twitter - with an open-sourced browser extension | [Github](https://github.com/DimensionDev/Maskbook) | - | - | - |
 | [ZkMaps](https://gitcoin.co/grants/5781/zkmaps-proof-of-location) | Protecting users location with ZK proofs | [Github](https://github.com/zkMaps) | - | - | - |
-| [Telios](https://www.telios.io) | Secure Communication with Encrypted Data and Email | [Github](https://github.com/Telios-org) | - | - | - |
 | [Plugin.io](https://plugin.io/) | Privacy focussed, ad free social media & digital marketplace.  | - | - | - | - |
 | [Krebit](https://krebit.id) | open identity verification protocol for Web3 Verifiable Credentials | [Github](https://github.com/KrebitDAO) | - | - | - |
 | [FYEO Identity](https://www.gofyeo.com/fyeo-identity) | Decentralized password management. Real-time identity monitoring. | - | - | - | - |
-| [LiquidFactory](https://liquidfactory.io) | unlocks liquidity to DeFi, GameFi & NFTs. | - | - | - | - |
 | [CheqD](https://cheqd.io) | a secure network that enables individuals and organisations to fully control their personal data. It allows self-sovereign identity (SSI) companies to build and deliver secure solutions to you | [Github](https://github.com/cheqd) | - | - | - |
-| [SPKZ](https://spkz.io) | the first fully decentralized web3 community/chat platform. | - | - | - | - |
 | [TLSNotary](https://tlsnotary.org) | Proof of data authenticity | [Github](https://github.com/tlsnotary/tlsn) | - | - | - |
 | [Damus](https://damus.io) | Nostr client for the social network you control. | - | - | - | - |
 | [Weve](https://wevemail.arweave.dev) | Weve is the first mail network with an immutable privacy policy. It can never sell your data, read your mail, or be taken down. | [GitHub](https://github.com/anish-agnihotri/weve) | live | Arweave | [known](https://github.com/Anish-Agnihotri) |
@@ -582,16 +537,14 @@ Feel free to update the list!
 | [Silent Data](https://silentdata.com) | Verify web2 Data in web3 Applications. | - | - | - | - |
 | [WireMin](https://wiremin.org/#/) | a decentralised social network.  | - | - | - | - |
 | [Bermuda](https://www.bmda.io) | next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens. | - | - | - | - |
-| [Privacy Pools](https://www.privacypools.com) | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that. | [Github](https://github.com/ameensol/privacy-pools) | - | - | - |
+| Privacy Pools | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that | [Github](https://github.com/ameensol/privacy-pools) | - | - | - |
 | [Sociogram](https://sociogram.org) | Web3Social Media focused on privacy. | - | - | - | - |
-| [Blockyfile](https://blockyfile.org) | The new way to upload files anonymously and without censorship. | - | - | - | - |
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 | [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | [Docs](https://juno.build/docs/build/analytics#getting-started) | - | - | - |
 | [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
 | [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts  | [Github](https://github.com/sigle/sigle) | - | - | - |
 | [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | [Github](https://github.com/flock-io) | - | - | - |
 | [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
-| [Sirius Sync](https://siriussync.io ) | Web3 Social Ecosystem | - | - | - | - |
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
 | [POMP](https://mantapacific.pomp.money) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | - | - | - | - |
 | [MapMetrics](https://mapmetrics.org/) | a drive-to-earn crypto navigation app utilizing web3 technology to improve your travel while protecting your privacy. | - | - | - | - |
@@ -629,12 +582,9 @@ Feel free to update the list!
 | [Paras](https://eprint.iacr.org/2022/976.pdf) | a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances | - | - | - | - |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
 | [The Anon Club](https://theanonclub.com) | worlds first privacy focused digital collectibles | - | - | - | - |
-| [geniish](https://www.geniish.io) | Confidential NFTs for exclusive experiences | [Docs](https://github.com/geniish-protocol/docs) | - | - | - |
 | [certUP](https://certup.net) | SecretNFT Certificates revolutionising official document distribution, verification and publication | [Github](https://github.com/CertUP) | - | - | - |
-| [Actilist](https://test.actilist.io) | Secret NFT auctions | [Github](https://github.com/actilabs) | - | - | - |
-| [Fade WTF](http://mint.fade.wtf) | Privacy for NFTs powered by Light Protocol | - | - | - | - |
+| [Actilist](https://actilist.io) | Secret NFT auctions | [Github](https://github.com/actilabs) | - | - | - |
 | [Polyhedra ZK-NFT Container](https://polyhedra.network/zknft-container) | a new NFT protocol that can contain other NFTs, realizing maximum interoperability | - | - | - | - | - |
-| [Bluum](https://bluumprotocol.com) | Enable confidentiality of NFT content | [Github](https://github.com/BluumProtocol) | - | - | - | - |
 | [sudoswap](https://sudoswap.xyz/#/) | private bids | [Github](https://github.com/sudoswap) | - | - | - | - |
 
 ## Alliances & NGOs
@@ -657,14 +607,12 @@ Feel free to update the list!
 | [01 Labs](https://o1labs.org) | Catalyzing a new generation of applications powered by zero knowledge cryptography. | - | - | - | - |
 | [Personae Labs](https://personaelabs.org) | R&D lab investigating the future of human expression online [Github](https://github.com/personaelabs) | - | - | - |
 | [Demox labs](https://www.demoxlabs.xyz) | Building privacy preserving ZK infrastructure on Aleo. | - | - | - | - |
-| [Electric Coin. Co](https://electriccoin.co/research-and-development/) | R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential. | - | - | - | - |
+| [Electric Coin Company](https://electriccoin.co/roadmap/) | R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential. | - | - | - | - |
 | [Hypermine](https://hypermine.co) | smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography. | - | - | - | - |
-| [Entropy1729](https://www.entropy1729.com) | Zero Knowledge Shop | - | - | - | - |
 | [Trivium](https://trivium.network) | provides validator services to serveral networks, and develops privacy-preserving dApps [Github](https://github.com/TriviumNode) | - | - | - |
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering [Github](https://github.com/realran) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. [Github](https://github.com/hashcloak) | - | - | - |
 | [Discreet Labs]( https://discreetlabs.io) | build blockchain systems for a more private, self-sovereign future on Fidora | - | - | - | - |
-| [OSOMPrivacy](https://www.osomprivacy.com) | From software to hardware OSOM Privacy gives you the tools that you need to make sure your data, your information is always private and protected. | - | - | - | - |
 | [Chainslab](https://chainslab.io)| Independent R&D firm focus on the digital economy revolution, provide in-depth research, genuine insight and cutting-edge opinions, closing the information gap within Blockchain industry. | - | - | - | - |
 | [Cake Labs](https://cakelabs.com)| builds helpful cryptocurrency software focused on everyday use and on solving common problems. Focused on Monero ecosystem | - | - | - | - |
 
@@ -685,8 +633,8 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [UniJoin](https://unijoin.io) | We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology | - | - | - | - |
-| [TC](https://en.wikipedia.org/wiki/Tornado_Cash) | TornadoCash is an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine-compatible networks. | - | - | - | - |
+| [UniJoin](https://unijoin.org) | We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology | - | - | - | - |
+| [TC](https://en.wikipedia.org/wiki/Tornado_Cash) | an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine via smart contracts | - | - | - | - |
 | [Coinomize](https://coinomize.biz) | Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you. | - | - | - | - |
 | [Mix BTC](https://mixbtc.online) | bitcoin mixer. | - | - | - | - |
 | [0xTIP](https://0xmonero.com/mixer) | 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. | - | - | - | - |
@@ -695,21 +643,17 @@ Feel free to update the list!
 | [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) | Decentralized bitcoin coinjoin for improving privacy and fungibility. | - | - | - | - |
 | [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) | Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service [Docs](https://protocolvoid.gitbook.io/void-protocol/)  | - | - | - |
 | [CoinShuffle++](https://github.com/decred/cspp) | CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions. | - | - | - | - |
-| [HideYour.cash](https://hideyour.cash) |  is a private transactions protocol (mixer) designed for well-intended users on NEAR Protocol | - | - | - | - |
 | [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) | Zk Privacy Solution on Mina Protocol | - | - | - | - |
 | [Spillways](https://spillways.finance) | Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds. | - | - | - | - |
 | [HYPE](https://hype-eth.com) | Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously. | - | live | multichain | anon |
-| [CoinMix](https://www.coinmix.tech) | the first mixer of the market with its own liquidity | - | - | - | - |
-| [Tornado AI](https://tornadoai.cash) | Leveraging AI to enhance crypto transaction security and anonymity | - | - | - | - |
-| [Mix to Earn](https://www.mixtoearn.app) | Compliant Mixing Solution | - | - | - | - |
-| [Tumbler](https://tumbler.io) | Compliant Mixing Solution | - | - | - | - |
+| [CoinMix](https://coinmix.cash/) | Anonymize your Bitcoins with a CoinJoin-powered Bitcoin Mixer. | - | - | - | - |
+| [Thormixer](https://www.thormixer.io) | Thormixer is a BTC anonymization service that protects the privacy of Bitcoin. Raises the anonymity level and prevents tracking | - | - | - | - |
 
 ## Data management
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Spoc](https://spoc.com/) | A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data. | - | - | - | - |
 | [NATIX Network](https://www.natix.network) | patent-pending technology is the easiest way to make any camera smart and 100% privacy compliant. | - | - | - | - |
-| [Oasiis insights](https://www.oasiisinsights.com) | Personalized web3 journeys are finally here. | - | - | - | - |
 
 ## Other
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
@@ -725,7 +669,6 @@ Feel free to update the list!
 | [Monerica](https://monerica.com/) | directory for the Monero circular economy. | [Github](https://github.com/monerica-project/monerica) | - | - | - | - |
 | [Lightning Network Stores](https://lightningnetworkstores.com/) | directory for stores that accept bitcoin through the lightning network. | [Github](https://github.com/lightningnetworkstores/lightningnetworkstores.github.io) | - | - | - |
 | [Spinner](https://spinner.cash) | Private transactions for ICP and BTC. | [Github](https://github.com/spinner-cash) | - | - | - |
-| [Incognito](https://incognito.org) | The privacy marketplace for crypto assets. | [Github](https://github.com/incognitochain) | - | - | - |
 | [EtherMail](https://ethermail.io) | EtherMail allows fully anonymous and encrypted P2P communication and rewards its users for reading relevant content in their inbox | live | - | - | [known](https://ethermail.io/about-us) |
 | [ex-Nucleo, now-Puzzle](https://puzzle.online) | Private, auditable shared multisig to shield & send assets | - | - | - | - |
 | [Meson](https://mesonmix.net) | a mix network for cryptocurrency transactions. It breaks the link connecting your network-level information to your cryptocurrency transactions. | [Github](https://github.com/hashcloak/Meson) | - | - | - |
@@ -733,7 +676,6 @@ Feel free to update the list!
 | [rotki](https://rotki.com) | rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy. | [Github](https://github.com/rotki) | - | - | - |
 | [Kachina](https://iohk.io/en/research/library/papers/kachina-foundations-of-private-smart-contracts/) | Foundations of Private Smart Contracts (predecessor to IOG's Midnight) | - | - | - | - |
 | [Beetroot](https://www.beetroot.world) | BEETroot has created and put together the best cryptocurrency tools and dapps that enable anonymity and maintain self-custody whilst swapping across chains, bridging and ramping to and from fiat. | - | - | - | - |
-| [Ronin DOJO software stack](https://ronindojo.io/en/roninui) | Manage your bitcoin privacy and sovereignty with ease. | [GitLab](https://code.samourai.io/ronindojo) | - | - | - |
 | [Semaphore Protocol](https://semaphore.pse.dev/) | Using zero knowledge, Semaphore allows Ethereum users to prove their membership of a group and send signals such as votes or endorsements without revealing their original identity ✨️**ZK** | [Github](https://github.com/semaphore-protocol/semaphore) | live | Ethereun | [anon](https://pse.dev/about) |
 | [BTC Pay](https://btcpayserver.org) | Self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free [Github](https://github.com/btcpayserver) | - | - | - |
 | [Nostr](https://nostr.com/) | A decentralized network based on cryptographic keypairs and that is not peer-to-peer, it is super simple and scalable and therefore has a chance of working. | [Github](https://github.com/nostr-protocol/nostr) | - | - | - |
@@ -743,7 +685,7 @@ Feel free to update the list!
 | [Shadow](https://github.com/Comdex/shadow) | A Private Account System On Mina. | [Github](https://github.com/Comdex/shadow)  | - | - | - |
 | [S𝛑PETs](https://ethresear.ch/t/s-pets-sustainable-practically-indistinguishable-privacy-enhanced-transactions/14565) | Universal covert privacy-enhanced transactions for ANY public blockchain that supports ECDSA or Schnorr based on two-party computation (2PC) combined with adaptor signatures and verifiable timed commitments (VTC). | [Github](https://github.com/timoth-y/spy-pets)   | - | - | - |
 | [Media Network](https://www.media.network) | a privacy-first and community-governed CDN. | [Github](https://github.com/mediafoundation) | - | - | - |
-| [Tezos sapling via airGap](https://support.airgap.it/guides/tezos-sapling) | Sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment | [Github](https://github.com/airgap-it) | live | multichain | [known](https://airgap.it/team) |
+| [Tezos sapling via airGap](https://support.airgap.it/guides/tezos-sapling) | Sapling or shielded transactions allows you to perform privacy-preserving transactions of fungible tokens in a decentralized environment | [Github](https://github.com/airgap-it) | live | multichain | Public |
 | [Datum](https://datumtechs.com) | Web3 Privacy-preserving Data Service. | [Github](https://github.com/datumtechs) | - | - | - |
 | [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) | a privacy-preserving framework based on TensorFlow | - | - | - | - |
 | [OpenTss](https://opentss.com/) | MPC-based Key Management Protocol | - | - | - | - |
@@ -759,24 +701,19 @@ Feel free to update the list!
 | [Self](https://www.joinself.com) | Web3 fraud prevention for everyone. | [Github](https://github.com/joinself) | - | - | - |
 | [DoxyChain](https://www.doxychain.com) | Certificates and eSignatures on the blockchain. | - | - | - | - |
 | [Web3Shield](https://www.web3shield.com) | a platform providing insurance, security and privacy focused products for all things Web3. | - | - | - | - |
-| [Black Box](https://bbtt.io) | a sophisticated cryptocurrency transfer anonymiser.  | - | - | - | - |
-| [GostPay](https://gostpay.net) | A transaction layer that obfuscates the transaction data so it can be veiled on-chain, thereby applying privacy to the transaction. | - | - | - | - |
 | [Foundation Cash](https://foundationtoken.io) | a revolutionary crypto mixer token that serves as a utility to reduce fees when using the mixer. | - | - | - | - |
 | [Ergo](https://ergoplatform.org/en/) | a next-generation smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. | [Github](https://github.com/ergoplatform) | - | - | - |
 | [Semantic SBTs](https://blog.relationlabs.ai/semantic-sbts-empower-personalized-social-network-with-privacy-preserving-module-3005a45ac81f) | Personalized Social Network with Privacy-Preserving Module | - | - | - | - |
 | [Daml](https://www.digitalasset.com/developers) | Daml is the only smart-contract language and blockchain that allows sub-transaction privacy. | [Github](https://github.com/digital-asset/daml) | - | - | - |
 | [CryptoChill](https://cryptochill.com) | a highly customizable cryptocurrency payment gateway and custodial wallets provider focused on security, privacy and scalability. | - | - | - | - |
 | [Redacted Money](https://twitter.com/redacted_money) | a trustless Zero Knowledge protocol that exists to bring you an easy to use way of securing your transactions from prying eyes. | - | - | - | - |
-| [Decentra Life](https://decentralife.org) | An innovative social media platform built on the principles of decentralization, transparency, and user empowerment. | [Docs](https://decentralife-docs.gitbook.io/decentralife-docs/overview/introduction-to-decentralife) | - | - | - |
-| [ZK-DEX](https://zk-dex.io) | we set your personal information private, you govern your own asset. | - | - | - | - |
 | [CakePay](https://cakepay.com/) | purchase gift cards and related products for use worldwide with XMR, BTC, LTC - Cake Pay cards are brand new from authorized sellers. Buy the exact amount you need for many providers. | [Github](https://github.com/cake-tech) | - | - | - |
-| [AnonCards](https://anoncards.io/)  | buy SIM, ESIM and gift cards with XMR. | - | - | - | - |
+| [Pay with Anon](https://paywithanon.com/)  | The Anon virtual card lets you spend over 10+ cryptocurrencies like cash online, worldwide - Apple/Google Pay active.| - | - | - | - |
 | [0x0](https://0x0.ai)  | All-in-One Privacy Hub and AI Smart Contract Auditor. | [Docs](https://docs.0x0.ai/0x0.ai-ai-smart-contract-auditor/overview) | - | - | - |
 | [Vocdoni](https://vocdoni.io)  | We are the most open, secure, and universally verifiable voting protocol, used by hundreds of organizations worldwide. | [Github](https://github.com/vocdoni) | - | - | - |
 | [Mailchain](https://mailchain.com) | Send and receive messages directly between wallets. | [Docs](https://docs.mailchain.com/developer/) | - | - | - |
 | [Ledgermail](https://ledgermail.io) | World's First Blockchain Email Service. | [Docs](https://docs.mailchain.com/developer/) | - | - | - |
 | [Humanode](https://humanode.io) | Humanode conducts private biometric verification of its validators to ensure that there is only one unique living human being behind each node. | [Docs](https://gitbook.humanode.io/oauth2-service) | - | - | - |
-| [FNS](https://fns.gg) | Your .fra username lets you send and receive assets on any chain or dApp while protecting your actual on-chain address. Its a simple way to manage assets and protect your privacy. | [Github](https://github.com/orgs/findora-name-service/repositories) | - | - | - |
 | [MyDataCoin](https://mydatacoin.io) | a blockchain-based platform that utilizes Cosmos SDK Tendermint technology to enable secure and transparent exchange of personal data between individuals and companies. | [Github](https://github.com/MyDataCoin) | - | - | - |
 | [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) | Practical Experiments on how to add complete privacy to flashbots. [Github](https://github.com/hashcloak/flashbots-privacy) | - | - | - |
 | [ONEG8](https://oneg8.one) | builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem.  | - | - | - | - |
@@ -790,7 +727,6 @@ Feel free to update the list!
 | [Hype](https://hype-eth.com) | the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously| - | - | - | - |
 | [Lightstreams](https://lightstreams.network) | provides secure data sharing for web3 applications. | [Github](https://github.com/lightstreams-network/) | - | - | - |
 | [Midnight](https://midnight.network) | empower regulation-friendly apps that safeguard sensitive commercial and personal data | - | - | - | - |
-| [Spectrum Marketplace](https://spectrummarket.io) | a marketplace where everyone has the opportunity to contribute, transact, and interact without compromising on privacy or security. | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | - | - | - |
 | [Bubble](https://bubbleprotocol.com) | enables blockchains to control and govern private off-chain data. | [Github](https://github.com/bubble-protocol) | - | - | - |
 | [OXygean](https://www.oxygean.com/introducing-oxit) | Privacy First x 1-Minute Action Protocol | - | - | - | - |
 | [Data Ownership Protocol](https://dop.org) | selective transparency on Ethereum | - | - | - | - |
@@ -798,7 +734,7 @@ Feel free to update the list!
 | [xBlock](https://www.xblock.tech) | compliant solution for private transactions in Web3. Privately send, swap, bridge and receive payments with xBlock’s trusted API | [Docs](https://xblock.gitbook.io/product-docs) | - | - | - |
 | [Clique](https://www.clique.social) | Clique securely connects Web2 and Web3 user data with Identity and Attestation Oracles -- built with ZKP, TEE, and MP | [Github](https://github.com/CliqueOfficial) | - | - | - |
 | [Equilibria](https://equilibriacc.com) | Privacy oracle | [Github](https://github.com/EquilibriaCC) | - | - | - |
-| [GenomesDAO](https://genomes.io) |  money and anonymously power scientific and medical research | - | - | - | - |
+| [GenomesDAO](https://genomes.io) |  Genomes.io provides you with a private and secure DNA data vault that puts you back in control of your genome | [DAO](https://dao.genomes.io) | - | - | - |
 | [Night Finance](https://night.finance) |  A Stealth Address-Powered Private and Composable Account Layer for Ethereum | - | - | - | - |
 | [Freedom Tool](https://freedomtool.org/#/) | Freedom Tool is a transparent, privacy-preserving blockchain voting system based on biometric passports and zero-knowledge proofs. | [Github](https://github.com/rarimo#freedomtool) [Docs](https://docs.rarimo.com/ecosystem/freedom-tool/)  | live | - | [Public](https://github.com/orgs/rarimo/people)  |
 | [BlockChair](https://blockchair.com) | the most private blockchain search engine | [Github](https://github.com/Blockchair) [Docs](https://blockchair.com/api/docs)  | live | - | -  |
@@ -828,43 +764,71 @@ Feel free to update the list!
 | ------------- | ------------- |
 | [zikiLeaks](https://zikileaks.vercel.app)  | Privacy-preserving posting, non-invasive content verification, & anonymous donations empower whistleblowers to fight for human rights globally. [Github](https://github.com/mattiapomelli/zikileaks) |
 
-- [Hackers Congress Paralelní Polis](https://last-shot.hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
-- [ETH #Privacy](https://www.leadingprivacy.com/istanbul) - ETH #Privacy is the hackathon around privacy, organized by the Leading Privacy Alliance of web3.
+- [Hackers Congress Paralelní Polis](https://hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
 
 ## Network state
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
 - [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens [Github](https://github.com/acid-info)
 
 ## Sunset projects archive
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Other |
+| Project  | Description | GitHub / Docs | Product-readiness | Ecosystem | Other |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [AnonZK Incognito](https://incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | - | - | - |
-| [Osiris](https://www.decenternet.net/osiris) | Osiris is the world's first net-neutral browser. | - | **sunset** | - | - |
-| [okSign](https://www.oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | **sunset** | - | - |
-| [Literully](https://literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | [Docs](https://docs.literully.com/articles/) | **sunset** | - | - |
-| [Arcana's Private NFT](https://arcana.network/blog/launching-private-nfts-on-arcana/) | new supported format by Arcana preserving privacy within NFT minting | [Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/)  | **sunset** | - | - |
-| [Bidshop](https://www.bidshop.io) | The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's. | - | **sunset** | - | - |
-| [Onion mixer](https://onionmixer.gitbook.io/onion-mixer/) | Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions. | - | **sunset** | - | - |
-| [Void cash](https://void.cash) | Decentralized payment protocol. | [Docs](https://void-cash.gitbook.io/void.cash/) | **sunset** | - | - |
-| [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| [GitHub](https://github.com/cryptoadong) | **sunset** | Ethereum | - |
-| [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | **sunset** | - | - |
-| [XATA](https://www.xata.fi) | A MEV Minimization solution to survive the Dark Forest  | [Docs](https://docs.xata.fi) | **sunset** | Automata | - |
-| [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - | 
-| [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM compatible | - | 
-| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | [GitHub](https://github.com/Sacred-Finance) | **sunset** | Ethereum, Polygon | - |
-| [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) |
-| [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
-| [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
-| [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
-| [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
-| **sunset** [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
-| [Anon virtual cards](https://vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
-| [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
-| [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | [GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - |
-| [ZkPay](https://zkpay.finance) | Private Aztec withdrawal Bridge. | - | - |
-| [Zecrey Protocol](https://www.zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |[Github](https://github.com/Zecrey-Labs) | **sunset**| multichain | [announcement](https://docs.zecrey.com/) |
-| [Zecrey Wallet](https://www.zecrey.com/) | Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | [Github](https://github.com/Zecrey-Labs) | **sunset** | multichain | [announcement](https://zecrey.medium.com/announcing-the-sunset-of-zecrey-wallet-f99f58bab96a) |
-| [Zoker](https://zoker.tech) | The foremost ZK-based Wallet in Web3 | [Docs](https://zoker.tech/wp.pdf) | PoC | multichain | anon |
+| AnonZK Incognito (incognito.anonzk.io) | a privacy tool known as a mixer, which we developed to utilise zk-SNARKs technology to increase anonymity. | - | **sunset** | - | - |
+| Osiris (decenternet.net/osiris) | Osiris is the world's first net-neutral browser. | - | **sunset** | - | - |
+| okSign (oksign.app) | Create, Sign and Save eSignatures with smart contracts and permissioned NFTs. | - | **sunset** | - | - |
+| Literully (literully.com) | a decentralized voting platform that allows users to create and participate in voting on any topic, all without giving up their privacy or control over their data | [Docs](https://docs.literully.com/articles/) | **sunset** | - | - |
+| Arcana's Private NFT (arcana.network/blog/launching-private-nfts-on-arcana) | new supported format by Arcana preserving privacy within NFT minting | [Docs](https://docs.beta.arcana.network/docs/conceptpvtnft/) | **sunset** | - | - |
+| Bidshop (bidshop.io) | The first and only trustless marketplace with encrypted & secret bidding. Opening a new world of gamification and liquidity for NFT's. | - | **sunset** | - | - |
+| Onion mixer (onionmixer.gitbook.io/onion-mixer/) | Onion Mixer is the first decentralized protocol for anonymous cross-chain transactions. | - | **sunset** | - | - |
+| Void cash (void.cash) | Decentralized payment protocol. | [Docs](https://void-cash.gitbook.io/void.cash/) | **sunset** | - | - |
+| StealthPay (stealthpay.cash) | a stealth address protocol for Ethereum.| [GitHub](https://github.com/cryptoadong) | **sunset** | Ethereum | - |
+| Crypviser Secure Messenger (crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | **sunset** | - | - |
+| XATA (xata.fi) | A MEV Minimization solution to survive the Dark Forest  | [Docs](https://docs.xata.fi) | **sunset** | Automata | - |
+| zk.money (zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - | 
+| Yellow Submarine (ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM | - | 
+| Sacred (sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | [GitHub](https://github.com/Sacred-Finance) | **sunset** | Ethereum, Polygon | - |
+| Sahara (sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | [Audit](https://sahara.network/resources/sahara-security-audit.pdf) |
+| DeFiner (definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
+| CIA protocol (ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
+| CoinBook (coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
+| Highline (highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
+| Sismo (sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
+| Anon virtual cards (vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
+| Namachain (namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
+| Nocturne (nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | [GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | **sunset** | - | - |
+| ZkPay (zkpay.finance) | Private Aztec withdrawal Bridge. | - | **sunset** | - | - |
+| Zecrey Protocol (zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |[Github](https://github.com/Zecrey-Labs) [Docs](https://docs.zecrey.com/) | **sunset**| multichain | - |
+| Zecrey Wallet (zecrey.com/) | Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | [Github](https://github.com/Zecrey-Labs) | **sunset** | multichain | [announcement](https://zecrey.medium.com/announcing-the-sunset-of-zecrey-wallet-f99f58bab96a) |
+| Zoker (zoker.tech) | The foremost ZK-based Wallet in Web3 | [Docs](https://zoker.tech/wp.pdf) | **sunset** | multichain | - |
+| Nata Router (natarouter.com) [Nata Network](https://natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect✨️**ZK** | [GitHub](https://github.com/shichiro-nakahara) [Docs](https://docs.natanetwork.io/router/userguide/introduction) | **sunset** | multichain | - | 
+| Fairy (fairyswap.finance) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | [Github](https://github.com/Fairyswap) [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | **sunset** | - | [Certik](https://skynet.certik.com/projects/fairyswap) |
+| Shade Cash (shade.cash) | A decentralized protocol for private transactions on Fantom Opera | [Github](https://github.com/ShadeCash) [Docs](https://shadecash.gitbook.io/shadecash) | **sunset** | - | - |
+| 0xAnon (0xanon.tech) | The privacy-focused DEX aggregator | [Docs](https://docs.0xanon.tech) | **sunset** | - | - | 
+| Kalium Network (kalium.network/app/public-wallet) | Seamlessly integrated with Ethereum, BSC, Polygon, and NEAR for enhanced privacy via ZK cryptography | - | **sunset** | - | - |
+| Unimix (unimix.cash) | The world's most secure privacy transaction service | - | **sunset** | multichain | - |
+| Dark Protocol (darkprotocol.org) | Decentralised Private Money, Backed by Liquid Digital Assets. | [Docs](https://www.darkprotocol.org/manifesto) | **sunset** | - | - | 
+| ZOOK (zook.fi) | DeFi ecosystem | [Github](https://github.com/zookfi/) [Docs](https://docs.zook.fi) | **sunset** | - | - | 
+| Discreet (discreet.net) |  An instant finality ch-DAG, with a focus on compliance-grade financial privacy, programmability and private consensus. | [Github](https://github.com/DiscreetNetwork) | **sunset** | - | - | 
+| x-cash (xcash.foundation) |  Web3’s Private Public Computing Platform | [Github](https://github.com/X-CASH-official) | **sunset** | - | - | 
+| Nevocoin (nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | [Github](https://github.com/nevocoin/nevocoin/) | **sunset** | - | - | 
+| Suterusu (suterusu.io) | A suite of privacy-preserving services to obfuscate transactional and asset information | [GitHub](https://github.com/suterusu-team) | **sunset** | - | - | 
+| Ampere Chain (amperechain.com) | Experience the next generation of D-QBFT. Pioneering EVM, privacy nodes, & unmatched efficiency | [Github](https://github.com/AmpereChain) | **sunset** | - | - | 
+| Elite Wallet (elitewallet.sc) | Open-source, non-custodial multi-currency mobile wallet that respects your privacy | [GitHub](https://github.com/Elite-Labs/EliteWallet) | **sunset** | - | - | 
+| ZKCHAOS (zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency | [GitHub](https://github.com/zkchaos) | **sunset** | - | - | 
+| Motherbored (motherbored.app) | #dVPN hardware (node + SM card) | [Github](https://github.com/boringprotocol/motherbored) | **sunset** | - | - | 
+| Boring Protocol (boringprotocol.io) | A Decentralized VPN on Solana | [Github](https://github.com/boringprotocol) | **sunset** | - | - | 
+| MBuddy (metamirror.space/) | Web 3.0+ identity infrastructure | [Docs](https://docs.metamirror.space/mbuddy/introduction/overview) | **sunset** | - | - | 
+| Notebook labs (notebooklabs.xyz) | Zero-Knowledge Cryptography for anonymous KYC and soul-bound credentials. ✨️**ZK** | [Docs](https://notebook-6.gitbook.io/notebook-docs) | **sunset** | - | - |
+| Zoci (zoci.io) | private RPC services | [Github](https://github.com/zoci-io) | **sunset** | - | - | 
+| Veil (veil-project.com) | Veil is a cryptocurrency released in 2019 setting a new standard in privacy-focused networks. Combining a lightened version of the Zerocoin protocol with RingCT, Veil provides always-on anonymity. | [Github](https://github.com/Veil-Project/veil) | **sunset** | - | - | 
+| Telios (telios.io) | Secure Communication with Encrypted Data and Email | [Github](https://github.com/Telios-org) | **sunset** | - | - | 
+| geniish (geniish.io) | Confidential NFTs for exclusive experiences | [Docs](https://github.com/geniish-protocol/docs) | **sunset** | - | - | 
+| Incognito (incognito.org) | The privacy marketplace for crypto assets. | [Github](https://github.com/incognitochain) | **sunset** | - | - | 
+| Samourai Wallet (samouraiwallet.com/) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | - | **sunset** | - | - | 
+| Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | [GitLab](https://code.samourai.io/ronindojo) || **sunset** | - | - | 
+| Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
+| Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
+
 
 ## Donate
 
