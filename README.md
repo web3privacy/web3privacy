@@ -109,7 +109,7 @@ Feel free to update the list!
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Zcash](https://z.cash)  | a digital currency - fast and confidential with low fees  | ([GitHub](https://github.com/securesecrets/shade)) | mainnet, October 2016 | ZCash | ([Public](https://electriccoin.co/team/)) |
+| [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | ([GitHub](https://github.com/zcash/zcash)) | mainnet, October 2016 | Zcash | ([Public](https://electriccoin.co)) |
 | [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | ([GitHub](https://github.com/monero-ecosystem)) | mainnet, April 2014 | Monero | anon |
 | [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins | ([Gitea](https://git.wownero.com/wownero/wownero)) | mainnet, 1st April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | ([GitHub](https://github.com/iron-fish)) | Mainnet, 20th April 2023 | Iron Fish | ([Public](https://ironfish.network/community/our-community)) |
