@@ -750,28 +750,16 @@ Feel free to update the list!
 - [Freedom Tech](https://freedom.tech) - Enabling human freedom and flourishing through technology.
 - [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil. 
 - [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
-
-## Events
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Events.png?raw=true)
-- [ETH Brno](https://ethbrno.cz) - an annual independent & open community hackathon for supporters of decentralised finance, smart contracts and Web3 happening in Brno, Czech Republic **13 projects**: [Devfolio](https://ethbrno.devfolio.co/projects?show_winners=false)
-
-| Winner  | Description |
-| ------------- | ------------- |
-| [Lunar aka Brume Wallet](https://devfolio.co/projects/lunar-wallet-34c4)  | the first privacy native Ethereum wallet based on a built-in integration of TOR [Github](https://github.com/hazae41/ethbrno-wallet) or [Github](https://github.com/brumewallet)  |
-
-- [ETH Berlin](https://ethberlin.ooo/contributors/) - a hackathon, a cultural festival, an educational event, a platform for hacktivism, and a community initiative to push the decentralized ecosystem forward. **100 projects**: [Devfolio](https://ethberlin.devfolio.co/projects?show_winners=false)
-
-- [ETHDam](https://www.ethdam.com/hackathon) - Ethereum-focused privacy & DeFi hackathon. [Projects](https://taikai.network/cryptocanal/hackathons/ethdam)
-
-| Winner  | Description |
-| ------------- | ------------- |
-| [zikiLeaks](https://zikileaks.vercel.app)  | Privacy-preserving posting, non-invasive content verification, & anonymous donations empower whistleblowers to fight for human rights globally. [Github](https://github.com/mattiapomelli/zikileaks) |
-
-- [Hackers Congress Paralelní Polis](https://hcpp.cz) - the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world.
+- [Monero Talk](https://www.monerotalk.live) - Monero Talk broadcasts weekly conversations on YouTube with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become.
 
 ## Network state
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
 - [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens [Github](https://github.com/acid-info)
+- [Praxis](https://www.praxisnation.com) - Praxis is the world’s first Network State: a global online community with a national consciousness, developing a shared way of life, governing institutions, and crowdfunding a physical city
+- [Zuzalu](https://www.zuzalu.city) - Zuzalu.city is a decentralised open-source operating system that connects users to interoperable Ethereum ecosystem applications for innovating their communities - [Gitbooks](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission)
+- [Prospera](https://www.prospera.co) - Próspera is a startup city with a regulatory system designed for entrepreneurs to build better, cheaper, and faster than anywhere else in the world.
+- [Nation3](https://nation3.org) - A zero-tax, Web3-powered, solarpunk society. One that serves you, not the other way round
+- [Another Nation](https://www.anothernation.xyz) - Our purpose is to change the status-quo, incubate spaces that are created, owned and governed by the community, for the community
 
 ## Sunset projects archive
 | Project  | Description | GitHub / Docs | Product-readiness | Ecosystem | Other |
