@@ -297,8 +297,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Layer%202.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** |([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) | mainnet, July 2022 | Polygon | ([Public](https://polygon.technology/about)) | 
-| [TEN](https://ten.xyz/) | TEN is a Layer 2 solution on Ethereum that extends Web3 Scalability with Encryption. It ensures the inputs, contract state and execution are always encrypted. In doing so it achieves smart transparency - for once the most popular Web2 use cases are now possible in Web3, with no change in the UX/DX as an EVM dApp. | ([Docs](https://docs.ten.xyz/)) | Testnet | Ethereum | ([Public](https://ten.xyz/team)) | 
+| [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** | [GitHub](https://github.com/maticnetwork/nightfall-sdk/ ) | mainnet, July 2022 | Polygon | [Public](https://polygon.technology/about) | 
+| [TEN](https://ten.xyz/) | TEN is a Layer 2 solution on Ethereum that extends Web3 Scalability with Encryption. It ensures the inputs, contract state and execution are always encrypted. In doing so it achieves smart transparency - for once the most popular Web2 use cases are now possible in Web3, with no change in the UX/DX as an EVM dApp. | [Docs](https://docs.ten.xyz/) | Testnet | Ethereum | [Public](https://ten.xyz/team) | 
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | [Github](https://github.com/starkware-libs/starkex-resources) | live | Ethereum | [Public](https://starkware.co/about-us/) |
 | [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | [Github](https://github.com/root1m3/plebble) | TBD | TBD | anon |
 | [Tusima](https://tusima.network) | Privacy Financial Infrastructure For Blockchain | [Docs](https://tusima.gitbook.io/tusima_en/tusima-introduction/what-is-tusima) | - | - | - | - |
@@ -789,7 +789,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Namachain (namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
 | Nocturne (nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | [GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | **sunset** | - | - |
 | ZkPay (zkpay.finance) | Private Aztec withdrawal Bridge. | - | **sunset** | - | - |
-| Zecrey Protocol (zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability |[Github](https://github.com/Zecrey-Labs) [Docs](https://docs.zecrey.com/) | **sunset**| multichain | - |
+| Zecrey Protocol (zecrey.com) | zkRollup basedLayer 2 protocol featuring privacy and scalability | [Github](https://github.com/Zecrey-Labs) [Docs](https://docs.zecrey.com/) | **sunset**| multichain | - |
 | Zecrey Wallet (zecrey.com) | Zecrey is an all-in-one wallet that not only provides a multi-chain layer-1 wallet but also a private cross-chain layer-2 wallet | [Github](https://github.com/Zecrey-Labs) | **sunset** | multichain | [announcement](https://zecrey.medium.com/announcing-the-sunset-of-zecrey-wallet-f99f58bab96a) |
 | Zoker (zoker.tech) | The foremost ZK-based Wallet in Web3 | - | **sunset** | multichain | - |
 | Nata Network & Router (natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect ✨️**ZK** | [GitHub](https://github.com/shichiro-nakahara) - | **sunset** | multichain | - | 
