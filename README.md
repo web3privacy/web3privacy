@@ -360,7 +360,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Token | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- | ------------- |
 | [KILT](https://www.kilt.io) | A blockchain identity protocol for issuing self-sovereign, verifiable credentials and decentralized identifiers | [Github](https://github.com/KILTprotocol) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/kiltprotocol/) | [Public](https://www.kilt.io/team) |
-| [ZK Email](https://www.prove.email) | Open-source protocol to prove any subset of any partially redacted email in zk on chain, via verifying email signatures within zk proofs. Used for [email-based wallet recovery](https://prove.email/recovery), decentralized on/off ramps, and decentralized identity verification. | [Github](https://github.com/zkemail) | - | - | - | - |
+| [ZK Email](https://www.zk.email) | ZK Email allows to verify emails according to DKIM protocol using zero-knowledge proofs. The DKIM signature is verified by the receiver and the email is authenticated. | [Github](https://github.com/zkemail) [Docs](https://docs.zk.email/introduction)| live | - | no | public |
 | [Cursive](https://www.cursive.team) | By combining NFC cards that generate zk-friendly signatures with ZK, FHE, PSI, and folding schemes, uses advanced cryptography to privately interact with people across communities. | [Github](https://github.com/cursive-team) | - | - | - | - |
 | [Web3ID](https://www.dock.io/web3id) | Privacy-preserving user verification for Web3 | [Github](https://github.com/docknetwork) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/dock/) | [Public](https://www.dock.io/verifiable-credentials-company) |
 | [Anonybit](https://www.anonybit.io) | Anonybit’s revolutionary, patented solution offers a decentralized framework that strengthens compliance, protects identity, and secures personal assets (focus on biometrics) | - | PoC | multichain | no | Public |
@@ -370,7 +370,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [VerusID](https://verus.io/verusid) | VerusID is for self-sovereign individuals, and conscious organizations that value their data | [Github](https://github.com/VerusCoin) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/veruscoin/) | [Public](https://verus.io/people) |
 | [Findora zkDID](https://findora.org) |  zkDID is a Decentralized Identity and Credential Management System | [Github](https://github.com/findoranetwork) [Docs](https://docs.findora.org/developers/developer-sdks/zkdid-sdk) | live | multichain | [yes](https://coinmarketcap.com/it/currencies/findora/) | Public |
 | [Iden3](https://iden3.io) | The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol | [Github](https://github.com/iden3) | live | Ethereum | no | anon |
-| [Holonym](https://www.holonym.id) | Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** | [Github](https://github.com/holonym-foundation) | - | - | - | - |
 | [zCloak](https://zcloak.network) | Privacy-first DID and verifiable computation infrastructure ✨️**ZK** | [Github](https://github.com/zCloak-Network) | - | - | - | - |
 | [BrightID](https://www.brightid.org) | A social identity network that allows you to prove that you’re only using one account. It’s the holy grail of digital identity | [Github](https://github.com/BrightID) | - | - | - | - |
 | [ONT ID](https://ont.id) | Bringing trustless identity to Web3 manage your data with ONT ID | [Github](https://github.com/ont-id/) | - | - | - | - |
@@ -384,14 +383,16 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Next.ID](https://next.id) | An open-sourced protocol that synergises your Web2 and Web3 profiles. | [Github](https://github.com/nextdotid) | - | - | - | - |
 | [Slashags](https://slashtags.to) | Slashtags gives developers tools to build secure and scalable peer-to-peer applications that put users in control of their profiles, contacts, accounts, and data. | [Github](https://github.com/synonymdev/slashtags) | - | - | - | - |
 | [AesirX WEB3 ID](https://web3id.aesirx.io) | an advanced identity management solution that protects users’ personal data and ensures privacy on the internet. | [Github](https://github.com/aesirxio) | - | - | - | - |
-| [Quadrata](https://quadrata.com) | Establish Trust and Identification via Sybil resistant DIDs and KYC/AML natively on-chain | - | - | - | - | - |
+| [Quadrata](https://quadrata.com) | Quadrata is passport network providing an identity and compliance layer to public blockchains | [Github](https://github.com/QuadrataNetwork) | - | - | - | public |
 | [SEER sdid](https://sdid.seer.eco/) | Building your own community identity like a brand | - | - | - | - |
 | [Valid.id](https://valid3.id) | Build the root of trust for your entity in a way that is both cryptographic and legally binding. | - | - | - | - | - |
 | [zkPass](https://zkpass.org/home) | Protocol for Private Data based on MPC, ZKP, 3P-TLS | [Github](https://github.com/zkPassOfficial) | - | - | - | - |
 | [Anagolay](https://anagolay.network) | Web3 Framework for Original Creators to claim and verify ownership of online identities and multimedia content and license creative works P2P | [Github](https://github.com/anagolay) | - | - | - |
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | [Github](https://github.com/DAuth-Network) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
-| [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation, you can gain access to the most trustworthy web3 experiences and maximize your ability to benefit from platforms like Gitcoin Grants. | [Github](https://github.com/gitcoinco/passport) | - | - | - |
+| [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation. | [Github](https://github.com/gitcoinco/passport) | -  | - | no | public |
+| [Holonym](https://www.holonym.id) | Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** | [Github](https://github.com/holonym-foundation) | - | - | - | - |
+| [ZKpassport](https://zkpassport.id/) | Unforgeable Proof of Identity. Privacy-preserving. Self-sovereign. Built for Web3. | [Github](https://github.com/zkpassport) | beta | - | - | - |
 | [Internet Identity](https://internetcomputer.org/internet-identity) | authentication framework that enables users to sign into dapps using passkeys (fingerprint, FaceID). Also, sets new authentication keys for each domain to protects users from being tracked across domains. | [Github](https://github.com/dfinity/internet-identity) | live | multichain | - |
 | [zkMe](https://zk.me) | Identity Oracles that leverage the power of zero-knowledge-proofs to enable secure, self-sovereign and private credential verifications. | [Github](https://github.com/zkMeLabs) | - | - | - |
 | [WIW](https://wiw.io) | Build, Aggregate, Own Your Decentralized Identity & Reputation | [Github](https://github.com/wiw-io) | - | - | - |
@@ -401,8 +402,9 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | [Docs](https://docs.carv.io/) | - | - | - |
 | BANS | Beam Anonymous Name Service | [Github](https://github.com/BeamMW/BANS) [Docs](https://medium.com/beam-mw) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
 | [Rarimo](https://rarimo.com//) | Rarimo is a privacy-first social protocol. It seamlessly combines various identity standards and allows the formation of a private but verifiable history of their use and relations using ZK proofs. | [Github](https://github.com/rarimo) [Docs](https://docs.rarimo.com/)| live | multichain | (yes) | [Public](https://github.com/orgs/rarimo/people) |
-| [Creds](https://creds.xyz) | helps you understand your current and future community better by leveraging insights and gamification to create personalised experiences | - | live | - | - | - |
 | [Reclaim Protocol](https://www.reclaimprotocol.org/) | Empower users to generate verified credentials, secured by zero-knowledge proofs, from any website on the internet. | [Github](https://github.com/reclaimprotocol) | live | multichain | No | [Public](https://www.ycombinator.com/companies/reclaim-protocol-questbook) |
+| [AnonAadhaar](https://anon-aadhaar.pse.dev/) | A zero-knowledge protocol that allows Aadhaar ID owners to prove their identity in a privacy preserving way. It provides a set of tools to generate and verify proofs, authenticate users and verify proofs on-chain. | [Github](https://github.com/anon-aadhaar) [Docs](https://documentation.anon-aadhaar.pse.dev/docs/intro) | live | EVM | no | Public |
+
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -487,7 +489,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [OutDID](https://www.outdid.io) | Your Zero-Knowledge, Decentralized KYC filter of Blockchain users. | - | - | - | - |
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation) | - | - | - |
 | [Synaps](https://www.synaps.io) | identity verification solutions from Personhood validation to regulated KYC / AML and KYB processes | - | - | -  | - |
-
+| [Predicate](https://predicate.io/) | Define rules for onchain interactions. Owned by your community, powered by the Predicate Network. | [Docs](https://docs.predicate.io/essentials/introduction) | - | - | - | public |
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
