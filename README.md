@@ -16,7 +16,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 - [Computing network](#Computing-network)
 - [AI](#AI)
 - [Layer 2](#Layer-2)
-- [Hardware](#Hardware)
 - [FHE](#FHE)
 - [VPN](#VPN) 
 - [DID](#DID)
@@ -28,12 +27,16 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 - [RPC](#RPC)
 - [Storage](#Storage)
 - [dApps](#dApps) 
-- [OS](#OS)
 - [NFT](#NFT)
-- [Other](#Other)
 - [Alliances](#Alliances)
-- [Mixing Protocols(#Mixing-protocols)
+- [Mixing Protocols](#Mixing-protocols)
 - [Data management](#Data-management)
+- [Hardware](#Hardware)
+- [OS](#OS)
+- [Node](#node)
+- [Podcasts & blogs](#Podcasts-&-blogs)
+- [Network States](#Network-states)
+- [Other](#Other)
 - [Sunset projects archive](#Sunset)
 - [Donate](#Donate)
 
@@ -189,7 +192,9 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
 | [Pollen Mobile](https://www.pollenmobile.io) | The world's first decentralized, user owned and operated mobile network. | [Docs](https://docs.pollenmobile.io/pollen-mobile-docs/) | testnet | PCN |
 | [LayerX](https://layerx.co.jp) | A privacy-preserving blockchain on Substrate | [GitHub](https://github.com/LayerXcom) | TBD | no |
-| [The Farcaster Project](https://farcaster.dev/) | a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. | [GitHub](https://github.com/farcaster-project) | TBD | no |
+| [Bisq](https://bisq.network/) | Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. | [Github](https://github.com/bisq-network) | live | BTC |
+| [Haveno](https://haveno.exchange/) | Haveno is a non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero. It doesn't get more private than that. | [Github](https://github.com/haveno-dex) | live | XMR |
+| [The Farcaster Project](https://farcaster.dev/) | a cross-chain atomic swap protocol and implementation who allows to exchange Bitcoin and Monero in a peer-to-peer manner with anyone running a Farcaster node. | [GitHub](https://github.com/farcaster-project) | TBD | multiple |
 | [Sunscreen](https://blog.sunscreen.tech/roadmap/) | makes advanced privacy technology easy for engineers to use. | [GitHub](https://github.com/Sunscreen-tech?ref=sunscreen) | TBD | no |
 | [Hana](https://hana.network) | Layer 0 for privacy, bringing security and confidentiality to all blockchains | - | - | - |
 | [ParallelChain](https://parallelchain.io) | a public + private layer-1 blockchain protocol building an accountable, fair and solid backbone infrastructure for the digital economy. | [GitHub](https://github.com/parallelchain-io) | - | [Public](https://parallelchain.io/company/team) |
@@ -217,7 +222,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [IZAR](https://www.izar.xyz) | Cross-chain protocol: Ethereum x Aleo | [Docs](https://docs.izar.xyz/) | anon | - | - |
 | [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTLabs) | anon | - | - |
 | [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | [Github](https://github.com/tari-project) | - | - | - |
-| [Radicle](https://radicle.xyz) - open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
+| [Radicle](https://radicle.xyz) | open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -310,22 +315,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Coti](https://coti.io) | Privacy-Focused Ethereum Layer-2  | [Github](https://github.com/coti-io) | - | - | - |
 | Laser Beam | A privacy focused Lightning Network implementation on Beam | [Github](https://github.com/BeamMW/beam) [Docs](https://github.com/BeamMW/beam/wiki/Laser-Beam) | live | [Beam](https://beam.mw/) | [Public](https://github.com/orgs/BeamMW/people)
 
-## Hardware
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | [Docs](https://deeper-network.medium.com/) | live - 2019 | - | anon |
-| [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | [Docs](https://docs.samourai.io/) | live | Bitcoin | anon |
-| [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [GitHub](https://github.com/dappnode) | live | multichain | [Public](https://dappnode.com/pages/about)
-| [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | [Github](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server) | live | multichain | [Public](https://www.mysterium.network/team) |
-| [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | [Docs](https://www.chain-reaction.io/resource-hub/) | live | multichain | [Public](https://www.chain-reaction.io/about/) |
-| [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
-| [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
-| [Monero Nodo](https://moneronodo.com/) | a full, optimized and dedicated plug-n-play Monero node comes equipped with Tor and I2P support, ensuring maximum privacy and security for your transactions. | [Github](https://github.com/MoneroNodo/Nodo) | live | Monero | public | 
-| [Start9](https://start9.com/) | Purchase plug-n-play (or self-host) a node for soverign cpomputing - includes Bitcoin Core, Lightning, Nostr, Tor, OnionShare, Nextcloud integration out of the box. | [Github](https://github.com/Start9Labs) [Docs](https://docs.start9.com/) | live | Bitcoin | public | 
-| [RaspiBlitz](https://shop.fulmo.org/) | A do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode on a RaspberryPi 4 | [Github](https://github.com/raspiblitz/raspiblitz) | live | Bitcoin | public |
-| [MyNode](https://mynodebtc.com/) | MyNode aims to simplify running a dedicated Bitcoin node and Lightning wallet using open source software with our browser-based interface with multiple integrations | live | Bitcoin | public |
-| [Nodl](https://www.nodl.eu/) | A plug-n-play entreprise-ready Bitcoin node with Lightning, built in Switzerland. | live | Bitcoin | public |
 
 ## FHE
 | Project  | GitHub | 
@@ -396,6 +385,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [DAuth Network](https://www.dauth.network) | a decentralized authentication network empowering wallets and dApps to create authentication with a focus on privacy | [Github](https://github.com/DAuth-Network) | - | - | - |
 | [Icebreaker](https://www.icebreaker.xyz) | zero knowledge  x self-sovereign identity | - | - | - | - |
 | [Gitcoin Passport](https://passport.gitcoin.co) | Take control of your identity. By collecting “stamps” of validation for your identity and online reputation. | [Github](https://github.com/gitcoinco/passport) | -  | - | no | public |
+| [OpenPassport](https://www.openpassport.app/) | a digital identity powered by zero-knowledge technology - built with ZKpassport. | [Github](https://github.com/zk-passport/openpassport) | - | - | - | - |
 | [Holonym](https://www.holonym.id) | Your ZK Passport for Web3. A holistic identity that lets you prove facts about yourself without revealing who you are ✨️**ZK** | [Github](https://github.com/holonym-foundation) | - | - | - | - |
 | [ZKpassport](https://zkpassport.id/) | Unforgeable Proof of Identity. Privacy-preserving. Self-sovereign. Built for Web3. | [Github](https://github.com/zkpassport) | beta | - | - | - |
 | [Internet Identity](https://internetcomputer.org/internet-identity) | authentication framework that enables users to sign into dapps using passkeys (fingerprint, FaceID). Also, sets new authentication keys for each domain to protects users from being tracked across domains. | [Github](https://github.com/dfinity/internet-identity) | live | multichain | - |
@@ -495,6 +485,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Holonym](https://holonym.id) | ZK-identity protocol for anonymous KYC, sybil resistance, and compliance. ZK | [GitHub](https://github.com/holonym-foundation) | - | - | - |
 | [Synaps](https://www.synaps.io) | identity verification solutions from Personhood validation to regulated KYC / AML and KYB processes | - | - | -  | - |
 | [Predicate](https://predicate.io/) | Define rules for onchain interactions. Owned by your community, powered by the Predicate Network. | [Docs](https://docs.predicate.io/essentials/introduction) | - | - | - | public |
+| [0xbow](https://www.0xbow.io/) | 0xbow is the DeFi sector's response to the growing need for a balanced approach to privacy and regulatory compliance. | - | live | - | public |
+
 
 ## RPC
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
@@ -551,7 +543,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Silent Data](https://silentdata.com) | Verify web2 Data in web3 Applications. | - | - | - | - |
 | [WireMin](https://wiremin.org/#/) | a decentralised social network.  | - | - | - | - |
 | [Bermuda](https://www.bmda.io) | next-gen private utility dApp for sending legal, anonymous transactions of multiple ERC-20 tokens. | - | - | - | - |
-| Privacy Pools | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that | [Github](https://github.com/ameensol/privacy-pools) | - | - | - |
+| Privacy Pools | allow you to generate a brand new Ethereum address that is completely unlinkable to any prior transaction history. But our privacy-preserving technology does much more than that | [Github](https://github.com/ameensol/privacy-pools) | live | EVM | public |
 | [Sociogram](https://sociogram.org) | Web3Social Media focused on privacy. | - | - | - | - |
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 | [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | [Docs](https://juno.build/docs/build/analytics#getting-started) | - | - | - |
@@ -571,20 +563,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [ETH.LIMO](https://eth.limo/#how-limo-works) | a privacy-preserving ENS gateway, enabling users to access Ethereum-native dApps and content | [Github](https://github.com/ethlimo) | - | - | - |
 | [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | [Docs](https://docs.fractalframework.xyz/home) | - | - | - |
 | [Chimp Exchange](https://ten.chimp.exchange/#/swap) | Fully encrypted DEX | [Docs](https://docs.chimp.exchange/chimp-on-ten) | testnet | Ten protocol | - |
+| [fluidkey](https://www.fluidkey.com/) | Receive and manage funds onchain without publicly linking them to you. | [Docs](https://docs.fluidkey.com/) | live | EVM | public |
 
-## OS
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Graphene OS](https://grapheneos.org) | The private and secure mobile operating system with Android app compatibility | [Github](https://github.com/GrapheneOS) | live | - | - |
-| [CalyxOS](https://calyxos.org) | Android mobile operating system that puts privacy and security into the hands of everyday users. | [GitLab](https://gitlab.com/CalyxOS) | live | - | - |
-| [DivestOS](https://divestos.org) | a fork of LineageOS with monthly updates, automated CVE patchings, system WebView and more. | [Github](https://github.com/Divested-Mobile/DivestOS-Build) | live | - | - |
-| [iodéOS](https://iode.tech/iodeos) | Android based Operating System freed from Google trackers. iodéOS analyses in real-time connection attempts from your apps and allows you to: | [Gitlab](https://gitlab.com/iode/) | - | - | - |
-| [Whonix](https://www.whonix.org/) | Whonix is software designed to preserve privacy and anonymity by helping users run applications anonymously, can be installed on Windows, macOS, Linux and Qubes. | [GitHub](https://github.com/Whonix) | live | - | - |
-| [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | [GitHub](https://github.com/QubesOS) | - | - | - |
-| [TAILS OS](https://tails.net/) | TAILS is a portable operating system that protects your privacy and helps you avoid censorship. | [GitLab](https://gitlab.tails.boum.org/tails/tails) | live | - | - |
-| [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | [GitHub](https://github.com/fort-nix/nix-bitcoin) | - | - | - |
-| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) [Docs](https://docs.olares.xyz/manual/architecture.html) | beta | - | - |
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
@@ -630,19 +610,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Chainslab](https://chainslab.io)| Independent R&D firm focus on the digital economy revolution, provide in-depth research, genuine insight and cutting-edge opinions, closing the information gap within Blockchain industry. | - | - | - | - |
 | [Cake Labs](https://cakelabs.com)| builds helpful cryptocurrency software focused on everyday use and on solving common problems. Focused on Monero ecosystem | - | - | - | - |
 
-## Node
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [nodl One](https://www.nodl.eu/products/nodl-one/) | a full Bitcoin and Lightning Network node. | - | - | - | - |
-| [nodl Dojo](https://www.nodl.eu/products/nodl-dojo/) | a collaboration between nodl and the Samourai Wallet team. The nodl Dojo is a full Bitcoin and Lightning Network node. | - | - | - | - |
-| [RaspiBlitz](https://raspiblitz.org) | DIY Bitcoin & Lightning Node on a RaspberryPi | - | - | - | - |
-| [Start9](https://start9.com) | Sovereign computing for a free future [Github](https://github.com/Start9Labs) | - | - | - |
-| [myNode](https://mynodebtc.com) | The easiest, most powerful way to run a Bitcoin and Lightning node [Github](https://github.com/mynodebtc/mynode) | - | - | - |
-| [NiceNode](https://nicenode.xyz) | Launcher with a simple user experience to run an Ethereum node on your computer. | - | - | - | - |
-| [Stereum](https://stereum.net/ethereum-node-setup/) | Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. | - | - | - | - |
-| [Monero PocketNode](https://github.com/CryptoGrampy/xmr-pocket-node) | A Monero node for your Android Device. | - | - | - | - |
-
 ## Mixing Protocols
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -662,6 +629,62 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Spoc](https://spoc.com/) | A privacy system that enables DaaS and creates balance between business CRM and how individuals control & manage data. | - | - | - | - |
 | [NATIX Network](https://www.natix.network) | patent-pending technology is the easiest way to make any camera smart and 100% privacy compliant. | - | - | - | - |
+
+
+## Hardware
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Hardware.png?raw=true)
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Deeper Network](https://www.deeper.network) | Web 3.0 infrastructure of the users, by the users, for the users. | [Docs](https://deeper-network.medium.com/) | live - 2019 | - | anon |
+| [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | [Github](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server) | live | multichain | [Public](https://www.mysterium.network/team) |
+| [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | [Docs](https://www.chain-reaction.io/resource-hub/) | live | multichain | [Public](https://www.chain-reaction.io/about/) |
+| [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
+| [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
+
+## OS
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/OS.png?raw=true)
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Graphene OS](https://grapheneos.org) | The private and secure mobile operating system with Android app compatibility | [Github](https://github.com/GrapheneOS) | live | - | - |
+| [CalyxOS](https://calyxos.org) | Android mobile operating system that puts privacy and security into the hands of everyday users. | [GitLab](https://gitlab.com/CalyxOS) | live | - | - |
+| [DivestOS](https://divestos.org) | a fork of LineageOS with monthly updates, automated CVE patchings, system WebView and more. | [Github](https://github.com/Divested-Mobile/DivestOS-Build) | live | - | - |
+| [iodéOS](https://iode.tech/iodeos) | Android based Operating System freed from Google trackers. iodéOS analyses in real-time connection attempts from your apps and allows you to: | [Gitlab](https://gitlab.com/iode/) | - | - | - |
+| [Whonix](https://www.whonix.org/) | Whonix is software designed to preserve privacy and anonymity by helping users run applications anonymously, can be installed on Windows, macOS, Linux and Qubes. | [GitHub](https://github.com/Whonix) | live | - | - |
+| [Qubes OS](https://www.qubes-os.org) | Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. | [GitHub](https://github.com/QubesOS) | - | - | - |
+| [TAILS OS](https://tails.net/) | TAILS is a portable operating system that protects your privacy and helps you avoid censorship. | [GitLab](https://gitlab.tails.boum.org/tails/tails) | live | - | - |
+| [nix-bitcoin](https://nixbitcoin.org) | a collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security | [GitHub](https://github.com/fort-nix/nix-bitcoin) | - | - | - |
+| [Olares](https://www.olares.xyz/) | Olares is the sovereign cloud that puts you in control. It's a free, self-hosted alternative to public clouds like AWS, empowering you to reclaim your data ownership and privacy.  | [GitHub](https://github.com/beclab/Olares) [Docs](https://docs.olares.xyz/manual/architecture.html) | beta | - | - |
+
+## Node
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
+| [Start9](https://start9.com/) | Purchase plug-n-play (or self-host) a node for soverign cpomputing - includes Bitcoin Core, Lightning, Nostr, Tor, OnionShare, Nextcloud integration out of the box. | [Github](https://github.com/Start9Labs) [Docs](https://docs.start9.com/) | live | Bitcoin | public | 
+| [RaspiBlitz](https://shop.fulmo.org/) | A do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode on a RaspberryPi 4 | [Github](https://github.com/raspiblitz/raspiblitz) | live | Bitcoin | public |
+| [MyNode](https://mynodebtc.com/) | MyNode aims to simplify running a dedicated Bitcoin node and Lightning wallet using open source software with our browser-based interface with multiple integrations | live | Bitcoin | public |
+| [Nodl](https://www.nodl.eu/) | A plug-n-play entreprise-ready Bitcoin node with Lightning, built in Switzerland. | live | Bitcoin | public |
+| [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [GitHub](https://github.com/dappnode) | live | multichain | [Public](https://dappnode.com/pages/about)
+| [NiceNode](https://nicenode.xyz) | Launcher with a simple user experience to run an Ethereum node on your computer. | [Github](https://github.com/NiceNode/nice-node) | live | - | - |
+| [Stereum](https://stereum.net/ethereum-node-setup/) | Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. | [Github](https://github.com/stereum-dev) | live | - | - |
+| [Monero Nodo](https://moneronodo.com/) | a full, optimized and dedicated plug-n-play Monero node comes equipped with Tor and I2P support, ensuring maximum privacy and security for your transactions. | [Github](https://github.com/MoneroNodo/Nodo) | live | Monero | public | 
+
+## Podcasts & blogs
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
+- [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet.
+- [Freedom Tech](https://freedom.tech) - Enabling human freedom and flourishing through technology.
+- [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil. 
+- [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
+- [Monero Talk](https://www.monerotalk.live) - Monero Talk broadcasts weekly conversations on YouTube with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become.
+
+## Network states
+![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
+- [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens [Github](https://github.com/acid-info)
+- [Praxis](https://www.praxisnation.com) - Praxis is the world’s first Network State: a global online community with a national consciousness, developing a shared way of life, governing institutions, and crowdfunding a physical city
+- [Zuzalu](https://www.zuzalu.city) - Zuzalu.city is a decentralised open-source operating system that connects users to interoperable Ethereum ecosystem applications for innovating their communities - [Gitbooks](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission)
+- [Prospera](https://www.prospera.co) - Próspera is a startup city with a regulatory system designed for entrepreneurs to build better, cheaper, and faster than anywhere else in the world.
+- [Nation3](https://nation3.org) - A zero-tax, Web3-powered, solarpunk society. One that serves you, not the other way round
+- [Another Nation](https://www.anothernation.xyz) - Our purpose is to change the status-quo, incubate spaces that are created, owned and governed by the community, for the community
+
 
 ## Other
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Other.png?raw=true)
@@ -751,23 +774,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero direcly within your stream as a creator. | - | live | - | public | 
 
 
-## Podcasts & blogs
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
-- [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet.
-- [Freedom Tech](https://freedom.tech) - Enabling human freedom and flourishing through technology.
-- [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil. 
-- [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
-- [Monero Talk](https://www.monerotalk.live) - Monero Talk broadcasts weekly conversations on YouTube with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become.
-
-## Network state
-![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Network%20state.png?raw=true)
-- [Logos](https://logos.co) - a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens [Github](https://github.com/acid-info)
-- [Praxis](https://www.praxisnation.com) - Praxis is the world’s first Network State: a global online community with a national consciousness, developing a shared way of life, governing institutions, and crowdfunding a physical city
-- [Zuzalu](https://www.zuzalu.city) - Zuzalu.city is a decentralised open-source operating system that connects users to interoperable Ethereum ecosystem applications for innovating their communities - [Gitbooks](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission)
-- [Prospera](https://www.prospera.co) - Próspera is a startup city with a regulatory system designed for entrepreneurs to build better, cheaper, and faster than anywhere else in the world.
-- [Nation3](https://nation3.org) - A zero-tax, Web3-powered, solarpunk society. One that serves you, not the other way round
-- [Another Nation](https://www.anothernation.xyz) - Our purpose is to change the status-quo, incubate spaces that are created, owned and governed by the community, for the community
-
 ## Sunset projects archive
 | Project  | Description | GitHub / Docs | Product-readiness | Ecosystem | Other |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
@@ -824,10 +830,13 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Incognito (incognito.org) | The privacy marketplace for crypto assets. | [Github](https://github.com/incognitochain) | **sunset** | - | - | 
 | Samourai Wallet (samouraiwallet.com) | Open-source, non-custodial Bitcoin Wallet for Android with coinjoin and atomic swaps | - | **sunset** | - | - | 
 | Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | - | **sunset** | - | - | 
+| Samourai Whirlpool | Whirpool CoinJoin implementation for Samourai wallet | [Docs](https://docs.samourai.io/en/whirlpool) | **seized** | Bitcoin | public |
+| RoninDojo Tanto | Fully validating Bitcoin full node. Served over a Tor hidden service. | [Docs](https://docs.samourai.io/) | **seized** | Bitcoin | anon |
 | Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
 | Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
 | [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | **Sunset** | XHV | - |
-| Samourai Whirlpool | Whirpool CoinJoin implementation for Samourai wallet | [Docs](https://docs.samourai.io/en/whirlpool) | **seized** | Bitcoin | public |
+| Monero PocketNode | A Monero node for your Android Device. | [Github](https://github.com/CryptoGrampy/xmr-pocket-node)| **sunset** | Monero | - |
+
 
 ## Donate
 
