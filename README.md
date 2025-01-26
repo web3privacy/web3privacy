@@ -32,7 +32,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 - [NFT](#NFT)
 - [Other](#Other)
 - [Alliances](#Alliances)
-- [Mixing services](#Mixing-services)
+- [Mixing Protocols(#Mixing-protocols)
 - [Data management](#Data-management)
 - [Sunset projects archive](#Sunset)
 - [Donate](#Donate)
@@ -505,7 +505,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [DERP](https://derp.hoprnet.org/) | DERP is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain [Github](https://github.com/hoprnet/derp) | - | - | - |
 | [RPCh](https://rpch.net/) | RPCh is a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain [Github](https://github.com/Rpc-h/RPCh) | - | - | - |
 | [Ethereum Portal Network](https://www.ethportal.net/) | Decentralized P2P overlay network on top of Ethereum devp2p for serving RPC requests.  | - | - | - | - |
-| [Spook](https://github.com/EdenBlockVC/spook) | Mixing service using the Nym network to anonymize Ethereum RPC calls.  | - | - | - | - |
+| [Spook](https://github.com/EdenBlockVC/spook) | Network traffic mixing service using the Nym network to anonymize Ethereum RPC calls.  | - | - | - | - |
 
 ## Storage
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -643,25 +643,19 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Stereum](https://stereum.net/ethereum-node-setup/) | Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. | - | - | - | - |
 | [Monero PocketNode](https://github.com/CryptoGrampy/xmr-pocket-node) | A Monero node for your Android Device. | - | - | - | - |
 
-## Mixing services
+## Mixing Protocols
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Mixing%20services.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [UniJoin](https://unijoin.org) | We help you regain and maintain your anonymity by mixing your cryptos in a pool with other anonymity enthusiasts and receive untraceable coins using CoinJoin technology | - | - | - | - |
-| [TC](https://en.wikipedia.org/wiki/Tornado_Cash) | an open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine via smart contracts | - | - | - | - |
-| [Coinomize](https://coinomize.biz) | Coinomize helps you protect your privacy and identity and mix your Bitcoins (CoinJoin) easily and cheaply without storing any logs from you. | - | - | - | - |
-| [Mix BTC](https://mixbtc.online) | bitcoin mixer. | - | - | - | - |
-| [0xTIP](https://0xmonero.com/mixer) | 0xTIP features mixing, private bridging from Ethereum to BNB chain as well as off-chain transfers. | - | - | - | - |
-| [Whirlpool](https://samouraiwallet.com/whirlpool) | Break the link your coins leave behind with built in CoinJoin available on any platform. [Docs](https://docs.samourai.io/en/whirlpool) | - | - | - |
-| [Cyclone](https://cyclone.xyz) | Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses [Docs](https://github.com/cycloneprotocol/cyclone-contracts)   | - | - | - |
-| [JoinMarket](https://github.com/JoinMarket-Org/joinmarket/wiki/What-can-I-do-for-JoinMarket%3F) | Decentralized bitcoin coinjoin for improving privacy and fungibility. | - | - | - | - |
+| [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash) | An open source, non-custodial, fully decentralized cryptocurrency tumbler that runs on Ethereum Virtual Machine via smart contracts | [Archived Github](https://github.com/tornadocash) | contracts deployed | EVM | public |
+| [Cyclone](https://cyclone.xyz) | Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses [Github](https://github.com/cycloneprotocol) | live | EVM | - |
+| [JoinMarket](https://www.joinmarket.cloud/index.html) | JoinMarket is a Bitcoin Wallet that ensures privacy and earnings via decentralized CoinJoin, ensuring untraceable BTC transactions seamlessly. | [Github](https://github.com/JoinMarket-Org) [Wiki](https://github.com/JoinMarket-Org/joinmarket/wiki/) | live | Bitcoin | - |
+| [Jam](https://jamapp.org/) | Jam is a web interface for JoinMarket focusing on user-friendliness and ease-of-use. | [Github](https://github.com/joinmarket-webui/jam/) | beta | Bitcoin | - |
 | [Void protocol](https://protocolvoid.gitbook.io/void-protocol/) | Void protocol gives users control over financial anonymity, as an non custodial opt-in financial privacy service [Docs](https://protocolvoid.gitbook.io/void-protocol/)  | - | - | - |
-| [CoinShuffle++](https://github.com/decred/cspp) | CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions. | - | - | - | - |
-| [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) | Zk Privacy Solution on Mina Protocol | - | - | - | - |
-| [Spillways](https://spillways.finance) | Mixer enables fast, secure, and private transactions in crypto by obscuring the source and destination of funds. | - | - | - | - |
-| [HYPE](https://hype-eth.com) | Hype is the first Telegram-based bot that can be used to mix your ETH, clean your wallets and bridge anonymously. | - | live | multichain | anon |
-| [CoinMix](https://coinmix.cash/) | Anonymize your Bitcoins with a CoinJoin-powered Bitcoin Mixer. | - | - | - | - |
-| [Thormixer](https://www.thormixer.io) | Thormixer is a BTC anonymization service that protects the privacy of Bitcoin. Raises the anonymity level and prevents tracking | - | - | - | - |
+| [Decred CoinShuffle++](https://github.com/decred/cspp) | CoinShuffle++ (CSPP) is a mixing protocol used to create Decred CoinJoin transactions. | [Github](https://github.com/decred/cspp) [Docs](https://docs.decred.org/privacy/cspp/overview/)| - | - | - |
+| [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) | Zk Privacy Solution on Mina Protocol | [Github](https://github.com/Nicolascoding27/Zkapp-mina-ui) | alpha | - | - |
+| [CoinMix](https://coinmix.cash/) | Anonymize your Bitcoins with a CoinJoin-powered Bitcoin Mixer. | - | live | Bitcoin | - |
+| [Thormixer](https://www.thormixer.io) | Thormixer is a BTC anonymization service that protects the privacy of Bitcoin. Raises the anonymity level and prevents tracking | - | live | Bitcoin | - |
 
 ## Data management
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
@@ -833,7 +827,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
 | Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
 | [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | **Sunset** | XHV | - |
-
+| Samourai Whirlpool | Whirpool CoinJoin implementation for Samourai wallet | [Docs](https://docs.samourai.io/en/whirlpool) | **seized** | Bitcoin | public |
 
 ## Donate
 
