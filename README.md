@@ -143,7 +143,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
 | [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | mainnet, november 2020 | ROSE |
 | [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | testnet | No |
-  | [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
+| [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
 | [Anoma](https://anoma.net) | An intent-centric, privacy-preserving protocol for decentralized counterparty discovery, solving, and multi-chain atomic settlement | [GitHub](https://github.com/anoma) | testnet | No |
 | [Espresso Systems](https://www.espressosys.com) | Bring low-fees and better privacy to your Web3 applications with Espresso Systems' high-throughput EVM-compatible blockchain | [GitHub](https://github.com/EspressoSystems/) | testnet, June 2022 | No |
 | [Findora](https://findora.org) | A decentralized, privacy-preserving smart contract platform. Build the next privacy dApp for any EVM-chain with the world’s leading zero-knowledge technology-explore all new possibilities | [GitHub](https://github.com/findoranetwork) | mainnet, March 2021 | FRA |
@@ -217,6 +217,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [IZAR](https://www.izar.xyz) | Cross-chain protocol: Ethereum x Aleo | [Docs](https://docs.izar.xyz/) | anon | - | - |
 | [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTLabs) | anon | - | - |
 | [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | [Github](https://github.com/tari-project) | - | - | - |
+| [Radicle](https://radicle.xyz) - open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
@@ -456,7 +457,9 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | [GitBook](https://dechat.gitbook.io/dechat/) | - | - | - |
 | [4thPillar Project](https://the4thpillar.io) | Community-build dMail & dChat | [Github](https://github.com/4P-project/) | - | - | - |
 | Beam Messenger | Decentralized anonymous messenger in the Beam Wallet | [Github](https://github.com/BeamMW/beam-ui) | live | [Beam](https://beam.mw/) | [public](https://github.com/orgs/BeamMW/people) |
-| [OpenChat](https://oc.app) | a fully featured chat application running end-to-end on the Internet Computer blockchain. | -| live | - | - |
+| [OpenChat](https://oc.app) | a fully featured chat application running end-to-end on the Internet Computer blockchain. | [Github](https://github.com/open-chat-labs/open-chat) | live | - | - |
+| [Anoncast](https://anoncast.org) | An anonymous posting platform similar to Superanon, designed exclusively for $ANON holders and leveraging zk-proof technology to protect user privacy. | [Github](https://github.com/anondotworld/anonworld) | live | - | - |
+[darkIRC](https://dark.fi/community.html) | a peer-to-peer implementation of an IRC server in which any user can participate anonymously using any IRC frontend and by running the IRC daemon. darkirc uses the DarkFi P2P engine to synchronize chats between hosts. | [Docs](https://darkrenaissance.github.io/darkfi/misc/darkirc/darkirc.html) | live | - | - |
 
 ## Browser
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Browser.png?raw=true)
