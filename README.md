@@ -224,18 +224,17 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Wasabi](https://wasabiwallet.io) | Open-source, non-custodial Bitcoin Wallet for desktop with built-in coinjoin | [GitHub](https://github.com/zkSNACKs/WalletWasabi) | [live](https://wasabiwallet.io/index.html#download) | BTC | anon |
-| [Email Wallet](https://www.emailwallet.org) | Use your email address as a crypto wallet, via [zk email](https://prove.email) to keep the protocol decentralized and emails private on-chain. | [Github](https://github.com/zkemail/email-wallet) | - | - | - |
-| [Myna Wallet](https://github.com/mynawallet) | Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction. | [Github](https://github.com/mynawallet) | - | - | - |
 | [Sparrow](https://sparrowwallet.com) |Open-source, non-custodial, desktop-only Bitcoin wallet for those who value financial self sovereignty | [GitHub](https://github.com/sparrowwallet/sparrow) [Docs](https://sparrowwallet.com/docs/) | live | BTC | anon |
 | [Electrum](https://electrum.org/) | Open-source, non-custodial lightweight Bitcoin wallet for all platforms and trusted since 2011 | [GitHub](https://github.com/spesmilo/electrum) [Docs](https://electrum.readthedocs.io/en/latest/) | live | BTC | Public
 | [Blockstream Green](https://blockstream.com/green/) | Open-source, non-custodial feature-rich Bitcoin and Liquid Network wallet | [GitHub](https://github.com/Blockstream/green_android) [Docs](https://help.blockstream.com/hc/en-us/categories/900000056183-Blockstream-Green/) | live | BTC / Liquid | anon |
 | [Mutiny](https://www.mutinywallet.com/) | Open-source, non-custodial Bitcoin and lightning wallet that runs in the browser | [GitHub](https://github.com/MutinyWallet/) | live | BTC / Lightning | anon |
+| [Foundation](https://foundationdevices.com) | The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app | [Github](https://github.com/Foundation-Devices) | live | Bitcoin | [Public](https://foundationdevices.com/about/) |
 | [Specter Desktop](https://specter.solutions/desktop) | Open-source, non-custodial feature-rich Bitcoin wallet for hardware devices | [GitHub](https://github.com/cryptoadvance/specter-desktop) [Docs](https://docs.specter.solutions/desktop/) | live | BTC | [Public](https://specter.solutions/contact/) |
 | [Specter-DIY](https://specter.solutions/hardware) | Open-source DIY airgapped hardware wallet that uses QR codes for communication with host (Specter Desktop) | [GitHub](https://github.com/cryptoadvance/specter-diy/) [Docs](https://docs.specter.solutions/diy/) | live | BTC | [Public](https://specter.solutions/contact/) |
 | [SeedSigner](https://seedsigner.com) | Open-source low-cost air-gapped DIY Bitcoin Signing Device | [GitHub](https://github.com/SeedSigner/seedsigner) [Docs](https://seedsigner.com/explainers/) | live | BTC | anon |
 | [Krux](https://selfcustody.github.io/krux/) | Open-source signing device firmware for Bitcoin | [GitHub](https://github.com/selfcustody/krux) | live | BTC | anon |
 | [Fedi](https://www.fedi.xyz) | Fedi, powered by [Fedimint](https://fedimint.org/), allows anyone create Federated Chaumian ecash mints using Bitcoin | [GitHub](https://github.com/fedimint) | 🚧 beta | BTC / eCash | [Public](https://www.fedi.xyz/aboutus) |
-| [Cashu](https://cashu.space/) | Free and open-source Chaumian ecash system built for Bitcoin. Cashu offers near-perfect privacy for users of custodial Bitcoin applications. | [GitHub](https://github.com/cashubtc) | [live](https://wallet.cashu.me/) | BTC / eCash | anon |
+| [Cashu](https://cashu.space/) | Free and open-source Chaumian ecash system built for Bitcoin. Cashu offers near-perfect privacy for users of custodial Bitcoin applications. | [GitHub](https://github.com/cashubtc) | [live](https://wallet.cashu.me/) | BTC / ecash | anon |
 | [Feather](https://featherwallet.org) | Open-source, non-custodial Monero wallet for desktops | [GitHub](https://github.com/feather-wallet/feather) [Docs](https://docs.featherwallet.org/) | live | XMR |  anon |
 | [MyMonero](https://mymonero.com) | Open-source, non-custodial Monero wallet and libraries supporting the Monero light wallet interface | [GitHub](https://github.com/mymonero) | live | XMR | anon |
 | [Moneroju](https://www.monerujo.io/) | Enterprise-grade Monero wallet - MPC-based, open-source, non-custodial Monero wallet for Android [GitHub](https://github.com/m2049r/xmrwallet) | live | XMR | anon |
@@ -245,6 +244,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Nighthawk Wallet](https://nighthawkwallet.com) | Open-source, non-custodial privacy-focussed Zcash wallet | [GutHub](https://github.com/nighthawk-apps) | live | ZEC | anon |
 | [UltraNote Infinity](https://ultranote.org/#wallet) | Wallet for UltraNote and XUNI (CryptoNote v2 token on BSC) | [GitHub](https://github.com/xun-project/ultranotei-desktop) | live | XUNI | Public |
 | [YWallet](https://ywallet.app) | Open-source privacy oriented wallet and messenger for Ycash and Zcash. | [GitHub](https://github.com/hhanh00/zwallet) | live | ZEC / YEC | anon |
+| [Email Wallet](https://www.emailwallet.org) | Use your email address as a crypto wallet, via [zk email](https://prove.email) to keep the protocol decentralized and emails private on-chain. | [Github](https://github.com/zkemail/email-wallet) | - | - | - |
+| [Myna Wallet](https://github.com/mynawallet) | Use your Japanese My Number card as a crypto wallet, via verifying the full passport validity inside ZK and using it to sign a transaction. | [Github](https://github.com/mynawallet) | - | - | - |
 | [Brume Wallet](https://brume.money) formerly [Lunar Wallet](https://devfolio.co/projects/lunar-wallet-34c4) | Open-source privac-native Ethereum wallet based on a built-in integration of TOR | [GitHub](https://github.com/brumeproject) | [live](https://wallet.brume.money/) | ETH | [Public](https://twitter.com/BrumeWallet) |
 | [Terminal Wallet](https://terminal-wallet.com/) | Open-source, non-custodial Command Line Interface wallet app featuring secure transactions & RAILGUN privacy across 0x and 0zk addresses | [GitHub](https://github.com/Terminal-Wallet/terminal-wallet-cli) [Docs](https://terminalwallet-cli.gitbook.io/terminal-wallet/) | [live](https://wallet.brume.money/) | ETH | anon |
 | [Frame](https://frame.sh) | Open-source, non-custodial privacy focused Ethereum wallet for desktops | [GitHub](https://github.com/floating/frame) [Docs](https://docs.frame.sh/) | live | ETH | anon |
@@ -317,10 +318,14 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [RoninDojo Tanto](https://samouraiwallet.com/ronin) | Fully validating Bitcoin full node. Served over a Tor hidden service. | [Docs](https://docs.samourai.io/) | live | Bitcoin | anon |
 | [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [GitHub](https://github.com/dappnode) | live | multichain | [Public](https://dappnode.com/pages/about)
 | [Avado](https://www.mysterium.network/avado) | A plug-and-play hardware device that connects users to many different kinds of blockchains. Their node-running software makes it easy and efficient for users to help power multiple networks at once, and earn crypto in the process | [Github](https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server) | live | multichain | [Public](https://www.mysterium.network/team) |
-| [Foundation](https://foundationdevices.com) | The new standard for Bitcoin self custody. Introducing Passport hardware wallet and Envoy mobile app | [Github](https://github.com/Foundation-Devices) | live | Bitcoin | [Public](https://foundationdevices.com/about/) |
 | [Privacy Infrastructure Solutions](https://www.chain-reaction.io) | Cloud and data center acceleration solution for Privacy Enhancing Technologies. | [Docs](https://www.chain-reaction.io/resource-hub/) | live | multichain | [Public](https://www.chain-reaction.io/about/) |
 | [AXIAtel](https://axiatel.co) | a privacy first mobile service for everyone | - | live | multichain | anon |
 | [RawBox](https://github.com/Raw-Box/graypaper) | privacy-focused FOSS self-sovereign router | - | - | Nym | public |
+| [Monero Nodo](https://moneronodo.com/) | a full, optimized and dedicated plug-n-play Monero node comes equipped with Tor and I2P support, ensuring maximum privacy and security for your transactions. | [Github](https://github.com/MoneroNodo/Nodo) | live | Monero | public | 
+| [Start9](https://start9.com/) | Purchase plug-n-play (or self-host) a node for soverign cpomputing - includes Bitcoin Core, Lightning, Nostr, Tor, OnionShare, Nextcloud integration out of the box. | [Github](https://github.com/Start9Labs) [Docs](https://docs.start9.com/) | live | Bitcoin | public | 
+| [RaspiBlitz](https://shop.fulmo.org/) | A do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode on a RaspberryPi 4 | [Github](https://github.com/raspiblitz/raspiblitz) | live | Bitcoin | public |
+| [MyNode](https://mynodebtc.com/) | MyNode aims to simplify running a dedicated Bitcoin node and Lightning wallet using open source software with our browser-based interface with multiple integrations | live | Bitcoin | public |
+| [Nodl](https://www.nodl.eu/) | A plug-n-play entreprise-ready Bitcoin node with Lightning, built in Switzerland. | live | Bitcoin | public |
 
 ## FHE
 | Project  | GitHub | 
@@ -749,6 +754,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [BlockChair](https://blockchair.com) | the most private blockchain search engine | [Github](https://github.com/Blockchair) [Docs](https://blockchair.com/api/docs)  | live | - | -  |
 | [ANS](https://www.aleonames.id) | Where domain naming meets privacy  | [Docs](https://docs.aleonames.id/developer-guide/integrate-ans-into-frontend)  | live | - | -  |
 | [Flux](https://fluxsocial.io) | a fully distributed, human-centred platform that facilitates social coordination with greater privacy, agency, and flexibility. | [Github](https://github.com/fluxsocial/)  | - | - | -  |
+| [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero direcly within your stream as a creator. | - | live | - | public | 
+
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
