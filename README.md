@@ -94,9 +94,9 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | [GitHub](https://github.com/zcash/zcash) | mainnet, October 2016 | Zcash | [Public](https://electriccoin.co) |
-| [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | mainnet, April 2014 | Monero | anon |
-| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply of 184 million coins | [Gitea](https://git.wownero.com/wownero/wownero) | mainnet, 1st April 2018 | Wownero | anon |
+| [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | [GitHub](https://github.com/zcash/zcash) | live, October 2016 | Zcash | [Public](https://electriccoin.co) |
+| [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | live, April 2014 | Monero | anon |
+| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Gitea](https://git.wownero.com/wownero/wownero) | live, April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | Mainnet, 20th April 2023 | Iron Fish | [Public](https://ironfish.network/community/our-community) |
 | [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | live, December 2020 | [mobilecoin](https://mobilecoin.com/ecosystem) | [Public](https://mobilecoin.com/about-us) |
 | [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | live, January 2019 | Mimblewimble | anon |
@@ -123,7 +123,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [x-cash](https://xcash.foundation) | Web3’s Private Public Computing Platform | [GitHub](https://github.com/X-CASH-official) | mainnet, 2018 | xcash | [Public](https://xcash.foundation/people) |
 | [Litecash](https://lite-cash.com) | the first fork of Beam. We removed the founder's reward and are 100% community funded. | [GitHub](https://github.com/Litecash-Dev) | wallet live | Mimblewimble | anon |
 | [Zero](https://zero.directory) | private transactions | [GitHub](https://github.com/zerocurrencycoin) | live | - | anon |
-| [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | live | - | [Public](https://hush.is/team/) |
+| [Hush](https://hush.is) | private cryptocurrency using zero knowledge mathematics | [Gitea](https://git.hush.is/hush) | live | HUSH | [Public](https://hush.is/team/) |
 | [Boltz](https://boltz.exchange) | Privacy first, account-free crypto exchange | [GitHub](https://github.com/BoltzExchange/) | live | - | - |
 | [COG](https://cogcrypto.com/) | a new private digital currency that leverages the power of Web3 and DeFi without compromising the privacy and security of its users.  | - | - | Polygon | [Public](https://cogcrypto.com/) |
 | [eCash](https://e.cash) | Simple. Instant. Secure. Experience the revolutionary new money powered by Avalanche  | [GitHub](https://github.com/bitcoin-abc/bitcoin-abc/) | - | - | anon |
@@ -169,7 +169,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [iExec](https://iex.ec) | The Web3 Marketplace | [GitHub](https://github.com/iExecBlockchainComputing) | TBD | RLC |
 | [Keep](https://keep.network/info) | The privacy-focused infrastructure behind tBTCv2, the only truly decentralized solution for Bitcoin on Ethereum | [GitHub](https://github.com/keep-network/) | live | KEEP |
 | [Dero](https://dero.io) | A general purpose, private, and scalable decentralized application platform that allows developers to deploy powerful and unstoppable applications, while users retain total control over their assets with complete privacy | [Docs](https://docs.dero.io) | mainnet, February 2023 | DERO |
-| [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | live | XHV |
 | [Utopia](https://u.is/en/) | All-in-one kit for secure instant messaging, encrypted email, anonymous payments and private browsing.  | - | live | Crypton, Utopia USD |
 | [Scala](https://scalaproject.io) | an open-source cryptocurrency. Distributed wealth for all devices  | [GitHub](https://github.com/scala-network/) | testnet, mainnet coming in 2023 | XLA
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
@@ -449,7 +448,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [xx Network Haven](https://armchairancap.github.io/docs/category/xx-network-haven-users-guide/) | Haven is a censorship resistant chat application using xx network |  [Code](https://git.xx.network/elixxir/speakeasy-web) | alpha | xx network | - |
 | [Speak app](https://speakapp.me) | No phone number. No email address. Speakapp is a simple, and secure web3 messenger. | - | - | - | - |
 | [Pigeon Communicator](https://pigeoncoin.org) | Blockchain based, trustless, censorship resistant decentralized messaging. | - | - | - | - |
-| [HushChat](https://git.hush.is/hush/hushchat) | private messenger using zero knowledge mathematics. | - | - | - | - |
+| [HushChat](https://git.hush.is/hush/hushchat) | private messenger using zero knowledge mathematics. | [Git](https://git.hush.is/hush/hushchat) | - | - | - |
 | [Relayz](https://relayz.io) | Hyper-secure, private communications protocol for Web3 | - | - | - | - |
 | [Jami](https://jami.net/) | Jami is a free/libre, end-to-end encrypted, and private communication platform. | [Gitlab](https://git.jami.net/savoirfairelinux/jami-project) | - | - | - |
 | [lurch1317](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | The omemo variant based on vault1317 which is an off-chain secure communication protocol with deniability under federated XMPP network with ✨️**ZK** | [Github](https://github.com/hardenedvault/lurch/blob/lurch1317/README-lurch1317.md) | - | - | - |
@@ -513,6 +512,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [DJIB](https://djib.io) | DJIB is the next generation Web3 storage | [Github](https://github.com/Djib-io) | - | - | - |
 | [Crust](https://crust.network) | Web3.0 Storage for the Metaverse | [Github](https://github.com/crustio) | - | - | - |
 | [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | [Github](https://github.com/fileverse) | - | - | - |
+| [ddocs](https://docs.fileverse.io/about) | A decentralized, peer-to-peer document editor designed for secure, real-time collaboration. Unlike traditional document editors, dDocs ensures your privacy with full end-to-end encryption and does not rely on any centralized servers. | [Github](https://github.com/fileverse/fileverse-ddoc) | live | - | - |
 | [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subsciption model for storage. | [Github](https://github.com/Storj/) | - | - | - |
 | [Synx](https://synx.xyz) | The Web3 storage platform | - | - | - | - |
 | [Oort](https://www.oortech.com) | a decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.  | - | - | - | - |
@@ -721,7 +721,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [MyDataCoin](https://mydatacoin.io) | a blockchain-based platform that utilizes Cosmos SDK Tendermint technology to enable secure and transparent exchange of personal data between individuals and companies. | [Github](https://github.com/MyDataCoin) | - | - | - |
 | [flashbots-privacy](https://github.com/hashcloak/flashbots-privacy) | Practical Experiments on how to add complete privacy to flashbots. [Github](https://github.com/hashcloak/flashbots-privacy) | - | - | - |
 | [ONEG8](https://oneg8.one) | builds privacy and data protected decentralized WEB 3.1. Social Media Ecosystem.  | - | - | - | - |
-| [Aztec Network](https://aztec.network/index.html) | Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution.  [Github](https://github.com/AztecProtocol) | - | - | - |
+| [Aztec Network](https://aztec.network/index.html) | Aztec is a first-of-its-kind hybrid zkRollup supporting both public and private smart contract execution. | [Github](https://github.com/AztecProtocol) | - | - | - |
 | [Pre Search ](https://presearch.com) | A decentralized Search Engine. | [Github](https://github.com/presearchofficial) | - | - | - |
 | [TOME](https://tome.fm) | anonymous, uncensorable broadcast service that allows anyone to publish any string onto Ethereum | [Github](https://github.com/firnprotocol/tome) | - | - | - |
 | [Ritual](https://ritual.net) | The AI Coprocessor for blockchains | [Docs](https://docs.ritual.net) | - | - | - |
@@ -820,6 +820,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Ronin DOJO (ronindojo.io) | Manage your bitcoin privacy and sovereignty with ease | - | **sunset** | - | - | 
 | Know Your Coin Privacy (kycp.org) | KYCP is a Bitcoin privacy explorer which lets you Know Your Coin Privacy - Based on OXT datas | [Github](https://github.com/SamouraiDev/kycp.org) | **sunset** | -  | - |
 | Spectrum Marketplace (spectrummarket.io) | marketplace to interact without compromising on privacy or security | [Docs](https://spectrum-market.gitbook.io/spectrum-whitepaper/about-us/the-vision) | **sunset** | - | - | 
+| [Haven Protocol](https://havenprotocol.org) | the world’s only network of private stable assets | [GitHub](https://github.com/haven-protocol-org) | **Sunset** | XHV | - |
 
 
 ## Donate
