@@ -1,6 +1,4 @@
-<---
- This md file contains only the entries in table form from the README.md as of 28 January 2025
---->
+This md file contains only the entries in table form from the README.md as of 28 January 2025
 
 ## DeFi
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team | Docs | Audit |
