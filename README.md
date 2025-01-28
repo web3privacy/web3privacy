@@ -89,7 +89,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Owshen Network](https://owshen.io) | DeFi privacy platform for Ethereum | [Github](https://github.com/OwshenNetwork/owshen) | - | - | anon | [Docs](https://owshen.io/book) | - |
 | [AlphaSwap](https://alphaswap.pro) | Privacy DEX on Aleo| [Github](https://github.com/aleoswap-labs) | - | - | anon | - | - |
 | [Mirge](https://solmirage.web.app) | private pools on Solana | - | - | - | anon | - | - |
-| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network | ([GitHub](https://github.com/securesecrets/shade)) | - | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | - |
+| [Shade](https://shadeprotocol.io)  | Shade Protocol is an array of connected privacy-preserving DeFi applications built on Secret Network | [GitHub](https://github.com/securesecrets/shade) | - | Cosmos | anon | [Docs](https://docs.shadeprotocol.io/shade-protocol/) | - |
 
 ## Currency
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Currency.png?raw=true)
@@ -241,7 +241,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Cashu](https://cashu.space/) | Free and open-source Chaumian ecash system built for Bitcoin. Cashu offers near-perfect privacy for users of custodial Bitcoin applications using Chaumian Blind-Signatures | [GitHub](https://github.com/cashubtc) | [live](https://wallet.cashu.me/) | Bitcoin / ecash | anon |
 | [Feather](https://featherwallet.org) | Open-source, non-custodial Monero wallet for desktops | [GitHub](https://github.com/feather-wallet/feather) [Docs](https://docs.featherwallet.org/) | live | Monero |  anon |
 | [MyMonero](https://mymonero.com) | Open-source, non-custodial Monero wallet and libraries supporting the Monero light wallet interface | [GitHub](https://github.com/mymonero) | live | Monero | anon |
-| [Moneroju](https://www.monerujo.io/) | Enterprise-grade Monero wallet - MPC-based, open-source, non-custodial Monero wallet for Android [GitHub](https://github.com/m2049r/xmrwallet) | live | Monero | anon |
+| [Moneroju](https://www.monerujo.io/) | Enterprise-grade Monero wallet - MPC-based, open-source, non-custodial Monero wallet for Android | [GitHub](https://github.com/m2049r/xmrwallet) | live | Monero | anon |
 | [RINO](https://www.rino.io/) | Open-sourced, non-custodial Monero multisig wallet for Android with 'pay to BTC address' feature | [GitHub](https://github.com/rino-wallet) | live | Monero | anon |
 | Anon/Nero [.onion website](http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion) | Open-source, non-custodial Monero DIY airgapped signing device | [.onion git](http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO) | live | Monero | anon |
 | [Litewallet](https://litewallet.io/) |  Open-source, non-custodial wallet backed by Litecoin Foundation that uses mimblewible (MWEB) | [GitHub](https://github.com/litecoin-foundation/litewallet-android) [Docs](https://support.litewallet.io/hc/en-us) | live | Litecoin | Public |
