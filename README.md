@@ -14,7 +14,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 - [Infrastructure](#Infrastructure)
 - [Wallet](#Wallet)
 - [Computing network](#Computing-network)
-- [AI](#AI)
 - [Layer 2](#Layer-2)
 - [FHE](#FHE)
 - [VPN](#VPN) 
@@ -282,11 +281,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Ethernity Cloud](https://ethernity.cloud) | The Web3 decentralized confidential computing ecosystem | [Docs](https://docs.ethernity.cloud) | live | - | - |
 | [TACEO](https://www.taceo.io) | Decentralized Computing with Privacy | - | - | - | public |
 | [Aleph.im](https://aleph.im) | Open source DePIN (confidential VMs, indexing, web hosting, storage, databases, compute, AI...) | [GitHub](https://github.com/aleph-im) | live | multichain | [Public](https://www.linkedin.com/company/aleph-im/people/) |
-
-## AI
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Rainfall](https://rainfall.one) | The world’s first decentralized, privacy-preserving, personal AI platform | - | - | - | - |
 | [LibertAI](https://libertai.io) | Confidential AI inference platform built on top of Aleph.im decentralized cloud & TEEs, proposing various AI solutions (chat UI, APIs, AI Agents...). | [GitHub](https://github.com/Libertai) | live | Base, Solana | anon |
 
 
@@ -562,7 +556,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Stashh](https://stashh.io) | Explore the world's first marketplace for NFTs with privacy by default and unlock their hidden data. | [Github](https://github.com/stashh-labs) | - | - | - |
-| [Email Wallet](https://www.emailwallet.org) | Send NFTs on-chain to or from any email address using [zk email](https://prove.email) to keep the protocol decentralized. | - | - | - | - |
 | [Legendao](https://legendao.io) | The play-to-mint NFT platform, powered by Secret Network, that enables top artists, brands, and NFT creators to launch their NFT projects in a unique, gamified way. | - | - | - | - |
 | [Paras](https://eprint.iacr.org/2022/976.pdf) | a blockchain-agnostic protocol that offers privacy to NFTs. Specifically, one may hide the real NFTs and only display a reference to them on marketplaces, hide seller and bidder identities, hide bid values and user wallet balances | - | - | - | - |
 | [NFT Fair](https://www.nftfair.app) | The do-good NFT launch platform | - | - | - | - |
@@ -614,11 +607,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Minado](https://github.com/Nicolascoding27/Zkapp-mina-ui) | Zk Privacy Solution on Mina Protocol | [Github](https://github.com/Nicolascoding27/Zkapp-mina-ui) | alpha | - | - |
 | [CoinMix](https://coinmix.cash/) | Anonymize your Bitcoins with a CoinJoin-powered Bitcoin Mixer. | - | live | Bitcoin | - |
 | [Thormixer](https://www.thormixer.io) | Thormixer is a BTC anonymization service that protects the privacy of Bitcoin. Raises the anonymity level and prevents tracking | - | live | Bitcoin | - |
-
-## Data management
-| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
-| ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [NATIX Network](https://www.natix.network) | patent-pending technology is the easiest way to make any camera smart and 100% privacy compliant. | - | - | - | - |
 
 
 ## Hardware
