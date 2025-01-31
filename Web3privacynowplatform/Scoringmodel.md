@@ -224,7 +224,7 @@ _Sketches what could be put inside privacy-solutions scoring model_ (note: think
 - **GitHub repos**: # of commits, # stars, date of repo creation.
 
 **Third-party validation**
-- **Security audits**: yes, no; type of audit; ammount of audits.
+- **Security audits**: yes, no; type of audit; amount of audits.
 
 **Community validation**
 - Existing bugs
