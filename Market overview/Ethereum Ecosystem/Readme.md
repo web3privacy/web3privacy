@@ -256,7 +256,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Waku](https://waku.org) | Waku is the communication layer for Web3. Decentralized communication that scales | ([GitHub](https://github.com/waku-org)) | - | - | - |
 | [Status](https://status.im) | Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology | ([GitHub](https://github.com/status-im/)) | - | - | - |
-| [Senging.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
+| [Sending.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
 | [RLN Anonymous Chat](https://github.com/njofce/zk-chat) | A spam resistant instant messaging application for private and anonymous communication. | - | - | - | - |
 | [Mejhool](https://hzmcoin.com/mejhool/) | a Decentralized web and mobile app with peer-to-peer text messaging, decentralized file transfer and voice-over-IP service.| - | - | - | - |
 | [DeChat](https://www.dechat.io) | an open, secure web3 communications protocol that powers decentralized user interactions | ([GitBook](https://dechat.gitbook.io/dechat/)) | - | - | - |
