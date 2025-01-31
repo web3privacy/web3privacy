@@ -125,7 +125,7 @@ Answers
 
 _Observations_
 - general web3 101 is needed for a person to self-check privacy (what is 0zk address, relayer, etherscan etc)
-- simple instructions on transaction traceability will help to self-check sender-receiver-token-ammount links. Input & observations criteria (possible framework?) will help here (short instruction).
+- simple instructions on transaction traceability will help to self-check sender-receiver-token-amount links. Input & observations criteria (possible framework?) will help here (short instruction).
 
 _Product feature_
 - transaction traceability 101 (the basics on Etherscan example)
