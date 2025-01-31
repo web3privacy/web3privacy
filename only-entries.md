@@ -373,7 +373,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [BCchat](https://bchat.beldex.io) | A decentralized, privacy messenger built over the Beldex blockchain. | - | - | - | - |
 | [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | [XMTP GitHub](https://github.com/ephemeraHQ/lenster) | mainnet | - | - |
 | [XMTP web3 social](https://xmtp.org/docs/use-cases/deso) | Lens Protocol and CyberConnect apps use XMTP to provide secure, private messaging to their users. | [XMPT Labs Github](https://github.com/ephemeraHQ) | mainnet | - |
-| [Senging.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
+| [Sending.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
 | [Zion](https://www.zion.fyi) | The safest way to join, chat and send | [Github](https://github.com/getzion/) | - | - | - |
 | [RLN Anonymous Chat](https://github.com/njofce/zk-chat) | A spam resistant instant messaging application for private and anonymous communication. | - | - | - | - |
 | [Beepo](https://beepoapp.net) | a social networking application integrated with a multichain chain crypto wallet, a web 3 browser, instant messaging and calling, an eCommerce store, and a sales catalog section for business accounts | [Github](https://github.com/beepo-app) | live | multichain | - |
