@@ -405,7 +405,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Mullvad Browser](https://github.com/mullvad/mullvad-browser) | The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. | [Github](https://github.com/mullvad/mullvad-browser) | - | - | - |
 | [Fulldive](https://www.fulldive.com) | web3 browser that respects your privacy | - | - | - | - |
 | [Broearn](https://www.broearn.com) | web3 browser that respects your privacy | - | - | - | - |
-| [Solak](https://solak.app) |  Broswer with in-app AI  | - | - | - | - |
+| [Solak](https://solak.app) |  Browser with in-app AI  | - | - | - | - |
 
 ## KYC
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
