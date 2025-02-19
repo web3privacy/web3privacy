@@ -1,3 +1,16 @@
+## Giveth
+
+| Project  | Description | Category | Web | GitHub | Giveth | Funding |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| eth.limo  | a privacy preserving ENS gateway | DeFi | [web](https://eth.limo/) | [GitHub](https://github.com/ethlimo/) | [Giveth](https://giveth.io/project/ethlimo) | $1283.71 | 
+| Shielded Voting  | private voting experience privacy | Voting | [web](https://shutter.network/) | [GitHub](https://github.com/shutter-network) | [Giveth](https://giveth.io/project/shielded-voting-private-and-fair-governance) | $871.1 | 
+| Community Privacy Residency  | a 2-4 week research residency | Research | [web](https://community-privacy.github.io/) | [GitHub](https://github.com/community-privacy) | [Giveth](https://giveth.io/project/community-privacy-residency) | $1000.75 | 
+| web3privacy now  | think-and-do tank | Research | [web](https://web3privacy.info/) | [GitHub](https://github.com/web3privacy/) | [Giveth](https://giveth.io/project/web3privacy-now-advocating-for-digital-privacy) | $639.1 | 
+| Dappnode | a decentralized infrastructure platform | Infra | [web](https://dappnode.com) | [GitHub](https://github.com/dappnode) | [Giveth](https://giveth.io/project/dappnode)| $40537.13 | 
+| rotki | portfolio tracker | DeFi | [web](https://rotki.com) | [GitHub](https://github.com/rotki) | [Giveth](https://giveth.io/project/rotki) | $4862.87 | 
+| MASQ Network | web3 privacy browser | Infra | [web](https://masqbrowser.com/) | [GitHub](https://github.com/MASQ-Project) | [Giveth](https://giveth.io/project/masq-network) | $16,020.28 | 
+| Super Protocol | a Polygon-based Confidential Web3 Cloud and Marketplace | Infra | [web](https://superprotocol.com/) | [GitHub](https://github.com/Super-Protocol) | [Giveth](https://giveth.io/project/super-protocol) | $10739.23 | 
+
 ## Gitcoin Web3 Infrastructure round
 
 We are analyzing Gitcoin-related funding for privacy projects: https://explorer.gitcoin.co
