@@ -73,7 +73,7 @@ What could be scored in general & with am MVP specifically.
 | **Privacy policy** | + | - |
 | **Collected data**  | + | - |
 | **Data sharing** | + | - |
-| **Sign-in requirments** | + | - |
+| **Sign-in requirements** | + | - |
 | **Identity integrations** | + | - |
 
 **Security**
@@ -176,7 +176,7 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 | **Privacy policy** | + | 
 | **Collected data**  | + | 
 | **Data sharing** | + | 
-| **Sign-in requirments** | + | 
+| **Sign-in requirements** | + | 
 | **Identity integrations** | + | 
 
 **Security**
