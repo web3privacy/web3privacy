@@ -63,7 +63,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | [Fairy](https://fairyswap.finance/swap) | comprehensive DeFi platform for token swaps, lending, NFT trading, collateralization | 🚩 **dead** ([GitHub](https://github.com/Fairyswap)) | 🚩 | - | [Docs](https://fairy-swap.gitbook.io/fairyswap-v2/getting-started/about-fairyswap-v2) | 🚩 2022: [Certik](https://skynet.certik.com/projects/fairyswap) | 75% |
 | [Shade Cash](https://shade.cash) | A decentralized protocol for private transactions on Fantom Opera | 🚩 **no code** ([GitHub](https://github.com/ShadeCash)) | 🚩 | - | 🚩 **marketing** [Docs](https://shadecash.gitbook.io/shadecash) | - | 50% |
 
-# Post-assesment breakdown
+# Post-assessment breakdown
 
 ## 100% scoring
 
