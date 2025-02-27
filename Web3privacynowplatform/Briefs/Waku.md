@@ -62,7 +62,7 @@
 | **Privacy policy** | https://waku.org/terms |
 | **Collected data**  | none |
 | **Data sharing** | none |
-| **Sign-in requirments** | none |
+| **Sign-in requirements** | none |
 | **Identity integrations** | none |
 
 **Security**
