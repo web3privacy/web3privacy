@@ -71,7 +71,7 @@ How it works:
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | soon | 
-| **Complience**  | partly |
+| **Compliance**  | partly |
 | **KYC**  | no |
 | **Privacy policy** | no |
 | **Collected data**  | opt-in: public anonymous debugging logs |
