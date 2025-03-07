@@ -7,7 +7,7 @@ _Here we track all Ethereum privacy related projects, research & events (based o
 2. Adding new positions like EIP-7503
 
 ## Important note
-Later on DB will be re-organized within Ethereum-centric (build on solidity), ETH-centric (DeFi allowing to bridge, swap ETH) & EVM-comatible or multichain projects.
+Later on DB will be re-organized within Ethereum-centric (build on solidity), ETH-centric (DeFi allowing to bridge, swap ETH) & EVM-compatible or multichain projects.
 Segmentation will help to split "native" projects & broader actors serving different chains. Plus it will map the nature of privacy within Ethereum Privacy Stack.
 
 ![alt text](https://github.com/web3privacy/docs/blob/main/docs/assets/Types%20of%20projects%20contributing%20to%20Ethereum%20privacy.png?raw=true)

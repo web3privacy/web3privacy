@@ -38,7 +38,7 @@ _Example_
 | Travel Protocol | Travel | book flights, hotels, and travel products without sharing sensitive personal data with booking platforms | [GitHub](https://github.com/mobifi-official/travel-protocol-ethbrussels) | [web](https://ethglobal.com/showcase/travel-protocol-1skiq)
 | Confido | Operations | FGE for confidential on-chain wage payments | [GitHub](https://github.com/Blockchainpartner/Confido) | [web](https://ethglobal.com/showcase/confido-oh87n)
 | Secret Tender | Audit | secure and confidential tender processes for Web3 projects & DAO seeking auditing services | [GitHub](https://github.com/patriciobcs/secret-tender) | [web](https://ethglobal.com/showcase/secret-tender-g36zr)
-| JustTheTip | Auctions | Preconfirmations at the applicatiSmart contract that provides soft block space inclusion | [GitHub](https://github.com/konradstrachan/ethcc24/) | [web](https://ethglobal.com/showcase/justthetip-7jzds)
+| JustTheTip | Auctions | Preconfirmations at the application. A smart contract that provides soft block space inclusion | [GitHub](https://github.com/konradstrachan/ethcc24/) | [web](https://ethglobal.com/showcase/justthetip-7jzds)
 | PixelFight | Gaming | FHE game where your moves are encrypted | [GitHub](https://github.com/aorap-hackathon/pixel-fight-v2) | [web](https://ethglobal.com/showcase/pixelfight-fub90)
 | Dry | Auth | private seedless smart account | [GitHub](https://github.com/dry-ethglobal-brussels) | [web](https://ethglobal.com/showcase/dry-2gcc3)
 | toadnado | Mixer | a cross layer mixer where the privacy is shared between L1 and L2 | [GitHub](https://github.com/nodestarQ/toadnado) | [web](https://ethglobal.com/showcase/toadnado-vvkcb)
