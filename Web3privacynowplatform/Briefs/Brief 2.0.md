@@ -79,7 +79,7 @@ How it works:
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes/no | 
-| **Complience**  | yes/no |
+| **Compliance**  | yes/no |
 | **KYC**  | yes/no |
 | **Privacy policy** | add link |
 | **Collected data**  | specify what data do you collect |
