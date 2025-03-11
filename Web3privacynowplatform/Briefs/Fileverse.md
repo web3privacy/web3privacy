@@ -48,8 +48,8 @@ How it works:
 | Request  | Data point | 
 | ------------- | ------------- |
 | **How are you funded**  | self-funded, VC, donations, mixed | 
-| **List VCs backing you**  | if aplicable |
-| **List VCs round**  | if aplicable: pre-seed, seed, Series A, B,C | 
+| **List VCs backing you**  | if applicable |
+| **List VCs round**  | if applicable: pre-seed, seed, Series A, B,C | 
 | **Raised money** | add a Crunchbase link | 
 
 **Github**
@@ -63,7 +63,7 @@ How it works:
 | **Technical specialisation**  | specify: ZK, account abstraction, mixnet etc | 
 | **Specify technology readiness**  | infra: testnet/mainnet, apps: MVP/beta/alpha | 
 | **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Encryption method**  | if applicable: specify | 
 
 **Privacy**
 | Request  | Data point | 
