@@ -136,7 +136,7 @@ _Example_
 | PrivPay |  the DeFi application to receive and send payments with just simple Link, no need to reveal your address. | Payments | [GitHub](https://github.com/marotipatre/Priv-Pay) | [web](https://ethglobal.com/showcase/privpay-krzdn)
 | GhostPay |  Defi application that let you send and receive funds anonymously with just a link | Payments | [GitHub](https://github.com/porco-rosso-j/eth-rome-2023) | [web](https://ethglobal.com/showcase/ghostpay-9vs0x)
 | zkbiometric |  authentication by securely verifying biometric onboarding data | Auth | [GitHub](https://github.com/aridder/zkbiometric) | [web](https://ethglobal.com/showcase/zkbiometric-p8nva)
-| nfl |  Use Nillion for training federated learning models while keeping datasets private. | Machile Learning | [GitHub](https://github.com/bowenyou/nillion-federated-learning) | [web](https://ethglobal.com/showcase/nfl-w7yg3)
+| nfl |  Use Nillion for training federated learning models while keeping datasets private. | Machine Learning | [GitHub](https://github.com/bowenyou/nillion-federated-learning) | [web](https://ethglobal.com/showcase/nfl-w7yg3)
 | Monadic DNA |  Privacy preserving personal genomics for health and ancestry | Genomics | [GitHub](https://github.com/Cryptonomic/MonadicDNA) | [web](https://ethglobal.com/showcase/monadic-dna-h7k7q)
 | zkWarden |  Farcaster x zk proofs for verifying user details like age and location, allowing access to restricted group chats | Social | [GitHub](https://github.com/fabianferno/zkwarden) | [web](https://ethglobal.com/showcase/zkwarden-nka1v)
 | AddressMe | a private address book | Social | [GitHub](https://github.com/MikePawel/AddressMe) | [web](https://ethglobal.com/showcase/addressme-5urum)
