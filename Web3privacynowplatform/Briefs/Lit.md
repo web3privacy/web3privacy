@@ -64,7 +64,7 @@ How it works:
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
-| **Complience**  | |
+| **Compliance**  | |
 | **KYC**  | no |
 | **Privacy policy** | add link |
 | **Collected data**  | none |
