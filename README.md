@@ -1,7 +1,5 @@
 # [web3privacy now](https://web3privacy.info) - 700+ privacy projects empowering Web3 
 
-We are a think-and-Do tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software. Ecosystem is a catalyst for change: we facilitate cross-stack and cross-community collaboration with a poly-disciplinary approach to drive meaningful impact. 
-
 ![W3P Community header image](./static-assets/w3p-database-header.png)
 
 ⚠️ **Please advise!** ⚠️ The following database of protocols, projects and products are part of an agostics research project, they are listed for research purposes and to map the privacy ecosystem and industry within web3. W3PN does not endorse or validate any of the things listed here, use them at your own risk and be mindful of projects still in development or have not completed some form of third-party security audit. **Don't trust, verify.**
