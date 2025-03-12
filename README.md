@@ -1,4 +1,4 @@
-# [web3privacy now](https://web3privacy.info) - 700+ privacy projects empowering Web3 
+# [Web3Privacy Now](https://web3privacy.info) | 750+ privacy projects empowering Web3 
 
 ![W3P Community header image](./static-assets/w3p-database-header.png)
 
