@@ -132,7 +132,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Mysterium](https://www.mysterium.network) | An open-source ecosystem of tools and infrastructure to liberate the web  | [GitHub](https://github.com/MysteriumNetwork) | Decentralized VPN (2017), testnet (2018), mainnet (2021) | MYST|
 | [Arcana](https://arcana.network) | Users care about Privacy and Security, set your app apart with the most developer friendly data storage and privacy platform.  | [Docs](https://docs.beta.arcana.network) | mainnet, February 2023 | XAR |
 | [Namada](https://namada.net) | Interchain Privacy  | [Specs](https://specs.namada.net) | testnet, January 2023 | no |
-| [TomoChainP](https://tomochain.com/tomop) | a privacy protocols developed on TomoChain and designed to create safe and untraceable transactions  | [GitHub](https://github.com/tomochain/tomop) | TBD | TOMO |
+| [TomoChainP](https://www.viction.xyz/) | a privacy protocols developed on TomoChain and designed to create safe and untraceable transactions  | [GitHub](https://github.com/tomochain/tomop) | TBD | TOMO |
 | [burstIQ](https://burstiq.com) | Fuel your digital-first strategy with human health data. LifeGraph® takes the complexity out of managing sensitive human data freeing you to build trust through hyper-personalized health, work, and life digital experiences. | - | TBD | BIQ |
 | [Lit](https://litprotocol.com) | Decentralized Cryptography for Access Control, Compute, and Encryption | [Docs](https://developer.litprotocol.com) | TBD | LIT |
 | [Onino](https://www.onino.io) | A Public Blockchain Delivering Privacy, On-Chain Identity, and Scalability | - | TBD | ONI |
