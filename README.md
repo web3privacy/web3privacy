@@ -95,7 +95,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | [GitHub](https://github.com/zcash/zcash) | live, October 2016 | Zcash | [Public](https://electriccoin.co) |
 | [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | live, April 2014 | Monero | anon |
-| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Gitea](https://git.wownero.com/wownero/wownero) | live, April 2018 | Wownero | anon |
+| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Gitea](https://codeberg.org/wownero/wownero) | live, April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | Mainnet, 20th April 2023 | Iron Fish | [Public](https://ironfish.network/community/our-community) |
 | [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | live, December 2020 | [mobilecoin](https://mobilecoin.com/ecosystem) | [Public](https://mobilecoin.com/about-us) |
 | [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | live, January 2019 | Mimblewimble | anon |
