@@ -607,7 +607,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | [Github](https://github.com/automata-network/conveyor-sdk) | - | - | - |
 | [ZKP2P](https://www.zkp2p.xyz) | Via zk proofs of payment confirmation emails, use [zk-email](https://prove.email) to on and off ramp directly from Venmo, UPI, and Garanti to crypto, without trusting an intermediary. | [Github](https://github.com/zkp2p/zk-p2p/) | - | - | - |
 | [Particl](https://particl.io/marketplace) | The only marketplace for private and unrestricted e-commerce. | [Github](https://github.com/particl) | - | - | - |
-| [AcceptedHere](https://acceptedhere.io/) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
+| [AcceptedHere](http://survey-smiles.com) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
 | [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
 | [Bitcoin Bookmarks](https://bitcoinbookmarks.com/) | directory for premium crypto websites sorted by quality. | [Github](https://github.com/BitcoinBookmarks/BitcoinBookmarks.com)  | - | - | - |
 | [Monerica](https://monerica.com/) | directory for the Monero circular economy. | [Github](https://github.com/monerica-project/monerica) | - | - | - | - |
