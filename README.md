@@ -95,7 +95,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Zcash](https://z.cash)  | Encrypted Electronic Cash. The first cryptocurrency to develop zero-knowledge encryption for private peer-to-peer payments.  | [GitHub](https://github.com/zcash/zcash) | live, October 2016 | Zcash | [Public](https://electriccoin.co) |
 | [Monero](https://www.getmonero.org)  | Private, decentralized cryptocurrency that keeps your finances confidential and secure  | [GitHub](https://github.com/monero-ecosystem) | live, April 2014 | Monero | anon |
-| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Gitea](https://codeberg.org/wownero/wownero) | live, April 2018 | Wownero | anon |
+| [Wownero](https://wownero.org)  | Privacy-respecting memecoin, no pre-mine, no dev tax, software fork of Monero with fixed supply| [Codeberg](https://codeberg.org/wownero/wownero) | live, April 2018 | Wownero | anon |
 | [Iron Fish](https://ironfish.network)  | The Privacy Platform for Web3  | [GitHub](https://github.com/iron-fish) | Mainnet, 20th April 2023 | Iron Fish | [Public](https://ironfish.network/community/our-community) |
 | [MobileCoin](https://mobilecoin.com)  | MobileCoin makes global payments inexpensive, secure and fast  | [GitHub](https://github.com/mobilecoinofficial) | live, December 2020 | [mobilecoin](https://mobilecoin.com/ecosystem) | [Public](https://mobilecoin.com/about-us) |
 | [GRin](https://grin.mw)  | Electronic transactions for all. Without censorship or restrictions  | [GitHub](https://github.com/mimblewimble/grin) | live, January 2019 | Mimblewimble | anon |
@@ -670,7 +670,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Conveyor](https://conveyor.ata.network/#/swap) | Automata Conveyor is an anti-front-running service that ingests and outputs transactions in a determined order (MEV Minimization solution)  | [Github](https://github.com/automata-network/conveyor-sdk) | - | - | - |
 | [ZKP2P](https://www.zkp2p.xyz) | Via zk proofs of payment confirmation emails, use [zk-email](https://prove.email) to on and off ramp directly from Venmo, UPI, and Garanti to crypto, without trusting an intermediary. | [Github](https://github.com/zkp2p/zk-p2p/) | - | - | - |
 | [Particl](https://particl.io/marketplace) | The only marketplace for private and unrestricted e-commerce. | [Github](https://github.com/particl) | - | - | - |
-| [AcceptedHere](https://acceptedhere.io/) | directory for online and offline businesses accepting cryptocurrency  | - | - | - | - |
 | [CryptWerk](https://cryptwerk.com/) | Cryptwerk is online directory with companies, websites, shops, services where you can pay with Bitcoin and other popular cryptocurrencies. | - | - | - | - |
 | [Bitcoin Bookmarks](https://bitcoinbookmarks.com/) | directory for premium crypto websites sorted by quality. | [Github](https://github.com/BitcoinBookmarks/BitcoinBookmarks.com)  | - | - | - |
 | [Monerica](https://monerica.com/) | directory for the Monero circular economy. | [Github](https://github.com/monerica-project/monerica) | - | - | - | - |
