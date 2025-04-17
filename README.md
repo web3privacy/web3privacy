@@ -402,7 +402,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Blockbend](https://blockblend.io) | Anonymous cross-chain transactions, farming, prepaid crypto card, escrow service. | - | - | - | - |
 | [Secret Bridge](https://bridge.scrt.network) | bridge to the Secret Network | - | - | - | - |
 | [Shade bridge](https://app.shadeprotocol.io/bridge) | an interface that allows you to seamlessly bridge assets between different blockchains using the power of IBC. | [Docs](https://docs.shadeprotocol.io/shade-protocol/apps/bridge) | - | - | - |
-| [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer mixer built by 0xMonero. | [0xMonero](https://0xmonero.com/) | 0xMonero is a multi-contract, multi-chain, privacy focused project. | [GitHub](https://github.com/0xMonero) | - | [anon](https://t.me/Monero0xMR) |
+| [0xTIP](https://t.co/JRNgLFaU50) | Private bridge from Ethereum to BNB chain, tip bot, and mixer built by 0xMonero. | [0xMonero](https://0xmonero.com/) | 0xMonero is a multi-contract, multi-chain, privacy focused project. | [GitHub](https://github.com/0xMonero) | - | [anon](https://t.me/Monero0xMR) |
 | [Carrier](https://www.carrier.so) | A powerful token and NFT bridge for Web3 natives | [Docs](https://docs.carrier.so/introduction/about) | - | - | - |
 | [Polyhedra Network](https://polyhedra.network) | Infrastructure for Web3 Interoperability | - | - | - | - | - |
 | [BlockBlend](https://blockblend.io) | anonymous cross-chain decentralized services. Stake, farm, blend and send | [GitHub](https://docs.blockblend.io/utilities/bridge) | - | - | - | - |
