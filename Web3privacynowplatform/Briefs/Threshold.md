@@ -71,7 +71,7 @@
 | **KYC**  | no |
 | **Collected data**  | no data collected |
 | **Data sharing** | no data shared |
-| **Sign-in requirments** | depending on developer implementation |
+| **Sign-in requirements** | depending on developer implementation |
 | **Identity integrations** | no |
 
 **Security**
