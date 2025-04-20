@@ -63,7 +63,7 @@ How it works:
 | **Technical specialisation**  | ZK, Smart Contract | 
 | **Specify technology readiness**  | infra: mainnet, apps: full production | 
 | **Features**  | list 3 key tech features | 
-| **Encryption method**  | if aplicable: specify | 
+| **Encryption method**  | if applicable: specify | 
 
 **Privacy**
 | Request  | Data point | 
