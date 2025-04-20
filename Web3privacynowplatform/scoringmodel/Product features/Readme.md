@@ -52,7 +52,7 @@ If we will collect good case studies lib -> it will help people to have market b
 | _Benefit_ | _Downside_ | **Approach** | 
 | ------------- | ------------- | ------------- | 
 | this will be the backbone of our platform in the future that will bridge the gap between lack of privacy-centric education, lack of third-party services to check-up solutions & poor transparency on behalf of privacy-devs. | usually takes too long time to deliver & many different contributors (should be simplified via tracks like Web3 Privacy 101). | Stick with privacy 101 (basics). | 
-| | | Brake down the most crucial knowledge into simplified blocks. |
+| | | Break down the most crucial knowledge into simplified blocks. |
 | | | Create a simplified & actionable "lecture framework" for guest lectors. |
 | | | Invite lectors within a micro-learning format. |
 | | | Cover basic 10 lectures via "Web3 privacy 101 introduction". |
