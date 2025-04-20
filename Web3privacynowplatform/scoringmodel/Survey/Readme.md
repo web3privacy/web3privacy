@@ -134,7 +134,7 @@ _Product feature_
 
 Answers:
 - maybe look for people you trust that are able to analyze the technical solution for its privacy merits and then get their opinion? it's prob difficult to analyze a technical protocol with a non-technical analysis.	
-- what you're asking about relates to a more holistic assessment of a protocol and its attributes, so that should be within the scope of a research function moreso than a security audit function.
+- what you're asking about relates to a more holistic assessment of a protocol and its attributes, so that should be within the scope of a research function more so than a security audit function.
 
 _Observations_: 
 - complex technical protocols are inaccessible to the general public unless a third party completes a comprehensive audit from architecture to data leakages analysis 
