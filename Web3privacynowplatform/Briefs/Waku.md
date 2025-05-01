@@ -57,7 +57,7 @@
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
-| **Complience**  | no |
+| **Compliance**  | no |
 | **KYC**  | no |
 | **Privacy policy** | https://waku.org/terms |
 | **Collected data**  | none |
