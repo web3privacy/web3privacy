@@ -69,12 +69,12 @@ How it works:
 | Request  | Data point | 
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | yes | 
-| **Complience**  | yes |
+| **Compliance**  | yes |
 | **KYC**  | no |
 | **Privacy policy** | add link |
 | **Collected data**  | none |
 | **Data sharing** | none |
-| **Sign-in requirments** | none |
+| **Sign-in requirements** | none |
 | **Identity integrations** | Users can link their ENS and Unstoppable Domains to their private 0zk address. There is no privacy degredation from this. |
 
 **Security**
