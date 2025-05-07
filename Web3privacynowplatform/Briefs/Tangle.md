@@ -1,4 +1,4 @@
-*Basic info**
+*Basic info*
 
  | Request  | Data point | 
  | ------------- | ------------- |
@@ -79,7 +79,7 @@
  | **Third-parties dependency** | specify |
  | **Technical dependency** | Substrate, EVM,  |
  | **Have you been audited by a third-party** | Yes |
- | **What company audited** | Veridise) |
+ | **What company audited** | Veridise |
  | **When you were audited** | 10/11/23 |
  | **Add links to the audits** | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) |
 
