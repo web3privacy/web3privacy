@@ -47,7 +47,7 @@
 | Request  | Data point | 
 | ------------- | ------------- |
 | **How are you funded**  | mixed | 
-| **List VCs backing you**  | YCombinator, Polychain, Bitmain, Satoshi Fund, A16z, Fenbushi, Paradigm |
+| **List VCs backing you**  | Y Combinator, Polychain, Bitmain, Satoshi Fund, A16z, Fenbushi, Paradigm |
 | **List VCs round**  | NuCypher: Series A 4.3M, Series B 10.7M, Keep: Private round 20M (2 token rounds), Threshold: self-funded | 
 
 **Github**
