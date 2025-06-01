@@ -35,7 +35,7 @@ _Currently we are surveying developers, security engineers and  researchers to f
 2. Give us feedback via Pull request here.
 3. You can always explore [scoring MVP](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/90XEXa7AG_qc-VgYKs40i88xB1HF97gr1zqb-qvnif0) based on 38 DeFi project' assessment [here](https://github.com/web3privacy/web3privacy/blob/main/Web3privacynowplatform/scoringmodel/DeFi%20category%20prototype.md)
 
-**important note**: here "techies" covers "juniors" & general "developers" (masses) & not aplicable to "lead", "seniors" or even "mid"-devs (core devs).
+**important note**: here "techies" covers "juniors" & general "developers" (masses) & not applicable to "lead", "seniors" or even "mid"-devs (core devs).
 
 # Scoring model 1.3: validity track
 
@@ -108,7 +108,7 @@ _How to score_
 ## **Docs**
 - read the documentation: is it comprehensive?
 - how well-written are privacy & security assumptions/guarantees?
-- if aplicable: how well-written is encryption method? [example](https://developer.litprotocol.com/v3/sdk/access-control/encryption)
+- if applicable: how well-written is encryption method? [example](https://developer.litprotocol.com/v3/sdk/access-control/encryption)
 - is whitepaper marketing or dev-centric?
 
 _How to score_
