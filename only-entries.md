@@ -29,7 +29,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | [Github](https://github.com/ConcealNetwork) | live | Conceal | [anon](https://conceal.network/team/) | [Docs](https://conceal.network/wiki/doku.php) | - |
 | [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - | - | - |
 | [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - | - | - |
-| [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | [Github](https://github.com/zkUSDLabs) | - | - | - | [Docs](]https://zkusd.gitbook.io/zkusd-documentation) | - |
+| [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | [Github](https://github.com/zkUSDLabs) | - | - | - | [Docs](https://zkusd.gitbook.io/zkusd-documentation) | - |
 | [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | [Docs](https://docs.spiralfi.io/introduction/spiral-finance) | -
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | [Docs](https://docs.irrigation.finance/irrigation-protocol/) | - |
 | [Singularity, ex-Portal Gate](https://www.thesingularity.network) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | - | - |
