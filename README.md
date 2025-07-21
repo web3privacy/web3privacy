@@ -2,6 +2,8 @@
 
 ![W3P Community header image](./static-assets/w3p-database-header.png)
 
+We build a front-end and expanded work with Decentralised privacy database through Explorer aka Dashboard for privacy: [data repo](https://github.com/web3privacy/explorer-data) + [web](http://explorer.web3privacy.info)
+
 ⚠️ **Please advise!** ⚠️ The following database of protocols, projects and products are part of an agostics research project, they are listed for research purposes and to map the privacy ecosystem and industry within web3. W3PN does not endorse or validate any of the things listed here, use them at your own risk and be mindful of projects still in development or have not completed some form of third-party security audit. **Don't trust, verify.**
 
 Feel free to contribute to this database via forking and submitting a PR via Github. 
