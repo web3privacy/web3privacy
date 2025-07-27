@@ -131,6 +131,8 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Nevocoin](https://nevocoin.org) | open-source decentralized anonymous, untraceable and scalable digital currency | [GitHub](https://github.com/nevocoin/nevocoin/) | - | - | anon |
 | [Nerva](https://nerva.one) |  NERVA (XNV) is a private and secure cryptocurrency that you can mine on your computer's CPU. It's GPU and ASIC resistant and tries to stay true to 1 CPU = 1 VOTE vision | [Github](https://github.com/nerva-project/nerva) | live | Nerva | anon |
 | [DragonX](https://dragonx.is) |  DragonX is a ZK-SNARKS based Crypto Currency with default privacy and built-in instant messaging. | [Git](https://git.hush.is/hush) | live | - | anon |
+| Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
+| [WORM](https://worm.cx) | WORM is a scarce cryptoasset rooted in private ETH destruction using EIP-7503 | [GitHub](https://github.com/worm-privacy) | testnet | Ethereum | [Zery Savvy](https://zerosavvy.xyz) |
 
 ## Infrastructure
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Infrastructure.png?raw=true)
