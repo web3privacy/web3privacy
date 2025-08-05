@@ -410,6 +410,7 @@ Feel free to update the list!
 | [HeyAnon](https://www.heyanoun.xyz) | Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK** | - | - | - | - | 
 | [LunarDAO](https://lunardao.net) | DAO fostering R&D and investments within Lunarpunk movement |  [GitHub](https://github.com/lunardao/dao) | - | - | - |
 | [BeamX DAO](https://BeamXDAO.org) | Decentralized and confidential governance for the Beam Ecosystem | [Github](https://github.com/BeamMW/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
+| [ZecHub DAO](https://zechub.wiki/dao) | Open source educational platform where community members can work together on creating, validating, & promoting content that supports the Zcash ecosystem. | [Github](https://github.com/ZecHub/zechub) | Active | [Zcash](https://x.com/Zcash) | [Members](https://zechub.wiki/dao) |
 
 ## Bridge
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Bridge.png?raw=true)
