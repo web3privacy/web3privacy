@@ -447,6 +447,20 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 - [EIP-7503: Zero-Knowledge Wormholes](https://eips.ethereum.org/EIPS/eip-7503)
 - [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273)
 - [Lightweight Authentication of Web Data via Garble-Then-Prove](https://eprint.iacr.org/2023/964)
+- [Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352337)
+- [An Empirical Analysis of Anonymity in Zcash](https://arxiv.org/abs/1805.03180)
+- [A privacy-preserving scheme with multi-level regulation compliance for blockchain](https://www.nature.com/articles/s41598-023-50209-x)
+- [Zero-knowledge proof framework for privacy-preserving financial compliance](https://science.lpnu.ua/sites/default/files/journal-paper/2025/mar/38617/2025121342354.pdf)
+- [ZEBRA: Anonymous Credentials with Practical On-chain Verification and Applications to KYC in DeFi](https://api.semanticscholar.org/CorpusID:252570814)
+- [REGKYC: Supporting Privacy and Compliance Enforcement for KYC in Blockchains](https://api.semanticscholar.org/CorpusID:277662509)
+- [How to Design a Compliant, Privacy-Preserving Fiat Stablecoin Via Zero-Knowledge Proofs](https://ssrn.com/abstract=4331465)
+- [SeDe: Balancing Blockchain Privacy and Regulatory Compliance by Selective De-Anonymization](https://arxiv.org/abs/2311.08167)
+- [zkMixer: A Configurable Zero-Knowledge Mixer with Proof of Innocence and Anti-Money Laundering Consensus Protocols](https://arxiv.org/abs/2503.14729)
+- [Public Verifiable Privacy-Preserving Multi-Party Computation on Blockchain](https://ieeexplore.ieee.org/document/10671422)
+- [BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs](https://eprint.iacr.org/2019/1354)
+- [ZEXE: Enabling Decentralized Private Computation](https://ieeexplore.ieee.org/document/9152634)
+- [Jigsaw: Doubly Private Smart Contracts](https://eprint.iacr.org/2025/1147.pdf)
+- [Privacy-Protecting Regulatory Solutions Using Zero-Knowledge Proofs](https://api.a16zcrypto.com/wp-content/uploads/2022/11/ZKPs-and-Regulatory-Compliant-Privacy.pdf)
 
 ## Privacy & Scaling Explorations
 this part will be restructured later on by categories
