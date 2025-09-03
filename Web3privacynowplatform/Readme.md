@@ -122,9 +122,9 @@ _Total_: 7 FTE + advisor community
 **PR**
 - Strong contribution to the general security level of the new web
 - Positive industry image (counter-crime & scam argument)
-- Non-web3 literate but privacy conscious user education and onboarding (increasing accessibilty and real-world use cases of decentralised technologies)
+- Non-web3 literate but privacy conscious user education and onboarding (increasing accessibility and real-world use cases of decentralised technologies)
 
-**Scoring mechanism**: aplicability to ecosystem's projects
+**Scoring mechanism**: applicability to ecosystem's projects
 
 **Builders empowerment**: builder-ready educational materials & tools 
 
