@@ -76,7 +76,7 @@ How it works:
 | **Privacy policy** | no |
 | **Collected data**  | opt-in: public anonymous debugging logs |
 | **Data sharing** | no |
-| **Sign-in requirments** | none |
+| **Sign-in requirements** | none |
 | **Identity integrations** | ENS |
 
 **Security**
