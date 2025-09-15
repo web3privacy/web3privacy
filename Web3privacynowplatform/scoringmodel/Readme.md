@@ -21,7 +21,7 @@ _Create_
 - Try to apply previous scoring model approach (with % &/or semaphore take: green, yellow, red) to new parameters & observe how scoring model could change (write down potential changes & implications)
 
 _Delivery_
-- Final page will be breaken down into:
+- Final page will be broken down into:
   - Updated scoring model MVP data set (without scoring approach)
   - Simulation of the old MVP + new MVP: how scoring could change with new parameters
  - Backlog (data that can't be quickly parsed)
