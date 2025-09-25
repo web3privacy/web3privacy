@@ -553,7 +553,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Fractal network](https://eth.limo/#how-limo-works) | Private, anon voting for your Members | [Docs](https://docs.fractalframework.xyz/home) | - | - | - |
 | [Chimp Exchange](https://ten.chimp.exchange/#/swap) | Fully encrypted DEX | [Docs](https://docs.chimp.exchange/chimp-on-ten) | testnet | Ten protocol | - |
 | [fluidkey](https://www.fluidkey.com/) | Receive and manage funds onchain without publicly linking them to you. | [Docs](https://docs.fluidkey.com/) | live | EVM | public |
-
+| [Qash](https://qash.finance/) | End-to-end private global payroll solution | [Docs](https://app.qash.finance/docs) | testnet beta | Miden | - |
 
 ## NFT
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NFT.png?raw=true)
