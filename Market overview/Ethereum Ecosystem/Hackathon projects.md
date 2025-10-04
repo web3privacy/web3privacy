@@ -397,7 +397,7 @@ _Example_
 | zkHub | privacy focused social NFT community app. Owners can see all essential information about their NFT collections in one platform while retaining their privacies. | [GitHub](https://github.com/BilkentCrypto/istanmeow) | [Web](https://ethglobal.com/showcase/zkhub-z2d4j) |
 | Green Zkrciticty | Embracing Zero-Knowledge to Combat Climate Change through Green Electricity. With ZK we can keep who the customer is private and keep the totals private from generators looking to fraud the system. | [GitHub](https://github.com/DappaDanDev/green-zktricity_) | [Web](https://ethglobal.com/showcase/green-zkrciticty-xfyd9) |
 | zKeeper | A Mina-based ZK-rollup ensuring private transactions by mixing them | [GitHub](https://github.com/0x471/zkeeper) | [Web](https://ethglobal.com/showcase/zkeeper-u33a1) |
-| ZKnoid | Onchain gaming: slash costs and fortify privacy. Share only a ZKproof of game completion, reducing gas fees, protecting from cheaters and bots. Keep your strategies private, safeguarding your unique gameplay(especialy useful for speedrunners). | [GitHub](https://github.com/aii23/MinaZKanoid) | [Web](https://ethglobal.com/showcase/zknoid-nr5ef) |
+| ZKnoid | Onchain gaming: slash costs and fortify privacy. Share only a ZKproof of game completion, reducing gas fees, protecting from cheaters and bots. Keep your strategies private, safeguarding your unique gameplay(especially useful for speedrunners). | [GitHub](https://github.com/aii23/MinaZKanoid) | [Web](https://ethglobal.com/showcase/zknoid-nr5ef) |
 | zkCollector | Light-weight application specific zkVM for proving the gameplay of the collector game. User's gameplay strategy stays private and only the score is published on the leaderboard along with a zk proof that the score is valid. | [GitHub](https://github.com/zemse/zk-collector) | [Web](https://ethglobal.com/showcase/zkcollector-dzv9m) |
 | zkPerps | Perpetual dex for private trading built on ZK smart-contracts on MINA protocol | [GitHub](https://github.com/zkPerps/front) | [Web](https://ethglobal.com/showcase/zkperps-xty2a) |
 | zkmap | Developed a unique proof-of-location system allowing users to verify their presence in a designated area without fully revealing their exact location. | [GitHub](https://github.com/Volthai7us/eth-global-istanbul) | [Web](https://ethglobal.com/showcase/zkmap-n2z06) |
@@ -433,7 +433,7 @@ _Example_
 | Zkbill | Bill receipts have confidential information that cannot be added to public ledgers. This project creates a ZK application that will hide secret information and perform increment operation using ZK circuit. | [GitHub](https://github.com/harirubix/zkbill) | [Web](https://ethglobal.com/showcase/zkbill-guefe) |
 | ZeroSwipes | Community-driven dating | [GitHub](https://github.com/satwikkansal/zeroswipes) | [Web](https://ethglobal.com/showcase/zeroswipes-r2sna) |
 | PrivacyComm | Communicate confidentially on a testnet | [GitHub](https://github.com/technicalkuldeep/ethindia) | [Web](https://ethglobal.com/showcase/privacycomm-mrgg0) |
-| Private Voting using Tornado Cash | Tornado Cash provides anonimity of users, their balance and the transaction. We are extending these features to Private Voting by using the same zero knowledge primitives to ensure a fair voting. | [GitHub](https://github.com/zkMonk/zkVote_contracts) | [Web](https://ethglobal.com/showcase/private-voting-using-tornado-cash-7qxo6) |
+| Private Voting using Tornado Cash | Tornado Cash provides anonymity of users, their balance and the transaction. We are extending these features to Private Voting by using the same zero knowledge primitives to ensure a fair voting. | [GitHub](https://github.com/zkMonk/zkVote_contracts) | [Web](https://ethglobal.com/showcase/private-voting-using-tornado-cash-7qxo6) |
 | Secret Spend | End-to-end private payments | [GitHub](https://github.com/shreyas-londhe/secret-spend) | [Web](https://ethglobal.com/showcase/secret-spend-f0a3j) |
 
 # 2022
@@ -442,7 +442,7 @@ _Example_
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
-| ZK Commitable NFT | The project uses zk proofs, merkle trees, and erc721s to commit to a hidden token that the user owns. The token may be revealed at a later time. The project is bare bones and is intended to be used as a building block for more complex use cases, such as on chain gaming where attributes must remain hidden. | [GitHub](https://github.com/calvbore/zk-commitable-nft) | [Web](https://ethglobal.com/showcase/zk-commitable-nft-qsw31) |
+| ZK Committable NFT | The project uses zk proofs, merkle trees, and erc721s to commit to a hidden token that the user owns. The token may be revealed at a later time. The project is bare bones and is intended to be used as a building block for more complex use cases, such as on chain gaming where attributes must remain hidden. | [GitHub](https://github.com/calvbore/zk-commitable-nft) | [Web](https://ethglobal.com/showcase/zk-commitable-nft-qsw31) |
 | ZKDP |  Join any NFT holder limited real events without revealing your wallet address | [GitHub](https://github.com/hiroism007/zkdp) | [Web](https://ethglobal.com/showcase/zkdp-30roi) |
 
 ## BuildQuest (2022)
