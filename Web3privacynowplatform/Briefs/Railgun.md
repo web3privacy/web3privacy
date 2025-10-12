@@ -75,7 +75,7 @@ How it works:
 | **Collected data**  | none |
 | **Data sharing** | none |
 | **Sign-in requirements** | none |
-| **Identity integrations** | Users can link their ENS and Unstoppable Domains to their private 0zk address. There is no privacy degredation from this. |
+| **Identity integrations** | Users can link their ENS and Unstoppable Domains to their private 0zk address. There is no privacy degradation from this. |
 
 **Security**
 | Request  | Data point | 
