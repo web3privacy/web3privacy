@@ -272,7 +272,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Computing%20network.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Phala Network](https://phala.network/) | TEE-based Permissionless Computing Protocol. | [Github](https://github.com/Phala-Network) | live | multichain | [Public](https://www.linkedin.com/company/phala-network/mycompany/) |
+| [Phala Network](https://phala.com/) | TEE-based Permissionless Computing Protocol. | [Github](https://github.com/Phala-Network) | live | multichain | [Public](https://www.linkedin.com/company/phala-network/mycompany/) |
 | [ARPA](https://www.arpanetwork.io/en-US) | Threshold BLS network can serve as the infrastructure of verifiable random number generator (RNG), secure wallet, cross-chain bridge, decentralized custody etc. | [Github](https://github.com/ARPA-Network) | mainnet, Q2 2023 | multichain | anon |
 | [Phoenix](https://phoenix.global) | blockchain infrastructure empowering intelligence web3 applications. | [Github](https://github.com/phoenixglobal) | testnet | multichain | anon |
 | [Privasea](https://www.privasea.tech) | Using secure Multi-Party sharing we protect data ownership and privacy, and facilitate secure sharing between different parties so data still can be processed. | - | - | multipurpose | [Public](https://www.privasea.tech/about) |
