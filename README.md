@@ -224,6 +224,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Radicle](https://radicle.xyz) | open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
 | [Spasm](https://spasm.network) | The most advanced generation of decentralized social media with a strong focus on privacy. | [Github](https://github.com/degenrocket/spasm) [Docs](https://docs.spasm.network) | live | - | - |
 | [Miden](https://miden.xyz/) | Miden is the edge blockchain by pushing execution and state to the edge, on the client side, overcomes the limitations of scalability, privacy and safety | [Github](https://github.com/0xMiden) | beta testnet, July 2025| - | - |
+| [Paladin](https://www.paladinprivacy.org/) | Programmable Privacy for EVM gives enterprises control of sensitive information without compromising transparency or scalability | [Github](https://github.com/LF-Decentralized-Trust-labs/paladin) | Pilot deployments in CBDC projects | No | - |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
