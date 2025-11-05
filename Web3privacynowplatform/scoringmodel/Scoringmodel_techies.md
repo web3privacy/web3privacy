@@ -188,8 +188,8 @@ _Tools_: [npmgraph](npmgraph.js.org), [depcheck](https://www.npmjs.com/package/d
 _How to score_
 
 **Dependencies footprint**
-- TBD number of depencencies (+): the less the better the best privacy
-- TBD number of depencencies (-): the more the worst for privacy
+- TBD number of dependencies (+): the less the better the best privacy
+- TBD number of dependencies (-): the more the worst for privacy
 
 **example**: Rabby - 1150 dependencies, Metamask - 720, Brume - 50 [link](https://twitter.com/hazae41/status/1750478720140280259)
 
