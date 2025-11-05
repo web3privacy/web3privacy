@@ -68,7 +68,7 @@ What could be scored in general & with am MVP specifically.
 | Brief  | Scoring | MVP | 
 | ------------- | ------------- | ------------- |
 | **Is it peer-to-peer**  | + | - | 
-| **Complience**  | + | - |
+| **Compliance**  | + | - |
 | **KYC**  | + | - |
 | **Privacy policy** | + | - |
 | **Collected data**  | + | - |
@@ -171,7 +171,7 @@ Here we cover scope that's beyond MVP & is necessary to develop the next version
 | Brief  | Scoring |  
 | ------------- | ------------- |
 | **Is it peer-to-peer**  | + | 
-| **Complience**  | + |
+| **Compliance**  | + |
 | **KYC**  | + | 
 | **Privacy policy** | + | 
 | **Collected data**  | + | 
