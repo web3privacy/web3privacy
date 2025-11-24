@@ -822,3 +822,5 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ## Donate
 
 Support independent research on the Web3 privacy - [find all our current donation addresses within our Docs](https://docs.web3privacy.info/get-involved/donate/)
+
+[🔼Back to top!](#contents)
