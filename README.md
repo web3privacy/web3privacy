@@ -750,7 +750,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [BlockChair](https://blockchair.com) | the most private blockchain search engine | [Github](https://github.com/Blockchair) [Docs](https://blockchair.com/api/docs)  | live | - | -  |
 | [ANS](https://www.aleonames.id) | Where domain naming meets privacy  | [Docs](https://docs.aleonames.id/developer-guide/integrate-ans-into-frontend)  | live | - | -  |
 | [Flux](https://fluxsocial.io) | a fully distributed, human-centred platform that facilitates social coordination with greater privacy, agency, and flexibility. | [Github](https://github.com/fluxsocial/)  | - | - | -  |
-| [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero direcly within your stream as a creator. | - | live | - | public | 
+| [XMR chat](https://xmrchat.com) | Tip your favorite streamer directly in Monero, accept Monero directly within your stream as a creator. | - | live | - | public | 
 
 
 ## Sunset projects archive
