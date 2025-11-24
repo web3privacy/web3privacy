@@ -423,7 +423,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Waku](https://waku.org) | Waku is the communication layer for Web3. Decentralized communication that scales | [Github](https://github.com/waku-org) | - | - | - |
 | [Status](https://status.im) | Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology | [Github](https://github.com/status-im/) | - | - | - |
 | [xx messenger](https://elixxir.io) | An ultra-private messaging app, powered by the quantum-resistant and decentralized xx network | [Github](https://git.xx.network/elixxir/client-android) | - | - | - |
-| [ALTER](https://alter.network) | Private & Secure Communication App Utilizing Secret Nework's secret contract technology - formerly known as Altermail. | [GitHub](https://github.com/ALTER-Network) | live | multichain | known (LinkedIn) |
+| [ALTER](https://alter.network) | Private & Secure Communication App Utilizing Secret Network's secret contract technology - formerly known as Altermail. | [GitHub](https://github.com/ALTER-Network) | live | multichain | known (LinkedIn) |
 | [Session](https://getsession.org) | An end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. | [GitHub](https://github.com/oxen-io) | Live | Cryptonote | [Public](https://www.linkedin.com/company/sessionmessenger/people/) |
 | [BCchat](https://bchat.beldex.io) | A decentralized, privacy messenger built over the Beldex blockchain. | - | - | - | - |
 | [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | [XMTP GitHub](https://github.com/ephemeraHQ/lenster) | mainnet | - | - |
@@ -505,7 +505,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Crust](https://crust.network) | Web3.0 Storage for the Metaverse | [Github](https://github.com/crustio) | - | - | - |
 | [Fileverse](https://fileverse.io) | On-chain people and communities deserve on-chain tools for private communication and collaboration. | [Github](https://github.com/fileverse) | - | - | - |
 | [ddocs](https://docs.fileverse.io/about) | A decentralized, peer-to-peer document editor designed for secure, real-time collaboration. Unlike traditional document editors, dDocs ensures your privacy with full end-to-end encryption and does not rely on any centralized servers. | [Github](https://github.com/fileverse/fileverse-ddoc) | live | - | - |
-| [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subsciption model for storage. | [Github](https://github.com/Storj/) | - | - | - |
+| [Storj](https://www.storj.io/) | massive, globally distributed network for data storage with better security, privacy and durability with CDN-like performance. Anyone is able to host a Storj node and stake their token to strengthen the network. Has a paid subscription model for storage. | [Github](https://github.com/Storj/) | - | - | - |
 | [Synx](https://synx.xyz) | The Web3 storage platform | - | - | - | - |
 | [Oort](https://www.oortech.com) | a decentralized data cloud platform designed to maximize privacy and cost savings by integrating global compute and storage resources.  | - | - | - | - |
 | [Chainback](https://chainback.org) | Cloud Computing & File Sharing | - | - | - | - |
@@ -592,7 +592,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Demox labs](https://www.demoxlabs.xyz) | Building privacy preserving ZK infrastructure on Aleo. | - | - | - | - |
 | [Electric Coin Company](https://electriccoin.co/roadmap/) | R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential. | - | - | - | - |
 | [Hypermine](https://hypermine.co) | smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography. | - | - | - | - |
-| [Trivium](https://trivium.network) | provides validator services to serveral networks, and develops privacy-preserving dApps [Github](https://github.com/TriviumNode) | - | - | - |
+| [Trivium](https://trivium.network) | provides validator services to several networks, and develops privacy-preserving dApps [Github](https://github.com/TriviumNode) | - | - | - |
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering [Github](https://github.com/realran) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. [Github](https://github.com/hashcloak) | - | - | - |
 | [Discreet Labs]( https://discreetlabs.io) | build blockchain systems for a more private, self-sovereign future on Fidora | - | - | - | - |
@@ -642,10 +642,10 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/NODE.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [Start9](https://start9.com/) | Purchase plug-n-play (or self-host) a node for soverign cpomputing - includes Bitcoin Core, Lightning, Nostr, Tor, OnionShare, Nextcloud integration out of the box. | [Github](https://github.com/Start9Labs) [Docs](https://docs.start9.com/) | live | Bitcoin | public | 
+| [Start9](https://start9.com/) | Purchase plug-n-play (or self-host) a node for sovereign cpomputing - includes Bitcoin Core, Lightning, Nostr, Tor, OnionShare, Nextcloud integration out of the box. | [Github](https://github.com/Start9Labs) [Docs](https://docs.start9.com/) | live | Bitcoin | public | 
 | [RaspiBlitz](https://shop.fulmo.org/) | A do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode on a RaspberryPi 4 | [Github](https://github.com/raspiblitz/raspiblitz) | live | Bitcoin | public |
 | [MyNode](https://mynodebtc.com/) | MyNode aims to simplify running a dedicated Bitcoin node and Lightning wallet using open source software with our browser-based interface with multiple integrations | - | live | Bitcoin | public |
-| [Nodl](https://www.nodl.eu/) | A plug-n-play entreprise-ready Bitcoin node with Lightning, built in Switzerland. | -  | live | Bitcoin | public |
+| [Nodl](https://www.nodl.eu/) | A plug-n-play enterprise-ready Bitcoin node with Lightning, built in Switzerland. | -  | live | Bitcoin | public |
 | [DappNode](https://dappnode.io/) | Easy to use hardware and software solution for running Ethereum and other kind of nodes, staking, IPFS, etc. | [GitHub](https://github.com/dappnode) | live | multichain | [Public](https://dappnode.com/pages/about)
 | [NiceNode](https://nicenode.xyz) | Launcher with a simple user experience to run an Ethereum node on your computer. | [Github](https://github.com/NiceNode/nice-node) | live | - | - |
 | [Stereum](https://stereum.net/ethereum-node-setup/) | Graphical tool for installing Ethereum clients on a remote server via SSH connection with a simple setup guide, phone app for remote monitoring, control center and other features. | [Github](https://github.com/stereum-dev) | live | - | - |

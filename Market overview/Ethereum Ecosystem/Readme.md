@@ -352,7 +352,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Personae Labs](https://personaelabs.org) | R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs)) | - | - | - |
 | [Hypermine](https://hypermine.co) | smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography. | - | - | - | - |
 | [Entropy1729](https://www.entropy1729.com) | Zero Knowledge Shop | - | - | - | - |
-| [Trivium](https://trivium.network) | provides validator services to serveral networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode)) | - | - | - |
+| [Trivium](https://trivium.network) | provides validator services to several networks, and develops privacy-preserving dApps ([GitHub](https://github.com/TriviumNode)) | - | - | - |
 | [RealRan](https://www.realran.com/home) | RealRan comes from the global engineering and cryptography research team,  expertise in cryptography protocol and distribution consensus engineering ([GitHub](https://github.com/realran)) | - | - | - |
 | [HashCloak](https://hashcloak.com) | an independent research lab focused on helping organizations and blockchain communities integrate a privacy-first approach into their processes. ([GitHub](https://github.com/hashcloak)) | - | - | - |
 | [OSOMPrivacy](https://www.osomprivacy.com) | From software to hardware OSOM Privacy gives you the tools that you need to make sure your data, your information is always private and protected. | - | - | - | - |
