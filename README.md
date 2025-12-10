@@ -334,7 +334,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Mullvad VPN](https://mullvad.net/) | One of the most privacy-focused VPN providers (check their Privacy Policy and history). Mullvad VPN could be paid by Bitcoin Lightning [here](https://vpn.sovereign.engineering/) - totally anonymous. | [Github](https://github.com/mullvad). Also co-authered [Mullvad Browser](https://github.com/mullvad/mullvad-browser) with Tor Project team. |  live | no chain | no | [Public](https://mullvad.net/en/about) |
 | [ProtonVPN](https://protonvpn.com/) | Swiss VPN provider with encrypted email and online storage | [Github](https://github.com/ProtonVPN) |  live | no chain | no | [Public](https://protonvpn.com/about) |
 | [Solar dVPN](https://solarlabs.ee) | World’s first truly decentralized blockchain-based VPN service | [Github](https://github.com/solarlabsteam/) | - | - | - |
-| [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
+| [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | [Github](https://github.com/Sovereign-Engineering) | live | no chain | no | [Public](https://obscura.net/#faq) |
 | [DeGuardVPN](https://deguard.io) | VPN for web3 & DeFi community | [Github](https://github.com/deguardvpn) | - | - | - |
 | [Nym VPN](https://nymvpn.com/en) | decentralized VPN powered by the mixnet | [Github](https://github.com/orgs/nymtech/repositories?type=all) | Cosmos | - | public |
 
