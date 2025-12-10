@@ -193,7 +193,7 @@
 - [01 Labs](https://o1labs.org) - Catalyzing a new generation of applications powered by zero knowledge cryptography
 - [Personae Labs](https://personaelabs.org) - R&D lab investigating the future of human expression online ([GitHub](https://github.com/personaelabs))
 - [Demox labs](https://www.demoxlabs.xyz) - Building privacy preserving ZK infrastructure on Aleo.
-- [Electric Coin. Co](https://electriccoin.co/research-and-development/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
+- [Electric Coin. Co](https://electriccoin.co/blog/ecc-scaling-research-2019-research-development-milestones/) - R&D advances accessibility, usability and scalability of Zcash, but the implications of our work have an even broader potential.
 - [Hypermine](https://hypermine.co) - we build smart tools and protocols for Identity, Privacy & Security, with our roots in Distributed Systems, Machine Learning & Cryptography.
 - [Entropy1729](https://www.entropy1729.com) - Zero Knowledge Shop
 - [ChainSafe](https://chainsafe.io) - a leading blockchain R&D firm, specializing in protocol engineering, cross-chain interoperability & web3 gaming.
