@@ -3,7 +3,7 @@
 How it works:
 1. You fill a brief.
 2. Our team reviews application.
-3. Verified data will be published at The Web3Privacy now platform.
+3. Verified data will be published on The Web3Privacy now platform.
 
 # **Basic info**
 
@@ -11,7 +11,7 @@ How it works:
 | ------------- | ------------- |
 | **Project name**  | RAILGUN Privacy |
 | **Logotype**  | https://assets.railgun.org/logo/transparent/logo.svg |
-| **Short project description (1 sentence)** | ZK based on-chain privacy infrastructure enabling fully private use of Ethereum & EVM. |
+| **Short project description (1 sentence)** | ZK-based on-chain privacy infrastructure enabling fully private use of Ethereum & EVM. |
 | **Launch date** | Jul-10-2021 11:54:11 PM +UTC |
 | **Is it open source?** | Yes |
 | **Website**  | https://railgun.org/ |
