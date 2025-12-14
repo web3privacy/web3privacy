@@ -6,7 +6,7 @@ _Purpose_:
 
 1. Collect existing hackathon demos & ideas in one place. 
 2. Analyze what challenges devs are solving within the hackathons (innovative use-cases, R&D).
-3. Create a user-friendly space for ecosystem actors to collaborate with each other: support existing demos, expand use-cases, collaborate with each other, be inspired.
+3. Create a user-friendly space for ecosystem actors to collaborate with each other: support existing demos, expand use-cases, collaborate with each other, and be inspired.
 
 # Template
 
@@ -73,7 +73,7 @@ _Example_
 | Roman Kyoto | DeFi | a MASP (multi asset shielded pool) that allows for users to deposit and transfer ERC20s privately | [GitHub](https://github.com/blockhackersio/roman-kyoto/) | [web](https://ethglobal.com/showcase/roman-kyoto-s3uio)
 | Privacy Avengers | AI | a protocol for verifiable machine unlearning, solving AI privacy issues by securely and efficiently detecting and removing user data.  | [GitHub](https://github.com/Mingzhe-W/privacy_avangers) | [web](https://ethglobal.com/showcase/privacy-avengers-9yc3i)
 | zkFlex | DeFi | provably verify assets that users claim to have without revealing their Ethereum addresses  | [GitHub](https://github.com/Web3Rizzards/zkFlex) | [web](https://ethglobal.com/showcase/zkflex-4vuyp)
-| zkenergycrowdfund | Funding | A crowdfunding contract for green energy project, with zk to verify sensitive credentials of the project  | [GitHub](https://github.com/hung-ngm/zk-energy-crowdfund) | [web](https://ethglobal.com/showcase/zkflex-4vuyp)
+| zkenergycrowdfund | Funding | A crowdfunding contract for a green energy project, with zk to verify sensitive credentials of the project  | [GitHub](https://github.com/hung-ngm/zk-energy-crowdfund) | [web](https://ethglobal.com/showcase/zkflex-4vuyp)
 
 ## HACKFS
 
@@ -90,7 +90,7 @@ _Example_
 | Blaze ID | Credentials | Secure your data with zero-knowledge proofs & verifiable credentials. Local-first wallet for ultimate control. | [GitHub](https://github.com/Envoy-VC/blaze-id) | [web](https://ethglobal.com/showcase/blaze-id-z8256)
 | DCH | Creators | decentralized publication management protocol with enhanced privacy features tailored for writers | [GitHub](https://github.com/zkengine/PubIns) | [web](https://ethglobal.com/showcase/dch-hz719)
 | Chain Discourse | Communication | communication platform that leverages blockchain technology for secure, transparent, and censorship-resistant discussions | [GitHub](https://github.com/ysongh/ChainDiscourse) | [web](https://ethglobal.com/showcase/chain-discourse-yeo42)
-| CipherCraft | AI | A Decentralised Hub for federated model training on access controlled private datasets. | [GitHub](https://github.com/Shubham-Rasal/CipherCraft) | [web](https://ethglobal.com/showcase/ciphercraft-3g8kp)
+| CipherCraft | AI | A Decentralised Hub for federated model training on access-controlled private datasets. | [GitHub](https://github.com/Shubham-Rasal/CipherCraft) | [web](https://ethglobal.com/showcase/ciphercraft-3g8kp)
 | Pryv | AI | A decentralized frontend inference for multiple language models hosted on IPFS and Fleek. | [GitHub](https://github.com/carrabre/hackfs-chat) | [web](https://ethglobal.com/showcase/pryv-ojkm3)
 | KeyShard | Key management | Distributes key generation with FROST, a threshold Schnorr signature scheme | [GitHub](https://github.com/utkarshdagoat/KeyShard) | [web](https://ethglobal.com/showcase/keyshard-odizm)
 | Blogg3r | Creators | a decentralized blog app that securely stores your blog posts on the blockchain, ensuring immutability, transparency, and censorship resistance | [GitHub](https://github.com/inciner8r/blogg3r) | [web](https://ethglobal.com/showcase/blogg3r-cdxsn)
@@ -101,7 +101,7 @@ _Example_
 | MedLIT | Healthcare | A decentralized healthcare system leveraging Web3 technology to enhance access, secure medical data, and foster trust | [GitHub](https://github.com/MukulKolpe/HackFS24) | [web](https://ethglobal.com/showcase/medlit-1sb1k)
 | Anti-AI | Credentials | Capture an image in a React Native app, sign it with MetaMask, encrypt its hash using Lit Protocol, and store both the encrypted data and the image on Pinata.  | [GitHub](https://github.com/Aditya-Chaurasia11/Anti-AI) | [web](https://ethglobal.com/showcase/anti-ai-h1o1x)
 | Honorous | DID | a decentralized identity and reputation system | [GitHub](https://github.com/marssarthak/honorous) | [web](https://ethglobal.com/showcase/honorous-xxvp0)
-| DAOVerified | DID | Credentials are private. so the contributor's identity too. | [GitHub](https://github.com/deepshah9696/HackFS) | [web](https://ethglobal.com/showcase/daoverified-jb6m7)
+| DAOVerified | DID | Credentials are private, so the contributor's identity is too. | [GitHub](https://github.com/deepshah9696/HackFS) | [web](https://ethglobal.com/showcase/daoverified-jb6m7)
 
 ## ETHDam 
 
@@ -133,8 +133,8 @@ _Example_
 | zkSocial | social media powered by ZKML | Social | [GitHub](https://github.com/star-gazer111/zkSocial) | [web](https://ethglobal.com/showcase/zksocial-q1b7z)
 | Shadow Pay | a privacy preserving p2p transaction platform | Payments | [GitHub](https://github.com/Ankush523/shadow-pay) | [web](https://ethglobal.com/showcase/shadow-pay-ke4se)
 | FHE Vickrey Auction |  a type of sealed-bid second-price auction powered by FHE | Auction | [GitHub](https://github.com/tnkshuuhei/fhe-vickrey) | [web](https://ethglobal.com/showcase/fhe-vickrey-auction-3iyxh)
-| PrivPay |  the DeFi application to receive and send payments with just simple Link, no need to reveal your address. | Payments | [GitHub](https://github.com/marotipatre/Priv-Pay) | [web](https://ethglobal.com/showcase/privpay-krzdn)
-| GhostPay |  Defi application that let you send and receive funds anonymously with just a link | Payments | [GitHub](https://github.com/porco-rosso-j/eth-rome-2023) | [web](https://ethglobal.com/showcase/ghostpay-9vs0x)
+| PrivPay |  the DeFi application to receive and send payments with just a simple Link, no need to reveal your address. | Payments | [GitHub](https://github.com/marotipatre/Priv-Pay) | [web](https://ethglobal.com/showcase/privpay-krzdn)
+| GhostPay |  Defi application that lets you send and receive funds anonymously with just a link | Payments | [GitHub](https://github.com/porco-rosso-j/eth-rome-2023) | [web](https://ethglobal.com/showcase/ghostpay-9vs0x)
 | zkbiometric |  authentication by securely verifying biometric onboarding data | Auth | [GitHub](https://github.com/aridder/zkbiometric) | [web](https://ethglobal.com/showcase/zkbiometric-p8nva)
 | nfl |  Use Nillion for training federated learning models while keeping datasets private. | Machine Learning | [GitHub](https://github.com/bowenyou/nillion-federated-learning) | [web](https://ethglobal.com/showcase/nfl-w7yg3)
 | Monadic DNA |  Privacy preserving personal genomics for health and ancestry | Genomics | [GitHub](https://github.com/Cryptonomic/MonadicDNA) | [web](https://ethglobal.com/showcase/monadic-dna-h7k7q)
