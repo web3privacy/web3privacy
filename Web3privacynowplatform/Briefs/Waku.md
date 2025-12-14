@@ -51,7 +51,7 @@
 | **Technical specialisation**  | communication, off-chain ephemeral messaging, sending arbitrary payload 1:1, 1:n, n:n | 
 | **Specify technology readiness**  | pre-MVP | 
 | **Features**  | censorship-resistant, privacy-focused, modular, scalable, caters for resource-restricted devices | 
-| **Encryption method**  | Noise, ECIES, AES available to app builders out of the box. Bring-your-own also possible. | 
+| **Encryption method**  | Noise, ECIES, AES available to app builders out of the box. Bring-your-own is also possible. | 
 
 **Privacy**
 | Request  | Data point | 
