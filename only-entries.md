@@ -287,6 +287,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
 | [DeGuardVPN](https://deguard.io) | VPN for web3 & DeFi community | [Github](https://github.com/deguardvpn) | - | - | - |
 | [Nym VPN](https://nymvpn.com/en) | decentralized VPN powered by the mixnet | [Github](https://github.com/orgs/nymtech/repositories?type=all) | Cosmos | - | public |
+| [Party VPN](https://partyvpn.com) | Privacy-focused VPN with cryptocurrency-only payments (BTC, ETH, XMR, etc.). Pay-as-you-go pricing, WireGuard protocol, no-logs policy, REST API for developers | [Github](https://github.com/partyvpn) | live | no chain | no | anon |
 
 ## DID
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Token | Team |

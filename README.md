@@ -337,6 +337,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Obscura](https://obscuravpn.io) | The first VPN that can’t track your activity. | - | - | - | - |
 | [DeGuardVPN](https://deguard.io) | VPN for web3 & DeFi community | [Github](https://github.com/deguardvpn) | - | - | - |
 | [Nym VPN](https://nymvpn.com/en) | decentralized VPN powered by the mixnet | [Github](https://github.com/orgs/nymtech/repositories?type=all) | Cosmos | - | public |
+| [Party VPN](https://partyvpn.com) | Privacy-focused VPN with cryptocurrency-only payments (BTC, ETH, XMR, etc.). Pay-as-you-go pricing, WireGuard protocol, no-logs policy, REST API for developers | [Github](https://github.com/partyvpn) | live | no chain | no | anon |
 
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
