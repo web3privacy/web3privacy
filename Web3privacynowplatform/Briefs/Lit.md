@@ -3,7 +3,7 @@
 How it works:
 1. You fill a brief.
 2. Our team reviews application.
-3. Verified data will be published at The Web3Privacy now platform.
+3. Verified data will be published on The Web3Privacy now platform.
 
 # **Basic info**
 
@@ -11,7 +11,7 @@ How it works:
 | ------------- | ------------- |
 | **Project name**  | Lit Protocol |
 | **Logotype**  | https://www.figma.com/file/Sei64PL5DdYHCMffGUXMGS/Lit-Protocol-Brand-Assets?type=design&node-id=1%3A7&mode=design&t=PQ43wWoGfNRRNWcT-1 |
-| **Short project description (1 sentence)** | A decentralized key management network for encryption, signing, and compute |
+| **Short project description (1 sentence)** | A decentralized key management network for encryption, signing, and computing |
 | **Launch date** | October 2021 (beta) |
 | **Is it open source?** | yes |
 | **Website**  | https://litprotocol.com |

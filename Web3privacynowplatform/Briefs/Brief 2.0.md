@@ -3,7 +3,7 @@
 How it works:
 1. You fill a brief (at least "mandatory field").
 2. Our team reviews application.
-3. Verified data will be published at The Web3Privacy now platform.
+3. Verified data will be published on The Web3Privacy now platform.
 
 # Mandatory data
 
@@ -83,7 +83,7 @@ How it works:
 | **KYC**  | yes/no |
 | **Privacy policy** | add link |
 | **Collected data**  | specify what data do you collect |
-| **Data sharing** | specify what data you share with third-parties |
+| **Data sharing** | specify what data you share with third parties |
 | **Sign-in requirements** | specify what data is needed to start using service |
 | **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
 
