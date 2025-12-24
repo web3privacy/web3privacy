@@ -98,7 +98,7 @@
 - [Calamari network](https://calamari.network) -  Calamari, Manta Network's canary net, is the plug-and-play privacy-preservation parachain built to serve the Kusama world. It combines Kusama and zkSNARK to bring inter-operable, easy to use, highly-performant and auditable on-chain privacy to transactions and further use cases ✨️**ZK** ([GitHub](https://github.com/Manta-Network))
 - [Aleo](https://www.aleo.studio) - The World's First IDE for Zero-Knowledge Proofs ✨️**ZK** ([GitHub](https://github.com/AleoHQ)) 
 - [Namada](https://namada.net) - Interchain Privacy ([Specs](https://specs.namada.net))  
-- [MACI](https://privacy-scaling-explorations.github.io/maci/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-ethereum/maci))
+- [MACI](https://maci.pse.dev/) - Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. ([GitHub](https://github.com/privacy-ethereum/maci))
 - [Hush](https://hush.is) - Hush Smart Chains allow anyone to create their own independent, private by default blockchain ✨️**ZK** ([Gitea](https://git.hush.is/hush/hush-smart-chains)) 
 
 ## Wallet

@@ -141,7 +141,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [Calimero network](https://www.calimero.network) | Secure private shard infrastructure lets you protect your data while leveraging all the business benefits of open-source blockchains | [GitHub](https://github.com/calimero-network/core) [Docs](https://calimero-network.github.io)| live | no |
 | [Orbis](https://orbis.club) | We make it easy to add social features to your application | [GitHub](https://github.com/OrbisWeb3/) | TBD | OBT |
 | [ZeroNet](https://zeronet.io) | Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network | [GitHub](https://github.com/HelloZeroNet/ZeroNet) | - | no |
-| [MACI](https://privacy-scaling-explorations.github.io/maci/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
+| [MACI](https://maci.pse.dev/) | Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting. | [GitHub](https://github.com/privacy-scaling-explorations/maci) | TBD | no |
 | [Threshold](https://threshold.network/build/taco) | A decentralized threshold cryptography network with programmable access control | [GitHub](https://github.com/nucypher/) | live | T |
 | [Anytype](https://anytype.io) | the digital assets and communities you create are truly yours. | [GitHub](https://github.com/anyproto) | TBD | no |
 | [ZeroPool](https://zeropool.network/#rec246911850) | is fully private multi-blockchain solution. Low transaction fees, atomic swaps and common anonymity set. | - | mainnet beta | no |
