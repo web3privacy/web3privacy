@@ -126,7 +126,7 @@
 ## DID
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/IDENTITY.png?raw=true)
 - [Web3ID](https://www.dock.io/web3id) - Privacy-preserving user verification for Web3 ([GitHub](https://github.com/docknetwork))
-- [Polygon ID](https://polygon.technology/polygon-id/) - Polygon ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** ([GitHub](https://github.com/0xPolygonID)) 
+- [Privado ID](https://www.privado.id/) - Privado ID is a blockchain-native identity system with programmable privacy that empowers people and enables the creation of trusted interactions with web3 services ✨️**ZK** ([GitHub](https://github.com/0xPolygonID)) 
 - [VerusID](https://verus.io/verusid) - VerusID is for self-sovereign individuals, and conscious organizations that value their data ([GitHub](https://github.com/VerusCoin)) 
 - [Findora CR](https://findora.org/findora-cr/) - Enabling ZK Identity Management & CRedentials for Web3 ([GitHub](https://github.com/findoranetwork))
 - [Iden3](https://iden3.io) - The open-source protocol at the basis of Polygon ID. The protocol defines on a low-level how the parties listed above communicate and interact with each other. Polygon ID is an abstraction layer to enable developers to build applications leveraging the Iden3 protocol ([GitHub](https://github.com/iden3)) 
