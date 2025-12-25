@@ -46,7 +46,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | 🚩 **sunset** [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | ([Docs](https://yellow-s.gitbook.io/docs/ys-basics/introduction)) | 🚩 | anon | - | - | 25% |
 | [BasicSwap](https://basicswapdex.com) | Private Cross-Chain DEX | ([GitHub](https://github.com/tecnovert/basicswap/blob/master/doc/install.md)) | live | ([anon](https://particl.io/)) | - | - | 50% |
 | [Common](https://common.fi) | Common will be a decentralized exchange that mitigates the Maximal Extractable Value (MEV) problem. | - | 🚧 | anon | - | - | 0% |
-| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK* | 🚩 **LOW** ([GitHub](https://github.com/Sacred-Finance)) | 🚧 | Ethereum, Polygon | anon | - | - | 25% |
+| [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | 🚩 **LOW** ([GitHub](https://github.com/Sacred-Finance)) | 🚧 | Ethereum, Polygon | anon | - | - | 25% |
 | 🚩 **sunset** [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | 🚩 | ([Public](https://sahara.network/)) | - | 🚩 2022: [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) | 50% |
 | 🚩 **sunset** [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | ([GitHub](https://github.com/DeFinerOrg)) | 🚩 | anon | [Docs](https://docs.definer.org) | 🚩 2020: [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) | 75% |
 | [Hurricane Protocol](https://hurricane.money) | A fully decentralized protocol offering private transactions on both the Terra & NEAR | 🚩 **no code** ([GitHub](https://github.com/Hurricane-Protocol)) | 🚧 | anon | 🚩 **marketing** [Docs](https://docs.hurricane.money) | - | 50% |
@@ -294,7 +294,7 @@ _Here we test the latest scoring approach for non-techies (30 Oct, 2023) wheneve
 | ------------- |------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | [Evanesco](https://evanesco.org) | ([GitHub](https://github.com/Evanesco-Labs)) | live | anon | - | - | 25% |
 | [Umbra](https://app.umbra.cash) | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | live | anon | - | 🚩 2021: [3 audits](https://app.umbra.cash/faq#security) | 25% |
-| [Light Shield](https://shield.lightprotocol.com) |  - | mlive | anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 25% |
+| [Light Shield](https://shield.lightprotocol.com) |  - | live | anon | [Docs](https://docs.lightprotocol.com) | 🚩 2022: [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) | 25% |
 
 **total**: 3 projects
 
