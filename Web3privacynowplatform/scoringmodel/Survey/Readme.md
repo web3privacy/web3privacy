@@ -16,7 +16,7 @@ We asked 50+ privacy opinion leaders how they will attest privacy claims behind 
 
 ## **Lava Network**
 
-| Answers  | Observations | Product feature |  
+| Answers| Observations | Product feature |  
 | ------------- |------------- |------------- | 
 | starting with our litepaper | "read the docs" is a popular answer without any third-party attestation that docs are correct, care for privacy etc | in the future: collab with a security audit companies to create a new docs audit service description when a third-party will attest privacy-features of the initial idea x tooling description |
 | further questions feel free to drop them in our discord | Discord serves as a two-way comms platform (but depends on the project) & it creates additional dependence of user on the core team | - |
@@ -93,7 +93,7 @@ Answers:
 - technical things you could ask a technical person you trust to look at its oss code.		
 
 _Observations:_
-- if there's nothing to ask - there's  nothing to hide, - interesting assumption, but services could collect data without asking (like IP)
+- if there's nothing to ask - there's nothing to hide, - interesting assumption, but services could collect data without asking (like IP)
 - need extra technical help to analyse the code (potential for a privacy QA automation)
 
 _Product features:_
@@ -114,7 +114,7 @@ _Product feature_
 
 Answers
 - Use @Railway_xyz to send a private transfer to a 0zk address through a Relayer. 	
-- Examine the "receipt" of that transfer on etherscan or arbiscan.  You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.	
+- Examine the "receipt" of that transfer on etherscan or arbiscan. You will not find: (1) sender, (2) receiver, (3) token or (4) amount anywhere in the transaction receipt.	
 - There's a ton a technical person can do to verify but there's also a litmus test of #privacy that anyone can do: https://t.co/PqkUJWwmPD	
 - "This is a 0zk -> 0zk transaction (sending tokens from one #DeFi user to another). You'll note in the scan has a from address but this is simply a Relayer address that pays gas to process the on-chain computation.	
 - User communications with a Relayer are passed via through the @waku_org p2p gossip network, so Relayers can't know a particular message origin. In other words, even here #privacy was a big consideration throughout the tech stack not just on Etherscan.	
@@ -247,7 +247,7 @@ Answers:
 
 _Observations_: 
 - Tracking could be by a third party like Google (also compromises privacy & fake conscious consent)
-- External services like Charleproxy is really valuable, but create a burden on a non-techie, because of it's complexity (but will work for a techie)
+- External services like Charlesproxy is really valuable, but create a burden on a non-techie, because of it's complexity (but will work for a techie)
 - GitHub (updated, alive) could be a checkmark (formal)
 
 **Product feature**
@@ -610,7 +610,7 @@ _Product feature:_
 ## **Ergo**	
 
 Answers:
-- Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions  https://t.co/KVNIk8amD1
+- Ergo has the flexibility to implement privacy in various use cases. Although it is not a privacy-oriented blockchain, Sigma Protocols allow privacy-oriented dApps like ErgoMixer, or private side-chains, to obfuscate specific transactions https://t.co/KVNIk8amD1
 
 _Observations:_ 
 - important to understand that protocols could be non-private, but activate private use-cases (partial implementation). Separate core tech from privacy narrative
