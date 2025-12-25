@@ -483,7 +483,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/RPC.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [1RPC](https://www.1rpc.io) | The first and only on-chain attested privacy preserving RPC, with a track record of protecting 10 billion requests with 200,000 daily active users. | [Docs](https://docs.ata.network/product/1rpc) + [Github](https://github.com/orgs/automata-network/repositories) | live | multichain | - |
+| [1RPC](https://www.1rpc.io) | The first and only on-chain attested privacy preserving RPC, with a track record of protecting 10 billion requests with 200,000 daily active users. | [Docs](https://docs.ata.network/backed-by-pom/1rpc) + [Github](https://github.com/orgs/automata-network/repositories) | live | multichain | - |
 | [Secure RPC](https://securerpc.com) | SecureRpc is a bare-metal, fully conformant JSON-RPC/gRPC Infrastructure plane that aims to perform well. | - | - | - | - |
 | [DERP](https://derp.hoprnet.org/) | DERP is an RPC endpoint you can add to your wallet to visualize data leaked by your wallet in communication with the blockchain [Github](https://github.com/hoprnet/derp) | - | - | - |
 | [RPCh](https://rpch.net/) | RPCh is a privacy-preserving RPC service for wallets that detaches the user’s identity from all communication with the blockchain [Github](https://github.com/Rpc-h/RPCh) | - | - | - |
