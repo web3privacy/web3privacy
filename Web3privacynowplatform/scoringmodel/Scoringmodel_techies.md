@@ -8,7 +8,7 @@ _Currently we are surveying developers, security engineers and  researchers to f
 - general interest in privacy tech
 
 ## Why this group
-- general public within the devs landscape is the most vulnerable audience compared to mature decs with connections & experience
+- general public within the devs landscape is the most vulnerable audience compared to mature devs with connections & experience
 - generalisation helps to make universal tooling & secure research from the niche approaches
 
 ## General scoring will consist of
