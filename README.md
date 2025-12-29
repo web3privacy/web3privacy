@@ -212,7 +212,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [0 Knowledge Network](https://0101010011.xyz) | a next-generation decentralized and incentivized metadata-private mixnet-based anonymous broadcast network with cryptographic security guarantees. | [Github](https://github.com/31333337) | - | - | - |
 | [Swisstronik](https://swisstronik.com) | Layer 1 solution designed to build scalable dApps that ensure users' data protection and privacy, while remaining compliant | [Github](https://github.com/SigmaGmbH) | - | - | - |
 | [Meson.Network](https://www.meson.network) | a suite of critical Web3 network infrastructure as well as the world’s first decentralized Bandwidth Exchange | [Github](https://github.com/daqnext) | - | - | - |
-| [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | [Docs](https://aeronyx.network/docs/) | - | - | - |
+| [AeroNyx](https://aeronyx.network) | DePIN Privacy Network to earn income using your computing resources | [Docs](https://docs.aeronyx.network/) | - | - | - |
 | [Abelian](https://www.abelian.info/home/) | post-quantum privacy-preserving Blockchain network | [Docs](https://docs.abelian.info/docs/getting-started/) | - | - | - |
 | [inDEX](https://index.phala.network) | Cross-Chain Intent Infrastructure  | [Github](https://github.com/Phala-Network/index-contract) | - | - | - |
 | [AIOZ Network](https://aioz.network/node-app) | Web3 Infrastructure for AI, Storage and Streaming.  | - | - | - | - |
