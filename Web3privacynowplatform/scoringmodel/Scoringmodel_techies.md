@@ -386,7 +386,7 @@ _tools_:
 - Open-source
 
 ## Privacy policy
-- Privacy Policy content [Railway zero data aggregation PP](https://www.railway.xyz/privacy.html) vs massive data aggregation [Nocturne PP](https://nocturne.xyz/privacy-policy)
+- Privacy Policy content [Railway zero data aggregation PP](https://railway.com/legal/privacy) vs massive data aggregation [Nocturne PP](https://nocturne.xyz/privacy-policy)
 - Non-vague and non-intrusive privacy policy 
 
 ## Storage
