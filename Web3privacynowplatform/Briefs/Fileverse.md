@@ -2,7 +2,7 @@
 
 How it works:
 1. You fill a brief.
-2. Our team reviews application.
+2. Our team reviews the application.
 3. Verified data will be published on The Web3Privacy now platform.
 
 **Basic info**
@@ -74,7 +74,7 @@ How it works:
 | **Privacy policy** | add link |
 | **Collected data**  | specify what data do you collect |
 | **Data sharing** | specify what data you share with third-parties |
-| **Sign-in requirements** | specify what data is needed to start using service |
+| **Sign-in requirements** | specify what data is needed to start using the service |
 | **Identity integrations** | do you use third-party identity services (like ENS, Gitcoin Passport etc) |
 
 **Security**
