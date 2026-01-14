@@ -95,7 +95,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | Project  | Description | GitHub | Product-readiness | Token |
 | ------------- | ------------- |------------- |------------- | ----------- |
 | [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | testnet, february 2023 | No |
-| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
+| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK** | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
 | [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
 | [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | mainnet, 2020 | SCRT |
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
@@ -479,7 +479,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [AsMatch](https://www.asmatch.app) | the only Web3 matching app that uses ZKPs to authenticate users’ on-chain credentials | - | - | - | - | - |
 | [Juno Analytics](https://juno.build/blog/introducing-juno-analytics-unlock-deeper-insights-with-privacy-in-mind) | simple, performant, and open-source web3 analytics solution designed with privacy in mind for the developers building decentralized dapps | [Docs](https://juno.build/docs/build/analytics#getting-started) | - | - | - |
 | [Buildoor](https://buildoor.xyz) | Privacy Focused Analytics | - | - | - | - |
-| [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3 content creators, NFT projects, crypto analysts  | [Github](https://github.com/sigle/sigle) | - | - | - |
+| [Sigle](https://www.sigle.io) | secured and open-source writing platform for web3content creators, NFT projects, crypto analysts  | [Github](https://github.com/sigle/sigle) | - | - | - |
 | [FLock.io](https://flock.io/) | A native Web3 Data Privacy solution for Artificial Intelligence. | [Github](https://github.com/flock-io) | - | - | - |
 | [Timpi](https://timpi.io) | Decentralized Search Engine & Index  | - | - | - | - |
 | [FreeChat](https://twitter.com/Freeture_Chat) | Web3 Social | - | - | - | - |
