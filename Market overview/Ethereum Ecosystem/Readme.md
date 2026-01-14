@@ -227,7 +227,7 @@ Segmentation will help to split "native" projects & broader actors serving diffe
 | [Anon Aadhaar](https://anon-aadhaar-documentation.vercel.app) | Anon Aadhaar circuit lets citizens with an Aadhaar card generate zero-knowledge identity proof. | ([GitHub](https://github.com/privacy-scaling-explorations/anon-aadhaar)) | - | - | - |
 | [Anrk Verify](https://www.ankr.com/blog/ankr-verify-product-launched-to-provide-blockchains-with-readymade-user-id-solution/?page=1) | Provide Blockchains With Readymade User ID Solution | ([GitHub](https://github.com/Ankr-network/)) | - | - | - |
 | [Neonyx](https://neonyx.io) | DID + Flexible social platform | ([GitHub](https://github.com/neonyxhub)) | - | - | - |
-| [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
+| [Fame](https://www.fame.so/ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/svm-ai-agentic-chain/introduction)) | - | - | - |
 
 ## DAO
