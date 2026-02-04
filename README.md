@@ -143,6 +143,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
 | [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | mainnet, 2020 | SCRT |
 | [Mina](https://minaprotocol.com) | The world’s lightest blockchain, powered by participants. Using zero knowledge technology, Mina is creating the infrastructure for the secure, democratic future we all deserve ✨️**ZK** | [GitHub](https://github.com/MinaProtocol/mina) | mainnet, march 2021 | MINA |
+| [Midnight](https://midnight.network) | A privacy-first Layer 1 blockchain by IOG using zero-knowledge proofs for data confidentiality. Enables developers to build regulation-friendly DApps with selective disclosure ✨️**ZK** | [GitHub](https://github.com/midnightntwrk) [Docs](https://docs.midnight.network) | testnet | NIGHT |
 | [Oasis Network](https://oasisprotocol.org) | a privacy-enabled blockchain platform for open finance and a responsible data economy | [GitHub](https://github.com/oasisprotocol) | mainnet, november 2020 | ROSE |
 | [Penumbra](https://penumbra.zone) | a shielded, cross-chain network allowing anyone to securely transact, stake, swap, or marketmake without broadcasting their personal information to the world | [GitHub](https://github.com/penumbra-zone) | testnet | No |
 | [NuCypher](https://www.nucypher.com) | Cryptographic Infrastructure for Privacy-Preserving Applications | [GitHub](https://github.com/nucypher/) | mainnet, january 2023 | NU |
@@ -739,7 +740,6 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Kin Search Engine](https://web3.searchkin.com) | Ad-free, Web3, Community-based search engine | - | - | - | - |
 | [Sarcophagus](https://sarcophagus.io) | Decentralized, blockchain-enabled, cryptographically secure, general-purpose Digital Dead Man's Switch | [GitHub](https://github.com/sarcophagus-org) | - | - | - |
 | [Lightstreams](https://lightstreams.network) | provides secure data sharing for web3 applications. | [Github](https://github.com/lightstreams-network/) | - | - | - |
-| [Midnight](https://midnight.network) | empower regulation-friendly apps that safeguard sensitive commercial and personal data | - | - | - | - |
 | [Bubble](https://bubbleprotocol.com) | enables blockchains to control and govern private off-chain data. | [Github](https://github.com/bubble-protocol) | - | - | - |
 | [OXygean](https://www.oxygean.com/introducing-oxit) | Privacy First x 1-Minute Action Protocol | - | - | - | - |
 | [Data Ownership Protocol](https://dop.org) | selective transparency on Ethereum | - | - | - | - |
