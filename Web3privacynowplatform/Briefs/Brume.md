@@ -2,7 +2,7 @@
 
 How it works:
 1. You fill a brief.
-2. Our team reviews application.
+2. Our team reviews the application.
 3. Verified data will be published on The Web3Privacy now platform.
 
 # **Basic info**
