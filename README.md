@@ -69,7 +69,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Conceal Network](https://conceal.network) | privacy-protected DeFi & encrypted comms | [Github](https://github.com/ConcealNetwork) | live | Conceal | [anon](https://conceal.network/team/) | [Docs](https://conceal.network/wiki/doku.php) | - |
 | [Seven Seas](https://www.sevenseas.exchange) | No KYC, privacy Focused crypto Exchange | - | - | - | - | - | - | - |
 | [NonKYC](https://nonkyc.io) | NonKYC Exchange | - | - | - | - | - | - | - |
-| [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | [Github](https://github.com/zkUSDLabs) | - | - | - | [Docs](]https://zkusd.gitbook.io/zkusd-documentation) | - |
+| [zkUSD](https://zkusd.money/#Features) | Privacy-Preserving Collateralized Lending & more | [Github](https://github.com/zkUSDLabs) | - | - | - | [Docs](https://zkusd.gitbook.io/zkusd-documentation) | - |
 | [Spiral Finance](https://www.spiralfi.io) | non-custodial privacy solution based on ZK-Sync ERA ✨️**ZK** | - | - | - | - | [Docs](https://docs.spiralfi.io/introduction/spiral-finance) | -
 | [Irrigation Protocol](https://irrigation.finance) | Unleashing Value by enabling users to redeploy locked-up capital and access cross-protocol debt/bond swaps with privacy, speed & compliance | - | - | - | - | [Docs](https://docs.irrigation.finance/irrigation-protocol/) | - |
 | [Singularity, ex-Portal Gate](https://www.thesingularity.network) | a DeFi protocol that offers dark pool trading with an integrated compliance solution which has the potential to revolutionize the financial industry | - | - | - | - | - | - |
@@ -138,7 +138,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Project  | Description | GitHub | Product-readiness | Token |
 | ------------- | ------------- |------------- |------------- | ----------- |
 | [DarkFi](https://dark.fi) | DarkFi is a new Layer 1 blockchain, designed with anonymity at the forefront. It offers flexible private primitives that can be wielded to create any kind of application | [GitHub](https://github.com/darkrenaissance/darkfi) | testnet, february 2023 | No |
-| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK* | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
+| [Manta Network](https://www.manta.network) | On-Chain Privacy for Web 3, DeFi and more ✨️**ZK** | [GitHub](https://github.com/manta-network) | testnet v3, january 2023 | MANTA |
 | [Aleph Zero](https://alephzero.org) | Privacy-enhancing blockchain and a shielder network deployed on multiple EVM networks. Client-side ZK privacy with proofs generated in less than a second. | [Github](https://github.com/Cardinal-Cryptography) | mainnet | AZERO | [Public](https://alephzero.org/the-team) |
 | [NYM](https://nymtech.net) | the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers | [GitHub](https://github.com/nymtech) | mainnet, february 2022 | NYM |
 | [Secret Network](https://scrt.network) | Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3 | [GitHub](https://github.com/scrtlabs/SecretNetwork) | mainnet, 2020 | SCRT |
