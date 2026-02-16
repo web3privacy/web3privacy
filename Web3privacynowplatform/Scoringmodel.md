@@ -25,8 +25,8 @@ I asked experts behind privacy-services or contributors to the privacy-centric c
 # Questions from the privacy experts
 
 # Take 1
-- does it has traceability? (ie addresses is hidden from the public ledger)
-- does it has unlinkability? (ie transactions can't be linked to each other)
+- does it have traceability? (ie addresses is hidden from the public ledger)
+- does it have unlinkability? (ie transactions can't be linked to each other)
 - does the amount of transfer is hidden? 
 - does IP addresses of participants hidden? 
 - is it decentralized and based on open-source technology? 
