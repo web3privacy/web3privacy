@@ -430,6 +430,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [BCchat](https://bchat.beldex.io) | A decentralized, privacy messenger built over the Beldex blockchain. | - | - | - | - |
 | [XMTP x Lens](https://blog.xmtp.com/lens-dms-with-xmtp) | Lens Protocol has adopted XMTP to provide a secure and private direct messaging layer for the entire Lens ecosystem | [XMTP GitHub](https://github.com/ephemeraHQ/lenster) | mainnet | - | - |
 | [XMTP web3 social](https://xmtp.org/docs/use-cases/deso) | Lens Protocol and CyberConnect apps use XMTP to provide secure, private messaging to their users. | [XMPT Labs Github](https://github.com/ephemeraHQ) | mainnet | - |
+| [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) | Privacy-preserving P2P AI agent collaboration over XMTP. Agents share skill schemas without exposing code or prompts. E2E encrypted, revocable trust. | [GitHub](https://github.com/ZiwayZhao/agent-coworker) | live | XMTP | [Public](https://github.com/ZiwayZhao) |
 | [Sending.me](https://sending.me) | open-source communication & social platform. | - | - | - | - |
 | [Zion](https://www.zion.fyi) | The safest way to join, chat and send | [Github](https://github.com/getzion/) | - | - | - |
 | [RLN Anonymous Chat](https://github.com/njofce/zk-chat) | A spam resistant instant messaging application for private and anonymous communication. | - | - | - | - |
