@@ -4,7 +4,7 @@
 
 We build a front-end and expanded work with Decentralised privacy database through Explorer aka Dashboard for privacy: [data repo](https://github.com/web3privacy/explorer-data) + [web](http://explorer.web3privacy.info)
 
-⚠️ **Please advise!** ⚠️ The following database of protocols, projects and products are part of an agostics research project, they are listed for research purposes and to map the privacy ecosystem and industry within web3. W3PN does not endorse or validate any of the things listed here, use them at your own risk and be mindful of projects still in development or have not completed some form of third-party security audit. **Don't trust, verify.**
+⚠️ **Please advise!** ⚠️ The following database of protocols, projects and products are part of an agnostic research project, they are listed for research purposes and to map the privacy ecosystem and industry within web3. W3PN does not endorse or validate any of the things listed here, use them at your own risk and be mindful of projects still in development or have not completed some form of third-party security audit. **Don't trust, verify.**
 
 Feel free to contribute to this database via forking and submitting a PR via Github. 
 
@@ -162,7 +162,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Unova](https://unova.io) | The ultimate Multi-Layered Web3 infrastructure for Supply Chain and Real-World Asset use cases. | - | mainnet, early 2022 | UON |
 | [Light Protocol](https://www.zkcompression.com) | The ZK Compression Protocol for Solana | [Docs](https://docs.lightprotocol.com) | mainnet | LIGHT |
 | [Verida](https://www.verida.io) | A multi-chain protocol for interoperable database storage and messaging built on decentralized identity | [GitHub](https://github.com/verida/) | live | no |
-| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Github](https://github.com/Lightprotocol/light-protocol) [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 | MPC |
+| [Partisia blockchain](https://partisiablockchain.com) | is built for trust, transparency, privacy, and speed of light finalization | [Github](https://github.com/partisiablockchain) [Docs](https://partisiablockchain.gitlab.io/documentation/index.html) | mainnet, December 2021 | MPC |
 | [Integritee](https://integritee.network) | the most scalable public blockchain solution for securely processing sensitive business or personal data  | [GitHub](https://github.com/integritee-network) | mainnet, January 2022 | TEER |
 | [XX network](https://xx.network) | the first and only quantum-resistant and privacy-focused blockchain ecosystem  | [GitLab](https://git.xx.network/explore) | mainnet | XX |
 | [Fedimint](https://fedimint.org) | An open source protocol to custody and transact bitcoin in a community context, built on a strong foundation of privacy  | [GitHub](https://github.com/fedimint) | mainnet, September 2022 | no |
