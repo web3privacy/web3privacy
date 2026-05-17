@@ -178,6 +178,7 @@ This md file contains only the entries in table form from the README.md as of 28
 | [ZKT Network](https://zkt.network) | a cross-chain compliance infrastructure platform, focusing on integrating compliant privacy transactions for all blockchains. | [Github](https://github.com/ZKTLabs) | anon | - | - |
 | [Tari](https://www.tari.com/) | L1 protocol powered by you - proof of work | [Github](https://github.com/tari-project) | - | - | - |
 | [Radicle](https://radicle.xyz) | open source, peer-to-peer code collaboration stack built on Git. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow. | [Github](https://github.com/radicle-dev) [Radicle](https://app.radicle.xyz/nodes/seed.radicle.xyz) | live | - | - |
+| [Skhron](https://skhron.eu/) | Pro-privacy European VPS provider, accepts Monero (and more cryptocurrencies in-house without AML/KYC), has Tor mirrors for all customer-facing management portals. | - | live | no |
 
 ## Wallet
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |

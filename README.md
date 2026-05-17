@@ -226,6 +226,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | [Spasm](https://spasm.network) | The most advanced generation of decentralized social media with a strong focus on privacy. | [Github](https://github.com/degenrocket/spasm) [Docs](https://docs.spasm.network) | live | - | - |
 | [Miden](https://miden.xyz/) | Miden is the edge blockchain by pushing execution and state to the edge, on the client side, overcomes the limitations of scalability, privacy and safety | [Github](https://github.com/0xMiden) | beta testnet, July 2025| - | - |
 | [Paladin](https://www.paladinprivacy.org/) | Programmable Privacy for EVM gives enterprises control of sensitive information without compromising transparency or scalability | [Github](https://github.com/LF-Decentralized-Trust-labs/paladin) | Pilot deployments in tokenized money projects | No | - |
+| [Skhron](https://skhron.eu/) | Pro-privacy European VPS provider, accepts Monero (and more cryptocurrencies in-house without AML/KYC), has Tor mirrors for all customer-facing management portals. | - | live | no |
 
 ## Wallet
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Wallet.png?raw=true)
