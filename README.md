@@ -470,6 +470,7 @@ Feel free to contribute to this database via forking and submitting a PR via Git
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [KYC not me](https://kycnot.me/) |  With KYCNOT.ME I want to make it easier for people to find trustworthy ways to buy, exchange, trade and use cryptos without needing to identify themselves, and preserving the decentralized and self-governed essence of Cryptocurrencies. | [GitLab](https://gitlab.com/kycnot/kycnot.me) | live | multichain | anon |
+| [XMRList](https://xmrlist.com/) | Hand-reviewed directory of 1,800+ businesses and services that accept Monero, with user reviews and scam warnings, to help people find places to pay privately without identifying themselves. | - | live | Monero | - |
 | [Proof of Passport](https://github.com/zk-passport/proof-of-passport) | Use ZK proofs to verify any information inside any passport with an NFC signature, such as proving you are over 18 or you are a USA citizen. | [GitHub](https://github.com/zk-passport/proof-of-passport) | - | - | - |
 | [socialKYC](https://socialkyc.io) |  your decentralized social credentials | [Github](https://github.com/BTE-Trusted-Entity/socialkyc.io/) | - | - | - |
 | [Hashbon Pass](https://pass.hashbon.com) | Tokenized All Web3 Pass to KYC while being anonymous. | - | - | - | - |
